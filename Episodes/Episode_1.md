@@ -1,4 +1,4 @@
-# Let's Talk ETC. Episode 1, Beginning.
+# Let's Talk ETC: Beginning.
 
 **Carlo Vicari:** 
 everyone welcome to the first episode of
