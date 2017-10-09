@@ -1,4 +1,4 @@
-Carlo Vicari: 
+*Carlo Vicari:* 
 everyone welcome to the first episode of
 let's talk ET SI podcast I'm here with
 dr. Christian Severino we're going to
@@ -12,13 +12,13 @@ Christian Severino he goes by Sabrina
 and slack and on reddit also what's
 going on Christian
 
-Christian Seberino:
+*Christian Seberino:*
  uh doing good as
 welcome at Carlo welcome everybody
 listening to our first episode and let's
 get to it
 
-Carlo Vicari: 
+*Carlo Vicari:* 
  yeah so um this podcast we're
 just going to be going over some of the
 things that are going on inside the
@@ -33,10 +33,10 @@ this week which had a lot to cover I
 know you checked it out Christian we got
 a lot of good feedback about it
 
-Christian Seberino:
+*Christian Seberino:*
  yeah
 
-Carlo Vicari: 
+*Carlo Vicari: *
 you know it covered stuff talking about
 the bomb delay that was cooked into the
 last protocol update which a lot of
@@ -56,7 +56,7 @@ cool so we'll be sure to include that in
 description tell everybody kind of us
 going on with that
 
-Christian Seberino:
+*Christian Seberino:*
  yes so the replay
 attack involved the fact that you could
 take a transaction from either system
@@ -73,10 +73,10 @@ ether to a different address that's not
 vulnerable and so sure to check that out
 if that's something you might
 
-Carlo Vicari: 
+*Carlo Vicari: *
  cool cool
 
-Christian Seberino:
+*Christian Seberino:*
 um oh by the way other than one point oh
 you're um yeah this develop yeah this
 development report that you're talking
@@ -88,7 +88,7 @@ of what you would find doing all that
 work right digging through like you've
 done the different sources
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah
 we're trying to consolidate as much
 stuff as possible and um you know trying
@@ -96,7 +96,7 @@ to get some more info out there and some
 more things that are going on inside the
 community
 
-Christian Seberino:
+*Christian Seberino:*
  because nobody had the ability
 to keep up with everything I know you as
 part of your job your kind of involved
@@ -104,7 +104,7 @@ in lots of different things going on but
 maybe everybody doesn't have the ability
 to say on top of all this like you do
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah yeah I mean that's what it's all
 about and also this podcasters was a
 great idea uh you know trying to get
@@ -114,7 +114,7 @@ maybe you know a different medium than
 the standard newsletter and reading and
 emails and stuff like that
 
- Christian Seberino:
+ *Christian Seberino:*
  yeah I don't
 know how everybody else but that I
 sometimes don't have time to read as
@@ -125,15 +125,15 @@ mp3 to my smartphone and then played in
 the car on a bike commute and that's
 some time that
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah definitely
 
-Christian Seberino:
+*Christian Seberino:*
  would
 have been wasted anyway and I've learned
 a lot about epc that way son
 
-Carlo Vicari: 
+*Carlo Vicari: *
  um okay so
 the next thing on the development report
 that I want to talk about this is this
@@ -143,31 +143,14 @@ ever since the
 protocol update went through um it's
 about monetary policy
 
-Christian Seberino:
+*Christian Seberino:*
  yeah
 
-Carlo Vicari: 
- and normally
-this would be a boring thing and
-probably to a lot of my friends that
-aren't in the block chain space this
-would be a boring subject but for
-everybody that's interested in ET SI and
-interested in Bitcoin blockchain and you
-know all that's good stuff um it looks
-like a lot of the community and a lot of
-the people involved in this are leaning
-heavily in favor of a cap supply which
-is um we're getting a lot of great
-responses from the Asian community and
-well international community in general
-as well as a you know domestic North
-America South America and stuff like
-that so uh I don't know who you've been
-speaking to but i'm sure you've gotten a
-lot of great feedback as well right
+*Carlo Vicari: *
 
-Christian Seberino:
+and normally this would be a boring thing and probably to a lot of my friends that aren't in the block chain space this would be a boring subject but for everybody that's interested in ET SI and interested in Bitcoin blockchain and you know all that's good stuff um it looks like a lot of the community and a lot of the people involved in this are leaning heavily in favor of a cap supply which is um we're getting a lot of great responses from the Asian community and well international community in general as well as a you know domestic North America South America and stuff like that so uh I don't know who you've been speaking to but i'm sure you've gotten a lot of great feedback as well right.
+
+*Christian Seberino:*
  yeah
 yeah and i think that the cap is a great
 idea i'm i'm hesitant to make any
@@ -207,7 +190,7 @@ the Federal Reserve I think there's a
 real that's just a sore spot with a lot
 of people
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah definitely I mean
 that's that's where you know even though
 the original white paper for Bitcoin
@@ -222,7 +205,7 @@ little bit of this stuff um i think it's
 a it's a great idea and I'm excited to
 see where it goes in the future
 
-Christian Seberino:
+*Christian Seberino:*
  yeah and
 I thought we can't um I mean we won't we
 won't be able to settle the debate on
@@ -230,10 +213,10 @@ what's the best economic policy in
 general people been debating that for
 centuries but 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah 
 
-Christian Seberino:
+*Christian Seberino:*
 I don't think that's
 gonna I think I think what what we can
 offer is we can offer a system where you
@@ -249,7 +232,7 @@ governments don't already do so I don't
 see the point in trying to go there with
 a cryptocurrency 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah I saw you know
 this was discussed a lot on slack and
 everyone was pretty much in agreement
@@ -275,7 +258,7 @@ tithing very TC so if you guys want to
 check that out on medium will close the
 link there
 
-Christian Seberino:
+*Christian Seberino:*
  yeah I read those and I I
 really appreciate these down stepping up
 and sharing their ideas okay and they
@@ -287,7 +270,7 @@ really did a lot of work so if anybody's
 interested in that definitely check that
 out
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah um you know he did a great
 job very cool so shout out to snap roll
 for that one and also Chuck for that
@@ -297,7 +280,7 @@ apologize but i'll add your names i
 guess if you want to put your name on it
 will put it in the comments below
 
-Christian Seberino:
+*Christian Seberino:*
  yeah
 one thing was interesting is so bitcoin
 they cut their via rewards in half right
@@ -306,16 +289,16 @@ of blocks but i thought it was
 interesting that they people are
 proposing to cut it by ten percent so
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah yeah
 
-Christian Seberino:
+*Christian Seberino:*
  because they when you're
 dealing with money and people's emotions
 you don't want to change anything too
 fast so 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah yes someone someone brought
 up that the having was a good thing
 because you know it gets a theorem in
@@ -352,7 +335,7 @@ guess what are your what are your
 personal feelings on that the the
 tithing is opposed to the having
 
-Christian Seberino:
+*Christian Seberino:*
  so I I
 like the idea of hiding just because I
 like change to happen slowly I don't
@@ -362,7 +345,7 @@ would I that again and I'm not an
 economist but that seems like the most
 sensible thing to do
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah I thought it
 was pretty elegant too um so yeah that's
 uh that's what's going on I guess as far
@@ -389,7 +372,7 @@ classic if you guys want to check that
 out yeah that's gotta listen to that
 right Christian
 
-Christian Seberino:
+*Christian Seberino:*
  yeah that's one of the
 one of the podcasts that I've been
 listening to on my drive to and from
@@ -412,7 +395,7 @@ changes vote on changes in a
 decentralized way so against let
 everybody knows what to expect and yeah
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah i think it was in reference to like
 the dash model um and I don't think he
 said anything necessarily for or against
@@ -423,7 +406,7 @@ are love it but on the boarding the word
 interesting definitely comes to mind for
 the dash model 
 
-Christian Seberino:
+*Christian Seberino:*
 yeah
  he's interest in
 school
@@ -435,7 +418,7 @@ totally open and you know so there's no
 funny business there's no reason to
 think 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah yeah yeahs get everything get
 everything out on the floor talk about
 it and you know often a lot of
@@ -451,7 +434,7 @@ introduction to the strangeness which I
 felt was a really great article if you
 want to talk about that
 
-Christian Seberino:
+*Christian Seberino:*
  yeah so I like
 like you and everybody I've heard the
 term block chain and everybody's been
@@ -486,7 +469,7 @@ having people truck work work yeah own
 interest ends up making things work out
 better than if they tried to
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah
 like it's almost like a you know trust
 its trust list in the same way that
@@ -495,10 +478,10 @@ priceless is worth a ton and something
 that's trust trust list is actually
 extremely trustworthy 
 
-Christian Seberino:
+*Christian Seberino:*
 yes yes
 
-Carlo Vicari: 
+*Carlo Vicari: *
  I think
 that's pretty funny it's when you take
 the decision makings and all the
@@ -506,7 +489,7 @@ important stuff away from people that
 can tamper with it that it becomes an
 extremely trustworthy system
 
-Christian Seberino:
+*Christian Seberino:*
  yeah you
 know competition on how yeah there's
 competition is the important for free
@@ -517,7 +500,7 @@ a philosopher from the they write a
 paper about someday or something but
 competition is a core to both
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah
 definitely um so I think that's those
 are definitely important concepts for um
@@ -541,7 +524,7 @@ twist what we what we say and what we
 want to do and what our objectives are
 into weird and strange ways you know
 
-Christian Seberino:
+*Christian Seberino: *
 yeah yeah what makes it a good thing is
 that the etherium hard fork that
 recovered the Dow funds didn't didn't
@@ -561,7 +544,7 @@ we can agree that ever I think everybody
 would agree that it at least means that
 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah I think um you know what I try to
 when people talk to me about it what I
 try to you know explain is that I
@@ -582,7 +565,7 @@ perfectly the very first time which is
 obviously nearly actually we don't have
 to say nearly it's impossible to do
 
-Christian Seberino:
+*Christian Seberino:*
 yeah yeah so and also without changing
 the you don't want to change
 transactions but the previous heart a
@@ -599,7 +582,7 @@ violation of immutability too so that
 just shows that it's kind of it's tricky
 to pin down exactly
 
-Carlo Vicari: 
+*Carlo Vicari: *
  say
  I would say one
 of the important concepts is for you
@@ -618,10 +601,10 @@ already took place and then you're
 trying to change the score um after the
 fact 
 
-Christian Seberino:
+*Christian Seberino:*
 yeah 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 is a little bit different yes
 so but yeah it's um it's definitely a
 tricky thing but I think we have our
@@ -661,12 +644,12 @@ distinguishes them from a lot of other
 different news sites so it's pretty
 interesting
 
-Christian Seberino:
+*Christian Seberino:*
  don't then encourage other
 entities to support ET c and who knows
 oh and up
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah but um so it's an
 interesting article and i checked it out
 but i got i think um it's just based off
@@ -681,7 +664,7 @@ over there so i was wonder if you you
 got a chance to read some of that
 article when you think 
 
-Christian Seberino:
+*Christian Seberino:*
 uh I just thought
 the headline but I didn't read into the
 details but but yeah if that's if that's
@@ -689,7 +672,7 @@ really true i think that would be great
 but I'm kind of just taken away and see
 attitude right now 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah it's pretty new
 was actually um looks like it was just
 posted on reddit a few hours ago um so
@@ -705,7 +688,7 @@ working on what I know you probably have
 an article that you're thinking about
 writing and
 
-Christian Seberino:
+*Christian Seberino:*
  yeah I was not going to
 maybe doing something on monetary policy
 something on smart contracts
@@ -717,14 +700,14 @@ write that you know not trying to make
 pronouncements as if farmer economist so
 that's one thing i'm working on yeah
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah yeah i know there was um someone
 also posted something about uh Haskell
 and smart contracts um again this is
 this some stuff I'm not really into as
 much as you
 
-Christian Seberino:
+*Christian Seberino:*
  yeah yeah yeah let's talk
 about that so we V at the Dow attacked
 got everybody interested in gosh how can
@@ -743,7 +726,7 @@ contracts because you can make certain
 guarantees right especially if there's
 lots of money involved so
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah yeah he
 talks of a mission critical software and
 you know the differences between
@@ -753,7 +736,7 @@ like a block chain or cryptocurrency um
 you would want security um trumping
 accessibility and stuff like that
 
-Christian Seberino:
+*Christian Seberino:*
  yes
 and I personally always thought
 functional programming was something
@@ -769,14 +752,14 @@ now thinking of functional programming
 and Haskell more than that could
 hopefully leak a lot of good things
 
-Carlo Vicari: 
+*Carlo Vicari: *
 yeah like a silver-lining type thing
 you're talking about I go 
 
-Christian Seberino:
+*Christian Seberino:*
 yes yeah
 
-Carlo Vicari: 
+*Carlo Vicari: *
  you
 got you gotta you know and something bad
 happens you gotta try to try to find the
@@ -789,7 +772,7 @@ secure programming languages and you
 know it just helps the space the block
 chain space in general
 
-Christian Seberino:
+*Christian Seberino:*
  yeah yeah nama
 it's not like this is a new field
 there's been dead right research it's
@@ -801,10 +784,10 @@ about right secure software your
 software that runs nuclear power plants
 but it's 
 
-Carlo Vicari: 
+*Carlo Vicari: *
 right right
 
-Christian Seberino:
+*Christian Seberino:*
  it's nice to see it
 this the stuff get applied to more and
 more sectors of the economy and and so
@@ -812,7 +795,7 @@ that that's what's exciting to me is is
 having more developers talking about it
 excited about it using it good
 
-Carlo Vicari: 
+*Carlo Vicari: *
  um so I
 gave everybody a quick rundown of the
 dev report and kind of what's going on
@@ -828,10 +811,10 @@ in us talking about leave it in the
 comments below and we'll definitely get
 to it 
 
-Christian Seberino:
+*Christian Seberino:*
 yes we love people
 
-Carlo Vicari: 
+*Carlo Vicari: *
  yeah absolutely
 all right Christian take care all right
 have it going
