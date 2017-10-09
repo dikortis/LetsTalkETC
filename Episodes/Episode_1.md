@@ -36,7 +36,7 @@ a lot of good feedback about it
 *Christian Seberino:*
  yeah
 
-*Carlo Vicari: *
+*Carlo Vicari:*
 you know it covered stuff talking about
 the bomb delay that was cooked into the
 last protocol update which a lot of
@@ -73,7 +73,7 @@ ether to a different address that's not
 vulnerable and so sure to check that out
 if that's something you might
 
-*Carlo Vicari: *
+*Carlo Vicari:*
  cool cool
 
 *Christian Seberino:*
