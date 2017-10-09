@@ -12,13 +12,13 @@ Christian Severino he goes by Sabrina
 and slack and on reddit also what's
 going on Christian
 
-**Christian Seberino:**
+*Christian Seberino:*
  uh doing good as
 welcome at Carlo welcome everybody
 listening to our first episode and let's
 get to it
 
-**Carlo Vicari:** 
+*Carlo Vicari:* 
  yeah so um this podcast we're
 just going to be going over some of the
 things that are going on inside the
@@ -33,10 +33,10 @@ this week which had a lot to cover I
 know you checked it out Christian we got
 a lot of good feedback about it
 
-**Christian Seberino:**
+*Christian Seberino:*
  yeah
 
-**Carlo Vicari:**
+*Carlo Vicari:*
 you know it covered stuff talking about
 the bomb delay that was cooked into the
 last protocol update which a lot of
