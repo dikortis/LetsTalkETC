@@ -7,7 +7,7 @@ dr. Christian Severino we're going to
 talk about everything going on in the
 fear in classic community and blockchain
 in general um guess where your two hosts
-I'm my name is Carlo vicari I'm karlovy
+I'm my name is Carlo vicari I'm [/r/CarloVetc](https://www.reddit.com/user/CarloVetc)
 ET cie on Reddit and in the theorem
 classic slack and I'm here with dr.
 Christian Severino he goes by Sabrina
