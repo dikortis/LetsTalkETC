@@ -1,5 +1,5 @@
 # Let's Talk ETC: Investors Featuring Jeriaska (Jerry J.)
-arlo Vicari:
+Carlo Vicari:
 hi everyone and thank you for tuning in
 you're listening to episode 5 of let's
 talk ET cie i'm your host karlovy along
