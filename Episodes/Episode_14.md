@@ -1,4 +1,4 @@
-# Let's Talk ETC! (Ethereum Classic) #14 - Joel Dietz - Distributed Governance & More.
+# Let's Talk ETC: Joel Dietz - Distributed Governance & More.
 Carlo Vicari:
 hi everybody thank you for tuning into
 let's talk ET c i'm your host karlovy
