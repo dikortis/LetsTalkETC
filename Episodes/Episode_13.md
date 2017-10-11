@@ -1,4 +1,4 @@
-# Let's Talk ETC! (Ethereum Classic) #13 - Daniele Levi Discusses Stampery.
+# Let's Talk ETC: Daniele Levi Discusses Stampery.
 Christian Seberino:
 hello everybody and welcome to another
 episode of let's talk ET SI today I have
