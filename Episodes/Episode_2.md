@@ -1,5 +1,5 @@
 # Let's Talk ETC: Developers featuring Elaine Ou.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to episode 2 of let's
 talk ET SI i'm your host karlovy along
@@ -24,7 +24,7 @@ thanks so much for everything you've
 done with for the UTC community and the
 eegees project
 
-Elaine:
+**Elaine:**
  sure um hi but thanks for
 having me on I'm you know excited to be
 here and I'm glad to see so much support
@@ -34,7 +34,7 @@ the community and the people who build
 apps for UTC that will go actually give
 it value
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah very true very true um so
 let's let's also I'd like to thank the
 ECC community along with all the
@@ -50,11 +50,11 @@ know great to have a one of you guys on
 so that we can get into a little bit
 more depth of what's going on
 
-Elaine:
+**Elaine:**
  sure
 should I good
 
-Carlo Vicari:
+**Carlo Vicari:**
  Yeah yeah I guess some I
 know we were talking earlier you were
 telling me and Christian about you know
@@ -79,17 +79,17 @@ of the etherium developers have also
 provided a lot of technical support in
 helping us get everything stabilized
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool cool oh 
 
-Elaine:
+**Elaine:**
 yeah I saw something 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 yeah definitely Christian go ahead
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 well first of all I didn't know what
 Alain just said I'm very glad that she's
@@ -114,7 +114,7 @@ the world but they want to contribute
 you have to be a genius to help you guys
 
 
-Elaine:
+**Elaine:**
 well of course not i mean i don't think
 any of the current ET cie developers
 were familiar with rust which is the
@@ -131,7 +131,7 @@ everything so yeah the community is
 supportive and it's easy to get help and
 get questions answered
 
-Christian Seberino:
+**Christian Seberino:**
  okay great I know
 that I've heard here and there that like
 for example to in contrast the the Linux
@@ -145,7 +145,7 @@ that so it more welcoming is that right
 
 
 
-Elaine:
+**Elaine:**
 yeah I don't have much I mean I don't
 have any expand experience them
 contributing to the Linux kernel but i
@@ -154,10 +154,10 @@ but regardless over here yeah everyone
 is you know very patient and will I
 answer dumb questions
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 
-Carlo Vicari:
+**Carlo Vicari:**
  uh yeah yeah
 I've definitely had my fair share of
 those kind of being uh in the non tech
@@ -189,7 +189,7 @@ give us give us your thoughts on that um
 
 
 
-Elaine:
+**Elaine:**
 yeah when I went to Shanghai two months
 ago I was surprised that like how big
 the community support was over in China
@@ -203,14 +203,14 @@ in classic and I here are not um the
 other one um which one
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I'm sorry um I
 
-Elaine:
+**Elaine:**
 think they're only going to support one
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah that's um that's what it looks
 like right now um I the we chat is kind
 of still buzzing about what's going on
@@ -232,7 +232,7 @@ cool how much the Asian community is
 into what we've got going on right
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah
 I contacted by somebody that wanted to
 translate some of my educational
@@ -254,7 +254,7 @@ there some cultural reason that makes
 them more attractive ET c or is it
 something else
 
-Elaine:
+**Elaine:**
  um well III don't know if
 they're necessarily supporting ET see
 more you know versus like other chains
@@ -266,11 +266,11 @@ more people using digital currency over
 there are more people interested in
 digital currency over there
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I
 I think um you know the digital currency
 or cryptocurrency blockchains in general
@@ -287,11 +287,11 @@ of you know I think he went to Def Con
 and a whole bunch of other cool stuff
 yeah
 
-Elaine:
+**Elaine:**
  I didn't exceed our def con um I
 only went for the UTC meet up
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's
 right red and what was up what was that
 made up like I know we tried to stream
@@ -301,7 +301,7 @@ their was like 3500 people I'm trying to
 watch a stream at the time um it went
 
 
-Elaine:
+**Elaine:**
 well I I met Roy who is uh I guess
 leading the Chinese speaking community
 over there for et Cie I got to learn a
@@ -315,7 +315,7 @@ is that the clients are still for the
 block chains are still a little bit
 unstable and subject to multiple Forks
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I know what you mean um I'm
 glad we're taking kind of a security
 first approach to things as opposed to
@@ -332,7 +332,7 @@ international community in North
 American South American European
 communities going forward for et Cie
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I think I can feel their pain as a
 famous politician said I nobody likes
 hard forks and so if there's people in
@@ -354,7 +354,7 @@ nature of software I'm hoping that
 that's how it turns out that's what I'm
 gonna suming is gonna happen
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's true
 I think even the way the last hard fork
 went that we did that was for a protocol
@@ -375,7 +375,7 @@ stuff like that goes it won't be like
 the the Dow debacle or anything like
 that what do you think Elaine
 
-Elaine:
+**Elaine:**
  well
 bitcoin is facing a protocol update
 right now regarding the block size and I
@@ -393,7 +393,7 @@ just have something stable for longer
 term
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah very true very true um so I
 think that's a you know pretty pretty
 good discussion that we had about the
@@ -403,7 +403,7 @@ on that I had to make a yeah go ahead
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so there's there's it there's at
 least two reasons why a hard fork could
 be a bad thing so one of them is
@@ -420,17 +420,17 @@ agreement people still don't necessarily
 say okay the hard fork as much as you
 want so
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's true okay
 
-Elaine:
+**Elaine:**
  well I'm glad
 really good especially for exchanges who
 you know I have to who are securing like
 a huge amount of ether or UTC
 have to be able to update securely
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 very true um I got a chance to speak to
 some of the people from exchanges over
@@ -448,10 +448,10 @@ hustle I don't know if you got a chance
 to see that Christian or what was going
 on with that article
 
-Christian Seberino:
+**Christian Seberino:**
  oh yes
 
-Carlo Vicari:
+**Carlo Vicari:**
  for anybody
 out there who didn't get a chance to
 read Christian can tell you guys about
@@ -463,7 +463,7 @@ YouTube in the description below we'll
 have a link to the newsletter
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes in
 summary a rocky who describes himself as
 a full-time crypto currency trader
@@ -484,7 +484,7 @@ working on the monetary policy and
 anyway so he just makes his case why
 he's a fan of ET cie an investor
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 I'm not sure if you got a chance to
 check that check out that article did
@@ -493,7 +493,7 @@ whole bunch of a million things so not
 sure if you get a chance to check that
 up oh
 
-Elaine:
+**Elaine:**
  I heard it pretty quickly and I
 thought like most or pretty much
 everything was
@@ -502,7 +502,7 @@ mean I agree with everything that he
 said regarding you know how with areum
 classic formed and its fundamentals
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 yeah Rocky's been uh he's already put
 out a couple of articles for for
@@ -519,7 +519,7 @@ development community has been doing and
 working on the project 
 
 
-Christian Seberino:
+**Christian Seberino:**
 uh oh why I
 caught so what go ahead yet one thing I
 got from rockys paper this is part of
@@ -538,7 +538,7 @@ moly man these guys are amazing
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely um it's for anyone listening
 that has seen the username splits out
 there on splits that would be Igor for
@@ -553,7 +553,7 @@ it's something you guys work together or
 it's kind of just like an independent
 thing going 
 
-Elaine:
+**Elaine:**
 on well first of all Igor is
 legitimately a tank and a coding machine
 like yeah but to this point like most
@@ -572,7 +572,7 @@ we've been doing so far has been fairly
 unstructured
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  got you got you absolutely
 in reference to the participation so in
 the newsletter guys that's in the
@@ -600,7 +600,7 @@ opinions on it what's going on just a
 couple of brief thoughts if
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes I so so
 I was the process of researching this so
 it's timely that you asked so there's
@@ -620,10 +620,10 @@ you know the privacy that that zuko
 claims it does i think that would be
 great what
 
-Carlo Vicari:
+**Carlo Vicari:**
  do you think Elena 
 
-Elaine:
+**Elaine:**
 um yeah I
 think I mean the technology behind see
 cash and ZK snarks has the potential to
@@ -649,7 +649,7 @@ people paid more attention to the actual
 protocol instead of how they set up
 their corporation
 
-Carlo Vicari:
+**Carlo Vicari:**
  agree yeah I agree
 absolutely understand what you're saying
 and stuff like that and there was a lot
@@ -674,7 +674,7 @@ chance to see that conversation that was
 going on in sly
 
 
-Christian Seberino:
+**Christian Seberino:**
  no I could be that
 specific conversation that you're
 talking about but I did have another
@@ -695,7 +695,7 @@ of what we've already established
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely it's definitely evolving
 that's for sure it feels like um you
 know every every year that goes by these
@@ -708,7 +708,7 @@ know break and change and evolve and all
 these ideas are constantly progressing
 at such a rapid rate 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah maybe if
 somebody has a different viewpoint maybe
 they could add a comment but if given a
@@ -721,7 +721,7 @@ privacy protecting crypto currencies are
 going to dominate in the future I don't
 see why that wouldn't be the case
 
-Carlo Vicari:
+**Carlo Vicari:**
  very
 true very true and i guess like gullane
 said in reference to the ZK snarks would
@@ -730,7 +730,7 @@ than two dozen or dozen people that
 really get what's going on with ZK
 snarks and how the technology works
 
-Elaine:
+**Elaine:**
  yeah
 there was a call from I mean it's posted
 on YouTube somewhere where Zuko was at a
@@ -748,7 +748,7 @@ yeah when it first came out and let Nick
 no one understood it but eventually a
 lot of people understood it
 
-Carlo Vicari:
+**Carlo Vicari:**
  agreed
 agreed I know exactly what you mean it's
 kind of just the natural progression of
@@ -759,15 +759,15 @@ few people I guess initially that even
 understood what was going on or the
 implications so 
 
-Christian Seberino:
+**Christian Seberino:**
 I can make it one more
 comment 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah go ahead definitely
 
 
-Christian Seberino:
+**Christian Seberino:**
  and so
 what Zuko is doing is not of course the
 only way to provide privacy some of the
@@ -783,7 +783,7 @@ another big way that people are trying
 to establish privacy crypto currencies
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely definitely i I've you know
 I've read about the mixing and stuff
 like that and the ring signatures as
@@ -819,21 +819,21 @@ promoted in a way to our own etherium
 classic page on Wikipedia so I don't
 know if you saw that Elaine
 
-Elaine:
+**Elaine:**
  yeah I think
 I think that's a great idea but we could
 pretty much take like Rocky's whole
 article and just paste it in right
 mm-hmm 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah it was a that was a
 great article and we've got a ton of
 other articles and another a ton of
 other info too so Christian did you see
 that on unread it as well
 
-Christian Seberino:
+**Christian Seberino:**
  yes I did and
 my my thought 11 encouraging thing was
 that for anybody that wants to
@@ -849,7 +849,7 @@ perfectly set Morgan now that everything
 is kind of theirs churn this is a great
 time to get in to help out
 
-Carlo Vicari:
+**Carlo Vicari:**
  the wikipedia
 page would be really great too um since
 you're also an educator Christian as an
@@ -867,11 +867,11 @@ community and getting that together so
 we that'll be another great educational
 resource for us to point people in
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 yes
 
-Carlo Vicari:
+**Carlo Vicari:**
  very cool so
 I think that pretty much covers it as
 far as the newsletter goes and guys
@@ -904,10 +904,10 @@ to have a guest on every week as well as
 hit s'amuser questions for anybody who
 post them in the comments below
 
-Christian Seberino:
+**Christian Seberino:**
 sounds good 
 
-Carlo Vicari:
+**Carlo Vicari:**
 all right excellent guys
 take Caroline thanks later Christian
 take care my guess
