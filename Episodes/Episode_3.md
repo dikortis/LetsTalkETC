@@ -1,14 +1,14 @@
 # Let's Talk ETC: Governance Models Featuring Bill Cassidy.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to episode 3 of let's
 talk ET c i'm your host karlovy along
 with my co-host dr. christian submarine
 
-Christian Seberino:
+**Christian Seberino:**
 oh hello 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what's going on christian i
 want to thank the ET c devs users
 community members and investors for
@@ -53,11 +53,11 @@ host of crypto holics joining us tonight
 special guest bill Cassidy how you doing
 bill what's going on 
 
-Bill Cassidy:
+**Bill Cassidy:**
 what's up I'm gonna
 really thank you for having me
 
-Carlo Vicari:
+**Carlo Vicari:**
  so he's
 done a lot of great work with the dash
 community for everybody who's listening
@@ -69,7 +69,7 @@ on how we you know got in here and how
 how we got started so I was just
 wondering how you got started 
 
-Bill Cassidy:
+**Bill Cassidy:**
 right
 right so is it was around the end of
 2013 when I first got into crypto I
@@ -85,10 +85,10 @@ want to purchase any Bitcoin for twelve
 hundred dollars so i just started
 looking for other projects and uh
 
-Carlo Vicari:
+**Carlo Vicari:**
 interesting
 
-Bill Cassidy:
+**Bill Cassidy:**
  i found yeah I found ripple
 and I think the thing that drew the
 thing that drove me to ripple is they
@@ -115,11 +115,11 @@ jumped right in and
  yeah I started
 volunteering my time
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's way back
 believe grand 
 
-Bill Cassidy:
+**Bill Cassidy:**
 yeah this was around March
 2014 when I when I joined the dark coin
 community and I jumped right in like I
@@ -138,11 +138,11 @@ a row for five days in a row and i ended
 up getting shingles literally saw
 I quit that in
 
-Carlo Vicari:
+**Carlo Vicari:**
  holy cow
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah around
 eight months ago I realized that dash
 didn't have a public slack you know and
@@ -154,11 +154,11 @@ members and the slack grew to about 900
 people in eight months or seven months
 or so 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I say slacks pretty awesome
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 yes Lex pretty cool you know my
 involvement with dash 0 is kind of like
 mmm I'm very vocal you know I'm
@@ -185,7 +185,7 @@ funny i'll send egos Annie here Hey oh
 yeah sure wait the sugar yeah
 
 
-Christian Seberino:
+**Christian Seberino:**
  so um you
 may have heard everybody some people i
 don't know about everybody but z cash
@@ -203,7 +203,7 @@ dealers that's bad well just curious the
 social the acceptance of how that played
 out thanks model
 
-Bill Cassidy:
+**Bill Cassidy:**
  I don't think it was
 necessarily so much the the technology
 that scared people but when the name was
@@ -230,12 +230,12 @@ Lee from Z coin and Ricardo from enero
 and one of the one of the points we made
 was that like if 
 
-Carlo Vicari:
+**Carlo Vicari:**
 great show by the way I
 listened to that
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  thank you if if the
 private if the privacy is not enabled by
 default and nobody's going to use it and
@@ -246,7 +246,7 @@ dark send I used it three times two or
 three times
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  you know I actually have a
 comment about that I was listening and I
 agree to to some extent I think if you
@@ -271,24 +271,24 @@ keep keep growing there will be a user
 base that uses it for that sort of thing
 potentially 
 
-Bill Cassidy:
+**Bill Cassidy:**
 oh yeah
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's just kind of
 kind of my thoughts on I could be way
 off base cuz there's a lot that I don't
 know obviously now I was thinking I had
 
-Christian Seberino:
+**Christian Seberino:**
 a question so are you saying that just
 by taking the word dark out of the name
 all of a sudden now you privacy is okay
 and nobody is going to investigate you
 anymore is that minus
 
-Bill Cassidy:
+**Bill Cassidy:**
  not necessarily I
 mean I think they could investigate you
 either way especially if they they know
@@ -297,7 +297,7 @@ dark was just yeah just serene unwanted
 attention that we didn't need you know I
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 think think think about it Christian
 it's um you know it's regulators in an
 office somewhere who knows where
@@ -307,7 +307,7 @@ block chain is barely on the radar or
 somewhat radar yeah I also think that
 yeah
 
-Bill Cassidy:
+**Bill Cassidy:**
  I think dash rebranded also not
 only because of that but they have like
 a plan to do more than just privacy and
@@ -318,7 +318,7 @@ even gonna be pushing their their
 privacy technology
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I think I think
 it wouldn't be something they it looks
 like it's not gonna be something they
@@ -327,18 +327,18 @@ that say you know less than ten percent
 of the users used but it's their choice
 to use it I guess
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  if they have it
 on at home
 
-Bill Cassidy:
+**Bill Cassidy:**
  for sure
 
-Christian Seberino:
+**Christian Seberino:**
  on well but I have
 another question can you uh can you say
 something about how the the privacy
@@ -349,7 +349,7 @@ something about that
 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  right so it's it's
 kind of it's based off coin join but
 it's it's a it's a stripped-down version
@@ -371,19 +371,19 @@ that's about as technical as I can get
 no
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I think I get
  it um what are you
 
 
-Christian Seberino:
+**Christian Seberino:**
  my
 house is it is it liked or that the
 reason everybody doesn't do it or it's
 not the default is because it slows it
 down transactions
 
-Bill Cassidy:
+**Bill Cassidy:**
  its it takes too long
 so you can't you can't send a private
 transaction without mixing right so you
@@ -402,12 +402,12 @@ later but in today's day and age people
 people want instant you know people want
 straight immediately 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah
 understand
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  if you had a if you had a
 choice to use a mixer or something
 that's just default defaulted on privacy
@@ -415,7 +415,7 @@ mm-hmm you know I feel more people are
 gonna choose the default privacy method
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 agreed yeah i see so well I guess that's
 more like dark coin past so let's talk
 about you know dash current dash future
@@ -424,11 +424,11 @@ think it was a great rebrand by the way
 um
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah I think I think in the end it
 worked out over all
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah i agree so so
 what do you have going on currently and
 you
@@ -444,7 +444,7 @@ planned in the future what are your some
 of your thoughts
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  well honestly like to
 tell you the truth this this happened
 just pretty recently I'm like kind of
@@ -473,7 +473,7 @@ of my holdings into Bitcoin and I put
 the rest into other projects that I
 believe in huh 
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool so yeah I guess some
 I didn't necessarily mean what do you
 have going on in dash specifically but I
@@ -487,7 +487,7 @@ currently that's cool what do you think
 that's cool in the future and stuff like
 that
 
-Bill Cassidy:
+**Bill Cassidy:**
  right so I actually have two
 projects that I'm working on and I think
 they're really cool so i'm going i'll go
@@ -509,10 +509,10 @@ can run it on our own server so we don't
 need to trust slack or you know rely on
 slack and 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right 
 
-Bill Cassidy:
+**Bill Cassidy:**
 we can build bridges
 between crypto chat between the channels
 on on my chat room and other slack so
@@ -527,11 +527,11 @@ classic channel uh you can see that over
 in the crypto chat Channel and vice
 versa as well
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah thanks thanks for
 help setting that up by the way
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah for
 sure so crypto chats kind of my main
 project and i have a few partners
@@ -545,23 +545,23 @@ a link to it and I'm trying to just get
 all types of different a different
 content on there from other people so
 
-Carlo Vicari:
+**Carlo Vicari:**
 absolutely yea be yea the interview you
 did with with Charles was really good a
 lot of great percentage but that was
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  a
 big hit I feel like Charles uh had that
 on his chest and he was just ready to
 let loose with him
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah that was that
 was a good one so
 
-Christian Seberino:
+**Christian Seberino:**
  second for Bill I'm
 shelter you you're obviously very
 dedicated and very passionate so what
@@ -573,7 +573,7 @@ something and all the effort that you
 did you know
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  I never really worried
 about the money or anything I don't I'm
 not like I didn't want money back or I
@@ -591,7 +591,7 @@ it was working for a while you know i
 knows meeting a lot of people and
 
 
-Christian Seberino:
+**Christian Seberino:**
  so
 wasn't liking it I I was guessing that
 you were gonna say you had a mission to
@@ -599,7 +599,7 @@ give the world privacy or something like
 that yeah you know 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 I'm a libertarian and
 I do believe in freedom and privacy oh I
 just I hate pushing like my agenda on
@@ -613,7 +613,7 @@ wasn't I'm not here to like change the
 world or
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I know well in some ways you
 you are maybe you don't realize it but
 this movement blockchain is still so
@@ -630,22 +630,22 @@ to put this on an Internet year where do
 you think we are
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah maybe maybe that
 about nine point ninety yeah I think
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I was kind of thinking the same
 thing
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah yeah I missed that you know i
 was born in 84 so I wasn't all right to
 enjoy that experience so it is it is
 really nice to be a part
 this
 
-Christian Seberino:
+**Christian Seberino:**
  yeah now I hit beat you said you
 you you had you know your fan of privacy
 and your libertarian so my my sense was
@@ -660,7 +660,7 @@ that way which is kind of fascinating
 that geeks so ya 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 know it's some very
 interesting space and they're still I
 mean if you're doing this crypt aholic
@@ -668,7 +668,7 @@ show this could end up being as the
 space grows you know a ginormous show
 you never know 
 
-Bill Cassidy:
+**Bill Cassidy:**
 right it's cool because
 it's giving us all this like it's given
 us this opportunity here right i would i
@@ -677,7 +677,7 @@ anything if i wasn't involved in this
 industry
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah so
 um I also wanted to talk a little bit
 about uh I mean I know I know you're
@@ -705,7 +705,7 @@ our own proposals later on in the future
 potentially
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah so I was in all with
 getting a couple proposals past the
 first one I was involved with it was
@@ -715,7 +715,7 @@ this community member who came in and he
 basically he wanted to do marketing for
 dash and oh he did it really
 
-Carlo Vicari:
+**Carlo Vicari:**
  I was gonna
 say
 if you could um if you could tell some
@@ -729,7 +729,7 @@ they'll know what you mean by the
 proposals and the voting percentages and
 stuff like that yep
 
-Bill Cassidy:
+**Bill Cassidy:**
  okay so anybody can
 submit a proposal to the the dash the
 dash budget system and for example
@@ -758,7 +758,7 @@ node can vote yes or no on that proposal
 or a sofa
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so it's someone that has like
 a real stake in the currency or the
 blockchain that's able to determine the
@@ -769,13 +769,13 @@ have a enough steak to determine the
 future of the blockchain so essentially
 is that it
 
-Bill Cassidy:
+**Bill Cassidy:**
  exactly the minimum is 1,000
 dash so it's basically a thousand dash
 per vote 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so you you you pretty much get
 people who really look into the
 different proposals and I'm sure do a
@@ -788,7 +788,7 @@ than if just everyone could vote I
 imagine any way
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  less problems because
 there's probably less manipulation
 possibly but there's more problems I
@@ -814,7 +814,7 @@ right and that was one of the biggest
 issues that
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I saw it's funny you mention
 that because i read the I ohk breakdown
 and that was one of the conclusions in
@@ -824,7 +824,7 @@ node participation so uh you know you
 notice that well as well I guess so
 that's
 
-Bill Cassidy:
+**Bill Cassidy:**
  what one of the issues one of the
 issues with that too was that you know
 there's a there's three whales that I
@@ -850,7 +850,7 @@ and me they can not just not low and it
 just it makes it look like nobody really
 cares 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I see do you have any suggestions
 or or um thoughts on maybe how that can
 be improved upon for you know the et Cie
@@ -858,7 +858,7 @@ community that's listening out there and
 might pick up this discussion where we
 leave off
 
-Bill Cassidy:
+**Bill Cassidy:**
  so myself and a couple
 partners of mine when we had the slack
 the slack room the dash slack we
@@ -889,12 +889,12 @@ way possible just try to get information
 to a mean it's
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  it's like the blockchain
 version of knocking on doors that's
 funny 
 
-Bill Cassidy:
+**Bill Cassidy:**
 it's crazy you know we got we got
 funded for two months the proposal was
 set for three months right we we said it
@@ -915,7 +915,7 @@ proposal we were like in in combat mode
 just trying to rally votes man we
 welcome like 
 
-Carlo Vicari:
+**Carlo Vicari:**
 i don't know if you've ever
 seen the funny videos of like crazy
 parliament when they're really yelling
@@ -927,7 +927,7 @@ the bear the barriers do you don't swing
 in at each other it's done that's how
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  it
 is man it's I swear then you know like
 you everyone's posturing like no like
@@ -950,7 +950,7 @@ voting system right there you know when
 one guy can sway the entire thing
 
 
-Christian Seberino:
+**Christian Seberino:**
  I
 should you say okay so you've mentioned
 some of the issues with what you got
@@ -968,7 +968,7 @@ similar model to debate discuss a
 sensitive issues like like hard Forks
 things like that
 
-Bill Cassidy:
+**Bill Cassidy:**
 so
  in fact we did and
 III think this was just for some PR buzz
@@ -997,7 +997,7 @@ model is there but the governance is not
 there
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah I yeah I see this is a real
 big open problem probably for a while
 how to in a decentralized system how to
@@ -1007,11 +1007,11 @@ don't know if anybody has the perfect
 answer yet how to how to do that
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah I
 don't have a solution
 
-Carlo Vicari:
+**Carlo Vicari:**
  well as far as the
 the proposals and the incentive to vote
 did you have any uh you know thoughts
@@ -1027,7 +1027,7 @@ you were getting low voter turnout
 correct
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah so I think there's
 possibly two solutions that I've thought
 of and I don't know if they could work
@@ -1052,7 +1052,7 @@ you are participating then maybe there
 can be some kind of extra incentive for
 those who are participating
 
-Carlo Vicari:
+**Carlo Vicari:**
  well one
 thing I was thinking about was maybe a
 flat bounty for a proposal you voted for
@@ -1063,7 +1063,7 @@ peaceable are possible cuz actually it
 would oh go ahead
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  oh right now when you
 submit a proposal it's the cost five
 dash right so that five dash is just
@@ -1074,7 +1074,7 @@ could use that as the as the what you
 were just saying 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I think you would
 the thing is if you say had you know a
 thousand people you know potentially
@@ -1083,11 +1083,11 @@ thousand people voting on something a
 five-cent reward you know a soda-can
 might not really bring anybody
 
-Bill Cassidy:
+**Bill Cassidy:**
  exactly
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so you know there could be some sort of
 treasury system set up where there are
 funds pre you know allocated or set
@@ -1108,7 +1108,7 @@ usually two or three that win correct
 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 so
 there's there's like a specific amount
 of allocated dash per month rule it all
@@ -1130,7 +1130,7 @@ or like I say gonna pay more if there's
 an incentive I guess I don't know
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I
 was thinking probably be a flat and then
 even if there was one say a second
@@ -1143,41 +1143,41 @@ proposal now there's there's multiple
 votes I guess right in multiple
 downloads is that correct 
 
-Bill Cassidy:
+**Bill Cassidy:**
 for isn't astern over 
 his master note 
 
-Carlo Vicari:
+**Carlo Vicari:**
 if they get
 to vote on one thing is that right
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  no
 you can vote on every proposal once
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 every proposal once 
 
-Bill Cassidy:
+**Bill Cassidy:**
 and well you you can
 change your vote to like you if you vote
 yes you can change it to know it doesn't
 stand you know 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I say 
 
-Bill Cassidy:
+**Bill Cassidy:**
 so but you can only
 vote on a proposal with one vote is what
 I'm saying 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay got you can
 
-Christian Seberino:
+**Christian Seberino:**
  I make a
 profit so I just I like to
 when I see something
@@ -1203,7 +1203,7 @@ structured manner so that's I commend
 them for for having that and then trying
 to attack that problem 
 
-Bill Cassidy:
+**Bill Cassidy:**
 right and it
 works to actually like I've used this
 whole I've submitted my own proposal
@@ -1216,7 +1216,7 @@ know it's all don't agree with you
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah
 and I imagine if there was a crisis that
 are some decision that had to be made
@@ -1228,15 +1228,15 @@ it would be a lot easier than trying to
 throw a new system together to be
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  right
 
-Carlo Vicari:
+**Carlo Vicari:**
 and the LA what was the proposal you you
 you were talking you're just about to
 tell us about
 
-Bill Cassidy:
+**Bill Cassidy:**
  so just this is a lot
 trying to say that the whole dash budget
 system is bad or anything or I'm not
@@ -1244,14 +1244,14 @@ trying to highlight these negative
 aspects of it
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no no
 
-Bill Cassidy:
+**Bill Cassidy:**
  it's not it's not
 perfect you know 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no it's cool we're here
 to talk about um you know the pros are
 pros but really talking about the
@@ -1262,7 +1262,7 @@ interview and the show is really the
 most important aspect of it so I'm all
 about it let's go 
 
-Bill Cassidy:
+**Bill Cassidy:**
 right so there there's
 two there's
 two three proposals that were very
@@ -1299,13 +1299,13 @@ where's that money you know that was one
 of my questions was worse that money
 
 
-Christian Seberino:
+**Christian Seberino:**
  who
 was it that / pote proposed to build the
 website were these unknowns or were they
 just I'm personalities or
 
-Bill Cassidy:
+**Bill Cassidy:**
  so these are
 these are some core core team members
 daniel diaz is one of the core team
@@ -1334,7 +1334,7 @@ cry and complain on the forums and chat
 rooms right 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 could there be something
 like could there be something like they
 the person who promised to do the work
@@ -1344,7 +1344,7 @@ after certain milestones or something
 like that rather than they just get all
 the funds at once 
 
-Bill Cassidy:
+**Bill Cassidy:**
 I'm sure that they
 could set something up like that but at
 that time it was all way to New TSI
@@ -1375,7 +1375,7 @@ masternodes even even cared they just
 didn't care 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so so there's one more
 is there way oh does that mean that the
 masternodes we should start being
@@ -1384,7 +1384,7 @@ then if or they're
 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  just lazy okay I know
 okay possibly maybe maybe they got paid
 for me I don't maybe they're part of it
@@ -1409,7 +1409,7 @@ suits like okay well they weren't though
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what what else do we have to watch out
 for what else do you think we can
 improve upon or should we improve on you
@@ -1417,7 +1417,7 @@ think
 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  so just straight-up scammers like
 you have the system where people can
 submit purple andum anonymous people can
@@ -1481,12 +1481,12 @@ idiots you just passed this scamp me
 proposal like here
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  you are you're you
 were calling attention to something
 through a satire you know so
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah
 exactly and everyone loved it you can
 google that if you google a unicorn
@@ -1495,35 +1495,35 @@ read the whole proposal and I stay
 silent about it for for a few weeks and
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm wondering um that a solution might
 be something along the lines of a
 reputation system like eBay has
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's
 true
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  waiting for the master node owners
 are four people submitting proposals
 
-Christian Seberino:
+**Christian Seberino:**
  her
 to deal with with scammer
 
-Carlo Vicari:
+**Carlo Vicari:**
  maybe both
 
-Bill Cassidy:
+**Bill Cassidy:**
 yeah yeah yeah I guess you have to have
 a certain amount of points before you
 can submit a proposal or something
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  maybe
 that's an interesting
 idea um also I was thinking you know I
@@ -1547,21 +1547,21 @@ and asks different colleagues and this
 and that and it's just uneven
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  even if it
 is a fake identity you're still putting
 the work in too
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  I using a fake
 identity
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so as long as I can you know
 obviously a blockchain or community gets
 to a point where there's so many
@@ -1578,7 +1578,7 @@ trace everything that I can to try to
 find any holes um so that's always in
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 these guys yeah they they they even said
 in their proposer like oh we won't want
 to stay anonymous we don't want anyone
@@ -1586,7 +1586,7 @@ to know who we are were two brothers
 from now I alien or something
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  for me for
 stuff like this anonymous is a pretty
 big red flag um obviously it's different
@@ -1611,7 +1611,7 @@ diligence but forgot I still happen you
 know how it is 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 I mean that red flag in
 this dart proposal like anybody should
 have saw that like and but we they still
@@ -1623,7 +1623,7 @@ you are huh they're like nope no sorry
 we're not going to do that you
 
 
-Christian Seberino:
+**Christian Seberino:**
  know let
 me just can I make a comment so now you
 don't have to give up privacy to have
@@ -1639,27 +1639,27 @@ of work you'd have to do a lot of stuff
 to develop that reputation and keep your
 privacy but it is possible
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yes
 possible um but as far as um projects
 that are saying hey we want to do this
 for you guys give us the money I want to
 know like who you are man 
 
-Bill Cassidy:
+**Bill Cassidy:**
 yeah exactly
 look you get you got one post under your
 user name right here man like
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yes you
 can still disappear with the money but I
 at least want to be able to harass your
 email address or something I don't know
 
 
-Christian Seberino:
+**Christian Seberino:**
 hold on what let me give you an example
 like suppose suppose somebody said hi
 I'm Satoshi and I can prove it and I
@@ -1670,14 +1670,14 @@ you would trust him without needing to
 know his real identity right
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right
 
-Christian Seberino:
+**Christian Seberino:**
 though that was my point
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  well oh yeah I
 guess I know what you mean you mean in
 reference to a pgp key and then if yeah
@@ -1695,17 +1695,17 @@ her
 
 
 
-Bill Cassidy:
+**Bill Cassidy:**
 uh I don't know ha
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  Christian have
 any other questions for for bill or
 anything like that 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no no I'm just a
 thankful that he opened my eyes to
 existing governance model that was try
@@ -1718,7 +1718,7 @@ to solve
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah definitely I think this
 should start you know wish or Sparkle a
 lot of great discussion amongst the
@@ -1734,20 +1734,20 @@ forward to speaking with you the future
 working on stuff you know
 
 
-Bill Cassidy:
+**Bill Cassidy:**
  yeah for sure
 it's been great guys I really appreciate
 you having me on
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah absolutely let let
 us know if you ever need anything all
 right you know whatever it is we got you
 
-Bill Cassidy:
+**Bill Cassidy:**
 yeah we'll be in touch for sure thank
 you
 
-Carlo Vicari:
+**Carlo Vicari:**
  absolutely take care but
 you
