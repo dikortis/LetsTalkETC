@@ -1,5 +1,5 @@
 # Let's Talk ETC: Alan Verbner - Scala Client.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody and thanks for tuning in -
 lets talk etc' I'm your host karlovy
 along with my co-host dr. Christian said
@@ -40,14 +40,14 @@ on and we really appreciate everything
 you're doing for the community
 
 
-Alan Verbner:
+**Alan Verbner:**
  no thank
 you thank you guys for you might didn't
 mean it's a blizzard 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no absolutely I
 mean we're we're happy to have you on
 here for her for sure but um so uh
@@ -87,7 +87,7 @@ place maybe
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 oh sure sure so first let me
 tell you all that I'm from Argentina
 which is a country far away from
@@ -116,12 +116,12 @@ compiling a distribution
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 never looked 
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah everything yeah
 everything and I used like a virtual
 machine it was horribly slow so I spent
@@ -182,7 +182,7 @@ okay you need to do this and that's it
 so that that's 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what freedom where
 freedom kind of to do what you want
 because you're running your own company
@@ -190,7 +190,7 @@ is that one of the things
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  yeah yeah yeah
 you know it's freedom and you always
 need to fulfill your customers
@@ -215,12 +215,12 @@ in a year so that's out that's a crazy
 number 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and you say 3 or 30?
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 30 30 30
 whoa yeah that's that's crazy and in
 2001 bank system collapse and people
@@ -256,7 +256,7 @@ can't believe this is true
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I don't know
 if you're familiar with there's a book
 about bitcoins history called digital
@@ -284,7 +284,7 @@ because they needed it so much and
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah
 yes yeah that that's completely true I
 think you are talking about a sample
@@ -307,7 +307,7 @@ speculation so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah by the way where
 anyway yeah I like I I mean I I like the
 technology of aetherium classic I'm not
@@ -320,7 +320,7 @@ technology of it also
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I do it I do both
 although I don't know the technology as
 much as what's going on in the markets I
@@ -330,7 +330,7 @@ his own thing
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  yeah and and what's crazy
 it's like we it's there are a lot of
 things we can do with blog chains and
@@ -349,7 +349,7 @@ huge earth remind me to send
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you my
 crypto prayer after after the show I
 won't say it on here because it's too
@@ -360,7 +360,7 @@ after
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I'm imagining eventually these
 some of these governments are not gonna
 they're gonna fight back against Bitcoin
@@ -375,7 +375,7 @@ Argentina's gonna do
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 I think they don't even understand
 what's going on they might they say that
 they're doing stuff out there there is
@@ -421,7 +421,7 @@ it's crazy
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah now I just for
 clarification when you said thin and fat
 protocol I assumed you meant a thin
@@ -431,7 +431,7 @@ one is relatively complex
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  yeah and most
 of the value it's it's built on top of
 this protocol in in let's say Airbnb I
@@ -453,7 +453,7 @@ your life there so it's
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so it's more
 it's more distributed you're saying the
 the value the control is not centralized
@@ -461,7 +461,7 @@ the value the control is not centralized
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 that's right yes yes and every time that
 people finds that this is useful they
 are putting more money they are buying
@@ -476,7 +476,7 @@ seen that before
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah it also but you're
 saying about Airbnb so I mean there's I
 uh sometimes I hear talk about making a
@@ -490,7 +490,7 @@ not laughs and
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 that's amending their
 protocol so you need to the companies
 need to find a way to attract people in
@@ -500,13 +500,13 @@ that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yeah exactly 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's right
 yep I think a lot of I think a lot of
 talk about the uber and airbnb
@@ -522,7 +522,7 @@ just do it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that hadn't even
 occurred to me there's a city here close
 enemy I'm in Houston called Austin right
@@ -539,7 +539,7 @@ and father it
 
 
 
-Carlo Vicari:
+Carlo Vicari:**
 would be tough to do but I
 think that's where those ideas pop up
 like there's a project called swarm city
@@ -563,7 +563,7 @@ team yeah
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah yeah yep sure
 so being at these beacon embassy like
 open some doors for us maybe it was just
@@ -584,7 +584,7 @@ basically that's it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 nice no good I know
 I I want to go to this Bitcoin embassy
 right now you've mentioned it like five
@@ -592,12 +592,12 @@ different times so this is now my travel
 list for 
 
 
-Alan Verbner:
+**Alan Verbner:**
 sure you are more than welcome
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so youryour history didn't involve
 you did you word you didn't have strong
 opinions or about the fork and you
@@ -608,7 +608,7 @@ avoided that whole mess apparently and
 
 
 
-Alan Verbner:
+Alan Verbner:**
 are you talking about the dowel forecast
 stop the heart
 well I have my opinion here if you hunt
@@ -616,7 +616,7 @@ if you wanted to know it yes I have an
 opinion and 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah go for it yeah we you
 don't whether you agree or disagree
 gopher we want to hear all the honest
@@ -625,7 +625,7 @@ thoughts and stuff bring it
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 now of
 course of course I'm not expecting in
 just to come and kill myself no
@@ -669,7 +669,7 @@ it's a great property that I like Alicia
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I know what you mean I feel the
 same way as well I I made a post a long
 time ago I referenced this a bunch of
@@ -683,21 +683,21 @@ anything you know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah like at two
 cities in a football rivalry 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes exactly
 exactly
 good good Texas analogy 
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 no I am we're
 it's all about improving technology and
 yeah I know that people has money
@@ -716,7 +716,7 @@ fight
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yep yep so now you mentioned
 you mentioned the future of blockchain
 and you know trying that's that's kind
@@ -738,20 +738,20 @@ like what's
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 your dream
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah that's a
 good way of saying it
 
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  well I think the
 first step is that block chains and
 would be around us and but without
@@ -812,7 +812,7 @@ great
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that's I think a lot of
 people have that that they are
 interested in that bringing bringing
@@ -827,7 +827,7 @@ yeah that's that's a great idea
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah
 maybe if it doesn't come true at least
 trying it's it's it's a good way to use
@@ -837,7 +837,7 @@ technology and I think and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I mean
 it's it's already happening like you've
 heard a bit Pacer right the in Kenya the
@@ -851,14 +851,14 @@ know communities
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 and isn't working like
 people is yeah I love I was
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes I was in
 Dubai talking to a Kenyan woman and she
 said yeah they everybody uses big base
@@ -874,13 +874,13 @@ happening
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 oh I'm I'm waiting for that
 for my job then honey 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so but why
 don't we talk about the what you're
 doing with IOH kay now I know you're
@@ -893,7 +893,7 @@ and other projects you're working it
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  oh
 sure okay so I'm part of the growth in
 the team and the project manager is Alan
@@ -932,7 +932,7 @@ guess I don't know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no III when I heard
 about that
 Scala client I was kind of envious it
@@ -953,7 +953,7 @@ great
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 thing you guys are doing no think
 you know and it's it's I mean we are not
 like the super experts but yeah we have
@@ -976,7 +976,7 @@ oh that does work really really fun so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so you have a scholar client does it
 also have a miner does it run a full
 node or and 
@@ -984,7 +984,7 @@ node or and
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 we have Jack we have running
 on integration with ETH miner and and I
 think that for this next release this
@@ -1000,7 +1000,7 @@ private change and Sutton
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so really like
 you could run the whole network within
 on Scala code eventually because you
@@ -1010,14 +1010,14 @@ in Scala dan is that correct
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yes yes and
 all functional style and so yes yes yes
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so if anybody that wants to study the
 technology of the theorem classic they
 can let they have several whatever their
@@ -1030,7 +1030,7 @@ implementation
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah and and there are
 two things that I like about using Scala
 besides using Scala and the first one is
@@ -1049,7 +1049,7 @@ try
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so that was that's a nice thing
 about scholars you have access to all
 the the jvm libraries the Java libraries
@@ -1061,7 +1061,7 @@ Scala head lets you do that and
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  yeah we
 have used some libraries but III won't
 say that yeah we have used all of these
@@ -1078,7 +1078,7 @@ yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah now I was watching an
 interview with Charles he had they
 reimplemented Bitcoin and score X I
@@ -1095,7 +1095,7 @@ clients
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 why yang's kinda you usually
 write this code and I have Java
 background and I found myself several
@@ -1116,7 +1116,7 @@ Java
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 so it might be in the future it might
 even be a good educational resource like
@@ -1130,7 +1130,7 @@ for a beginner to pick up
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah of course
 of course and actually I really like to
 do that to just dig into source code
@@ -1142,7 +1142,7 @@ yeah it would be great
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 let's uh curious
 about that can I ask one last question
 about the scala client so the yellow
@@ -1157,21 +1157,21 @@ one work together
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 uh well yeah first of
 all the that paper it's not an easy one
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes that's what I was one of those
 getting at - 
 
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah it's a it's a little
 bit complicated I'm not sure why and but
 we were like seven people working on it
@@ -1197,7 +1197,7 @@ not you're
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  not advancing you're just
 learning the existing technology 
 
@@ -1205,7 +1205,7 @@ learning the existing technology
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah
 and we are we are we are using for
 example we cannot connect you party
@@ -1222,7 +1222,7 @@ effort has been done there and but
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 I with yellow paper complete Victor it
 does it does it account for all the
@@ -1233,12 +1233,12 @@ the parity client or the get client
 right ah 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah yeah yes you're
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 analytically here I yeah yeah I had I
 was just trying to get this what do you
 what do you think of the yellow paper
@@ -1249,7 +1249,7 @@ complete pretty
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 it's it's quite
 extensive but I think it's hard to read
 so maybe you might need some details
@@ -1269,7 +1269,7 @@ the those bags on the yellow paper
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Alan
 have you ever seen the visual
 representation of the yellow paper
@@ -1280,12 +1280,12 @@ interesting
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  okay so at 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 least also from
 at least also for someone who reads the
 yellow paper and doesn't get it at all I
@@ -1300,7 +1300,7 @@ opinion ah yeah yeah let's start that
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 now I I really really enjoy and I think
 it's like the best okay the best
 language is Scala and it's really we I
@@ -1312,12 +1312,12 @@ against any other languages besides PHP
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so hey besides PHP I got a what what's wrong with it
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah I think it's it's a little bit old
 I haven't get up in we need for a long
 time but now we have a joke as jokes
@@ -1341,7 +1341,7 @@ going into that more
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Christian thinks
 PHP is the best 
 
@@ -1349,7 +1349,7 @@ PHP is the best
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no that's all I don't
 like PHP then I'm a Python fan I wish
 there was more activity developing a
@@ -1359,7 +1359,7 @@ that's just my opinion
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 poor poor PHP no one likes PHP yeah but
 um I was gonna say uh what uh have you
 ever had to develop anything in a what's
@@ -1380,7 +1380,7 @@ bricked yeah who knows what
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  uh I am NOT
 going to write this because of the
 project but when a long time ago and I
@@ -1391,7 +1391,7 @@ did
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 very very vague perfect we worked
 for a company with a project with a guy
 there yeah you're about to say how bad
@@ -1400,7 +1400,7 @@ don't wanna get you trouble
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 no and I and we had to develop these and
 Microsoft Excel plugin to interact with
 some web services to get some training
@@ -1419,7 +1419,7 @@ that knows how to code
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so so um I
 what's the kind of overall what would
 you say like what percentage of the all
@@ -1430,7 +1430,7 @@ versed 70% or
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 well I don't know if
 you're asking about Scala just Scala
 it's difficult because I don't know I
@@ -1441,7 +1441,7 @@ premiere skills and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 know what I was
 getting at was like is this is 
 
@@ -1450,14 +1450,14 @@ getting at was like is this is
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 how close
 how close you are to completion in your
 estimate that's 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 are you going to finish
 it and go do something else or are you
 going to finish it and then make you
@@ -1468,7 +1468,7 @@ so what's another future
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 no no no no I
 am not seeing the end of the channel yet
 and there is a lot of work to be that
@@ -1483,7 +1483,7 @@ so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yeah you'll be quite a resource
 when you are you are a resource quite a
 resource but when you know if you're if
@@ -1493,13 +1493,13 @@ paper and implemented you know so much
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's right he's gonna be a beast
 he is a beast
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  come to you will come to
 you with all our questions then 
 
@@ -1507,7 +1507,7 @@ you with all our questions then
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 no no
 and I think I might say that it's the
 whole team for example I I don't know
@@ -1520,14 +1520,14 @@ other expectations in the short term
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  ok
 ok they they are gonna be a beast yeah I
 pretty much 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I've I've asked all the I
 think I asked all the questions I had
 was there anything Alan or Carlo that
@@ -1537,7 +1537,7 @@ mention it uh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no I think that pretty
 much that pretty much covers it for me I
 think we touched on all the spots we got
@@ -1548,7 +1548,7 @@ covered a lot of stuff
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes I know but
 evenings uh yeah got kids I was going to
 say so nobody could say that aetherium
@@ -1561,7 +1561,7 @@ project what you guys are working
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 on and
 then and one thing that extra is that we
 really want to work on these we are not
@@ -1573,7 +1573,7 @@ yep
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 awesome I mean everybody's really
 happy to have you part of the community
 great to have you on the show I'd love
@@ -1592,7 +1592,7 @@ dabbing non-stop
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah yeah I might say
 yes but I'm starting to read about money
 history of money Hey interesting yeah we
@@ -1608,31 +1608,31 @@ trying to figure out that -
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I think 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 that there's you're gonna have to read a
 lot of books on that 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and take your
 lifetime to figure that
 
 
 
-Alan Verbner:
+**Alan Verbner:**
  yes yes 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah you
 have your reading cut out for you if
 that's if that's your goal to figure out
@@ -1643,7 +1643,7 @@ you sir
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 well I I rather spend time doing
 that done reading other stuff I guess
 yeah it's a nice 
@@ -1652,19 +1652,19 @@ yeah it's a nice
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 one I agree with the
 almond I'm a nonfiction person too so
 
 
 
-Alan Verbner:
+**Alan Verbner:**
 yeah and that's that's what it's on my
 mind these days 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's a good good stuff
 to have on the mind but um anyway I just
 want to thank you for for coming on and
@@ -1687,7 +1687,7 @@ next time Cheers hi guys
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to a theory of classic and you
 have something to say we'd love to
