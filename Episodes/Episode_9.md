@@ -1,5 +1,5 @@
 # Let's Talk ETC: Conversation With Alan McSherry.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody welcome to another episode
 let's talk e.t.c I missed you guys the
 last few weeks we haven't been able to
@@ -54,7 +54,7 @@ able to join us really appreciate it
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah no problem thanks for
 so asking me on I was listening to some
 of the stuff that you guys have done it
@@ -65,7 +65,7 @@ lot
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I appreciate it i mean
 really it's you know i always say it's a
 you know it's the developers it's the
@@ -92,7 +92,7 @@ good stuff
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 sure well I mean a lot of
 people have these great stories but
 starting off in physics and then you
@@ -110,7 +110,7 @@ intact i guess since I yeah yeah it's a
 bully 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right but blockchain is
 definitely a new to the if as new as
 tech yet so how did you we call it the
@@ -122,7 +122,7 @@ greater tech field i guess you could say
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah that was um I i I'm not sure
 exactly how I became aware of Bitcoin
 but I think like most people Bitcoin was
@@ -178,7 +178,7 @@ together now love it i was going to say
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 just to let you know so I
 I'm aware of this stuff but that's why
 Christian Christian is awesome because
@@ -192,7 +192,7 @@ would
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 say would you say score X is a
 library that you use to make blockchain
 with that with that accurate
@@ -202,7 +202,7 @@ with that with that accurate
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  yes
 Couric's is an abstract framework I'd
 say that you that you then build classes
@@ -225,7 +225,7 @@ dependency and they release it it has
 its own release cycle
 
 
-Christian Seberino:
+**Christian Seberino:**
  so I used that as
 well so presumably the the one of the
 reasons that it exists is because maybe
@@ -239,7 +239,7 @@ correct
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well I don't want to get into
 any language worries here but yeah skala
 you know Scala is a very very nice
@@ -265,7 +265,7 @@ begin with
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now all of this with score X
 this this is this segue you into ET c is
 that correct i guess some just to
@@ -275,7 +275,7 @@ chain and how did you get into ET c
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  well
 from from meeting Alex and any man
 talking to about corex I subsequently
@@ -286,7 +286,7 @@ take care of it I said
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah why
 don't you for anyone in the audience
 that hasn't been following as closely or
@@ -301,7 +301,7 @@ three TC
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 sure um so II TC is an etherion
 classic clients and it's built entirely
 in Scala and where we're at at the
@@ -359,17 +359,17 @@ say go
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ahead make your question to ask a
 question Alan 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  for anybody that's
 listening and is starting to be swayed
 that hey maybe I should look into Scala
@@ -382,20 +382,20 @@ benefit them to learn Scala
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  yeah let's
 do a language war I'm on board with that
 let's do language 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 whoa we don't want to
 criticize other languages but
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  no no no
 we don't we won't put any other language
 down but we can you can definitely talk
@@ -404,7 +404,7 @@ language or something
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah okay I'll
 just I'll just say right now I've heard
 academics for the longest time say oh
@@ -420,7 +420,7 @@ answer that question
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well I mean you
 know again we don't want to get into
 arguments here but obviously scholars
@@ -477,7 +477,7 @@ side effect in code now
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I've heard that
 so Haskell of course is another famous
 functional language but I've heard
@@ -492,7 +492,7 @@ easier to learn is that true
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah
 certainly the last point it is easier to
 learn I don't it is a gentle yeah
@@ -504,7 +504,7 @@ at you know get that's quite deep quite
 quickly 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok so is there be any reason to
 ever your team to ever do anything with
 Haskell or do you think you could always
@@ -512,7 +512,7 @@ do everything you want with Scala then
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 everything that we've looked at so far
 can definitely be done with with Scala
 ok yeah you know we've we've looked at
@@ -535,7 +535,7 @@ communicate over over a DGP
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 interesting yeah what about what about
 the people talk about when they want to
@@ -550,7 +550,7 @@ even make programs provably secure or
 these certain components 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah there's a
 lot of talk and I'm doing a lot of
 listening about in exactly that area now
@@ -573,18 +573,18 @@ future we will have a plan to do that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay okay i always found the
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  it's on the
 planning for planning like walking
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 exactly it's too they are in the future
 to be able to say anything concrete
 other than a lot of people believe it's
@@ -592,7 +592,7 @@ in the future
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay i know solidity i was
 talking to some of their developers and
 they're doing things like yeah a common
@@ -605,7 +605,7 @@ know it's one way
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah when we get to
 you know at the moment what we're doing
 is we're building out our re vm so it's
@@ -619,7 +619,7 @@ good if not better
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok can I believe I
 believe I heard that the vm is very it
 was made to be easy to understand it's
@@ -628,21 +628,21 @@ pretty nice would you agree with that do
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 you mean to the PM is designing in the
 yellow paper 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes the how does it compare
 to like the complexity of the JVM if you
 can you compare those mate 
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 oh yeah well
 I mean one is is is more complex than
 the other there's a fairly small
@@ -650,7 +650,7 @@ instruction set well
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 i don't know
 because i saw i saw on someone posted
 like an infographic explaining the the
@@ -671,7 +671,7 @@ pretty interesting ok
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  yeah when we
 insist on that paper you know that is I
 think probably everybody's first
@@ -692,14 +692,14 @@ does seem to come cloud and become
 become far more care 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah like the fog
 the more you've been working on the
 project of the fog starts to clear i
 guess in a sense 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah exactly exactly
 and and then it that's kind of exciting
 you know when when you start to when we
@@ -710,7 +710,7 @@ that make sense yeah
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah that's true
 that's true yeah we were actually
 talking about this before the show
@@ -729,7 +729,7 @@ you know what i mean
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  no i think that's a
 very good analogy actually that is that
 is kind of what it's like at first it's
@@ -740,7 +740,7 @@ like oh yeah I guess
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah right i think
 i think the natural probably a lot of
 people there what they do is they don't
@@ -757,7 +757,7 @@ difficult
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so um so I know this is a
 little bit of a segue but I'm interested
 in hearing a little bit about this since
@@ -777,7 +777,7 @@ whatever whatever you think
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  yeah we well
 you know we've been kind of so
 concentrate you know so focused only on
@@ -797,7 +797,7 @@ killer app for free PC as yet
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah well
 I mean like blockchain technology one
 decade you know how do you see it
@@ -807,7 +807,7 @@ the country in many different countries
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well I've nothing you know particularly
 new to add to that to add that debate
 there's a lot of talk about banking me
@@ -820,7 +820,7 @@ revolutionising Airbnb
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  wait what's that
 about the unlocking a car I i don't
 think i've read that on it so if you
@@ -829,7 +829,7 @@ have a
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 so if you have a a transaction
 whereby your you basically can transfer
 the ownership of a key to from from will
@@ -845,7 +845,7 @@ car
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I see I see okay yeah I hadn't heard
 that one before this interesting so what
 what else wild wild speculation is fair
@@ -854,7 +854,7 @@ game
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 I would like to see I would like to
 see huge destruction in social networks
 i would like to see some kind of virtual
@@ -883,7 +883,7 @@ now
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so this is like sort of a one-two
 punch of a or number one users being in
 control of their own data and not being
@@ -894,7 +894,7 @@ contributions that correct
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 exactly
 exactly i mean you know there was a it
 was a you know there's been a couple of
@@ -936,13 +936,13 @@ that stuff out
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right that's just boom
 market solution 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well now i buy that
 question about that's an interesting
 scenario so by adding a cost you you
@@ -960,7 +960,7 @@ so then the cost could be a negative
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well it so with a tweet you know you're
 advertising to the planet intentionally
 but where I would do sort of use case
@@ -1019,7 +1019,7 @@ vixen money
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I action and you probably
 another interesting question which was
 where he brought up things you brought
@@ -1041,7 +1041,7 @@ they should
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well I think there might be
 a you know there might be a tipping
 point in that I am certainly because I'm
@@ -1064,7 +1064,7 @@ Facebook is free in inverted commas yeah
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I i think i know what the tipping point
 is going to be honestly for I think what
 decentralized social network will
@@ -1098,7 +1098,7 @@ to snowball from there
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no but see but
 don't notice that you didn't say that
 people are going to switch because all
@@ -1109,7 +1109,7 @@ decentralization law
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you know I think the funny thing about
 that is is a lot of the people that are
 interested in privacy and
@@ -1127,7 +1127,7 @@ describe it what do you think Alan yeah
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 I'm not sure I don't know what tipping
 point is because I mean I look I see
 similar things with I thought it was
@@ -1146,14 +1146,14 @@ meeting him
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so he would not you would
 like people that aren't familiar with
 the the scandal you're referring to
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  well
 they would pay so after what's off came
 that they had encrypted end-to-end there
@@ -1174,14 +1174,14 @@ beginning a
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 long story short most people
 don't care about privacy no it is
 
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  I
 think it was that's hard to escape that
 the conclusion that the resistor
@@ -1192,7 +1192,7 @@ happen to me sort of thing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah I
 think if the Snowden revelations didn't
 convince people out of the house could
@@ -1200,7 +1200,7 @@ convince
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I don't I I guess it's a
 combination of things i think the the
 privacy I don't think people completely
@@ -1234,7 +1234,7 @@ signal over what's up
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah and not only
 does the new block chains provide
 privacy but there's another another
@@ -1257,7 +1257,7 @@ actors that are in power mmhmm
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah I
 think that's an important plank in that
 sort of potential use cases but you know
@@ -1271,11 +1271,11 @@ the currency that they all use you can
 do that
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  oh that's true I don't what
 what Alan was just talking about as far
 as because there's been a lot of
@@ -1290,13 +1290,13 @@ a big one yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes the arch is
 censorship but like political bias right
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right so I see what you're saying
 so it's like the the network being
 impartial completely and just you know
@@ -1307,7 +1307,7 @@ the end of it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes now Alan what do you
 think about this this idea so I think
 about block chains as out there in
@@ -1320,7 +1320,7 @@ you know what I'm saying
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah I know
 what you're saying the singularity then
 well I mean it certainly would I could
@@ -1350,7 +1350,7 @@ provided acquiring good worrying
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 this is
 too much for me I can't even beat my
 phone a test I listen much I can do this
@@ -1358,14 +1358,14 @@ this is too much guys well
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  no but let go
 is one last point just enough again for
 this but let's say oh 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no no I want to
 talk of interesting stuff actually I do
 have a quick question for Alan that I've
@@ -1386,7 +1386,7 @@ from a development perspective or their
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 software that could that could be due in
 the sense to the development for you
 that's what machine learning is all
@@ -1396,7 +1396,7 @@ by itself
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah but could it rewrite its
 own development machine learning code
 you know what I'm saying like rewrite
@@ -1405,7 +1405,7 @@ its own code
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well you could like feed is
 a new language and it could it could
 learn a new language so if you call that
@@ -1413,7 +1413,7 @@ Riyadh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no feet no feeding it just it
 rewrites its own code I don't know yeah
 that's the thing so okay Alan 
@@ -1421,7 +1421,7 @@ that's the thing so okay Alan
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 what do
 you want more red you know I've read
 that they're people who understand
@@ -1452,13 +1452,13 @@ yes well
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it feel on feel ons worried
 then I'm worried what 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 Alan took the
 question I wanted to ask you earlier and
 I really want to ask so let's go with
@@ -1480,26 +1480,26 @@ that's a kind of an interesting image
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yet you know it it's plausible I mean
 definitely and I can't see that is the
 show concert 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so are you saying when
 I don't pay my rent I get locked out of
 my apartment immediately that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  could
 happen what's that well actually that's
 right no but that brings up another
@@ -1513,14 +1513,14 @@ since your proof
 
 
 
-Alan McSherry:
+**Alan McSherry:**
  yeah you can write a
 smart contract and gating it I don't
 know 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I know so saginaw software
 software out of control that's that's
 the that's what I the in a nutshell what
@@ -1529,7 +1529,7 @@ I'm thinking it
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah I mean that sounds
 it sounds like a lot like I guess you
 know the virus but you accidentally
@@ -1548,7 +1548,7 @@ just run out of gas and tight uh-huh and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 we've had already an example of what I'm
 referring to the Dow attack right they
 couldn't just say oh bummer we let okay
@@ -1561,7 +1561,7 @@ letter thing so that's what I'm soon
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yes
 yeah oh yeah I suspect I don't I got it
 and you know we know what happened 
@@ -1570,7 +1570,7 @@ and you know we know what happened
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 whereas with yet less server web
 application I can just say oh ok wow
@@ -1583,7 +1583,7 @@ sort out this myth
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right okay I see I
 see what you're saying now because the
 web server I'm have a wait you have a
@@ -1608,7 +1608,7 @@ or watching these guys out
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 it's the last
 I guess it's really really interesting
 book I read was with sapiens I can't
@@ -1627,13 +1627,13 @@ but
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I got a got a summary for anyone out
 there listening maybe 
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 well it so this
 book basically explains everything that
 has happened up until now it's not the
@@ -1652,14 +1652,14 @@ there and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 it's called sapiens as in homo
 sapiens-- there 
 
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah thank you sorry I
 beg your pardon it's fooling is well
 Noah harare 
@@ -1667,7 +1667,7 @@ Noah harare
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay gotcha okay you know we
 can actually probably put a link to that
 that book or you know a link to that
@@ -1679,17 +1679,17 @@ you got any anything else you guys want
 to go over Christian Allen 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no I think
 I've talked enough 
 
 
-Alan McSherry:
+**Alan McSherry:**
 yeah 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 all right
 well then Alan just want to thank you
 for coming on the show thank you for the
@@ -1701,13 +1701,13 @@ show
 
 
 
-Alan McSherry:
+**Alan McSherry:**
 you're welcome and thanks very much
 for having me with the nice milky way's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sing it and Christian we missed a few
 shows here but I've created great to do
 this with you again and everybody out
