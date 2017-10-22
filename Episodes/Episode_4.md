@@ -1,5 +1,5 @@
 # Let's Talk ETC: Miners Featuring Cory Tselikis & Etherninja.
-Carlo Vicari:
+**Carlo Vicari:**
 you're listening to episode 4 of let's
 talk ET c i'm your host karlovy along
 with my co-host dr. christian Severino i
@@ -40,16 +40,16 @@ communication channels how are you guys
 thanks for joining us tonight
 
 
-Randall:
+**Randall:**
  doing good
 thank
 
-Cory:
+**Cory:**
  you doing great thanks guys for
 the opportunity
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah absolutely i'm
 really psyched to have you guys on here
 and uh so i just want to you know what
@@ -67,7 +67,7 @@ into blockchain or what's your
 background in general
 
 
-Cory:
+**Cory:**
  so my background
 has always been in IIT IT consulting and
 I've always kind of been into you know
@@ -97,10 +97,10 @@ fell into etherium and I was you know I
 love the whole concept about it until it
 started to go south 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right
 
-Cory:
+**Cory:**
  and then
 you know honestly you know the ET and
 then EGC came about and i have to say it
@@ -117,14 +117,14 @@ he's a great guy he's actually taught me
 a lot to about my knee running a pool
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah absolutely I see uh you know
 it's it's both you guys there's some
 others but people are guys you two guys
 like the pillars in there you know
 
 
-Cory:
+**Cory:**
  yeah
 yeah we're just we're just we're just
 missing a lot of the miners not sure
@@ -133,7 +133,7 @@ really capture the miners and find a way
 to draw them into our great community
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah definitely I think with the
 etherium moving to POS we should be
 capturing quite a bit you know moving
@@ -149,10 +149,10 @@ all of those things together kind of
 encompass like what the whole community
 is you know 
 
-Cory:
+**Cory:**
 yeah
 
-Carlo Vicari:
+**Carlo Vicari:**
  um so uh ether ninja or
 Randall why don't you tell us a little
 bit about you know tell the people
@@ -162,7 +162,7 @@ blockchain as well
 
 
 
-Randall:
+**Randall:**
 sure I was introduced
 to Bitcoin I don't know his mid-2013
 from a friend at work and immediately
@@ -180,10 +180,10 @@ for a while and basically I watched
 Bitcoin go from eighty dollars to what
 was 1100 something he asked that 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 
-Randall:
+**Randall:**
  it
 was exhilarating after you after you
 feel that it's kind of hard to let go
@@ -197,10 +197,10 @@ on overstock read an article about
 Assyrians presale and dumped the rest of
 it into that so 
 
-Carlo Vicari:
+**Carlo Vicari:**
 delay okay
 
-Randall:
+**Randall:**
  yeah yeah I'm
 a pre-sale i bought some freecell and as
 as we got closer to launch date Vitalik
@@ -224,12 +224,12 @@ don't know if i should say here the way
 the foundation was handling things you
 know I know the answer
 
-Carlo Vicari:
+**Carlo Vicari:**
  uh this is uh
 this is open show since they would say
 which I stood
 
-Randall:
+**Randall:**
  there was some
 distributions that went on that I wasn't
 completely comfortable with so I had it
@@ -275,14 +275,14 @@ everything but not a whole lot about one
 thing that 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's cool I know it's a
 cool story about you know that the
 constant attacks you were first getting
 in the beginning of the et Cie that's
 for ya
 
-Randall:
+**Randall:**
  I'm not a hundred percent sure of
 the sources there was no other pools at
 that time because sometimes you know in
@@ -296,20 +296,20 @@ quite sustained for their substantial
 amount of time 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right I guess cuz you
 were the only one you were getting like
 the full brunt of the attacks
 
-Randall:
+**Randall:**
  got to
 Craig
 
-Carlo Vicari:
+**Carlo Vicari:**
  you were gonna say something
 Christian sorry
 
-Christian Seberino:
+**Christian Seberino:**
  no I was just that was
 just uh that was an interesting story
 I'd like the that yell I hear more about
@@ -323,7 +323,7 @@ when the price goes high so maybe you
 can start a investment fund or something
 free to be funny
 
-Randall:
+**Randall:**
  oh no I'm not always
 right I've been wrong before believe me
 I I did at one time I was very heavily
@@ -343,7 +343,7 @@ that's just my viewpoint on it I agree
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I definitely think there's a
 major difference between scam and
 something that's poorly executed so I
@@ -355,7 +355,7 @@ specifically since I you said he gave us
 like your block chain and your crypto
 background but 
 
-Cory:
+**Cory:**
 so what so ATC came about
 you know I was minding etherium and the
 whole hard for came up and honestly I
@@ -375,7 +375,7 @@ know I just had a bed you know bad
 intuition about it
 
 
-Christian Seberino:
+**Christian Seberino:**
  you remember what was
 there was a I remember a couple days
 where unread it was like every headline
@@ -383,7 +383,7 @@ or every other headline was about the
 Dow 
 
 
-Cory:
+**Cory:**
 yeah I mean you know when a cake you
 know in my opinion I don't like bashing
 anybody but you know I think etherium
@@ -414,7 +414,7 @@ got about four rigs full rigs right now
 mining etherion classic uh and you know
 
 
-Christian Seberino:
+****Christian Seberino:**
 Jacob oak or did you feel like me and
 Randall did but I know Randall said when
 he got disillusioned previously he was
@@ -426,7 +426,7 @@ fork is a bummer but the theory was so
 cool and 
 
 
-Cory:
+**Cory:**
 yeah but absolutely I mean for
 me it's you know a lot of people see
 Bitcoin or a theory amor tokens they see
@@ -463,22 +463,22 @@ put them up I've probably already been
 attacked hundreds of times
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah
 it's a link
 
 
-Cory:
+**Cory:**
  it's a very different world
 out there and there's really only like
 one pool aside from solo minors that are
 that are really pushing the limit there
 oh 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 
-Cory:
+**Cory:**
  hopefully hopefully there's
 going to be some more adoption I'm fat
 you know Carlo introduced me to a couple
@@ -493,7 +493,7 @@ I love about it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  now i'm curious i have a
 question why besides being magnanimous
 why would why would you two want to help
@@ -502,7 +502,7 @@ doesn't that mean less money more
 competition for you guys
 
 
-Cory:
+**Cory:**
  you know that's
 a tough question I mean I could you know
 we're facing it right now obviously
@@ -517,14 +517,14 @@ but I think it's because we don't
 there's not enough
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh so you're on Vegas
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah what do you think Randall's sorry
 
-Randall:
+**Randall:**
 yeah my biggest concern is well really
 two concerns is the hash rate
 distribution and the actual hashrate
@@ -549,13 +549,13 @@ be much more difficult to rent something
 to torque is a some sort of attack
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so
 it's so that's not Tara happy no sorry
 glad dressed 
 
 
-Christian Seberino:
+**Christian Seberino:**
 up just in case anybody
 doesn't know could back me up on this
 but people might think that because
@@ -570,7 +570,7 @@ make more money with that with the
 smaller price would you agree with that
 
 
-Cory:
+**Cory:**
 oh yeah I agree I mean it's all relative
 I mean tell you how you do it i mean how
 much is your investment gonna be to
@@ -586,7 +586,7 @@ I could easily you know be pulling same
 amount if not more of what I was getting
 out of it hmm 
 
-Christian Seberino:
+**Christian Seberino:**
 now have you both of you
 did Bitcoin mining did both of you get
 the specialized integrated circuits to
@@ -594,21 +594,21 @@ do shaa hashing really fast and get
 into all that
 
 
-Cory:
+**Cory:**
  yeah I actually have a few
 aunt miner saw sitting in my basement
 collecting dust
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 
-Carlo Vicari:
+**Carlo Vicari:**
  is that because its
 market not wear things like dust that's
 
 
-Cory:
+**Cory:**
 because it's just it was more more to
 learn than anything because obviously
 you know you can have a hundred of them
@@ -622,18 +622,18 @@ to determine you know the kind of money
 that those guys are doing is
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so you have
 the ant miners downstairs in the
 basement with the old n64 I guess right
 
 
-Cory:
+**Cory:**
 yeah I'm old sega and nintendo 64 you
 name it
 
 
-Christian Seberino:
+**Christian Seberino:**
  now we I the the algorithm to
 mine athyrium that that has or whoever
 you want to pronounce it it favors GPU
@@ -645,7 +645,7 @@ that do you think has that helped you
 guys
 
 
-Cory:
+**Cory:**
  oh yeah absolutely i love i love it
 because you know i can invest in a
 mining rig with GPUs and you know in i
@@ -662,7 +662,7 @@ know and the AMD chip sets the for 80s
 for 70s 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so would you say that
 there's less danger with athyrium and if
 they're in classic of some somebody
@@ -673,7 +673,7 @@ the other miners
 
 
 
-Cory:
+**Cory:**
  I mean you know
 anything's possible with the right
 amount of money but I think it's so far
@@ -687,7 +687,7 @@ probably kill an ASIC
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah and the
 reason is because it needs so much
 memory right mind correct and so at
@@ -697,7 +697,7 @@ that sense it helps people
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 randall are
 eat their ninja what do you think about
 that do you see anything on a horizon
@@ -705,7 +705,7 @@ kind of battling it out with the GPUs
 technology 
 
 
-Randall:
+**Randall:**
 well was one of the
 benefits of the difficulty bomb was it
 allows avoidance and not only is memory
@@ -719,7 +719,7 @@ chips I don't know but it is a
 possibility
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  oh I see what you're saying
 so the the technology cycle or the
 people that rutten that may have been
@@ -729,10 +729,10 @@ just didn't bother because of the bomb
 is that right 
 
 
-Randall:
+**Randall:**
 that is correct 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay I see
 oh and also I wanted to touch on earlier
 I wanted to ask about that Tara hash
@@ -749,25 +749,25 @@ attack if you're over Terra hash is
 
 
 
-Randall:
+**Randall:**
 that
 right that's correct it's much harder to
 garner up that much hashing power to
 orchestrate some sort of attack 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I see
 
 
 what you're saying 
 
 
-Christian Seberino:
+**Christian Seberino:**
 anymore go ahead and
 finish Randall it at it
 
-Randall:
+**Randall:**
  yeah just the
 more hash you have the more secure your
 network is overall and that's to deal
@@ -788,7 +788,7 @@ know
 offender or something that the likes 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok
 the question that I had for both of you
 was I I know very little about the high
@@ -806,7 +806,7 @@ network
 
 
 
-Cory:
+**Cory:**
  I think latency is very
 important um you know when one mining
 you know depending on regional locations
@@ -818,7 +818,7 @@ better it is to you know not have a you
 know a hiccup in the network 
 
 
-Christian Seberino:
+****Christian Seberino:**
 I guess
 what i was getting at was like
 hypothetically let's say i had a really
@@ -834,12 +834,12 @@ is slow
 
 
 
-Cory:
+**Cory:**
 yeah i mean that's that's
 definitely offices 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 uh speaking of
 hiccups since now work i like about a
 half hour into the show i wanted to
@@ -853,11 +853,11 @@ was it we had a few hours of like an
 unusual amount of orphans going on all
 right 
 
-Cory:
+**Cory:**
 yeah 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that was uh i believe
 that was on wednesday or thursday i
 think that was wednesday like afternoon
@@ -868,7 +868,7 @@ kind of filling everybody in on what's
 going on 
 
 
-Randall:
+**Randall:**
 yeah I actually it was Corey's
 it figured out the resolution I don't
 know if anybody ever figured out the
@@ -881,7 +881,7 @@ blocks that weren't by other pool and
 then they basically aur batao 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm sorry
 can you uh Randall can you repeat that
 the last half minute and also can you
@@ -889,7 +889,7 @@ define what orphans are for people that
 don't know 
 
 
-Randall:
+**Randall:**
 yeah sure a person orphans
 are basically blocks that are mind that
 are there that are reorganized over
@@ -927,17 +927,17 @@ transactions that the older versions is
 a client I was not accept and allowed to
 build onto the chain 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I see oh
 
-Christian Seberino:
+**Christian Seberino:**
  so they
 were they were working on they were
 basically wasting their time and they
 didn't know it okay 
 
 
-Randall:
+**Randall:**
 yeah basically there
 was some other strange behavior to I
 think Cory's cool experienced it where
@@ -948,7 +948,7 @@ that a little further Tori
 
 
 
-Cory:
+**Cory:**
 yeah what it
 was very it was very odd you started
 seeing some errors in uh in the parity
@@ -982,7 +982,7 @@ happened for me
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay now if I understand
 you correctly it was the new version of
 the code that caused this that people
@@ -993,7 +993,7 @@ thought to check for decision
 
 
 
-Randall:
+**Randall:**
 I I agree
 completely i think any new client
 releases that we're going to have to
@@ -1007,7 +1007,7 @@ pool
 
 
 
-Cory:
+**Cory:**
 yeah i agree maybe maybe we just
 need a best kind of a best practice for
 for the large pools you know miners are
@@ -1020,7 +1020,7 @@ consistent as possible it'll be helpful
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I am also with you guys since I
 brought it up I was wondering if you
 guys could maybe expand upon the fork
@@ -1033,7 +1033,7 @@ with all that if you guys could kind of
 expand upon it 
 
 
-Randall:
+**Randall:**
 you know I I haven't been
 watching that too closely I all I know
 is that you know parody ended up being
@@ -1046,7 +1046,7 @@ more conservative with it its deployment
 and thickness 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah we're definitely
 taking a security first approach as
 opposed to accessibility so I think
@@ -1058,7 +1058,7 @@ in the end of july so it and i just say
 
 
 
-Cory:
+**Cory:**
 i think the real reason why i like the
 authority as much as as I do is for the
 reasons that reason the fact that we we
@@ -1069,7 +1069,7 @@ community is and how good ET c is is a
 you know a blockchain to stick with
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  um
 for anyone listening out there core
 me and and ninja are saying how great
@@ -1087,28 +1087,28 @@ little bit pandemonium there for a few
 hours 
 
 
-Cory:
+**Cory:**
 yeah yeah we're all invested in it
 in some way or shape or form and you
 know we have to all protect our
 investment 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I understand oh
 
 
-Christian Seberino:
+**Christian Seberino:**
  just
 real quick Carlo to address your
 question really briefly the the reason
 for the issue on the etherium system was
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes thank 
 
-Christian Seberino:
+**Christian Seberino:v
 you a very subtle difference
 and member the issue with the spam the
 denial of service attacks right it was a
@@ -1116,14 +1116,14 @@ subtle difference in how they they fix
 that problem that caused 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it OIC so was
 fixed one way in parody and then fixed
 another way and guest 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that was what
 caused there was a corner case with
 eliminating all that junk that caused it
@@ -1143,12 +1143,12 @@ way I thought it was just like a dream
 come true do you guys feel that way
 
 
-Cory:
+**Cory:**
  I mean yeah I felt that way
 
 
 
-Randall:
+**Randall:**
 that's the way if they're IAM should be
 I mean eventually if it does reach full
 scale IOT which is the end game for me
@@ -1157,11 +1157,11 @@ decentralized and not under a
 centralized control 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah we have we
 have bitcoins principles going on you
 know I was at the you know I told you
@@ -1178,12 +1178,12 @@ like oh you know go et Cie so that was
 pretty cool
 
 
-Cory:
+**Cory:**
  yeah that's a good feeling
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that was pretty cool but um oh so
 the other thing that wants to talk to
 you guys about um now that we covered
@@ -1202,7 +1202,7 @@ to ninja what
 
 
 
-Randall:
+**Randall:**
  sure well you know why end
 goals IOT and you know when that's when
 the dow came about i was actually very
@@ -1214,11 +1214,11 @@ the point what was was very badly
 executed 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 mean one cantract 
 
 
-Randall:
+**Randall:**
 yes that
 was bad all I wanted was I wanted you
 know the idea with the smart locks and
@@ -1283,7 +1283,7 @@ and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah there's all sorts of wild stuff
 Corey do you have any you know wild
 far-off scenarios for that means here I
@@ -1291,7 +1291,7 @@ think
 
 
 
-Cory:
+**Cory:**
  either ninja took the words out of
 my mouth I mean I think you know with
 all currents all crypto currently you
@@ -1321,7 +1321,7 @@ understanding
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I think what he was
 saying also about sorry Krishna I'd like
 what he was saying also about kinda you
@@ -1338,14 +1338,14 @@ patna you know Haskell and stuff like
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 that that's not a language functional
 language that people talk about for this
 stuff 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Oh what's up what's the you know
 Charles talks a lot about Haskell and
 stuff like that Christian writing code
@@ -1353,7 +1353,7 @@ in Haskell if what uh what programming
 language would that before
 
 
-Christian Seberino:
+**Christian Seberino:**
  no I was just
 going to say Haskell and skyla are two
 big functional languages that people are
@@ -1382,7 +1382,7 @@ that much sooner to make your vision
 come true that right
 
 
-Randall:
+**Randall:**
  others other ways
 nati protocols but yeah IP version 6 you
 know it is deployed in a lot of
@@ -1396,7 +1396,7 @@ think thats so much an issue
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 ok yeah oh
 so kind of kind of one far-off scenario
 i was talking about this with eric some
@@ -1417,7 +1417,7 @@ accordingly all sorts of wild stuff like
 that 
 
 
-Cory:
+**Cory:**
 yeah I was going to say that not to
 drop you but I'm actually I really enjoy
 working with Eric a lot I've been in a
@@ -1430,11 +1430,11 @@ and bring more miners to hopefully at
 three o'clock
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  oh that would be awesome
 
 
-Cory:
+**Cory:**
 so yeah I was as soon as more
 information comes about and we get the
 prototype and everything ready I think
@@ -1443,7 +1443,7 @@ will we'll be announcing it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah
 feel free to you know I understand
 keeping things under wraps you know at
@@ -1453,7 +1453,7 @@ absolutely
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I have a question for the two
 minors uh so if somebody listening that
 says okay I think I want to try mining
@@ -1469,7 +1469,7 @@ take put their toe in the water
 
 
 
-Cory:
+**Cory:**
  you know
 for most miners actually athyrium isn't
 it isn't too complicated to start mining
@@ -1498,23 +1498,23 @@ all there to i'll get you started
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what
 photos see it
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  oh sorry go ahead
 christian sir 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what's the ocl
 don't know 
 
 
-Cory:
+**Cory:**
 so to break it down it's a
 you know it's an open you know the open
 source driver that allows video cards to
@@ -1524,17 +1524,17 @@ software I'm ready to break it down
 basically
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay 
 
 
-Cory:
+**Cory:**
 so you've got you know
 two versions you got AMD's you know
 version and you've got Nvidia CUDA
 version 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so over for a question I had a
 question I had for the real like mining
 newbies um and I think this is something
@@ -1557,7 +1557,7 @@ that's uh yeah it means ninja if you
 could jump in on that 
 
 
-Randall:
+**Randall:**
 yeah what I know
 very little about minor gate but I do
 know a little bit about this cloud hash
@@ -1573,7 +1573,7 @@ to profit too much off of cloud hashing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay that was that was kind of the angle
 of my last question I was it was can
 somebody expect to make money if they
@@ -1583,7 +1583,7 @@ ether account balance go up
 
 
 
-Cory:
+**Cory:**
  I'm sure I'm
 sure they will but I don't know if
 they're also going to see their electric
@@ -1592,11 +1592,11 @@ speculations they're probably going to
 end up negative
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 
 
-Cory:
+**Cory:**
  so I don't know so
 I mean it really depends on how you look
 at it again like ninja said is a
@@ -1610,7 +1610,7 @@ to to lure in newbies
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I think I was
 gonna say that too i think minor gate is
 obviously something you don't want to
@@ -1628,19 +1628,19 @@ to that I didn't know about deep you
 know their knowledge 
 
 
-Cory:
+**Cory:**
 I know they charge
 high fees and by the time all I was done
 I really didn't end up with anything 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I
 see but
 
 
-Randall:
+**Randall:**
  yeah I wrote a few things in the
 room or the rumor mill but the thing is
 the crypto industry there's really two
@@ -1676,7 +1676,7 @@ know at different levels
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right and
 also
 you know I guess you can mitigate any
@@ -1691,7 +1691,7 @@ correct
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I had a question so you're you
 guys are are describing the details of
 how buying and selling at the right time
@@ -1703,7 +1703,7 @@ get everything set up and then just sit
 back for six months
 
 
-Cory:
+**Cory:**
  yeah i mean i would
 say it took me oh my gosh it took me
 over a year to kind of build out my farm
@@ -1740,7 +1740,7 @@ for six parties
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right it's so it's uh
 it's like the difference between if you
 go to like a street race and you see the
@@ -1752,7 +1752,7 @@ it doesn't like a quarter mile
 
 
 
-Cory:
+**Cory:**
  yeah in
 the touch on that was one of the reasons
 to why a kind of came up with minor hub
@@ -1768,7 +1768,7 @@ for like et Cie
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely what's the a
 full let web link for that will put it
 in the description for you guys watching
@@ -1776,12 +1776,12 @@ on YouTube but what's the full link for
 that just so everybody is
 
 
-Cory:
+**Cory:**
  WWE minor a to
 beo minor hub that I 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 oh cool cool and
 uh I know ninja you you have you have a
 pool as well I don't know if you want to
@@ -1789,12 +1789,12 @@ let everybody know about that
 
 
 
-Randall:
+**Randall:**
  yeah sure
 that II pooled I oh 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 ok cool so we'll put
 that description for everybody listening
 on YouTube um I think we'd be running
@@ -1804,7 +1804,7 @@ on Christian
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  um I was just curious about
 the I Chandler is a big minor in China
 as a big ET SI fan and I was just
@@ -1815,11 +1815,11 @@ him a lot of money to buy a lot of GPUs
 
 
 
-Cory:
+**Cory:**
 he probably has a very large farm 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 he
 does um also he's um uh he speaks a lot
 over in China as well and you know he
@@ -1834,11 +1834,11 @@ crypto coin news.com so you guys want to
 check that out
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so yeah he's got a
 big mining farm a lot of connections and
 he's you know active in the community as
@@ -1848,21 +1848,21 @@ you guys want to touch on or anything
 like that
 
 
-Cory:
+**Cory:**
 I'm good I'm you know I appreciate the
 time and uh hopefully we'll be on more
 often 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah yeah absolutely so we're
 gonna say ninja
 
-Randall:
+**Randall:**
  thank you
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah
 absolutely so um thanks again for coming
 on guys uh you know now we've had
@@ -1875,15 +1875,15 @@ coming on and we'd love to have you guys
 on again in the future for sure
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 definitely
 
-Randall:
+**Randall:**
  thank you 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 i thinking
 everybody thank you later thanks for
 helping uh and thanks for joining us
