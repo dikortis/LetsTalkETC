@@ -1,5 +1,5 @@
 # Let's Talk ETC: Dr. Duncan Coutts - Provably Secure Smart Contracts.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to let's talk et Cie
 I'm your host karlovy along with my
@@ -37,11 +37,11 @@ Duncan am i pronouncing your last name
 correctly Duncan Koontz
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  that's right
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay so great to have you on here and uh
 yeah so I just want to give you a little
 bit of info and also anyone that's kind
@@ -56,7 +56,7 @@ Duncan and Jeju and Episode II
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  well I
 was one of those lucky people who at
 school knew exactly what they wanted to
@@ -103,7 +103,7 @@ got into
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it and and that's yes that's
 proving things and in formal
 verification are gonna be a pretty hot
@@ -115,7 +115,7 @@ bad stuff I'm guessing right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  right and
 my focus particularly at university was
 that in functional programming so I was
@@ -137,13 +137,13 @@ like this this is like obviously the
 right way to do things
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I don't know if you've seen I'm
 sorry go ahead Christian 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I was gonna say
 so and then after you got your PhD did
 you have any interesting adventures in
@@ -152,7 +152,7 @@ industry you want to share or any
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yeah
 so so I was one of those people who
 basically stayed you know far too long
@@ -176,7 +176,7 @@ company doing this
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right now for for
 everyone listening who's maybe not as I
 guess not as much development experience
@@ -196,19 +196,19 @@ Haskell would be
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 really good for well
 actually even before that make sure to
 ask also what is functional programming
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that to write I need to know that right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah well let me start with with with
 the person so in some sense it's a
 slightly hard question to answer because
@@ -239,7 +239,7 @@ of money at stake or or safety at stake
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that would have been good present down
 so um so a lot of money and stake a lot
 of things at stake what are what are
@@ -248,7 +248,7 @@ sermons
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  so yes I
 some of the early adopters of Pascal in
 industry were big banks because they
@@ -274,7 +274,7 @@ niche things
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay I have a question so
 the standard a common story in in tech
 is somebody adopts a new technology
@@ -290,7 +290,7 @@ not want to reveal that
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  sure I mean how
 many there are you know as a fraction of
 the entire industry well it's still I
@@ -318,7 +318,7 @@ small companies
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so would you think
 that if it's possible
 one day that a big company like Facebook
@@ -331,7 +331,7 @@ languages
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yeah so then then they would
 actually have a serious problem which is
 that they have laws in the world's world
@@ -358,7 +358,7 @@ programs you'll get
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  just like I'm
 function of the market I guess
 
@@ -366,7 +366,7 @@ function of the market I guess
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  right
 it's a self-reinforcing
 thing so yeah because you know what what
@@ -376,7 +376,7 @@ job
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  now I want to ask both you guys this
 as developers and programmers you know
 really uh you know um so I've seen like
@@ -395,7 +395,7 @@ that is Java like the big joke
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 um from
 the point of view of the functional
 programmers I'm afraid it is yes and
@@ -407,7 +407,7 @@ action a lot
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I've heard a lot that job
 was just like the only failure that has
 ever been successful in a programming or
@@ -417,7 +417,7 @@ to me
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 one thing I like to sort of say
 about Java is that you know it was
 fifteen years behind the cutting edge
@@ -431,7 +431,7 @@ this
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes so would this be a fair comment
 there's lots of languages that you could
 probably learn much faster and write
@@ -446,7 +446,7 @@ is awesome
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 it's why I think that the the thing
 there is to realize that you've
 basically got two major classes of
@@ -485,13 +485,13 @@ difficult so there's
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so there's there is
 another occasion there is
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  definitely
 yeah so there's a big there's a
 relatively big front learning cost 
@@ -499,25 +499,25 @@ relatively big front learning cost
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 now what is the function languages now
 now is it necessary
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  what now what I mean
 by that is because like everybody gets
 taught the imperative ones 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes exactly
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 so people people have done it
 parents at University where you teach
 the functional ones first they're no
@@ -533,7 +533,7 @@ switch
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and why do you think that is the
 case if they're not that much they're
 not more difficult why don't we learn
@@ -542,7 +542,7 @@ functional program
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  that is entirely
 historical historical reasons and so
 this goes back to why do we program
@@ -578,7 +578,7 @@ languages
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so if I understand you
 correctly one of the things you're
 saying is that then that the obvious
@@ -591,7 +591,7 @@ question so is
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 and also the fact that
 there was 30 years of research into how
 do you actually compile these things
@@ -601,7 +601,7 @@ too high a cost
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay that is there yet does there have
 to be a cost to functional programming
 can it be competitive with like say C or
@@ -611,7 +611,7 @@ C++
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 it's very difficult to become really
 competitive to C because we tend to rely
 on things like garbage collection and
@@ -626,7 +626,7 @@ and and that's a whole lot easier
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now I
 don't know if Haskell errs do this but
 when I used to evangelize Python that
@@ -643,18 +643,18 @@ you have where they call the foreign
 language interface foreign 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 foreign
 function interface
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so could you do something like that
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 if you can you can and and that is still
 a reasonable thing to do especially when
 it comes to things like you know binding
@@ -707,7 +707,7 @@ nice
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so um now that's some a pretty
 pretty nice history of Haskell and the
 how we ended up where we are now for the
@@ -726,14 +726,14 @@ correct
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 that's right yes so we're
 helping them with the Cardno project 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 and
 just so just so I got this correct so it
 looks like um according to the I wish K
@@ -744,7 +744,7 @@ correct
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 well I suppose the team name
 there is not it's not particularly
 significant it's it's entran director of
@@ -754,7 +754,7 @@ settlement layer
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right yeah okay
 gotcha gotcha so um so this is something
 you're currently working on is Cardno
@@ -765,7 +765,7 @@ is pretty cool
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yes the whole the whole code on O
 project the software is all the
 englishman Haskell ohk are also working
@@ -775,7 +775,7 @@ another
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 functional I functional
 programming yeah just so anybody
 listening they're from the UTC community
@@ -788,13 +788,13 @@ um and there was
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  a whole bunch of teams
 I guess there's 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 a lot of chance which is
 the Cardinal SL lair which is written in
 Haskell which is another functional
@@ -804,7 +804,7 @@ going on ohk right now
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah now I have
 another question I just thought of so um
 Duncan's so that's this very strong
@@ -819,7 +819,7 @@ but then cut out for it
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 for this but
 still a place to see by the way the
 compilation of Haskell and C is actually
@@ -827,7 +827,7 @@ a really excellent combination
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so
 but the question I wanted to ask you so
 suppose somebody's listening and they
@@ -843,7 +843,7 @@ different choices
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 sure so there's kind of two main sort of
 properties that distinguish the various
 different functional languages one is
@@ -869,14 +869,14 @@ why is purity a good thing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes would you
 yeah if you please 
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah I I will and
 then the other but the other axis is
 like kind of what platform does it does
@@ -909,7 +909,7 @@ language although it does run on dotnet
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and why would if functional pure
 functional programming is not any harder
 why would somebody choose a hybrid like
@@ -920,7 +920,7 @@ Machine
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 no that's right I think that the reason
 is that it's much easier to work with
 existing imperative languages if you use
@@ -962,7 +962,7 @@ your dotnet libraries or whatever
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so so
 what you're saying then is is libraries
 is what would be what would make
@@ -972,7 +972,7 @@ going all the weight it has
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 exactly
 exactly yeah so in in in Schuyler knife
 sharp it's without too much pain you can
@@ -982,7 +982,7 @@ in sorry other languages
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sorry guys for
 someone who is a complete noob um it
 kind of sounds like what you're saying
@@ -993,7 +993,7 @@ store is that correct
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah that's true
 so it's no hackage has I don't know in
 those days about 5,000 maybe libraries
@@ -1011,7 +1011,7 @@ because we're a smaller community
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 yeah now before we get into because I
 also wanted to switch gears eventually
@@ -1024,7 +1024,7 @@ effects I survived
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 right right so okay
 so purely functional languages so get
 get that okay there's two ways to look
@@ -1061,7 +1061,7 @@ reason about them so composable
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so it's
 almost like the difference between two
 plus two equals four and an ambiguous
@@ -1072,7 +1072,7 @@ spectrum is that right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yeah I guess sure
 oh you can't review mathematically you
 can reason mathematically about
@@ -1114,7 +1114,7 @@ things are
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 indeed do you think that the
 hack would have been a lot less likely
 if it was written in something like a
@@ -1124,7 +1124,7 @@ functional programming language
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 you need
 the combination of two things you need
 two it's sensible to use a language like
@@ -1154,7 +1154,7 @@ you want
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah what do you I had one last
 question about different languages so
 the 800-pound gorilla of the there from
@@ -1185,7 +1185,7 @@ cool
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 so so so Lisp is like the first
 mainstream functional language so in
 many ways that makes it awesome
@@ -1228,7 +1228,7 @@ really powerful technique
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  is the syntax
 of Haskell would you say simple maybe
 not as simple as Lisp but it's not like
@@ -1236,7 +1236,7 @@ C++ complex
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 oh it's it yeah it's a lot
 simpler that goes pass it in sometimes
 it's not as simple as Lisp but a lot of
@@ -1254,7 +1254,7 @@ kind of forest of parentheses
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it sounds
 like you're saying that Lisp is good but
 Haskell is better that's what I got at
@@ -1262,7 +1262,7 @@ all
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 that that is what I'm saying a list
 person would say little around but do it
 but there's a bit warmer
@@ -1270,7 +1270,7 @@ but there's a bit warmer
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay so why
 don't we now why don't we switch now I
 mean talk about what a lot of people
@@ -1287,7 +1287,7 @@ exposing them to this whole field
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 because I guess I guess we did a nice
 kind of gone through the whole thing we
@@ -1306,20 +1306,20 @@ stuff like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well well put 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I'm
 thinking to tackle but 
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 uh idea about
 assurance and formal stuff and reading
 things and so it starts from the premise
@@ -1386,7 +1386,7 @@ equal and that's a very powerful thing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now which is is it is this true
 today like let's say I was the
 programmer for the Nasdaq and I wanted I
@@ -1402,7 +1402,7 @@ no chance at all of any issues
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  so the
 dirty truth is that no not really
 so let me sort of explain all the state
@@ -1463,7 +1463,7 @@ average set of everything do
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  you think
 it's just a matter of time before this
 the the two will meet and will people
@@ -1474,7 +1474,7 @@ happily ever after
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 there's some
 interesting things going on at the
 moment which are sort of in that are
@@ -1500,7 +1500,7 @@ with real hospitals
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so I have a I have a
 question that I think all the non
 developers would like to know these
@@ -1524,7 +1524,7 @@ functional programming you know 50 or
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 we're gonna ingest
 those you certainly could could use
 functional programming for that sort of
@@ -1552,7 +1552,7 @@ you could formalize specify proof
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay I
 don't know about you guys but I take my
 stand take my chances with a
@@ -1562,14 +1562,14 @@ the crazy people driving on the road now
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah yeah what you don't have yeah
 action to make to make it better than
 that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I mean people talk about that
 they're worried about the you know they
 heard about a self-driving car having an
@@ -1583,7 +1583,7 @@ talk but I was the yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so wait
 wait so so just to be clear so we're not
 at the stage where people listening
@@ -1594,7 +1594,7 @@ work exactly as intended so what
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 oh no
 one actually no that is a lot easier
 interestingly yeah it turns out so to
@@ -1633,7 +1633,7 @@ chair and complete
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  could you consume
 potentially reason that someone is not
 allowed to drain hundreds of millions of
@@ -1643,7 +1643,7 @@ reasoning right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 so that's a property
 that you would want to achieve and then
 looking like my question there's two
@@ -1669,7 +1669,7 @@ and cannot do
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I like it and I think
 everybody listening likes that too
 especially after what happened 
@@ -1679,7 +1679,7 @@ especially after what happened
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ah it
 sounds like what you're saying is as
 this as smart contracts get more and
@@ -1694,7 +1694,7 @@ sandbox right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 I think it's a kind of one
 of these 8020 things you don't have to
 use a single language for all your
@@ -1726,14 +1726,14 @@ of computation and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 when something is
 strike really weird for those of us who
 don't now which is me 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 um well it is to
 do with what kinds of things you can
 express it's like if you have to have
@@ -1746,12 +1746,12 @@ owes who what when
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right okay so so in
 sound
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  and you general-purpose
 computation and that means also a proper
 Turing complete language and then you
@@ -1759,13 +1759,13 @@ have a harder time reasoning about it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and so the side effects right it's
 although you all your examples
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  not even
 it's not even the side effects so all of
 these all of all the things that you
@@ -1802,13 +1802,13 @@ well if I kind of trade off so from
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 using Haskell isn't Haskell
 turing-complete so there's
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  absolutely
 Haskell's general-purpose ensuring
 complete so there's still differences
@@ -1821,7 +1821,7 @@ would want to use it for anything
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 from what I now understand it kind of
 sounds like you know into 8020 you were
 talking about all the things that are
@@ -1834,7 +1834,7 @@ anything's downright complex
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 with that
 but all your patient yeah yeah that's a
 that's pretty decent Katrina right right
@@ -1844,7 +1844,7 @@ what when a
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 nd something noses and and
 when you said exotic it would be beyond
 who owes who what when it's more like
@@ -1853,7 +1853,7 @@ like a lot of different exceptions
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yes
 if you wanted to in code playing chess
 as a smaller contract that requires
@@ -1870,7 +1870,7 @@ conditions do you gain assets hmm
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 who
 knows who won and then there's who owes
 who what when but but but but but
@@ -1881,7 +1881,7 @@ complexities in the more exotic it is
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 that's right yeah if you need if you
 need to write complicated functions to
 be able to tell
@@ -1891,14 +1891,14 @@ computation in those situations hmm
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 bringing it but but
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  I just thought you
 could get rid locker before far that and
 that's why it's a kind of 80/20 thing
@@ -1906,7 +1906,7 @@ that's why it's a kind of 80/20 thing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 got you now how what Duncan what would
 you say to somebody listening that let's
 say they want to make a blockchain based
@@ -1925,7 +1925,7 @@ to jump into this whole field
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 okay so there's there's two things one
 is the languages that use and the other
 is the techniques you use okay and so
@@ -1970,7 +1970,7 @@ give you an idea of what does it mean to
 specify things improve things
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay and
 is there any specific websites or
 specific authors that you're you're
@@ -1978,7 +1978,7 @@ really impressed with
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  so if you're
 starting with Haskell obviously there's
 a house called a word website which has
@@ -2003,7 +2003,7 @@ started with
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay very nice
 okay so I got I got one for you on
 something I also like to talk about with
@@ -2020,18 +2020,18 @@ too distant future
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 well I can tell you
 what I'd like to see
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  that's good that
 works too
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 I mean I I think functional programming
 has becoming more and more and more
 mainstream you can see it in the new
@@ -2043,7 +2043,7 @@ languages it's a complete
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 man give me
 some jettison stuff what do you see
 what's good 
@@ -2053,7 +2053,7 @@ what's good
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 uh okay well I think there's
 a long way that you could push things a
 long way with this formal stuff and when
@@ -2082,7 +2082,7 @@ programs
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 um in 30 years are you visiting
 us in the United States travel
 by Hyperloop with using Haskell or high
@@ -2092,7 +2092,7 @@ the Elon Musk Hyperloop
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah I don't
 know it yeah there is still there's
 still this difficulty I think in getting
@@ -2121,7 +2121,7 @@ stuff I think
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now wait if it's yours
 money involved then people of course
 will do anything if it'll get bit make
@@ -2132,7 +2132,7 @@ Haskell functional
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 well this this is
 really a social problem so the reason
 that the reason that we're not all using
@@ -2213,7 +2213,7 @@ be in it all the money will be in
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it I
 see h3 so how about in general besides
 the high assurance software Hyperloop
@@ -2224,7 +2224,7 @@ years
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 well you have a few problems about
 you know undersea volcanoes and yeah
 with Atlantic Ridge work
@@ -2232,14 +2232,14 @@ with Atlantic Ridge work
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 New York to New York teller from the
 north you came to South UK 
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 it's taking
 us like 30 years to build a high-speed
 rail from London to Birmingham 
@@ -2247,20 +2247,20 @@ rail from London to Birmingham
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so we'll
 go with and now and now
 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  I think I didn't
 find it like do it before before we do
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 ah there you go
 I can't sure that's true how about so we
 got the Jetsons Jetson stuff from you oh
@@ -2271,7 +2271,7 @@ you think
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  I have no particular insight I
 imagine I imagined so yeah and hopefully
 they're not crashing into each other
@@ -2282,7 +2282,7 @@ sensing each other and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah well
 after if you blow up then some
 regulation will come in and then they'll
@@ -2290,19 +2290,19 @@ fly properly hopefully um
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah a
 certified or something you're
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right
 certify we can 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 actually no seriously
 people are writing dsls for aircraft
 control software in Haskell where you
@@ -2319,14 +2319,14 @@ could kill someone
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so these are doing
 that so just in case people don't know
 so DSL is a domains 
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 domain specific
 language so when we were talking earlier
 about like contract DSL or SQL being a
@@ -2336,7 +2336,7 @@ for a particular problem domain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so this
 has to have tools does it have tools to
 for people to say look I'm an
@@ -2348,7 +2348,7 @@ them saying
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 you don't do it by crippling
 you do it by encoding but but yes you
 can ask all is a really good language
@@ -2360,7 +2360,7 @@ all over the place with others
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  we get we
 get some jets and stuff from you now how
 about a more a little bit less
@@ -2377,7 +2377,7 @@ read in the past fiction nonfiction
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh
 how do you feel about brexit let's throw
 that 
@@ -2387,7 +2387,7 @@ that
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 uh-oh I think it's terrible but
 then I'm in the you know the the liberal
 London elite 20 rest of the country okay
@@ -2396,7 +2396,7 @@ wouldn't
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I oh I'll say this to anybody
 listening I had a pretty long I was in
 in Malta with Duncan we had a great time
@@ -2422,7 +2422,7 @@ interesting stuff and we'll get a chance
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 to actually it's a fascinating thing
 coming into this this community because
 you know I come from like the that's or
@@ -2446,12 +2446,12 @@ and putting opposite view just
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no no it
 was good it was good it was good but 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 it
 was really it was really interesting and
 to just sort of pull out some of the
@@ -2460,7 +2460,7 @@ interesting arguments there
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I definitely
 like to have you on again so we could
 talk more about um the one discussion we
@@ -2475,7 +2475,7 @@ you know I should point out
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 I'm only
 like an armchair
 macroeconomist I mean you you talked to
@@ -2483,7 +2483,7 @@ a real macroeconomist that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 was some good
 arm cheering oh that was really good
 there's better arm caring than I've ever
@@ -2492,7 +2492,7 @@ done so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so have you um have we covered
 most of what people do you think need to
 hear that are that are new to functional
@@ -2506,7 +2506,7 @@ want to say Duncan
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 um that comes quite a
 lot I mean we could talk a little bit
 about what IO HK is doing with this
@@ -2520,7 +2520,7 @@ think
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 let's uh let's let's be careful
 and not do that we'll just say that IO
 HK is doing some awesome stuff with
@@ -2532,13 +2532,13 @@ rather than not again trouble you know
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 okay sure sure
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah good so so if I could let me see if
 I could summarize just for the the
 listener so the reason we didn't all use
@@ -2549,7 +2549,7 @@ the hardware and
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah we programmed
 computers like engineers do that all the
 rather than like computer scientists
@@ -2557,7 +2557,7 @@ rather than like computer scientists
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 that's right and then also so it's it to
 remove one of the barriers it's not that
 it's intrinsically harder like you said
@@ -2579,7 +2579,7 @@ there or we could prove everything
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yes
 although i think i think we didn't want
 a really how far you can get already
@@ -2592,7 +2592,7 @@ tools at the moment what I do with you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I
 actually um I think you were being a
 little bit modest in reference to what
@@ -2608,7 +2608,7 @@ functional programming
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 sure so the
 interesting the thing that's really
 interesting to me is I go to yeah coming
@@ -2639,7 +2639,7 @@ space at the moment so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so - - for people
 like me the non developers of the world
 it kind of sounds like everybody else
@@ -2647,12 +2647,12 @@ are the engineers blowing up the what
 was it in the basements the 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 steam
 boilers yeah
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  everyone else is like the
 the engineers blowing up the steam
 boilers in the basements and IOH gays
@@ -2662,7 +2662,7 @@ all sorts of important stuff right
 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
  yeah
 in some sense we're doing both we're
 doing something that is out quickly but
@@ -2673,12 +2673,12 @@ able to get that higher level of
 assurance gotcha 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay very nice all
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right um
 well I mean it's been a pleasure to have
 you on here it's great to speak to you
@@ -2693,22 +2693,22 @@ a regular basis again Christian uh you
 know 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah thanks
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  thanks for having all
 the the good questions the stuff that I
 don't know yeah 
 
 
-Dr.Duncan Coutts:
+**Dr.Duncan Coutts:**
 yeah very much did good
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely so a great speak to you
 guys again for everybody listening out
 there thanks for joining us and we'll
@@ -2717,7 +2717,7 @@ care guys
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  if you are passionate about
 anything related to a theory of plastic
 and you have something to say we'd love
