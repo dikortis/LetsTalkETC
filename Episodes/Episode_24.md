@@ -1,5 +1,5 @@
 # Let's Talk ETC: Luke Wagner Of Mozilla On WASM, LLVM & Replacing The ECVM.
-Christian Seberino:
+**Christian Seberino:**
 in the world of block chains and
 aetherium classic we have several
 development groups now working as you
@@ -16,7 +16,7 @@ team so welcome Luke
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 thank you thank you
 for having me 
 
@@ -24,7 +24,7 @@ for having me
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I why don't you why
 don't we start by you telling me a
 little about yourself like first of all
@@ -38,7 +38,7 @@ does that how'd you get involved
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah
 well I guess I feel like I just kind of
 got lucky I did my master's research in
@@ -56,33 +56,33 @@ luck I suppose
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so that's right yes so
 you went to school there and you c++
 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  right
 yeah dr. Strauss true and 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 then
 immediately after you graduated you got
 hired by Mozilla 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 that's right 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and
 what tell me like and tell me some of
 the initiatives I don't know how much
@@ -91,7 +91,7 @@ the cool stuff that
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  when I joined we
 were just I guess the team already had
 been deploying the first our first chips
@@ -131,7 +131,7 @@ where I'm today
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now in my in my
 mind when I think of Mozilla so first of
 all it's a cool company because they
@@ -159,7 +159,7 @@ stuff continuing research and oh
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah
 yeah we have great plans you know it's
 all it's all about the web and you know
@@ -172,7 +172,7 @@ along that mission
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 Google pays a large
 sum of money to be the default search
 engine in the Firefox box is that where
@@ -182,7 +182,7 @@ the majority of the funding comes from
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 you know it's not really my area of
 expertise what I precisely at what money
 comes from where but I think it's no
@@ -193,27 +193,27 @@ that's Yahoo now
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 that was so compelling
 that that was that made you guys able to
 get funding to do all this cool pay for
 that 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah yeah basically 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 
 
-Luke Wagner:
+**Luke Wagner:**
  me too 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 all right so the topic I wanted to
 invite you on the show to talk about
@@ -226,7 +226,7 @@ interested in it
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 oh sure yeah well you
 know basically what web assembly is it's
 a standard that defines a format for
@@ -268,7 +268,7 @@ contexts
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 especially interesting so it's
 not it's not tied to the web even though
 it's it's 
@@ -277,13 +277,13 @@ it's it's
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 as web in its name number
 there
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  but in principle people just all
 the places that people use like the Java
 Virtual Machine they could in principle
@@ -293,7 +293,7 @@ use web assembly
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 right yeah that's it's
 it could be embed the virtual machine
 could be or a web assembly virtual
@@ -306,7 +306,7 @@ assembly the its properties make sense
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay just explain to our listeners so
 the here in classic virtual machine and
 the etherium virtual machine there's
@@ -326,7 +326,7 @@ assembly currently
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 so the current status
 is that we have a informally a draft
 spec that has been kind of given the
@@ -358,14 +358,14 @@ next in browsers
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay and so it's gonna
 be in browsers before the spec is
 completed 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well yeah it's it's
 interesting there's this definite
 synergy between implementing and
@@ -391,7 +391,7 @@ through the full formal process
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and
 I know you guys have a lot of big
 players mistaken Microsoft Google
@@ -402,7 +402,7 @@ of kind of standstill
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 oh well
 fortunately we that's the that's the
 hard part we already got through and and
@@ -428,7 +428,7 @@ so we
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah okay so I it sounds like
 they're cooperating to move the process
 forward but Google had their own
@@ -442,7 +442,7 @@ hatchet and
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well well you could follow
 interestingly a lot of Native Client
 people contributed a lot of valuable
@@ -464,7 +464,7 @@ of conflicts in the past
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now I have my
 own reasons why I wanted kind of to hear
 your what what makes you passionate of
@@ -474,7 +474,7 @@ about
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  well what excites me I guess is
 just as a general point making the web
 platform capable enough that you don't
@@ -509,7 +509,7 @@ feature that you can use if you need it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok so you're interested in making the
 web faster and why for the audience can
 you explain why the current situation
@@ -520,7 +520,7 @@ kind of elaborate on that well
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah for
 plenty of uses it actually is fast
 enough so and that's that's why for so
@@ -574,7 +574,7 @@ while to warm up large amounts of code
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I'm not a compiler expert like you
 but if I was trying to simplify because
 I'm a teacher I try to make things
@@ -590,7 +590,7 @@ have compiled code
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah that's that's a
 good way to say it too we've we're
 taking advantage of a big pipeline that
@@ -611,7 +611,7 @@ the source language
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay and the same
 way that compilers get more and more
 sophisticated for different platforms
@@ -623,7 +623,7 @@ run faster
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah there is a real
 possibility there because unlike native
 code we can actually recompile you know
@@ -640,7 +640,7 @@ fast things
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so it's it's faster
 than source code but it sounds like what
 you're saying is because we don't know
@@ -655,7 +655,7 @@ hardware
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  well there's two dimensions of
 performance here one of this load time
 and one is throughput like once they're
@@ -691,7 +691,7 @@ doesn't have to be safe
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm thinking I
 watched this video years ago they maybe
 you're familiar with it it was it was
@@ -703,7 +703,7 @@ applications
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 oh I know what you're
 talking about now 
 
@@ -712,7 +712,7 @@ talking about now
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what surprised me
 about that one of the things that stood
 out was he said you know hypothetically
@@ -729,7 +729,7 @@ over that part
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah this is this the
 birth and death of JavaScript yes by
 Gary Bernhard 
@@ -737,7 +737,7 @@ Gary Bernhard
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 adopts it makes these
 super awesome compilers that it's not
 just going to be portable but it could
@@ -746,7 +746,7 @@ be even better than what we have now for
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well um you know it's I get in the few
 I'm not sure how we would generally get
 much faster than native code I mean
@@ -785,13 +785,13 @@ sure if that will become a common thing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 21:52----22:10
 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah and you hear about this you hear
 about like IBM's OS 390 or 60 you know
 it's
@@ -819,7 +819,7 @@ reality and has been for a
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  year or so
 yeah you could take these huge game
 engines written in C C++ today right and
@@ -828,7 +828,7 @@ these huge
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah and there'll be you know
 tens of millions of lines of C++ and
 instead of having to rewrite into
@@ -838,7 +838,7 @@ compile it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so web assembly is a compelling target
 that's portable that's going to get
 faster every year now why do you think
@@ -851,7 +851,7 @@ confident about web assembly
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah well
 some of it is that you know it's some
 degree we've already crossed an
@@ -893,13 +893,13 @@ a standard that actually shipped
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 25:09-25:19
 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 okay
 yeah I mean there also I can point out
 you know links some some technical
@@ -912,7 +912,7 @@ are as bigger bigger
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now here's here's
 my experience with virtual machines and
 tell me your thoughts on this so in the
@@ -956,7 +956,7 @@ there's going to be some other
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  well no
 doubt in in five years there will be
 something new although maybe maybe
@@ -1026,7 +1026,7 @@ integration
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so yes so from a practical
 standpoint you're saying that web
 assembly their virtual machine is is it
@@ -1054,7 +1054,7 @@ well
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah I guess some of it could go to
 the fact that you know the goal of Java
 and.net is is kind of different it's
@@ -1097,7 +1097,7 @@ being served by these different VMs
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 okay now I I mean I'll be honest I'm
 lazy I don't want to learn lots of
@@ -1108,7 +1108,7 @@ you'll take over the world
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well well maybe it doesn't the VM
 technology you could think of it as a
 processor architecture it's it's a thing
@@ -1140,7 +1140,7 @@ that that is a realistic future
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now
 is it necessary for me to be wanting one
 to take over the world because you could
@@ -1151,7 +1151,7 @@ the compiler convert one to the other
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah basically I would save maybe from
 the source language and sometimes the
 byte codes are they've already lost some
@@ -1165,7 +1165,7 @@ both net VM and and the webassembly
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay I was I was reading something about
 source Maps so a lot of people when they
 think of bytecode decompiling it's the
@@ -1176,7 +1176,7 @@ saying no no it's not that bad
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  oh sure
 yeah there's this feature that's already
 but you know people have been compiling
@@ -1203,7 +1203,7 @@ you can debug your C++ in the browser
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well I can abstract syntax tree but
 you're saying you could make different
 language 
@@ -1212,7 +1212,7 @@ language
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah it's sort of a map it kind
 of doesn't care what your source
 language was it's really just
@@ -1230,7 +1230,7 @@ in the generated code
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  now you're it
 sounds like you're saying that you can
 get a much cleaner nicer source code
@@ -1240,7 +1240,7 @@ machines is that correct
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  well I don't
 know what if a similar source map types
 things apply to the other virtual
@@ -1252,13 +1252,13 @@ source files with with azzam now
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I mean
 36:16-36:28
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well yeah you that the JavaScript it D
 compiles to probably would look not like
 the same thing you wrote it I what I
@@ -1284,7 +1284,7 @@ kind of raw
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 the reason you could do this
 awesome source code is because you have
 this additional data structure called a
@@ -1294,13 +1294,13 @@ then they would not ship the source map
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 exactly 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now I was when I was
 researching web assembly for this
 interview one thing that's what struck
@@ -1313,7 +1313,7 @@ you comment on that
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah you bet so
 there's there's a sense in which that's
 still true and there's a sense in which
@@ -1358,7 +1358,7 @@ sort of a choice of definitions
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 would
 you say that the the representation of
 web assembly is a higher level than the
@@ -1367,7 +1367,7 @@ virtual machines
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 uh actually I wouldn't
 say that it's probably about similar
 yeah I got in some sense it's lower
@@ -1386,7 +1386,7 @@ lower level
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and and so as you know
 aetherium as I said very minute classic
 there's discussion about using
@@ -1400,7 +1400,7 @@ webassembly versus LLVM
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 well yeah this
 was definitely a question we encountered
 early on because it was also a question
@@ -1468,7 +1468,7 @@ determinism
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I believe the way that
 Native Client the way Google tried to
 solve this problem was they you only use
@@ -1480,7 +1480,7 @@ of LLVM and
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah you can subset it I
 think certain amounts of undefined
 behavior still remain and and another
@@ -1535,7 +1535,7 @@ portability
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 one argument that to support
 what you're doing and to support people
 in blockchain space using the web
@@ -1552,7 +1552,7 @@ fight that momentum
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah yeah I think
 that's a really good argument to use web
 technologies is a capture momentum 
@@ -1561,7 +1561,7 @@ technologies is a capture momentum
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 like if I was to make my own little
 virtual machine and had a small
@@ -1578,14 +1578,14 @@ know reinvent the wheel all
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 right yeah
 that makes sense
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now the as we wind down the last
 big topic that a lot that's on a lot of
 people's mind so I don't know I I know
@@ -1615,7 +1615,7 @@ to have
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah well that makes total sense
 that people would want that because yeah
 just as a as just an observer right it's
@@ -1666,7 +1666,7 @@ far as formalisms go
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay now just to
 play devil's advocate what about if
 somebody says well the Java Virtual
@@ -1677,7 +1677,7 @@ that people want but
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  yeah so we have a
 peel a peel di paper out this just this
 year about web assembly and it makes the
@@ -1702,7 +1702,7 @@ in it in mind the whole time
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I think is
 gonna be music to a lot of people's ears
 
@@ -1710,7 +1710,7 @@ gonna be music to a lot of people's ears
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah anyone should head over to web
 assembly org and then click spec might
 just be slash back I forget but web
@@ -1724,7 +1724,7 @@ familiar
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay great so you've you've
 made a compelling case you've introduced
 people to web assembly and you've shown
@@ -1738,7 +1738,7 @@ expect to see
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 so the big thing which
 we've kind of more officially kicked off
 just in our last in-person community
@@ -1777,7 +1777,7 @@ languages
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now and then just to repeat
 something you said at the beginning of
 our talk correct me if I'm wrong but so
@@ -1795,7 +1795,7 @@ checking it out right now yeah and they
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 yeah I totally encourage them to it's
 they can try it out and yeah things will
 run in Firefox and Chrome today and in
@@ -1805,7 +1805,7 @@ Safari nege pretty soon
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay well so
 it's it sounds pretty impressive for a
 virtual machine for a standard that
@@ -1819,7 +1819,7 @@ the standard platform for
 
 
 
-Luke Wagner:
+**Luke Wagner:**
  well I guess
 one answer is trying to to compile
 JavaScript to have assembly it's a it's
@@ -1843,14 +1843,14 @@ example right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 54:11----54:27
 
 
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 and and it's um and you
 know it's a good scripting language and
 you look at a lot of large applications
@@ -1871,7 +1871,7 @@ B to kill JavaScript
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I think we've
 touched on a lot of the bases for people
 that and we've we've talked about how it
@@ -1885,12 +1885,12 @@ before we we close
 
 
 
-Luke Wagner:
+**Luke Wagner:**
 no great set of
 questions thank you 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay all right so
 just
 talking with me and I'm sure a lot of
