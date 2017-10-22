@@ -1,5 +1,5 @@
 # Let's Talk ETC Stewart Mackenzie (Sjm) - Emerald, SputnikVM, ETCDEV & More.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody you're listening to let's
 talk et Cie I'm your host karlovy along
 with my co-host dr. Christian suberino
@@ -24,22 +24,22 @@ that so thanks thanks for joining us so
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 thank you it's great to be here
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 absolutely 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 to two o'clock in the morning
 in Hong Kong time 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay so for anyone
 listening out there I actually didn't
 know it was so late for SJM so double
@@ -51,14 +51,14 @@ them know about that's going on
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 oh it's
 not high pitch it's not -
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no no so
 that's Jan so something we like to do on
 the show
@@ -80,7 +80,7 @@ scenes oh
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 well okay um after high school
 I remember backpacking around Europe and
 I'm thinking gosh what was it I really
@@ -109,13 +109,13 @@ it's more like a DSL
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so you're
 developing your own that's kind of cool
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 well yeah yeah it's well it was it's
 quite good fun um it's it's basically
 it's a it's a it's a flow-based
@@ -140,29 +140,29 @@ you guys remember HyperCard
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes that was
 on Apple right
 
  
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yes 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's a that's a
 Christian question so very good
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I don't
 know 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 as you guys know but at least you
 heard of it so that's good 
 
@@ -171,7 +171,7 @@ heard of it so that's good
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah okay so
 some - card was a quite an interesting
 program in of its day it allowed you to
@@ -210,26 +210,26 @@ classic -
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I call it good
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  crowd fun
 your crowd fund out oh 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah oh yeah yeah
 yeah that like what the ICO is like a
 bad word doesn't really like the wristy
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I actually I think it started out as a
 serious suggestion but then it became so
 funny that now it's more of a joke than
@@ -238,13 +238,13 @@ anything but it's a serious joke
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 Oh is he Oh
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  Stuart can I ask you I I'm
 going I'm intrigued back of something he
 said okay Hong Kong okay so I'm gonna
@@ -261,7 +261,7 @@ off your back
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah okay so this isn't
 this is becoming more of a local issue
 but but I think things are starting to
@@ -291,7 +291,7 @@ it out yes it's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now is is in your
 experiences with Hong Kong and South
 Africa or where were you living when you
@@ -306,7 +306,7 @@ blockchain tech oh
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 right ok well ok so
 so I you know right in the early days a
 Bitcoin oh this is where it kind of gets
@@ -316,12 +316,12 @@ money I don't quite fit the passwords
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I think 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 oh yeah but it's it's
 insane how much it's it's millions of
 dollars but anyway it's it's ok it's I
@@ -332,14 +332,14 @@ doesn't matter
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 um are you saying you lost your private
 keys that what happened oh 
 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 no no the
 password customer so back in the back of
 those days we could with a fun thing it
@@ -349,7 +349,7 @@ was a fun thing
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 for no other reason for
 no other reason not for some finder's
 fee or something can can we make it a
@@ -358,13 +358,13 @@ connect you with someone to crack that
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay so I've already I've already done
 this I've already done this man
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I've
 sure you have but keep going don't go
 mad I believe I'm here
@@ -372,18 +372,18 @@ mad I believe I'm here
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 I had a WS AGP user running like you
 know brute-forcing the crap out of the
 thing I've even gone 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I really like path
 huh uh 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah yeah I've even gone to a
 hypno hypnotherapist oh my god no this
 is how desperate 
@@ -391,7 +391,7 @@ is how desperate
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 it is literally have
 millions of dollars if you could get
 this password 
@@ -399,7 +399,7 @@ this password
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you know okay I think I
 think everybody has a bit of a story um
 like this because we've been in Bitcoin
@@ -414,19 +414,19 @@ spin this very positively for you even
 though the total crap 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 you know you don't
 need it but
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  it's di for you I'm old
 enough to take it but - yeah but 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no no
 this is this might be true this might
 end up being true what you might have
@@ -440,7 +440,7 @@ believe
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah so this this is actually
 this isn't one of the one of the things
 I'm sort of interested I'm really
@@ -458,7 +458,7 @@ thank you mama
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 did you ever if you're ever if you're
 ever doing like a serious presentation
 it like say like Oxford I don't know
@@ -470,7 +470,7 @@ and to crack my Bitcoin password
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  well
 actually whoa timeout you know what if I
 had that quantum computer you know what
@@ -483,7 +483,7 @@ recording
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 oh yeah yep that's yeah that
 could be it could be I I've none of none
 of this has a failed my attention but
@@ -516,7 +516,7 @@ between five and ten years just insane
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 it might be like nuclear fusion it's
 always years away
 
@@ -525,7 +525,7 @@ always years away
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  oh no I know I think I
 think they've got they've got fusion
 working recently I think it's a fusion
@@ -535,7 +535,7 @@ actually it's online now and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm saying
 yeah I like words a lot huge benefit and
 it's very you know about breakeven and
@@ -546,7 +546,7 @@ all that good stuff
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 oh yeah well anyway anyway so we'll see
 what comes of this uh of this uh this is
 this quantum computer but of course we
@@ -566,7 +566,7 @@ it's probably too technical
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I got it
 I have to say this I was reading
 recently about emerald wallet I assume
@@ -583,7 +583,7 @@ elaborate on that but that really
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay
 all right okay okay so yeah emerald
 emerald is not just a wallet emerald a
@@ -615,14 +615,14 @@ button
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and you have very controlled
 limited communication with yeah yes
 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so this this allows exchanges and and
 well even even somebody who's running a
 ecommerce website to to have their
@@ -669,7 +669,7 @@ build stuff on top of
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  sure sure
 now when you said emerald was um when I
 read trustless for some reason I was
@@ -686,7 +686,7 @@ and I the way be
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 maybe I'll I didn't
 actually write that article so so I'm
 not even very sure which which article
@@ -701,7 +701,7 @@ a better position was it further
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sorry
 for the non technicals I guess you could
 say to me this sounds like um or I would
@@ -714,7 +714,7 @@ that
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 uh yeah yeah you know that that's
 okay so for example okay like let's say
 you want you wanted to create a new
@@ -747,7 +747,7 @@ so it yeah yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so now facing like a
 luggable up of components that you could
 mix and match 
@@ -756,7 +756,7 @@ mix and match
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah exactly and and it's
 pretty good it's a pretty good thing
 because you know like um the community
@@ -768,7 +768,7 @@ area
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now now when you're exacting about
 you when you were talking about the
 language you are creating using we're
@@ -778,7 +778,7 @@ swap this somehow in your brain here
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 your son
 you sir are an astute chat yes yes this
 is one aspiration I've got I want to use
@@ -799,7 +799,7 @@ supporting of this
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 or not this might be
 a dumb question but the that's just good
 what yours what you're proposing is good
@@ -813,7 +813,7 @@ of put things in sandboxes or
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  okay uh
 despots they're just different styles of
 breaking things apart but I mean yeah I
@@ -825,7 +825,7 @@ a massive monolith
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 uh yeah maybe maybe
 when they were designed they didn't have
 the intention that people would go in
@@ -833,15 +833,15 @@ and
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 possibly
 
 
-Christian Seberino:
+**Christian Seberino:**
  ponens yeah okay 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so quite
 possibly but then at the same time like
 you know there's some good engineering
@@ -853,7 +853,7 @@ quite a few things
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah oh and by the
 way I agree with what you said about the
 the use of the term wallet I was talking
@@ -864,7 +864,7 @@ better or you were proposing framework
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so oh this is just different words I
 suppose um yeah I think I think it lands
 right the concept of a wallet and it
@@ -878,7 +878,7 @@ yeah yeah why not yeah yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so and then
 also about the sputnik vm so it's a
 hybrid it's a library that everybody
@@ -889,7 +889,7 @@ now
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  these these are some of the
 aspirations and you know the more the
 more you allow people more different
@@ -917,7 +917,7 @@ excellent
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah oh yeah related I had a
 question this is for both of you this is
 a people question that is not technical
@@ -939,13 +939,13 @@ et Cie
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 it's open source I mean like ok
 you know just I just 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 and I think it's a
 good thing my 
 
@@ -953,7 +953,7 @@ good thing my
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 aunt get it yeah well I I
 don't know like like use it go for it
 use it I mean I designed to be used um
@@ -970,7 +970,7 @@ so am please go ahead
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah we're not really at this stage the
 block chains aren't at the stage like
 where you have like Android and iPhone
@@ -982,7 +982,7 @@ use the technology to begin with
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 well I
 think well I think also from from this
 perspective I if I'm not if I'm correct
@@ -1009,7 +1009,7 @@ it's coming hopefully
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so yeah I don't
 know I don't wanna you know make force
 you to give promises of the future
@@ -1021,7 +1021,7 @@ right now of emerald in
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay um so I
 have discussed with her with e.t.c dev
 and I was told not to say Monday okay
@@ -1046,20 +1046,20 @@ there
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 they might be constructive I don't
 know about the lighting it's 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 never mind
 didn't everyone it's alright
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so fire
 fire B where's what you're saying don't
 put your life's a little zero emerald
@@ -1070,7 +1070,7 @@ account just yet uh
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 hmm let's see let's
 see
 as far as for Sputnik um well we've just
@@ -1096,7 +1096,7 @@ the two clients about
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so wait hold
 on wait so the thinking behind I think
 the theory foundation was to have
@@ -1110,7 +1110,7 @@ wouldn't have that you're like you
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 know
 I hate I hear you I hear what you're
 saying but but you know I I tend to
@@ -1128,7 +1128,7 @@ out a lot of bugs so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I think it's
 important it's important when you have a
 lot of money on the line for sure
@@ -1137,7 +1137,7 @@ lot of money on the line for sure
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  yes
 exactly exactly 
 
@@ -1145,7 +1145,7 @@ exactly exactly
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 right now let me ask a
 question about formal verification some
 people might be wondering so the the dub
@@ -1166,7 +1166,7 @@ battle-hardened already uh from you know
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yes and no because because uh alright I
 I'm no expert on this topic and no
 expert on this topic but formal
@@ -1186,7 +1186,7 @@ a question
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah well also to point out
 that it's more than millions now
 whatever yes two billion Francesco
@@ -1195,7 +1195,7 @@ choice
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I don't know if Bitcoin has been
 formally verified the core software but
 it's it's the confidence is just in the
@@ -1209,7 +1209,7 @@ know
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah come on I mean there's still
 they're finding the finding bugs in in
 in in open SSL the heart beat heart
@@ -1221,7 +1221,7 @@ recently and cause I
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh there's always
 that one-in-a-million chance right what
 that's you're you're right that's that
@@ -1231,7 +1231,7 @@ deny that
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 um I don't know III like the
 direction of this this formal
 verification I think um I think I you
@@ -1250,7 +1250,7 @@ you can read about
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  this goes back again
 this goes right back again to what you
 started our the show with your your
@@ -1259,7 +1259,7 @@ that's
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 uh yeah actually actually yeah
 well yeah I remember um when I first
 started looking at I actually picked up
@@ -1275,7 +1275,7 @@ a good starting point I suppose
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh and
 if you could just make a comment so I've
 been impressed by etc' dev I it sounds
@@ -1288,7 +1288,7 @@ of talent
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah so it's a recently
 beginning getting to know Elaine a lot
 better she's really an interesting
@@ -1311,7 +1311,7 @@ he's a good leader a good leader
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok
 that's yeah not not not every developer
 has that 
@@ -1319,7 +1319,7 @@ has that
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah yeah yeah yeah yeah not
 every bit that not every developers got
 this so this is an interesting aspect
@@ -1331,14 +1331,14 @@ can I can say is one of the better ones
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah when I think of great software
 managers I think of Linna Stovall's with
 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 the Linux kernel hello hello((ULALA)))
 yeah he's technically good but um I
 would but yeah he gets but he gets a bit
@@ -1347,7 +1347,7 @@ rude on the mailing list
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh yeah after
 
 
@@ -1355,7 +1355,7 @@ oh yeah after
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  I
 put I press I post either mind 
 
@@ -1363,12 +1363,12 @@ put I press I post either mind
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I want to
 hear a mailing list story what what
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  did
 Jesus
 
@@ -1376,7 +1376,7 @@ Jesus
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  say just he he's so advanced that
 if you if you ask a stupid question
 Linux
@@ -1386,7 +1386,7 @@ he's more
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 no no no no look I know the
 first of all this let's not make you
 know let's not make models and what's
@@ -1406,7 +1406,7 @@ little innocent air into you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so you're
 saying I should join the mailing list
 and ask
@@ -1414,7 +1414,7 @@ and ask
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  yeah just just do a few Google
 searches on this I don't think that's
 entirely healthy for a community I don't
@@ -1430,7 +1430,7 @@ that yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah if like let's say Amer
 the Emerald framework takes off and I
 yeah I can imagine right you guys having
@@ -1440,7 +1440,7 @@ lieutenant's
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 oh good god I I have WI I
 have different mentality about this but
 my thoughts are quite different from the
@@ -1456,7 +1456,7 @@ that direction
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so you guys the
 management it sounds like it's top notch
 and funding you guys have funding to
@@ -1465,7 +1465,7 @@ keep doing what you want to do and that
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah yeah but I mean I don't even we
 don't even know who's who's behind this
 I mean like this there are a few people
@@ -1480,7 +1480,7 @@ um anyway I can't really comment on this
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 well from the there was there were
 donations in the beginning which I mean
 okay we now have have 20x really so what
@@ -1490,7 +1490,7 @@ relatively substantial potentially
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  I
 didn't 
 
@@ -1498,7 +1498,7 @@ didn't
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 say you've got it you have an
 account and you have anonymous donators
 that give nice gifts that's good to hear
@@ -1506,7 +1506,7 @@ that give nice gifts that's good to hear
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah oh that yeah yeah yeah so let me
 also encourage this to the community
 like guys we have elihpa so the
@@ -1515,28 +1515,28 @@ important leg of this community
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right
 that's an understatement
 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 well no I don't want to sort of like you
 know over over play and become like
 anything 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I'll do it
 look.we 
 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 no no no let's just meander
 which is keep it even you know like ei
 thought every member of the community is
@@ -1573,7 +1573,7 @@ community so elevate your support
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what you mean by obligation is you don't
 have a bunch of people in a foundation
 that are there their assets are growing
@@ -1583,7 +1583,7 @@ in value as is that you're saying
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 well a
 well yes because the developers here we
 don't have that pre mine yeah so when
@@ -1596,12 +1596,12 @@ removed from from
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  from circulation? 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so I
 think you from circulation and which
 means that you're basically buying you
@@ -1622,7 +1622,7 @@ funding and whatnot
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  what are they what
 are they used to do for like PBS or
 something the telephone
@@ -1630,7 +1630,7 @@ something the telephone
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  oh but yeah
 we're we don't even think we okay so so
 there are arguments of of saying yeah we
@@ -1649,7 +1649,7 @@ control the the money flow then at it
 you see yeah you're over your
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yeah
 I see you're right
 you're right 
@@ -1657,7 +1657,7 @@ you're right
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so so like like I
 personally would be in support of any
 sort of like sort of Treasury that comes
@@ -1667,14 +1667,14 @@ with bad actors and this is a
 verification being yeah 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah it
 currently verified people
 I wish thanks buddy here 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah but this
 is like an arms race you know we get
 like normal human beings and Psychopaths
@@ -1688,7 +1688,7 @@ ya know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I I know you're the et si devs
 been very good I saw about you know
 she's giving a road map I I saw some
@@ -1699,7 +1699,7 @@ summarize or kind of make some comments
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay so from my perspective I don't
 believe in road met at all road maps are
 a source of great stress and instead I
@@ -1723,7 +1723,7 @@ being hand meowt's rights
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well here
 here's what I was getting at I was I'm
 trying to get a sense is would you say
@@ -1733,7 +1733,7 @@ of things to do there's still a lot
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 of
 God no ways there's so much to do this
 so so much to do but let's focus on
@@ -1757,7 +1757,7 @@ speculative thing anymore
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah all right
 so I think Karl you want to say
 something
@@ -1765,7 +1765,7 @@ something
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no I was going to say
 now with the advent of a lot of this
 infrastructure that's coming online for
@@ -1780,11 +1780,11 @@ in the future
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  are you question 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you know
 what I'm saying because I we definitely
 do take a different stance and a more a
@@ -1805,7 +1805,7 @@ to keep that tied back
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay um the
 culture is very much different in Ethier
 in classic hmm um and that's one of the
@@ -1849,13 +1849,13 @@ come from these crowd sales
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I do as well
 I do it 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah and and yeah actually
 actually I'm kind of hoping that this
 project that I want to I want to launch
@@ -1872,7 +1872,7 @@ do we improve this
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 um yeah I find it
 funny that in the crypto community
 people blame the ICO or crowdfunding
@@ -1901,7 +1901,7 @@ a lot of great projects came out of um
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what I would I whenever I teach a
 blockchain class the analogy I use is
 you could use a brick to build a church
@@ -1911,48 +1911,48 @@ with it throw it through
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes so much
 more eloquently said that by you think
 
 
 
-Christian Seberino:
+**Christian Seberino:****
 the brick is a moral it's not good or
 bad 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 yeah I wouldn't say so much
 about the church 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay you can use your
 brick to build a charity depends on the
 church s evoke you get 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 no comment 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no
 comment 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I have you have we
 uncovered everything did we miss any
 questions Stuart did you did you gotta
@@ -1961,7 +1961,7 @@ chance
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 actually a karlova finished it
 off with that with that that observation
 you made about the the I cos and how the
@@ -1983,7 +1983,7 @@ down on it come down
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I still I still
 think that um it's almost like they say
 when you throw you know crap on the wall
@@ -2002,7 +2002,7 @@ generation hopefully
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 so oh yeah I see I
 see that too I see that too and that's
 that's hopeful
@@ -2017,7 +2017,7 @@ in my opinion
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 maybe well anyway maybe
 you could crowd fund the maybe you could
 crowd fund the work to be done on the
@@ -2026,7 +2026,7 @@ the word yeah you're on
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  yeah yeah yeah
 yeah no no I mean like like okay there
 is it okay when I say we're not see
@@ -2058,13 +2058,13 @@ cryptography for you there we go
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 and if we don't then I'm gonna crack
 everyone's 
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 damn straight yes
 all your base belong to that yeah 
 
@@ -2072,7 +2072,7 @@ all your base belong to that yeah
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 all
 right but uh actually this was a
 conversation I just had very recently
@@ -2085,7 +2085,7 @@ eighteen million dollars for was
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 it but
 now what is it now it's funny numbers
 for me now I actually have
@@ -2094,7 +2094,7 @@ for me now I actually have
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay much so
 to put this into perspective a year and
 a half ago if you talked about the
@@ -2103,7 +2103,7 @@ that was like whoa I can't believe they
 were able to do that 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 that is still 
 with
 me 
@@ -2111,7 +2111,7 @@ me
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah okay
 Bank core which was a recent crowd fund
 that just occurred raised over
@@ -2124,13 +2124,13 @@ really like 300 million
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 what is this Bank or thing do what does
 it do what I was offering you don't know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now now you're going beyond the scope of
 my my knowledge 
 
@@ -2139,13 +2139,13 @@ my my knowledge
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 okay III is it vaporware
 isin trash did do we know any fact 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I
 can't say that it's I can't say that
 it's vapor or not paper because I don't
@@ -2158,7 +2158,7 @@ about them
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 when I hear this I think when
 I hear this I start thinking of tulips
 uh-huh
@@ -2166,14 +2166,14 @@ uh-huh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 pester calm yes some shit but done
 anyway I'm good 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so well Thank You Stuart
 thank you for hey was great was I'm sure
 there's lots of P yeah sure there's lots
@@ -2184,14 +2184,14 @@ EGC Danson
 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
  great 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely um
 pleasure to have you on thanks so much
 for staying out so now it's really late
@@ -2207,18 +2207,18 @@ here as well talk about all the cool
 stuff you guys are doing 
 
 
-Stewart Mackenzie:
+**Stewart Mackenzie:**
 cool and thanks
 to you guys for keeping the
 communication the dialogue if for the
 community there's really good thank you
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 alright guys take care everybody
 thanks bye-bye take care
 [Music]
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to etherium classic
