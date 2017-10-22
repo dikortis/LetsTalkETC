@@ -1,5 +1,5 @@
 # Let's Talk ETC: Daniele Levi Discusses Stampery.
-Christian Seberino:
+**Christian Seberino:**
 hello everybody and welcome to another
 episode of let's talk ET SI today I have
 a special guest danielle levy from
@@ -17,7 +17,7 @@ with crypto currencies and block chains
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 hi Chris it's a pleasure to be here with
 you thank you very much so how how did I
 get involved with cryptocurrencies so I
@@ -92,14 +92,14 @@ really any yeah it really made sense
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay all right good and so what is your
 what was your background before you
 started getting interested in Bitcoin
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 okay so I always been an entrepreneur
 and a hacker always be going to take a
 hologram yeah well not really I'm not
@@ -170,7 +170,7 @@ pictures etc
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah now I was going to I
 before the interview I was planning to
 ask you how you were so advanced what I
@@ -219,7 +219,7 @@ everything I
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 yeah it's everything it's
 correct I i would like to tell you a
 little bit more about why i went only
@@ -293,7 +293,7 @@ a negative president
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes so it's it's
 clear that your your business depends
 very strongly you you immutability you
@@ -306,12 +306,12 @@ data
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  exactly 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and and also i'm a i'm not
 a you know a great business person but a
 one thing that's impressive i think
@@ -330,13 +330,13 @@ future can I tell you what happened
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yes
 of course
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so I'm starting a little
 business myself and with some partners
 in Europe and they needed I guess too
@@ -362,7 +362,7 @@ helped in my situation
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yes of course I
 mean right now all these processes where
 you still need to go to a third party
@@ -375,11 +375,11 @@ mathematical proof right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yeah 
 
 
-Daniele Levi:
+**Daniele Levi:**
 so
 because right now we are so used that we
 have these trusted third parties that
@@ -410,7 +410,7 @@ many many different areas
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay but what
 I'm just thinking out loud but let's say
 I went to my bank all right let's say I
@@ -427,14 +427,14 @@ integrity right
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah yeah integrity it
 would guarantee that that utility bill
 or that document was never tampered with
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay but ah ok but here's what I here's
 my question for you let's say that I
 download or I get some document I tamper
@@ -445,7 +445,7 @@ tampered file
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  no of course I mean you
 get a proof of integrity of the file you
 embed it on the block chain or essay of
@@ -460,7 +460,7 @@ blockchain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay I could yeah then that
 would add another more value if if
 people cared about that yeah that makes
@@ -487,7 +487,7 @@ application a download or what
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah so
 look it's very simple and used for web
 application at m dot do and we have a
@@ -517,7 +517,7 @@ notarization for hundreds of data sets
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay I have a question for you so if I
 understand correctly the way that you
 solve the scalability problem is if the
@@ -534,7 +534,7 @@ one that was tampered with
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  you you have
 your original document and then you also
 have a proof which is a JSON file that
@@ -547,20 +547,20 @@ blockchain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so it's basically like a like
 a Merkel tree is one of our country
 
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so so so let's say okay so just to
 give the audience an idea how this works
 so let's say so I have a stamp rehash
@@ -575,7 +575,7 @@ so where can I get this JSON file
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 the do
 some slightly delivered to you together
 as soon as you create the proof so okay
@@ -591,7 +591,7 @@ which is more easy to read
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay yeah
 that makes sense yeah I was reading in
 your papers you had your the blockchain
@@ -610,7 +610,7 @@ original work yeah I resist
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah this is
 some original work that we have done its
 work done basically by my co-founder
@@ -624,7 +624,7 @@ or CTO done
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  ok ok and I was just looking
 at your website I took some notes
 there's you you had some ideas that
@@ -640,7 +640,7 @@ joe you want to say something
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah yeah
 trade but it's one of the vertical
 applications of this technology and we
@@ -680,7 +680,7 @@ that does all these
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes great so and um
 what is the if somebody out there is
 interested what is the cost is there a
@@ -691,7 +691,7 @@ what's your cost structure
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 you again the
 service is free we believe that this
 kind of service has to be free 
@@ -699,7 +699,7 @@ kind of service has to be free
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well
 that'll certainly attract a lot of
 people to use your service um what is
@@ -709,7 +709,7 @@ business plan just
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 so bright right now
 what we are doing its offering this
 service for free we want as many people
@@ -724,7 +724,7 @@ good that it becomes a commodity
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  haha so
 I'm just I'm just guessing but you so
 you that kind of reminds me since you're
@@ -754,7 +754,7 @@ perhaps something like that
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah
 something like that you can always start
 for support okay lays so there are many
@@ -778,7 +778,7 @@ which you can sure you can get out
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 I'm glad I'm glad that we we cleared
 that up because I was suspecting maybe
@@ -805,7 +805,7 @@ you have any thoughts on that
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 well so
 regarding government's we have a
 partnership with the government of
@@ -844,7 +844,7 @@ notarize it using block chain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okk can I
 sku a another question about that yeah
 so
@@ -867,7 +867,7 @@ Stamper using this protocol
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  of course we
 are having discussions the thing is that
 when you need regulations to be changed
@@ -898,7 +898,7 @@ that now are very inefficient
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 because not now in addition to having
 the guarantees that Stanbury provides it
@@ -917,7 +917,7 @@ but you see I'm saying
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  yeah but I didn't
 a big technology we are using it's very
 standard cryptography it's we're just
@@ -936,7 +936,7 @@ of time
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay but it sounds from what you
 said it sounds like you thought that
 hashes had already been may be mentioned
@@ -954,7 +954,7 @@ it could be useful in a legal situation
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 yeah look I will give you an example of
 a real use case stamp reuse case we have
 this law firm that use a Stamper because
@@ -990,7 +990,7 @@ of those documents
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes so that's
 encouraging right if if the lawyers like
 Stanbury that means that they think
@@ -1015,7 +1015,7 @@ tree that you had
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  I mean just as how if
 just how do we use it in this specific
 case and we needed the pattern just for
@@ -1028,7 +1028,7 @@ to have as a defensive asset that's it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay okay okay I understand okay well um
 yeah thank you I think you've I think
 you've answered all my questions I think
@@ -1043,12 +1043,12 @@ a great business
 
 
 
-Daniele Levi:
+**Daniele Levi:**
  thank you
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so before we
 close did you have anything else that
 you wanted to to add that I missed that
@@ -1057,14 +1057,14 @@ I didn't ask
 
 
 
-Daniele Levi:
+**Daniele Levi:**
 no I just want the book
 thank you Chris 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so in summary stamp
 stamp arree provides essentially
 notarization and related services and it
@@ -1085,13 +1085,13 @@ so I just wish you well and you will
 keep in touch
 
 
-Daniele Levi:
+**Daniele Levi:**
  ok thank you very much
 Chris all right 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 bye-bye bye-bye if you
 are passionate anything related to a
 theory classic and you have something to
