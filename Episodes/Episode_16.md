@@ -1,5 +1,5 @@
 # Let's Talk ETC: ETCBets.com Featuring Lobos (Robert).
-Carlo Vicari:
+**Carlo Vicari:**
 hi everyone and thank you for listening
 - lets talk etc' I'm your host karlovy
 along with my co-host dr. Christian
@@ -38,27 +38,27 @@ joining the show
 
 
 
-Robert:
+**Robert:**
  hey guys how are you
 glad to be here oh 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 welcome
 
 
 
-Robert:
+**Robert:**
  yeah thank you 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so um
 Rob something we like to do typically on
 the show is a lot of people out there
@@ -80,7 +80,7 @@ background and stuff like that
 
 
 
-Robert:
+**Robert:**
 sure
 thing um
 yeah I'm one of the I guess lucky people
@@ -110,13 +110,13 @@ of dollars a quarter on out he had this
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you were trying to save
 them but it wasn't working
 
 
 
-Robert:
+**Robert:**
 yeah I thought at that point that wasn't
 ready to save anything really
 I mean you graduate you graduate from
@@ -174,13 +174,13 @@ their web store for like they're miles
 program you know stuff like that
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  major
 major stuff
 
 
 
-Robert:
+**Robert:**
  new stuff big big stuff
 multi-million dollar implementations arm
 you know big teams arm the biggest team
@@ -193,7 +193,7 @@ and that was all in Java and oh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I
 was gonna say now the twenty nine
 billion dollar question how did what was
@@ -201,7 +201,7 @@ your your crypto that bottle
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 weightless
 top so that way
 I got asked one question so Roberts
@@ -213,12 +213,12 @@ then you're gonna use to work for them
 their salespeople are you are but 
 
 
-Robert:
+**Robert:**
 we're
 European Netherlands or in the UK
 
 
-Christian Seberino:
+**Christian Seberino:**
  UK you
 saw their sales people their sales
 people kept getting asked about
@@ -230,7 +230,7 @@ about so they could answer right query
 
 
 
-Robert:
+**Robert:**
 well Oracle Oracle is an interesting
 company in the sense that they are they
 have like their own sort of software
@@ -258,7 +258,7 @@ applications it's it's great right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 and I gotta ask you one more question so
 when you said that you programmed and C
@@ -272,13 +272,13 @@ go to command well yeah okay
 
 
 
-Robert:
+**Robert:**
 of course 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 look any code right jumps all
 over the place 
 
@@ -286,7 +286,7 @@ over the place
 
 
 
-Robert:
+**Robert:**
 yeah oh you have to
 diverse there was no other way of doing
 things
@@ -307,7 +307,7 @@ you know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what was I doing back then I
 think I was walking around now I was in
 a stroller probably I might I might not
@@ -318,7 +318,7 @@ have even been thought of sit
 
 
 
-Robert:
+**Robert:**
  yeah I
 mean you know you were programming you
 know you had you had 48k of RAM and you
@@ -345,7 +345,7 @@ came from it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no no idea but no no I I do
 I do appreciate computers and and you
 know how far they've come there's a I
@@ -366,7 +366,7 @@ trip or something
 
 
 
-Robert:
+**Robert:**
  oh absolutely I mean
 but you know I mean even that that that
 works for for lots of things right I
@@ -384,7 +384,7 @@ which which we use every day
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 very right speaking of you know travel
 and how amazing it is I was in Dubai I
 live in Houston and I went there taught
@@ -403,7 +403,7 @@ annoying unbearable Oh
 
 
 
-Robert:
+**Robert:**
  tell me about it
 when I when I used to work for four you
 know sort of the startup from California
@@ -422,7 +422,7 @@ travel too much
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so so we're going from
 you know but 200 years ago they would
 take a horse and carriage across the
@@ -441,7 +441,7 @@ cryptocurrency and stuff like that
 
 
 
-Robert:
+**Robert:**
 well I I could have gotten into cook too
 much better than then I did I I read
 about briefly about Bitcoin very early
@@ -499,21 +499,21 @@ you know well it has that's the way that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 don't worry I think a lot of people read
 about it and wrote it off pretty early
 not 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so what what El Castillo some people
 what all coins Robert were you into hi
 
 
 
 
-Robert:
+**Robert:**
  I
 wasn't really any to alt coins in a
 sense I was like yet this is the thing
@@ -526,14 +526,14 @@ could like you know create an altcoin
 for you um and until around 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it's still
 around at the end 
 
 
 
 
-Robert:
+**Robert:**
 yeah and I mean just a
 whole concept of
 you know you can create your own coin
@@ -595,7 +595,7 @@ now you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 can't can't keep up there's too
 much so much development all the time
 harden
@@ -603,7 +603,7 @@ harden
 
 
 
-Robert:
+**Robert:**
  exactly and you know and then
 eventually you come you know you come to
 a theorem and then this hiriam classic
@@ -620,14 +620,14 @@ innovation space that's that's opened up
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right now you guys want obviously sorry
 no go ahead 
 
 
 
 
-Robert:
+**Robert:**
 no I mean that's pretty much
 it I mean it's it's it's it's kind of
 like the like the mobile space opening
@@ -646,7 +646,7 @@ you know programmable money basically
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 
  so
 so if they're iam drew your attention
@@ -665,7 +665,7 @@ bets
 
 
 
-Robert:
+**Robert:**
 absolutely
 so um so the Janus team is myself
 you just got just you just heard me
@@ -697,14 +697,14 @@ and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 which better so fantastic by the way
 oh 
 
 
 
 
-Robert:
+**Robert:**
 thank you it's a well it will be even
 more fantastic once we upgrade it to the
 new code base arm and yeah so and then
@@ -728,14 +728,14 @@ the rest of the world
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah all right
 I always know time it's really tiny just
 started yeah yeah 
 
 
 
-Robert:
+**Robert:**
 yeah and and so that
 also means right so if you have you know
 if you have a service um and you know I
@@ -769,7 +769,7 @@ know under the hood maybe even
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah they
 say that the the future where people are
 using crypto or blockchain and they
@@ -779,7 +779,7 @@ it's really developed
 
 
 
-Robert:
+**Robert:**
  exactly I mean you
 know that you can use it for for some
 feature that you offer to your customers
@@ -810,7 +810,7 @@ business that is independent of crypto
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah be pretty well if people had
 loyalty points that went up times 50
 after a couple well something something
@@ -818,7 +818,7 @@ weird like that you know
 
 
 
-Robert:
+**Robert:**
  then there
 would be people like me who who ignored
 Bitcoin and soldier loyalty points too
@@ -836,7 +836,7 @@ know websites yeah and um
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay well now that's so that sounds
 interesting so you decided to start a
 business
@@ -849,7 +849,7 @@ did I vote
 
 
 
-Robert:
+**Robert:**
  technically it's a next token
 but yeah I mean it's it's it's it's
 basically an altcoin
@@ -864,7 +864,7 @@ dividends
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay now but did you did you
 um how did you market it or did you
 already have people that wanted to
@@ -873,7 +873,7 @@ well
 
 
 
-Robert:
+**Robert:**
  we have to be at B first we first
 tried to do an IC o---- and we abandoned
 that because first of all we chose bad
@@ -899,12 +899,12 @@ um
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah can end really important
 
 
 
-Robert:
+**Robert:**
 absolutely and and you know so so that
 helped and that that sort of got the
 ball rolling and you know then after a
@@ -943,7 +943,7 @@ for now it's okay right
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 um now um what
 are your what are your impressions or
 your team's impressions of vtc bets so
@@ -954,14 +954,14 @@ and users and stuff like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and also
 why did you choose a PC
 
 
 
 
-Robert:
+**Robert:**
 oh yeah yes so so why did we choose etc'
 because um we like we like the sort of
 immutability aspect really I think
@@ -977,12 +977,12 @@ ideology if you want right um
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  and you
 know we every oh 
 
 
-Robert:
+**Robert:**
 yeah and the Burin
 started talking to some of the ECT TC
 people and um and they actually did this
@@ -1030,7 +1030,7 @@ like three million bets in three days
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now just just for the people that are
 listening so help me out Robert so Ajax
 is a way for a browser to continue to
@@ -1043,7 +1043,7 @@ communication right
 
 
 
-Robert:
+**Robert:**
 I'm used to sort of
 yes the problem with Ajax is that it's
 it it basically opens a new connection
@@ -1082,7 +1082,7 @@ again and still net
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that that great
 technical question from Christian and
 then my question is so non-technical
@@ -1092,7 +1092,7 @@ insane
 
 
 
-Robert:
+**Robert:**
 actually it's it's really cool
 actually because we used to be used to
 top out at about or better bets on about
@@ -1107,7 +1107,7 @@ percent I mean
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it I get beside
 ridiculous all that cool technical stuff
 you guys were just talking about that
@@ -1119,7 +1119,7 @@ bets possible correct
 
 
 
-Robert:
+**Robert:**
  yes and it's
 actually quite cool if you go to e.t.c
 bets
@@ -1150,7 +1150,7 @@ it's it's absolutely absolutely cool
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now
 can you um just I'm not sure that
 everybody knows about these gambling
@@ -1165,7 +1165,7 @@ is or or what
 
 
 
-Robert:
+**Robert:**
 bit but basically yes I
 mean you you yeah it's you bet on the
 number between 0 and 100 and depending
@@ -1203,7 +1203,7 @@ wanting you to lose
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay wait oh wait
 I'm out okay so I'm I'm not a gambling
 expert Carlo knows more about that than
@@ -1218,7 +1218,7 @@ random is for the house
 
 
 
-Robert:
+**Robert:**
 well the rent I
 mean it's not it's not that the house is
 predictable in the sense that you can
@@ -1239,7 +1239,7 @@ be 800
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you just answered many questions
 so yeah thank you for endless yeah the
 client seed is the randomness you use
@@ -1249,7 +1249,7 @@ randomness
 
 
 
-Robert:
+**Robert:**
 they alter times there's a
 client randomness and there's a server
 randomness and together they generate
@@ -1258,13 +1258,13 @@ together this all that information you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 counts pretty random
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah right but now
 hey wait I don't want to be in your
 business but what you uh what you said
@@ -1279,7 +1279,7 @@ people so is that in the works
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah by
 the way I'm not saying that you should
 or shouldn't do it but if there was a vr
@@ -1298,7 +1298,7 @@ little bit it was pretty fun
 
 
 
-Robert:
+**Robert:**
  yeah I mean
 DC you know I mean let's be honest
 gambling is sort of sort of a weird
@@ -1317,7 +1317,7 @@ yeah um so so you know that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I'm not I'm
 not a big gambler at all I actually when
 I went there I didn't even understand
@@ -1338,7 +1338,7 @@ but anyway
 
 
 
-Robert:
+**Robert:**
 yeah so so so the the crypto
 gambling space is probably about as fair
 as you can get in terms of that gambling
@@ -1357,13 +1357,13 @@ I mean it's it's you know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 anything that
 in terms of law
 
 
 
-Robert:
+**Robert:**
  yeah in terms of real
 money it's like either the one 102
 percent or something like that right so
@@ -1387,7 +1387,7 @@ know we're thinking of having some what
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 bust a bit now the only thing I really
 know about bust of it when I say no but
 I really should say I know of it because
@@ -1403,19 +1403,19 @@ what's going on with that
 
 
 
-Robert:
+**Robert:**
 okay well um
 so most of it door parabolic as we call
 it 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes parabolic 
 
 
 
-Robert:
+**Robert:**
 Greg it is um so the
 server determines um you know a random
 number based on that random number arm
@@ -1437,7 +1437,7 @@ cash out on time where it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 sounds like
 you're simulating day trading or
 technical investing
@@ -1447,7 +1447,7 @@ I guess II
 
 
 
-Robert:
+**Robert:**
 yeah I mean it's it's it's a
 just just you know give us a day or two
 do to fix some launch bugs and come over
@@ -1460,7 +1460,7 @@ fun
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I saw the video it looks pretty
 it looks like a wave that's rising is
 that the one yeah yeah yeah and then you
@@ -1470,19 +1470,19 @@ strange
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now way I have it straight you as a
 developer 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 easily interesting
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  it is it
 I'm dying to ask you a question Robert
 so as a developer every time you make a
@@ -1497,7 +1497,7 @@ your friends
 
 
 
-Robert:
+**Robert:**
 well not every not every
 time I make a new game but every time I
 make a new site yes um uh that big I
@@ -1519,7 +1519,7 @@ sent to our server or totally ridiculous
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh wow okay so people know about you and
 they're already gathered and trying okay
 
@@ -1527,7 +1527,7 @@ they're already gathered and trying okay
 
 
 
-Robert:
+**Robert:**
 Oh they've been different rying better
 bets for the past I don't know two years
 basically um it's a it's constant 
@@ -1536,7 +1536,7 @@ basically um it's a it's constant
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Java
 security by the way Hey
 oh 
@@ -1544,17 +1544,17 @@ oh
 
 
 
-Robert:
+**Robert:**
 thank you I mean I've had my tea it's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 not easy
 
 
 
-Robert:
+**Robert:**
 no and you really have to have to sort
 of code defensively um and and and
 that's a certain mindset you sort of
@@ -1575,7 +1575,7 @@ not family and um yeah so I mean see
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that's interesting I just thought
 of a positive for you from that incident
 so the if you have all these people that
@@ -1587,13 +1587,13 @@ audited yeah
 
 
 
-Robert:
+**Robert:**
 yes yes that's good but
 that is true 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 pretty much um so this
 might get a little bit techie for anyone
 listening out there that's not take
@@ -1604,7 +1604,7 @@ that's reasonable but
 
 
 
-Robert:
+**Robert:**
 woman are two
 perfectly perfectly fine to discuss it
 lunar ability was the one spot where I
@@ -1621,7 +1621,7 @@ and that was it man
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay well what
 happens when you Robert when you hire
 ten developers and how are you going to
@@ -1633,7 +1633,7 @@ before they submit those
 
 
 
-Robert:
+**Robert:**
 well I mean the
 one thing you have to do is and this
 literally I mean this is with version
@@ -1656,14 +1656,14 @@ happens right right if you give
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you
 another different than money yeah
 
 
 
 
-Robert:
+**Robert:**
  yeah
 and if you kind of want to crypt a
 wallet and a day you know if you
@@ -1681,7 +1681,7 @@ to what to be careful about
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that's how you learn right making
 mistakes even sadly to say getting
 hacked that right those are sure that
@@ -1690,7 +1690,7 @@ you learn
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay well I don't know what
 collects anymore bounties from you
 I don't think they will I know you got a
@@ -1699,14 +1699,14 @@ cover
 
 
 
-Robert:
+**Robert:**
 well I'm pretty sure I do but you
 know this is an evolving space you never
 know but I'm you know I'm doing my best
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 do you uh you guys use any or not to you
 but is it a common thing for a lot of
 these people in the Bitcoin or crypto
@@ -1722,7 +1722,7 @@ what to look for as much as you do
 
 
 
-Robert:
+**Robert:**
 well
 I mean deuce there's two things here
 right one is one is to sit to secure it
@@ -1753,7 +1753,7 @@ code for this stuff
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so um with all this
 experience that you guys have built up
 from better bets and now EGC bets which
@@ -1767,7 +1767,7 @@ what what's in store for you guys
 
 
 
-Robert:
+**Robert:**
 okay
 so in store is is the expansion of the
 Janus project into the real world and by
@@ -1804,7 +1804,7 @@ notes crypto but they use it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's
 like that's the key and maybe in the
 future people will know they're using
@@ -1815,7 +1815,7 @@ they they're using it
 
 
 
-Robert:
+**Robert:**
 yeah and and again
 you know if you if you target if you
 target the real world then you know them
@@ -1858,12 +1858,12 @@ cringe and I know this because I have
 some friends who are Realtors um 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 they're
 down so dyeing her black cane they are
 
 
-Robert:
+**Robert:**
  I
 believe I'm going to be shifted dying
 for blockchain they're just dying for
@@ -1882,7 +1882,7 @@ for service and making use of that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so if
 you need more funds for any of these
 future businesses would you would you
@@ -1896,7 +1896,7 @@ funds for the Janus team
 
 
 
-Robert:
+**Robert:**
 um I don't you
 know I don't know because this is really
 this is really burns burns domain right
@@ -1928,12 +1928,12 @@ right everybody you know and get these
 scam accusations and stuff like that
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah it's crazy 
 
 
 
-Robert:
+**Robert:**
 its understandable I
 mean me myself and Bjorn were caught in
 the in the in the summer of scams I
@@ -1961,7 +1961,7 @@ and that's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 nice guys have a you know
 excellent track record of you know in in
 the crypto community with better bets
@@ -1972,7 +1972,7 @@ developer for so long
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 maybe you have to
 have you back on the show when you have
 another application that you're lost for
@@ -1980,17 +1980,17 @@ another application that you're lost for
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sure for sure
 
 
 
-Robert:
+**Robert:**
  I'd be happy to come back
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you know what I was going to say so so
 another question that we like to ask
 some of our guests is uh you know we
@@ -2008,7 +2008,7 @@ see black cane being used for
 
 
 
-Robert:
+**Robert:**
 everything
 yeah really
 literally everything but I think I think
@@ -2031,14 +2031,14 @@ know look 20 years later where we are
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right big businesses we're
 treating it like a flyer or something
 I didn't even know what to do it 
 
 
 
-Robert:
+**Robert:**
 yeah
 but even fan but but even you know and
 even even myself as a developer I'm like
@@ -2065,7 +2065,7 @@ tell right um
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah it's like it's like
 you know in the in the mid in the mid to
 late 90s how do you tell what's Amazon
@@ -2077,18 +2077,18 @@ your the projects that have have more
 development and more fun than others for
 
 
-Christian Seberino:
+**Christian Seberino:**
 sure absolutely 
 
 
 
 
-Robert:
+**Robert:**
 but I think yeah I please 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well would you agree with this
 though so whether whether it is or is
 ethereal classic or aetherium it
@@ -2110,17 +2110,17 @@ to general
 
 
 
-Robert:
+**Robert:**
 Dennis
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  blockchain systems 
 
 
 
-Robert:
+**Robert:**
 I
 absolutely agree with you there the
 question is which one right um yeah and
@@ -2129,7 +2129,7 @@ speaking I
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I have in case you wanted to
 know the answer I actually do have the
 answer and you know that the answer is
@@ -2137,7 +2137,7 @@ yes the answer is e.t.c and and
 
 
 
-Robert:
+**Robert:**
 I think
 I think that I think that what a lot of
 crypto people forget is that right I
@@ -2150,13 +2150,13 @@ right
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah in this area is those
 
 
 
 
-Robert:
+**Robert:**
 interests are not going to relinquish
 control without a fight um now you know
 in sort of the identity sort of Bitcoin
@@ -2178,7 +2178,7 @@ interesting interesting times on it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I
 think so weird it really is all right so
 we talked about crypto past present and
@@ -2195,7 +2195,7 @@ just encode developing 24/7
 
 
 
-Robert:
+**Robert:**
 um well mostly at for the past year or
 to vote so so but but people may not
 know it but people probably don't know
@@ -2224,14 +2224,14 @@ that so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's read are already weird
 enough I agree 
 
 
 
 
-Robert:
+**Robert:**
 yeah and I like I mean
 basically any a weird story that you can
 you know you you can think of has
@@ -2240,7 +2240,7 @@ probably been done by humanity so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 pretty
 much um shows note no time for shows I'm
 guessing right not not really me they're
@@ -2249,7 +2249,7 @@ taking appeal i
 
 
 
-Robert:
+**Robert:**
 I haven't watched TV in
 quite a while I enjoy I enjoy so few
 notes but to get development done I put
@@ -2260,7 +2260,7 @@ basically it does
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes I figure I told
 her that this is the answer I'm gonna
 get from pretty much everyone I have in
@@ -2270,7 +2270,7 @@ so I got a I love her sorry
 
 
 
-Robert:
+**Robert:**
 I mean I you
 know I like I actually sometimes when
 I'm gonna have enough time free ie
@@ -2284,7 +2284,7 @@ anymore so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah my my one my one show is
 Game of Thrones that's it
 when fest finish Jameson's
@@ -2294,7 +2294,7 @@ when fest finish Jameson's
 
 
 
-Robert:
+**Robert:**
  yeah that's
 about Breaking Bad Breaking Bad was cool
 um and stuff like that but
@@ -2303,7 +2303,7 @@ um and stuff like that but
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I wouldn't
 read a lot of I did the same thing
 pretty much with Breaking Bad I didn't
@@ -2315,7 +2315,7 @@ three seasons to catch up right
 
 
 
-Robert:
+**Robert:**
  yeah I
 mean during the regular day I mean I you
 know I have a family of a daughter
@@ -2327,7 +2327,7 @@ yep
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I got a man um Robert did we I just
 want to make sure did we cover
 everything did you say everything you
@@ -2340,7 +2340,7 @@ Janus team
 
 
 
-Robert:
+**Robert:**
 one well I mean Ethan okay um
 so so to summarize I mean etc' bets is
 basically as Buuren put it our
@@ -2408,7 +2408,7 @@ involved that's that's the basic goal
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 good yeah I think you guys are really
 doing a great job of you know building a
 trust within the community with this
@@ -2420,7 +2420,7 @@ much covered all the bases
 
 
 
-Robert:
+**Robert:**
 I I think so um I don't have anything
 right now I'll be I'll just say thank
 you for for having me as they're having
@@ -2433,7 +2433,7 @@ you've been up to
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely I really appreciate the
 time you took to come on the show and
 tell everybody about UTC Beth and Janice
@@ -2455,11 +2455,11 @@ you tuning in and we're gonna have
 another show next Friday take care
 
 
-Robert:
+**Robert:**
 excellent thank you guys 
 
 
-Christian Seberino:
+**Christian Seberino:**
 but
 if you are passionate about anything
 related to etherium plastic and you have
