@@ -1,5 +1,5 @@
 # Let's Talk ETC: Joel Dietz - Distributed Governance & More.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody thank you for tuning into
 let's talk ET c i'm your host karlovy
 along with my co-host dr. christian
@@ -50,13 +50,13 @@ correct your agenda Craig up
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 authentic group
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so I mention well at
 coin agenda last year in vegas and the
 skies involved in a whole bunch of
@@ -71,13 +71,13 @@ show Joel thanks for joining us
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 yeah very happy to be here 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 definitely so yeah yeah so uh Joel kind
 of if you could just give everybody a
@@ -89,7 +89,7 @@ how you got to detect I guess
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um yeah
 sure i was one of these you know child
 prodigy programmer started programming
@@ -142,7 +142,7 @@ something really real and exciting
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 yeah like when it when it quit you know
 I guess we all have that clear to moment
@@ -152,7 +152,7 @@ go ahead I just say
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  I went from a sort
 of vague appreciation a Bitcoin but not
 like a significant I never made a
@@ -166,7 +166,7 @@ level
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so yeah I say something so
 you know yeah Joel it's kind of
 interesting because the what you
@@ -186,7 +186,7 @@ we're kindred spirits in a sense there
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 yeah yeah in that particular case it was
 driven by you know business needs in the
 organization's I was in where we had a
@@ -206,11 +206,11 @@ organically in that direction I would
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 say okay cool very good 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah
 definitely I mean we we have a chance to
 talk a lot about et Cie while I was over
@@ -222,7 +222,7 @@ and bellezza was Philip right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 Philip pylorus one of my key business
 partners here at the moment
@@ -230,14 +230,14 @@ partners here at the moment
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah
 Philip was a cool guy Joel's a great guy
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I drum way I do have one other question
 if I just for fun yeah I want to ask you
 so this idea of looking at the big
@@ -258,7 +258,7 @@ things
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um yes and no you know I you know
 I have a couple academic degrees and you
 know good grades and things like that so
@@ -311,7 +311,7 @@ see very clear value that's delivered so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah so I guess this is a good time to
 add you know you're talking about the
 differences you have between athyrium
@@ -335,7 +335,7 @@ and stuff like that
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  um I mean I i run a
 group on that and carry a lot so
 ultimately I have a lot to say about
@@ -343,7 +343,7 @@ that topic
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 start said yes yeah let's
 start sizable so 
 
@@ -351,7 +351,7 @@ start sizable so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so what are some things
 like let's say let's say you you were
 you know all about you know let's say
@@ -372,7 +372,7 @@ that matter
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 oh well you know like many
 people who are in the blockchain world I
 you know I like to see things appreciate
@@ -447,7 +447,7 @@ with each other so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so now can I say can
 I see something so I think none of the
 things you say was that we so you want
@@ -469,7 +469,7 @@ super complex or contracts today
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  I think
 it's a number of things you know one of
 them and I guess I'll just be a critical
@@ -519,7 +519,7 @@ you know yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so I think you would I
 think would you agree so the Dow was
 almost something like the Dell was
@@ -534,7 +534,7 @@ make more secure contracts
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 I don't know
 if it was inevitable it was may be
 inevitable given the way that the system
@@ -565,7 +565,7 @@ know kind of system
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah so in
 argument is your how does your liquid
 democracy a project how does that help
@@ -577,20 +577,20 @@ where
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 well um I'd say
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  it's more
 governance related I suppose is that
 right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah I mean the two are related in
 the sense fear iam basically chose a
 non-profit foundation in Switzerland as
@@ -674,7 +674,7 @@ organization so that's the idea behind
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 it here's here's what I was here's what
 I want to really wanted to ask you I
 think I know a way to make more concrete
@@ -697,7 +697,7 @@ debate that's never ending
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  well I
 dressin enough I try to build a you know
 voting mechanism on the Bitcoin
@@ -772,7 +772,7 @@ many other places
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  where um where where
 would you like to see ideally crypto
 governance in say like 20 years what's
@@ -787,7 +787,7 @@ crypto governance in the distant future
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um well I personally don't like voting
 interesting let off even on building
 voting systems because it takes time and
@@ -822,7 +822,7 @@ good job of that at the moment
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 well I
 also saw in your your paper um you
 talked a lot about you know delegated it
@@ -842,7 +842,7 @@ about
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 totally and you know and experts
 as well can be humans or they can be AI
 or they can be some kind of fusion you
@@ -859,12 +859,12 @@ gonna do that for me well you know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right
 exactly
 
 
-Joel Dietz:
+**Joel Dietz:**
  so to the extent to which you
 know I there can be intelligent you know
 decision-making that's done with a
@@ -886,7 +886,7 @@ things as
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  well yeah I see you should I
 think you would agree that or maybe or
 do would you agree that so to solve the
@@ -910,7 +910,7 @@ to say
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I think the cool thing about also
 the liquid democracy democracies in
 crypto is
@@ -923,7 +923,7 @@ someone who has like one Satoshi
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes but
 the obvious question that yeah the
 obvious question that the audience wants
@@ -935,18 +935,18 @@ gonna dominate all the voting
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  um yeah I
 mean it 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 go ahead y'all sorry
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  um yes your
 are you're right and actually that's
 what happens already you just maybe
@@ -969,7 +969,7 @@ exactly
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I think the I think another big
 point I think ok so in reference to the
 viewers wondering or the listeners
@@ -998,7 +998,7 @@ don't let me
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 government as software you know
 obviously I'm programmer so it's natural
 for me to do that but you know and
@@ -1030,7 +1030,7 @@ that you know and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so honestly that's one
 of the funniest things I've ever heard
 about central bank like the next time
@@ -1048,7 +1048,7 @@ question about
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so um I'm seeing I've
 seen parallels in just a regular away
 from keyboard democracies here so about
@@ -1071,7 +1071,7 @@ in cryptocurrency space right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 absolutely and you know you have
 factions that build and it's natural to
@@ -1110,7 +1110,7 @@ bunch of potholes you know so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 insurance would you agree with me that
 so liquid democracy blockchains in
@@ -1128,7 +1128,7 @@ a utopia that's really all
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um yeah I
 mean I personally think conflict is a
 part of life and generally speaking a
@@ -1149,7 +1149,7 @@ not that bad either
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah you again you
 got add me on chest of friends I don't
 know okay I'm sorry um what was I say oh
@@ -1163,7 +1163,7 @@ judging
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 what I do want to clarify that
 since I don't think inflation is
 interesting monetary policy question
@@ -1174,7 +1174,7 @@ will say
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's what I meant to say
 that okay so so the bailout in 2008
 bailout was just a hardware bug which is
@@ -1193,7 +1193,7 @@ community as a whole
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 well um i think for
 EDC to be continually relevant you know
 it needs to attract projects that are
@@ -1237,7 +1237,7 @@ supported version of it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what are some of
 the suggestions you have in reference to
 the I ohk um treasury model that was
@@ -1248,7 +1248,7 @@ tips and stuff like that
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  well I just
 thought that the whole embedding it in
 the blockchain level is very interesting
@@ -1270,7 +1270,7 @@ that ties you achievable
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so the question
 about that I that I'm doing that
 actually ties into another question I
@@ -1299,7 +1299,7 @@ that you everybody ignores right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 well
 yeah and i host to meet up on dash i
 have dash and you know i'm i love that
@@ -1346,7 +1346,7 @@ I've been approaching this conceptually
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok so if I understood you correctly
 you're saying that you could use
 positive incentives rather than negative
@@ -1363,13 +1363,13 @@ don't need guns to make
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  sounds like cash
 for clunkers actually kind of what
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  they
 did actually look like a laskin example
 of that here in the USA it's like or
@@ -1382,7 +1382,7 @@ Alaska and you know citizens
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you rather
 than make a long and yet the law that
 says there's a certain quota that has to
@@ -1391,7 +1391,7 @@ move to alaska every year right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 exactly have you just forced everyone to
 go laughs at the 
@@ -1400,7 +1400,7 @@ go laughs at the
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 way I think of that
 with people from Alaska getting paid
 from the oil I almost think of it like
@@ -1412,7 +1412,7 @@ oh it's kind of what that would be
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 that's how I think about it too and in
 fact making it sort of steak weighted
@@ -1428,7 +1428,7 @@ when you know you know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I was over
 that actually brings up another good
 point that I wanted to talk about from
@@ -1445,7 +1445,7 @@ this anna still under wraps
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah
 absolutely and yeah like I can even
 publish the latest version on github so
@@ -1455,14 +1455,14 @@ an easy okay great
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool cool that would
 be great um 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so you're dealing with a
 heart problem so I commend you for
 trying to tackle a difficult something
@@ -1470,7 +1470,7 @@ that hasn't been solved yet
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sorry yeah
 so it was in reference to UM the real
 assets was right
@@ -1478,7 +1478,7 @@ assets was right
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  yeah yeah yeah yeah
 actually answer the second question
 first is like the tall look really
@@ -1595,13 +1595,13 @@ interesting
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah definitely down 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm
 kind of the question yes sir um so we
 started one of the things we said way
@@ -1614,7 +1614,7 @@ system thinking of ways to subvert it
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 yeah um it's definitely a concern I have
 both you know at the lower level code
 level and the other thing and I think
@@ -1675,7 +1675,7 @@ want to do so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah like you said it's um
 you know it's it's training wheels which
 is a good stepping stone to actually
@@ -1685,7 +1685,7 @@ innovative in the future
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I've gotten a
 pretty good idea of what a better idea
 of what you're doing have we have you
@@ -1708,7 +1708,7 @@ much wallah
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 well yeah you would mention
 out that you maybe we'll talk about the
 end of the white paper which I sort of
@@ -1718,7 +1718,7 @@ there's anything that stood out to you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 there mom I got a chance to ask about
 you know the differences as far as also
 being you know based on potentially real
@@ -1734,12 +1734,12 @@ about some sort of rep system inherent
 inside the liquid democracy 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um well
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 as far as like good bad decisions and
 earning reputation from that
 
@@ -1747,7 +1747,7 @@ earning reputation from that
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  no I'll use
 the kind of hard assets thing to
 illustrate that and and you know i think
@@ -1803,7 +1803,7 @@ a good place to put your money so soon
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool cool um that is that is pretty like
 um big dynamic that I think everybody is
 expecting to be huge like in block chain
@@ -1829,7 +1829,7 @@ in some sense or are not really
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 well you
 know yes I mean in the sense that angel
 list you know ties these things together
@@ -1852,14 +1852,14 @@ funny
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah you might want to keep those
 pseudonyms separate that would be a good
 idea right your buddies
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  the reason is
 the reason that you brought up the Dow
 Carlo and Joel because you were
@@ -1872,7 +1872,7 @@ so that's why you had to dress that
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 um yeah it happened in the first time I
 circulated these concepts okay people
 said oh that's so the Dow two point O
@@ -1884,7 +1884,7 @@ which it was and wasn't like the dow
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yeah yeah I think I think it's a
 shame that now every complex contract is
 going to remind people of the Dow but I
@@ -1900,7 +1900,7 @@ doubt
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  you we talked about it at the very
 beginning of the show I want to ask you
 a little bit more about agenda it's
@@ -1912,7 +1912,7 @@ chain and stuff like that
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 yeah um a
 gentle group is doing great stuff right
 now and really building you know a kind
@@ -1943,7 +1943,7 @@ little mildly maybe but
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I was gonna
 say you're doing some understatement
 those are like really your
@@ -1953,7 +1953,7 @@ this is it was top-notch
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 yeah um well I
 guess I'm gonna need to do a lot of that
 as I as I travel weather but yeah that
@@ -1983,14 +1983,14 @@ facilitating this this process so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sounds
 cool yeah and 
 
 
 
 
-Joel Dietz:
+**Joel Dietz:**
 when we agenting people
 all other people involved with that are
 really really top-notch and great and
@@ -2003,7 +2003,7 @@ that's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool um so I don't know if
 there's uh we're now into a little bit
 past an hour I don't know if there's
@@ -2014,7 +2014,7 @@ christian
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  no I think oh the
 conversations been pretty thorough I've
 asked all the questions and address the
@@ -2025,7 +2025,7 @@ thank you
 
 
 
-Joel Dietz:
+**Joel Dietz:**
  um yeah thank you guys then
 yeah go ahead us welcome people that you
 know pertain any of these initiatives
@@ -2041,7 +2041,7 @@ where there's a huge need for it so
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay
 very cool and so for anybody out there
 listening we're gonna post some links
@@ -2064,7 +2064,7 @@ you guys take care hey bye bye but
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to a theory of classic and you
 have something to say we love to discuss
