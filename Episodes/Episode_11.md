@@ -1,5 +1,5 @@
 # Let's Talk ETC: Manuel Sabin - Proof Of USEFUL Work Systems.
-Christian Seberino:
+**Christian Seberino:**
 hello everyone and welcome to another
 episode of let's talk et Cie where we
 discuss technologies and issues related
@@ -20,7 +20,7 @@ yourself how you got into this
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  sure okay
 so yeah I am on well doing my PhD at
 Berkeley and um how did I get into this
@@ -30,12 +30,12 @@ to study
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 sigh speech even is x-ray
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  yeah
 yes computer science PhD and I like to
 study the hardness of problems
@@ -54,21 +54,21 @@ studying hardness of problem
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and when
 you say hardness are you talking about
 like complexity theory big o-notation
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly others are the type of hard
 different parts 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 alright so for the
 people that don't know there's ways to
 measure the difficulty how long it takes
@@ -82,7 +82,7 @@ or any comment on that
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 um you know I
 could have dreams of making progress
 towards that but there's well-studied
@@ -90,7 +90,7 @@ barriers to achieving that dream goal
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so I I know that a lot of problems
 are they they they can't be solved and I
 was talking to a computer science
@@ -107,7 +107,7 @@ we are times to sit it's been solved
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 oh
 yeah there's there's no real reason to
 believe that it should not be solvable
@@ -120,7 +120,7 @@ sufficient for tackling P versus NP
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 and if I if I understand correctly it is
 not possible to it's either not easy or
@@ -132,7 +132,7 @@ factoring
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure so it's not impossible
 it's very difficult though it seems our
 results unconditional results saying
@@ -142,7 +142,7 @@ not been abundant according
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now before
 we get into the details of your your
 work I'm curious what was just I like to
@@ -158,7 +158,7 @@ thoughts on that let's see
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 so the first
 time I heard of it I was a more studying
 kind of theoretical side of cryptography
@@ -183,7 +183,7 @@ followed closely
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok ok and so now so why
 don't you then now describe for the
 audience and is first well why don't we
@@ -193,7 +193,7 @@ what you're working on
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure so for proofs at work like in
 blockchain and Bitcoin are a way to
 enforce that people can't rewrite
@@ -226,7 +226,7 @@ problem
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so that's that's
 interesting to me because so it hurts so
 proof of work at first for me was was
@@ -234,12 +234,12 @@ kind of odd because you're intentionally
 wanting to make something difficult
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and and so and on top of that to add
 insult to injury they they make
 something difficult by doing something
@@ -255,7 +255,7 @@ a a good match
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  sure so um the hardness
 we get the hardness from so sorry much
 like cryptography we get so much like
@@ -299,7 +299,7 @@ problem that kind of fits our framework
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay now I could imagine a few people
 here and they're having a calculation a
 problem like that and then they take the
@@ -313,7 +313,7 @@ could to process that continually
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  sure
 so what our framework has been is namely
 there's three main islands in the
@@ -330,7 +330,7 @@ as one of these three
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay and might
 remind people of the correct me if I'm
 wrong with np-hard and a lot of yeah if
@@ -352,7 +352,7 @@ problems is it kind of related to that
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 it's very related to that so that's
 exactly the idea so when you talk about
 something being np-hard you're saying
@@ -387,7 +387,7 @@ work
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so just so that I just for
 people that are listening that maybe
 don't know the terminology so computer
@@ -424,7 +424,7 @@ right
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  yeah not only manageable but this
 is exactly what we want out of a proof
 of work we want to proof of work to be
@@ -434,7 +434,7 @@ blockchain but not any faster
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 that's right because you okay going back
 to what you said we intentionally want
@@ -442,7 +442,7 @@ it to be difficult
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly exactly so
 when I say something is cubic computable
 or something that's exactly what you
@@ -465,7 +465,7 @@ yeah yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm thinking so when I too have a
 usefully research that involves
 supercomputers and so everybody from
@@ -490,7 +490,7 @@ like that
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  sure sure so we haven't
 created a blockchain scheme specifically
 but we do propose something very similar
@@ -525,7 +525,7 @@ efficiently recoverable way
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yes now
 so theoretically the ID ideas sound
 great now as you know in the real world
@@ -547,7 +547,7 @@ and over again I for
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly so what a
 poof of useful work should do is for
 every possible instance it should
@@ -573,7 +573,7 @@ the same instance every time
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 okay so and then that would be that
 would help with the security okay
@@ -581,7 +581,7 @@ understeer
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 oh and also the randomness is
 really generated based on the contents
 of your block so if you try to alter a
@@ -592,13 +592,13 @@ invalidate any other proof of work sorry
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and who is who are the people that
 submit the work to be done oh 
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure at
 this point um we I don't see a reason
 why it couldn't be anyone okay as in you
@@ -613,7 +613,7 @@ the existing blockchain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 wait here's what
 I'm getting at so like in a Syrian
 classic the miners provide a service
@@ -638,14 +638,14 @@ community and
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  so let me make sure I
 understand what you're saying so 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I I
 agree that there's lots of useful work
 in the world that could be done tried by
@@ -663,14 +663,14 @@ little bit of their work form what do
 they get out of it 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 the miners whether
 they're miners get out of it um
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  what is
 a community that why would they want to
 give their funds for these people doing
@@ -682,7 +682,7 @@ it's useful to whoever submitted the job
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure this is true so the the blockchain
 folk simply need to have instances to do
 work on if for some reason they want to
@@ -724,7 +724,7 @@ money
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah if if anybody was worried
 about centralization due to a queue I'm
 sure somebody could develop a
@@ -733,14 +733,14 @@ all the nodes somehow
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly so that'd
 be more kind of a separate issue than
 what the proof of useful work offers
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so it sounds if I understand you
 correctly the it's it's it's just it's
 altruistic if a blockchain decides to be
@@ -751,7 +751,7 @@ maybe literature live by
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 a blockchain
 needs to do some work and they need to
 find out where those instances come from
@@ -771,7 +771,7 @@ instances to do work on me
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 sure sure and
 then another thing that something you
 said that caught my attention you were
@@ -794,7 +794,7 @@ calculation the other thing
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 yeah yeah
 exactly so yeah a proof of useful work
 should be two things it should be hard
@@ -830,7 +830,7 @@ started where
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay so so it's up to the
 person submitting the job to be done to
 to characterize it in a way that is
@@ -855,7 +855,7 @@ randomness and still be for work
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure in
 our case though so the framework is um
 so there's no there's not luck really
@@ -867,7 +867,7 @@ answer to your original problem
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 okay yeah alright so if there's other it
 other limitations so it's not that you
@@ -879,7 +879,7 @@ to be constructed a specific layer
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 sure
 so this is not um a turing-complete
 thing you can't do an arbitrary
@@ -895,18 +895,18 @@ probably many other problems that can
 have this use property 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah and then it
 goes on they little become more and more
 flexible while school exactly secure yes
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well it's certainly a great service that
 year you're working on and what's the is
 it still in the prototype stages are
@@ -917,7 +917,7 @@ using this so stage
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  it's still in the
 theoretical stage in the sense that we
 accomplished it in a in a paper but
@@ -948,14 +948,14 @@ instances in this way
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I was ambitious
 more general more ambitious than the
 prime coin you're saying
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  yeah yeah so so
 this is meant to for the first time
 capture what a proof of useful work
@@ -966,7 +966,7 @@ computations
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes now I don't this is a
 different subject I know you're not
 you're not an expert at it but I was
@@ -975,7 +975,7 @@ curious have you heard of proof of stake
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 I was looking that up
 when uh yeah I was looking that up when
 we started talking about doing this
@@ -983,7 +983,7 @@ interview
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so so a lot of people have
 been thinking is like you about they the
 issue with all this useful a useless
@@ -994,7 +994,7 @@ yeah but so
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 so if I understand it a
 proof of stake is a way to again keep
 people from rewriting history in the
@@ -1011,7 +1011,7 @@ have people do contract work out
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so
 I'm I'm not prepared to give a okay
 anchor description and also the
@@ -1024,7 +1024,7 @@ people are trying to eliminate the work
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 exactly yeah there is so there are
 things called proof of stake and there's
 a poof of space as well where instead
@@ -1068,7 +1068,7 @@ words the correct answer
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so now now
 that obviously reminds everybody of the
 NP right but non-deterministic
@@ -1086,12 +1086,12 @@ are very easily verifiable and like like
 the pachinko so what you're
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  exactly
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  what
 you're saying is for this system to work
 they have to be in a sense like what now
@@ -1100,7 +1100,7 @@ it is for the jigsaw puzzle verification
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
 yeah exactly so my understanding of
 aetherium right now is lots of people
 have to do the same task if there's a
@@ -1126,7 +1126,7 @@ solution yeah yeah sorry
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so it's
 exciting the times that we're living in
 is all this innovation people are trying
@@ -1148,7 +1148,7 @@ sure pointed out on an engine so
 
 
 
-Manuel Sabin:
+**Manuel Sabin:**
  okay so
 one thing I should say is that my
 co-authors are Marshall ball alone Rosen
@@ -1159,7 +1159,7 @@ all right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well if we cover everything
 that's fine too yeah anything else
 all right well thank you for coming on
