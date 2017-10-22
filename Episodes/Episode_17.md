@@ -1,5 +1,5 @@
 # Let's Talk ETC: Chucksrq - ICOs, Marketing & More.
-Christian Seberino:
+**Christian Seberino:**
 hi everybody welcome to another edition
 of let's talk etc' Carlo can't be with
 us today so I'll be doing the show I
@@ -18,12 +18,12 @@ Chuck welcome to the show
 
 
 
-Chuck:
+**Chuck:**
 hello how are you doing 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm doing good
 so what I like to do at the beginning of
 the show me and Carlo is we like to find
@@ -36,7 +36,7 @@ you got interested in this technology
 kind of give a little background I'm
 
 
-Chuck:
+**Chuck:**
 sure I am last summer actually I was
 just wanting to play poker online and
 one of the ways you can deposit on
@@ -78,14 +78,14 @@ consuming to get your money out
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so
 did I why are you saying that you sorry
 did you it so you did buy doubt token
 
 
 
-Chuck:
+**Chuck:**
  no
 I didn't I didn't I I because I
 researched it a little bit I went on
@@ -106,7 +106,7 @@ seemed like a bubble at the time right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah you know I can support what you're
 saying I could just meant are you
 reminding me now
@@ -120,7 +120,7 @@ about the Dow
 
 
 
-Chuck:
+**Chuck:**
 oh yeah well I mean it was
 the only
 I go at the time really right I mean
@@ -148,12 +148,12 @@ even
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I wasn't that long
 
 
 
-Chuck:
+**Chuck:**
 I wasn't it wasn't it wasn't in that
 long I was like two weeks three weeks
 you know you wake up that the Dow's been
@@ -202,7 +202,7 @@ they have something going for them
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  now
 I'm curious when you say that we have
 the same ethos as Manero I presume
@@ -215,7 +215,7 @@ understanding correctly correct
 
 
 
-Chuck:
+**Chuck:**
 yeah and and right now the only three
 points that I'm invested in our Bitcoin
 aetherium classic animal Niro and if
@@ -235,7 +235,7 @@ TTC in the future and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I've from the
 way that you're talking it's clear that
 you are an astute rate about the
@@ -255,7 +255,7 @@ programmer or what
 
 
 
-Chuck:
+**Chuck:**
 no I don't know any I
 don't know any programming or developing
 skill I don't have any programming or
@@ -265,13 +265,13 @@ science and and sales and marketing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 and so what is arts go ahead 
 
 
 
-Chuck:
+**Chuck:**
 and um and
 before I used to be involved with
 prediction markets oh I used to do I
@@ -288,7 +288,7 @@ that's a that's a big bummer
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah no no no uh is it just in like meat
 when they've been people say prediction
 markets is that just a euphemism for a
@@ -300,7 +300,7 @@ that correct
 
 
 
-Chuck:
+**Chuck:**
 yes yes and no uh in the
 sense it is kind of very similar to
 gambling right but at the same time I
@@ -337,7 +337,7 @@ up losing like she did
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so I
 sophisticated you're saying that there's
 sophisticated ways to make money so it
@@ -347,7 +347,7 @@ it okay it's not all right
 
 
 
-Chuck:
+**Chuck:**
 correct yeah
 exactly you know well a lot of my wins
 were on positions that didn't end up
@@ -376,7 +376,7 @@ up being
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh yeah so you're okay so there
 was more support for for not of not
 doing the hard fork tutor s to rescue
@@ -386,7 +386,7 @@ the DAO funds you're saying
 
 
 
-Chuck:
+**Chuck:**
 yeah I think
 personally I think the carbon vote was
 kind of an excuse uh uh you know too too
@@ -397,7 +397,7 @@ favor of working oh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that's
 interesting I had never heard any other
 information about polling data before
@@ -410,14 +410,14 @@ you're saying that there's dad let
 
 
 
-Chuck:
+**Chuck:**
  me
 look it up right now
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay what we could
 also post it in the boat in the
 underneath it on YouTube when we post
@@ -426,7 +426,7 @@ note to do that
 
 
 
-Chuck:
+**Chuck:**
  oh here we go I found it
 already a very public survey on a theory
 of July 16th to the 17th okay okay we
@@ -461,7 +461,7 @@ iam
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now it's unfortunate because I might
 I think to do a scientifically accurate
 poll it's it's
@@ -471,7 +471,7 @@ much more complicated than
 
 
 
-Chuck:
+**Chuck:**
 oh yeah
 absolutely but I mean how are you gonna
 do a phone survey of etherium users
@@ -479,7 +479,7 @@ do a phone survey of etherium users
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes
 yes I think I think ultimately we'll
 never know
@@ -491,7 +491,7 @@ what you're presenting which is okay
 
 
 
-Chuck:
+**Chuck:**
 absolutely I would agree but here's well
 here's the important finding out of the
 poll right uh would you support a hard
@@ -532,7 +532,7 @@ couldn't do it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yep now why don't you
 also say a little bit about what you do
 for et Cie dev I know you're a volunteer
@@ -542,7 +542,7 @@ with with them
 
 
 
-Chuck:
+**Chuck:**
  what would I do mostly is
 I help them in terms of marketing okay
 if you know I run I run the Twitter
@@ -560,7 +560,7 @@ Stanberry Beckett ticket okay of it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  now
 now yeah i sorry give me to cut you off
 good
@@ -575,7 +575,7 @@ me the kind of the big thing
 
 
 
-Chuck:
+**Chuck:**
  you know
 anytime I do post something really
 important I do post it on reddit as well
@@ -605,7 +605,7 @@ AJC
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well yeah we appreciate what you do
 and by the way I will also make a note
 to put a link to your YouTube videos if
@@ -614,14 +614,14 @@ you want me to
 
 
 
-Chuck:
+**Chuck:**
  thank you I would
 appreciate that that'd be great
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay so
 as you know that everybody's getting
 excited about initial coin offerings
@@ -647,11 +647,11 @@ so would you would you agree with that
 is that is that an act 
 
 
-Chuck:
+**Chuck:**
 correct yes 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 and so of what what are your thoughts on
 like what why all this excitement why is
@@ -660,7 +660,7 @@ now what are your thoughts on that
 
 
 
-Chuck:
+**Chuck:**
 well
 I think it gives investors and boosts
 some more intelligent than others the
@@ -687,7 +687,7 @@ for the investor well quote an investor
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah so that was one thing that I
 was surprised me I thought was
 interesting so when you buy a share like
@@ -707,14 +707,14 @@ promises right
 
 
 
-Chuck:
+**Chuck:**
 correct and so yeah
 exactly
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and so on the one hand you could say
 well there's not as much regulation as
 there is for traditional securities and
@@ -730,7 +730,7 @@ protection so you got to consider
 
 
 
-Chuck:
+**Chuck:**
 it's
 kind of unfortunate that there is some
 regulation the regarding securities and
@@ -749,7 +749,7 @@ happens
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 right okay so what you're saying
 see I didn't know that you're saying
 that there some some IKOS are careful
@@ -765,7 +765,7 @@ correct
 
 
 
-Chuck:
+**Chuck:**
 yeah exactly then and and
 because Fitbit tracks has made it clear
 to people who want to list their tokens
@@ -776,7 +776,7 @@ revenue
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay oh I
 Givaudan evidence 
 
@@ -784,7 +784,7 @@ Givaudan evidence
 
 
 
-Chuck:
+**Chuck:**
 evidence thank yes if
 the token is
 it's not getting invested on bit Rick's
@@ -804,7 +804,7 @@ test
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 can you alike so so like I said at
 the beginning of the show it was clear
 that yours you're astute in the in the
@@ -815,7 +815,7 @@ the Howey test is can you enlighten
 
 
 
-Chuck:
+**Chuck:**
 ensures the Howey test is how basically
 if it's kind of like a rule of thumb of
 how the FCC decides if something is a
@@ -866,7 +866,7 @@ have
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so so there may be there's a
 there's some gray area or something
 because I've read also I've read papers
@@ -888,7 +888,7 @@ think
 
 
 
-Chuck:
+**Chuck:**
 well I I would hope that they
 don't if they don't fall under
 securities regulations at the moment
@@ -908,7 +908,7 @@ investment or not
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yeah and I don't
 know if if eventually if enough people
 lose money and there's enough scams that
@@ -922,7 +922,7 @@ know said I don't happen to know what
 
 
 
-Chuck:
+**Chuck:**
  I
 guess well I guess we're gonna find out
 right it's yes it's but the
@@ -955,7 +955,7 @@ ten times
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay see ya now see the one
 one would you agree with this so a few
 minutes ago you were saying that a lot
@@ -977,7 +977,7 @@ times really fast
 
 
 
-Chuck:
+**Chuck:**
  well I think I think
 they have the impression that all the
 big ones are probably gonna be really
@@ -997,7 +997,7 @@ exchange for example
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now now to be to be
 fair to the Dow so it was improperly
 implemented technology but as far as a
@@ -1007,7 +1007,7 @@ was successful
 
 
 
-Chuck:
+**Chuck:**
 absolutely it raised 150
 million at the time and imperium was
 only you know fifteen to twenty dollars
@@ -1023,7 +1023,7 @@ doubt and quote into yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so um
 what is your role right now are you are
 you investing in Aiko's are you gonna
@@ -1034,7 +1034,7 @@ and
 
 
 
-Chuck:
+**Chuck:**
 I kill myself I don't know if I want
 to pursue it or not I'll keep it private
 at the moment okay I just want to I do
@@ -1068,7 +1068,7 @@ the point right because
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I see what
 you're saying so yeah there's already
 good crypto currencies that are right
@@ -1078,7 +1078,7 @@ new ones
 
 
 
-Chuck:
+**Chuck:**
 exactly it's kind of like the episode of
 it's sunny in philadelphia when when
 they make their own Paddy's dollars
@@ -1115,7 +1115,7 @@ dividend some of them don't
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah well I would imagine if you created
 your own propel currency you could maybe
 do some things cheaper or innovative
@@ -1126,7 +1126,7 @@ the fees are higher right
 
 
 
-Chuck:
+**Chuck:**
  right that's
 what I mean that's correct that's that's
 true to a certain extent but why can you
@@ -1142,7 +1142,7 @@ last couple months
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so now I wasn't when
 I I this was another interesting thing
 about Aiko's that I discovered so I
@@ -1177,7 +1177,7 @@ a new con
 
 
 
-Chuck:
+**Chuck:**
 what the I feel that I do like
 is you know if it's the one that's a
 smart contract that and and the cool
@@ -1214,7 +1214,7 @@ back some tokens cool
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh I just thought
 of yeah I do remember now one reason why
 you might want your own cryptocurrency
@@ -1232,7 +1232,7 @@ know much faster than EPC or ETH seems
 
 
 
-Chuck:
+**Chuck:**
 that's true that's a good point you know
 if you know if let's say you start at 10
 cents and it goes to $2 uh-huh right
@@ -1250,7 +1250,7 @@ right that's fine
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so I think that's
 clearly one reason why people need their
 own cryptocurrency is so that you can
@@ -1262,7 +1262,7 @@ initiative accurately
 
 
 
-Chuck:
+**Chuck:**
  if it was like a
 share of the company then I would agree
 but the way there's some of these tokens
@@ -1276,7 +1276,7 @@ the company valuation should be
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  sure
 right yeah so I think I think what
 you're saying one of the things you said
@@ -1288,13 +1288,13 @@ service with the token and that and
 
 
 
-Chuck:
+**Chuck:**
 exactly
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  and I can do that that's then it
 has its some some value some true value
 whereas you're saying that some ICO's
@@ -1303,7 +1303,7 @@ you if you just buy it's just like
 
 
 
-Chuck:
+**Chuck:**
  what
 like for example what the canosa's token
 uh-huh it gives you the canosa token
@@ -1348,7 +1348,7 @@ terms of some of these Aiko's
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah now
 to to resources that I'm aware of that
 people could use to research Aiko's to
@@ -1368,7 +1368,7 @@ and bad ICO
 
 
 
-Chuck:
+**Chuck:**
  just just just do your own
 research you know we read their own
 white papers okay if the white paper
@@ -1396,7 +1396,7 @@ them
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so so they might not their
 motivation my intention might not be to
 explain it as clearly as possible there
@@ -1405,7 +1405,7 @@ might have other
 
 
 
-Chuck:
+**Chuck:**
 on purpose to confuse
 people and it make you want to invest
 when you shouldn't sure when if you knew
@@ -1447,7 +1447,7 @@ investing on five or ten oh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah I I
 remember so I'm old enough to remember
 the late 90s when the the web was taking
@@ -1475,7 +1475,7 @@ about
 
 
 
-Chuck:
+**Chuck:**
 right and and and while here's the
 other thing people can admit to
 themselves okay we are in a bubble but
@@ -1485,7 +1485,7 @@ able to get out before the bubble pops
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes
 yeah there's no yeah this gets into all
 kinds of psychology and 
@@ -1494,7 +1494,7 @@ kinds of psychology and
 
 
 
-Chuck:
+**Chuck:**
 yeah they're
 they're probably some people that like
 yeah I know it's a bubble I know crypto
@@ -1535,7 +1535,7 @@ drop in the bucket you know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that's
 right another dose that I thought of
 would you agree with this is so to be an
@@ -1560,7 +1560,7 @@ the grain go against the crowd
 
 
 
-Chuck:
+**Chuck:**
 absolutely I mean very silver deserves a
 lot of credit deserves a lot of credit
 for what he did and and certainly some
@@ -1592,7 +1592,7 @@ skeptical of everyone and everything
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah you always have to do your due
 diligence you right exactly yeah so yes
 so we've talked about your marketing
@@ -1605,7 +1605,7 @@ anything else that
 
 
 
-Chuck:
+**Chuck:**
  one thing I do want
 to mention real quick is the etc' dev
 team is going to release the Emerald
@@ -1626,13 +1626,13 @@ me for example I I'm not very
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  um I'm a
 parody band myself
 
 
 
-Chuck:
+**Chuck:**
  III I can't figure
 out how to run parody to be honest you
 know I've tried it doesn't it's not all
@@ -1653,12 +1653,12 @@ impress a lot of people so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  very nice
 
 
 
-Chuck:
+**Chuck:**
  you
 know I worried about that look that yes
 well these yeah as you come out of the
@@ -1670,7 +1670,7 @@ June okay you know yep
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay well thank you very much Chuck for
 sharing the this time with us and giving
 us your thoughts and I we all appreciate
@@ -1681,14 +1681,14 @@ about so
 
 
 
-Chuck:
+**Chuck:**
 yeah you're doing a good job
 with these videos so wanna say you're
 doing too bad 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 all right well thank thank
 you for that show support all right so
 have a good have a good rest of this
@@ -1696,13 +1696,13 @@ Friday to
 
 
 
-Chuck:
+**Chuck:**
 youtob but my man you have a
 good weekend okay hey bye bye bye
 [Music]
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to etherium classic and you have
 something to say we'd love to discuss
