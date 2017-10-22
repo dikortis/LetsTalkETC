@@ -1,5 +1,5 @@
 # Let's Talk ETC: Cody Burns (Dontpanicburns) - TokenMint, StateBot & More.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody you're listening to let's
 talk et Cie I'm your host karlovy along
 with my co-host dr. Christian Severino I
@@ -12,13 +12,13 @@ of me
 
 
 
-Cody Burns:
+**Cody Burns:**
 right now that was good you're on
 a roll all right 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 here we go okay one two
 three
 hi everybody you're listening to let's
@@ -50,12 +50,12 @@ the show other
 
 
 
-Cody Burns:
+**Cody Burns:**
  things really appreciate
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you taking the time yeah absolutely
 yeah welcome so uh Cody something we
 like to do on the show at least for
@@ -71,7 +71,7 @@ was or whatever you were doing
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh well I
 guess it started out I was a head
 computers ever since I was a teenager I
@@ -90,13 +90,13 @@ get it going
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh that was my first one
 also denied up for e yep
 
 
 
-Cody Burns:
+**Cody Burns:**
  not for a Bill
 Cosby sold 
 
@@ -104,7 +104,7 @@ Cosby sold
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it C to me I hear that and
 all I hear is calculator but I guess
 that was a computer back in the early
@@ -113,37 +113,37 @@ night
 
 
 
-Cody Burns:
+**Cody Burns:**
 it was I raised a fancy calculator
 at least but yeah but it's a probably as
 powerful as the EVM at least
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  16
 kilobytes of memory my if I recall
 correctly
 
 
-Cody Burns:
+**Cody Burns:**
  you don't sound like a benefit
 yeah you could plug a tape player into
 it if you wanted to save your programs
 
 
-Christian Seberino:
+**Christian Seberino:**
 yep I did that it half the time
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah could you could you play snake on
 it that's the that's the question
 
 
 
-Cody Burns:
+**Cody Burns:**
 oh yeah you could place snakes and Hanks
 in stuff if you just spent three or four
 days sitting there programming it all in
@@ -153,7 +153,7 @@ you got through so it was though
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay so
 so computer computers at a young age
 definitely lends itself to to being in
@@ -165,7 +165,7 @@ know say in Texas who leave Texas
 
 
 
-Cody Burns:
+**Cody Burns:**
 left
 Texas like I said I grew up in a really
 small town so that was first thing I
@@ -181,7 +181,7 @@ communication school so I did and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so so
 how long how long total were you in the
 Marines for
@@ -189,7 +189,7 @@ Marines for
 
 
 
-Cody Burns:
+**Cody Burns:**
  nine years total Wow yeah my
 first
 that was five years of the year school
@@ -198,25 +198,25 @@ instructor for some reason
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  you did what
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah it was a well briefly I was a drill
 instructor in Parris Island that didn't
 work out well
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what would wear so you were a drill
 instructor but then you it wasn't
 working out and did they reassign you to
@@ -226,7 +226,7 @@ chose what happened with that
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh it was
 a mutual thing I guess it was a not a
 shining moment my military career but I
@@ -236,7 +236,7 @@ get out and go to college
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so so you're
 you're a nerd that can defend himself
 yes impress 
@@ -244,12 +244,12 @@ yes impress
 
 
 
-Cody Burns:
+**Cody Burns:**
 sure
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so something you went
 so you you were into computers uni you
 were developing join the Marines then
@@ -260,14 +260,14 @@ you go
 
 
 
-Cody Burns:
+**Cody Burns:**
 right I went to a I did it online
 because by that time I was married had
 kids
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  right right
 love by the way there anyone listening
 we were having a conversation before the
@@ -283,7 +283,7 @@ then you got back into tech
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh yeah once
 I got out I got a job as a firefighter
 and because I've had my communications
@@ -297,20 +297,20 @@ while I finish my bachelor's degree
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 are
 your days like thirty-five hours long or
 something 
 
 
 
-Cody Burns:
+**Cody Burns:**
 with your feel he's 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 an EMT try
 a fighter doing the 911 and the
 communications and going to college with
@@ -321,7 +321,7 @@ all right yeah no I'm sure what
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so it
 was that stressful like you you uh you a
 couple of stress okay come come to work
@@ -331,7 +331,7 @@ out on time
 
 
 
-Cody Burns:
+**Cody Burns:**
 no it wasn't it wasn't a really high
 turnover we didn't run all the whole lot
 of calls I worked in a really nice part
@@ -349,7 +349,7 @@ it's got you
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  what did you after or maybe
 you still work for for that or did you
 do something else after that
@@ -357,7 +357,7 @@ do something else after that
 
 
 
-Cody Burns:
+**Cody Burns:**
  after that
 I went to oil and gas stuff doing a
 seismic survey so it's pretty much you
@@ -373,45 +373,45 @@ the whole area
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay so so then he became
 an oil man now that was you get into
 that 
 
 
 
-Cody Burns:
+**Cody Burns:**
 it was a family business that's
 what my dad had always done 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so okay I
 think 
 
 
 
-Cody Burns:
+**Cody Burns:**
 I forget 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so I can think 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so
 cool yeah the COO sticks you you could
 use your communications background there
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah it's actually pretty tech heavy
 because you need to store that amount of
 data used to have terabytes and
@@ -429,7 +429,7 @@ powerful computer though he's make
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 it
 what we wanted to do though is that all
 the stuff you did or did you then take a
@@ -438,13 +438,13 @@ different
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 they wanted to take him to the
 moon but he said he was busy
 
 
 
-Cody Burns:
+**Cody Burns:**
  yeah that's
 on hold still
 no that's whatever I started doing the
@@ -458,7 +458,7 @@ about business and stuff okay
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so so how
 did you find yourself then in in the
 Jeep so lots of angry and slow yeah but
@@ -467,17 +467,17 @@ computer science they're your bachelors
 
 
 
-Cody Burns:
+**Cody Burns:**
 bachelors lives in emergency management
 okay and that's really covering stuff
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I got my MBA 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah well I just
 finished it last May I got my MBA I
 thought I've never actually went to
@@ -487,14 +487,14 @@ college for computer stuff
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see so are
 you a DUI you big into your self-taught
 programming big into programming 
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh I
 try to be I mean I can program okay
 I'm not I'm not super great at it that's
@@ -505,7 +505,7 @@ regret find bugs and things like
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and
 then so how did you fall into EPC
 
@@ -514,7 +514,7 @@ then so how did you fall into EPC
 
 
 
-Cody Burns:
+**Cody Burns:**
  uh
 well I was got into Bitcoin back in
 whenever it surged big I think 14 or so
@@ -546,12 +546,12 @@ called blockchain back then really
 everyone 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right yeah 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 did you bring up the
 land title issue because you thought
 that that would block chains would be
@@ -559,7 +559,7 @@ helpful for that
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah they be they still would be very
 helpful for it you can get a local
 government or something to digitize all
@@ -569,7 +569,7 @@ now I be revolutionary
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I imagine that's
 kind of something that factum is working
 on I believe correct I mean not working
@@ -579,7 +579,7 @@ they're doing some pretty cool stuff
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I think for you would agree so in
 America it's just an annoyance having to
 work hard to dig up the records but I
@@ -592,7 +592,7 @@ records I have that accurate records and
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah yes I think factum is doing theirs
 in South America right now they have a
 contract down there okay but yeah it's
@@ -622,7 +622,7 @@ insight of that was back in 15
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and
 so you got you are interested in a
 hiriam and then how did what got you to
@@ -632,7 +632,7 @@ focus on aetherium classic uh
 
 
 
-Cody Burns:
+**Cody Burns:**
 well to be
 honest whenever the split was happening
 last year this time I didn't think
@@ -648,7 +648,7 @@ you guys agree -
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah you disagreed with
 the reversal or the what the state
 changes guesses they were correct
@@ -658,11 +658,11 @@ you know
 
 
 
-Cody Burns:
+**Cody Burns:**
 the Regenesis block I guess
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yeah right so and then so we've
 talked about your background then why
 don't you kind of share some of the
@@ -672,7 +672,7 @@ cie uh
 
 
 
-Cody Burns:
+**Cody Burns:**
 right now the big thing that
 we're working on lemon and Chuck and I
 have been working on the token mint okay
@@ -691,12 +691,12 @@ crowd sales what a Vickrey auction is or
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so do you prefer the term crowd sale -
 initial coin offering is AI code
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely don't say yeah you definitely
 shouldn't say I see
 anymore yeah people keep doing it
@@ -729,7 +729,7 @@ and yet they're different you know
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah
 like that
 it's a DTC I feel like we've done a
@@ -757,13 +757,13 @@ in the
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah what does asked us Khalid the yeah
 Allah critique client right yeah 
 
 
 
-Cody Burns:
+**Cody Burns:**
 right
 so like I said it feels like a TC we've
 done a lot the investment trust has come
@@ -772,14 +772,14 @@ around that's right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes we have good
 fundamentals 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah and like I said we
 have terrible marketing but everything
 else is pretty solid I don't have a
@@ -789,12 +789,12 @@ system but we're working on that
 so but
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  crowd sales 
 
 
 
-Cody Burns:
+**Cody Burns:**
 crack their crowds
 throughout sales yeah when City I saw
 yesterday that expanse is going to start
@@ -803,13 +803,13 @@ etherium
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I know wha okey I know the
 expanse churn out 
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah there they have a
 token lab is coming out for them which
 is kind of same thing as token mint
@@ -818,7 +818,7 @@ launch standardized contracts
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now is the
 reason you were motivated partly to do
 token mint because you had a lot of
@@ -827,7 +827,7 @@ buggy crowd sale contracts
 
 
 
-Cody Burns:
+**Cody Burns:**
  not so much
 bug is it just seems like there's a
 whole lot of mystery behind it the whole
@@ -851,7 +851,7 @@ the theorem
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so you get a lot of
 emails from startups saying please help
 us to do a token or do a crowd sale
@@ -859,7 +859,7 @@ us to do a token or do a crowd sale
 
 
 
-Cody Burns:
+**Cody Burns:**
  no I
 haven't yet
 maybe a threat maybe yeah maybe at your
@@ -868,12 +868,12 @@ token mint gets going
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay all right and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I think pea infrastructure for that
 is still being developed and 
 
@@ -881,7 +881,7 @@ is still being developed and
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah let's
 be cool um both chains is that there's
 not really good user interfaces that's
@@ -900,13 +900,13 @@ don't really have to think about it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 interesting 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 right now and then also
 another project that you mentioned that
 you are working on which seemed
@@ -918,7 +918,7 @@ what that's all about
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah state but it's a state bot INF oh
 right now is it's a top-level domain
 it's entirely run on an IP FS and PTC
@@ -944,7 +944,7 @@ data from the contract
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so there's
 so much we could talk about for that
 that's interesting so for the people
@@ -964,7 +964,7 @@ motivated to write the state to ipfs
 
 
 
-Cody Burns:
+**Cody Burns:**
 because it's really hard to find
 information on it if you wanted to query
 accounts it's not an easy task to do and
@@ -982,7 +982,7 @@ website
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I so the blockchain it's is
 secure nobody's disputing that but the
 blockchain basically is it has hashes so
@@ -1000,7 +1000,7 @@ can see why
 
 
 
-Cody Burns:
+**Cody Burns:**
 yes just a weekly snapshot
 of every account that's been out there
 so glad you had to be running a full
@@ -1009,21 +1009,21 @@ node and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yeah and we're anything
 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 out yourself
 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  that's right and when you
 run a full node you it's it's optional
 whether you want to store the state
@@ -1040,7 +1040,7 @@ word
 
 
 
-Cody Burns:
+**Cody Burns:**
 if they're wondering if how if there's
 been any changes or anything on state
 bought or that just
@@ -1048,7 +1048,7 @@ bought or that just
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh it likes it's
 could somebody mess with the state that
 you store with state bought it would be
@@ -1060,7 +1060,7 @@ blockchain animation
 
 
 
-Cody Burns:
+**Cody Burns:**
 um there shouldn't
 be I guess is the easiest answer to it
 whenever that it goes into the ipfs
@@ -1073,7 +1073,7 @@ have the hash of it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh so I see so if I was worried about
 you know tampering I could I could hash
 what I get from look I can hack in hash
@@ -1091,7 +1091,7 @@ storage how does how does that work
 
 
 
-Cody Burns:
+**Cody Burns:**
 right uh it's not like storage where
 with storage uh it's another file system
 but with storage everyone shares the
@@ -1114,7 +1114,7 @@ more of a file sharing system
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay so
 that you have a server with a fat hard
 drive someplace that you're rust writing
@@ -1125,7 +1125,7 @@ distributed
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah as more people as you
 download a file from ipfs that stays on
 your system and it's starts eating out
@@ -1137,7 +1137,7 @@ people's stuff again
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 how did you come up
 with with the idea for state but that's
 kind of clever 
@@ -1145,7 +1145,7 @@ kind of clever
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh it was I just couldn't
 find the information that I wanted to in
 an easy format because that's what I was
@@ -1163,7 +1163,7 @@ that's really cool
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now you talked about
 analysis is there any anything you're
 cooking up in the other projects that
@@ -1173,7 +1173,7 @@ want to share
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh no nothing nothing
 really there's 
 
@@ -1183,7 +1183,7 @@ really there's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 a sudden uh-huh I was
 gonna say here's something that I want
 to ask you about so you know now that
@@ -1210,7 +1210,7 @@ thinking of ways to get it done
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh
 financial instruments are still a big
 one I think it'd be really needed
@@ -1230,7 +1230,7 @@ blockchain then that actually has value
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you said Airbnb can you expand on that
 more the Airbnb in and blockchain 
 
@@ -1238,7 +1238,7 @@ more the Airbnb in and blockchain
 
 
 
-Cody Burns:
+**Cody Burns:**
 right
 uh things that I guess involve two
 different people that don't trust each
@@ -1274,14 +1274,14 @@ cool use case
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 sure and I'm still in the
 land title's like we were talking about
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah public land title's reducing the
 overhead on that would be great for
 futures contracts that was one of the
@@ -1301,14 +1301,14 @@ then the miners like finance their stuff
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so I like legs that would that be for
 like insurance 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 Oh more or less financing
 for it that's the hardest part with any
 commodity is whether you're drilling for
@@ -1332,7 +1332,7 @@ down it's pretty much a closed system
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 there'll be a secure and efficient way
 to fund mining the expansion of mining
@@ -1341,7 +1341,7 @@ ETCs
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah if you're someone who's trying to
 run a mining business they don't really
 care I guess I guess that's the right
@@ -1373,17 +1373,17 @@ everything's taken care of on smart
 contract
 
 
-Christian Seberino:
+**Christian Seberino:**
  makes sense 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 now
 do you have any worries or concerns for
 ETCs as Carlos said you've been here
@@ -1395,7 +1395,7 @@ worries you
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh lack of uh the user
 front-end still has a long way to go
 I said everyone's really excited about
@@ -1422,7 +1422,7 @@ best features that you could have
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  now
 why don't you for the people that don't
 know why don't you can explain what a
@@ -1432,7 +1432,7 @@ so so great
 
 
 
-Cody Burns:
+**Cody Burns:**
 the multi-sig wallet is you
 can make it like a checking account if
 you want more or less you can have a
@@ -1456,7 +1456,7 @@ computer
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so how would that I'm just
 thinking like so suppose we buy
 shared an account all three of us so so
@@ -1468,7 +1468,7 @@ make that happen
 
 
 
-Cody Burns:
+**Cody Burns:**
 well if we all have parity then it's
 just a simple click confirm where the
 transaction comes through if we did it
@@ -1485,7 +1485,7 @@ then it's good to go
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and so but
 you're the concern is that if you're not
 all by coincidence running parity then
@@ -1494,7 +1494,7 @@ it's not quite so easy
 
 
 
-Cody Burns:
+**Cody Burns:**
 right then
 everyone has to have the same ABI code
 and plugged into either my ether wallet
@@ -1506,7 +1506,7 @@ through
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay okay all right so jelly I
 think you I think we've covered
 everything I can think of was there
@@ -1516,7 +1516,7 @@ have asked you that you wish we asked
 you do you want to say
 
 
-Cody Burns:
+**Cody Burns:**
  no any time you
 want to talk about 
 
@@ -1524,7 +1524,7 @@ want to talk about
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah um I mean I I
 guess I just wanted to know maybe some
 things that I know you brought up that
@@ -1552,12 +1552,12 @@ as far as getting done
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well like like to
 do marketing 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 to-do lists yeah yeah
 marketing 
 
@@ -1565,7 +1565,7 @@ marketing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 how do you how would you
 improve marketing what would you suggest
 there 
@@ -1574,7 +1574,7 @@ there
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh do marketing probably be a good
 start I don't feel like we we're
 actually uh
@@ -1583,17 +1583,17 @@ actually uh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  like what do you want TV
 commercials or what
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no 
 
 
 
-Cody Burns:
+**Cody Burns:**
 well I know uh
 DCG and grace grace go they're out there
 they're pressing the flesh and meeting
@@ -1616,7 +1616,7 @@ classic don't worry with them
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so for the
 people that are listening you would like
 it if people were meeting with industry
@@ -1628,7 +1628,7 @@ meet the power brokers
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah meet the
 power brokers but also the meetups are
 important to being out there and
@@ -1640,7 +1640,7 @@ met it's been really nice about it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 okay okay
 yeah okay 
@@ -1648,14 +1648,14 @@ yeah okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 marketing need ups what else
 you got 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 a proven ughter user interfaces
 the avoiding talking about price and
 stuff on is the funnest part and like I
@@ -1674,24 +1674,24 @@ getting rise and price is gonna fall
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yes
 very true
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  good
 
 
-Cody Burns:
+**Cody Burns:**
 that doesn't change yeah it's awesome
 technology 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I'm Jeff I'm definitely
 guilty of that I had to bring up the
 markets with it first thing I show well
@@ -1700,25 +1700,25 @@ I just ignore the elephant in the room
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah yeah I finally got my wife or start
 uh doing Bitcoin and holding it the
 first thing that happens it goes for
 three thousand and twenty five hundred
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 are you serious 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah so I was like stop
 don't sell it just wait going back up
 well 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I I know I know we're not supposed
 to talk about markets but I'll do it
 anyway the funny thing is someone I
@@ -1737,7 +1737,7 @@ just like fell through the floor like a
 week later or something
 
 
-Christian Seberino:
+**Christian Seberino:**
 so so so somebody listening should talk
 to pitbull then about et sees what
 you're saying I know we don't want her
@@ -1745,17 +1745,17 @@ talking about et Cie
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no no no no no that
 means at the end I don't want him
 talking about atc ever again 
 
 
-Christian Seberino:
+**Christian Seberino:**
 gadget 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 um
 yeah so I thought that was that was
 pretty funny but what else so we we got
@@ -1763,19 +1763,19 @@ the definitely marketing need ups the
 user interface like you said you know
 
 
-Cody Burns:
+**Cody Burns:**
 transaction phase are pretty low so
 that's feel good 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that is 
 
 
 
-Cody Burns:
+**Cody Burns:**
 the my
 lentils it'd be nice if everyone could
 spread out their hash more that way we
@@ -1784,13 +1784,13 @@ of the hash rate
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that would be pretty
 good 
 
 
 
-Cody Burns:
+**Cody Burns:**
 not so not a sexy topic but just
 general no minor that's sexy but
 important
@@ -1800,7 +1800,7 @@ important
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so I there's some there's some
 stuff that people are working on that's
 like some smart pool
@@ -1811,11 +1811,11 @@ about that
 
 
 
-Cody Burns:
+**Cody Burns:**
  no heaven what's that 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 uh it's
 you know people that are working in
 blockchain that are working on this
@@ -1829,7 +1829,7 @@ mining pool centralization yeah okay
 
 
 
-Cody Burns:
+**Cody Burns:**
 well a lot of it I think what it is is
 whenever you first be in the mining and
 yours download the claim or miner or
@@ -1858,7 +1858,7 @@ what everyone has
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  now it seems like you
 have a pretty good handle on mining and
 mining questions I don't know if I could
@@ -1895,7 +1895,7 @@ or now
 
 
 
-Cody Burns:
+**Cody Burns:**
 now I think so I think the thing
 is what if you once you activate
 segments then you had to re-engineer
@@ -1932,7 +1932,7 @@ mine on it and then
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 ya see my hope thing
 he's definitely acting um selfishly but
 the whole point of everything is that
@@ -1949,13 +1949,13 @@ Vantage's mood then he says okay guys
 let's do segway 
 
 
-Cody Burns:
+**Cody Burns:**
 right or am i just way
 off base 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 on that I still haven't asked
 anyone I have to speak to more Bitcoin
 centric people about this but it's just
@@ -1963,7 +1963,7 @@ a thought I had recently
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah mines is
 my name is an arms race basically right
 now on classic and regular and you can't
@@ -1987,13 +1987,13 @@ hours and they were sold out Wow
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so it's
 easily the right business then 
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah it's
 right now it's crazy people are selling
 their mining rings on Craigslist like
@@ -2003,7 +2003,7 @@ thousand dollars worth of parts in it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah so for anyone that's listening and
 was wondering who Corey is Corey has
 been a huge part of the community as
@@ -2018,7 +2018,7 @@ in two hours
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah it was by the time I
 was I saw it on the slack and by the
 time I drove home they were already I
@@ -2035,14 +2035,14 @@ look like
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah and what are these
 done to RX RX 570 yeah what's the best
 one in your opinion 
 
 
 
-Cody Burns:
+**Cody Burns:**
 the 570 I think is
 the best as far as cost and cost per
 mega hash the five ATS are nice but the
@@ -2051,22 +2051,22 @@ or less
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 who is the manufacturer that
 makes these
 
 
 
-Cody Burns:
+**Cody Burns:**
  AMD
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 and what what
 should someone be paying for something
 like that what's it what's a good price
@@ -2074,14 +2074,14 @@ like that what's it what's a good price
 
 
 
-Cody Burns:
+**Cody Burns:**
 if you find them in Best Buy or a fries
 or a store you can paid probably a
 hundred and ninety dollars maybe and 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so
 should should should I be taking these
 up right now cuz I see that Best Buy has
@@ -2090,14 +2090,14 @@ them in my area
 
 
 
-Cody Burns:
+**Cody Burns:**
 or something do that
 where are you at I'll draw it
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I I don't
 know maybe I'm getting like click on it
 it's gonna say out of stock probably or
@@ -2107,7 +2107,7 @@ something right
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah but uh no right now
 they're going on Amazon and eBay for
 probably four or five hundred dollars of
@@ -2116,43 +2116,43 @@ these
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 neo bits has it 4 to 11 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 the 11
 pitch backward there neo bids and uh 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I
 think
 
 
-Cody Burns:
+**Cody Burns:**
  next August 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I'm back toward it
 outright 
 
 
-Cody Burns:
+**Cody Burns:**
 dude yeah how is that globally
 the rainbow 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's insane
 
 
-Cody Burns:
+**Cody Burns:**
 so I mean let's say surprises comes
 because I know those are awesome for VR
 stuff if you have oculus or anything
@@ -2160,13 +2160,13 @@ like that those are the cards to have
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now when did the 570s come out 
 
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh I'm
 not sure I haven't been mining that long
 I know it was recently like within the
@@ -2174,7 +2174,7 @@ last six months or so there
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay so so
 if I just like if I bought a warehouse
 full of them six months ago I could be
@@ -2183,19 +2183,19 @@ each right now or something
 
 
 
-Cody Burns:
+**Cody Burns:**
  yep 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 shoulda
 bought that
 
 
 
 
-Cody Burns:
+**Cody Burns:**
  yeah well even though the
 previous generation the for seven days
 and four 80s they're they're still
@@ -2226,7 +2226,7 @@ for whatever you're mining
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so if you've
 been pretty happy with the amount of
 money you make mining versus the
@@ -2236,13 +2236,13 @@ electricity bills
 
 
 
-Cody Burns:
+**Cody Burns:**
 oh yeah definitely pays for so easily
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so do you plan to keep scaling up
 and do more and more mining if you can
 because it it's profitable then
@@ -2250,7 +2250,7 @@ because it it's profitable then
 
 
 
-Cody Burns:
+**Cody Burns:**
  uh
 there's a point where I'm pretty much at
 where my wife's gonna make me not have
@@ -2258,7 +2258,7 @@ stuff in the house anymore
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  sir yeah
 eventually gets annoying to have the
 allowed computers yeah 
@@ -2267,7 +2267,7 @@ allowed computers yeah
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah so right now
 it's still in the corner so it's she's
 gotten curious about it of why does it
@@ -2280,18 +2280,18 @@ Hey
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I see 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so she's not he's not
 worried about you yet so - 
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah it's not
 a nuisance yet it doesn't scare the dog
 it's still more quiet than the than the
@@ -2299,13 +2299,13 @@ Roomba
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so does it heat up the house
 though 
 
 
 
-Cody Burns:
+**Cody Burns:**
 uh no no not really I don't have
 that many cards okay um I'm small-scale
 my rigs trying to get six cards ville
@@ -2314,12 +2314,12 @@ what's difficult
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 anything 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 he's trying
 he's trying to get to the point where
 his wife is worried about him yeah 
@@ -2327,34 +2327,34 @@ his wife is worried about him yeah
 
 
 
-Cody Burns:
+**Cody Burns:**
 yeah
 almost there
 
 
-Christian Seberino:
+**Christian Seberino:**
 anything and then you can you still need
 to cover oh we miss 
 
 
 
-Cody Burns:
+**Cody Burns:**
 nothing I can think
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 of all right 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I think I come
 all the bases 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah Thank You Cody
 for all your wisdom and for sharing your
 thoughts with us today
@@ -2364,12 +2364,12 @@ appreciate it thank
 
 
 
-Cody Burns:
+**Cody Burns:**
  well thank you for
 having me on 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely
 really uh great to have you on we'd love
 to have you on again sometime as well as
@@ -2393,6 +2393,6 @@ care guys good night
 [Music]
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to a theory of plastic
