@@ -1,5 +1,5 @@
 # Let's Talk ETC: Viktor Tron - Swarm, Distributed File Storage & ETC Support.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody you're listening to let's
 talk et Cie I'm your host karlovy along
 with my co-host dr. Christian Sabrina
@@ -56,32 +56,32 @@ really happy to have you on here
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  hey
 guys nice nice to be in the show 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so it's
 Victor Troy yeah Tron's your last name
 
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yes correct 
 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 all right 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 well seems things
 don't get much cooler than that by the
 way
@@ -111,7 +111,7 @@ later on in life
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  well first of all I'm
 not sure I'm best categorized and it's
 working on etc' but I'm working on
@@ -125,14 +125,14 @@ oh yeah
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no I'm sorry go ahead yeah I'd
 love to hear about how your rabbit hole
 down into this world crazy world 
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yes so
 originally my my career hat is more more
 like natural language processing and
@@ -219,7 +219,7 @@ change
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so today you have a really really
 deep knowledge then of aetherium if
 you've been hacking on the clients and
@@ -235,7 +235,7 @@ there
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yes yes at the moment and I'm team
 lead for this world project so as your
 listeners might know sworn alongside
@@ -277,7 +277,7 @@ and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now sorry just a backtracked I was
 hoping for anybody listening out there
 that might not be is familiar if you
@@ -291,7 +291,7 @@ to web one versus web two and obviously
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 not necessarily established categories
 is more like more like a half joke
 so that trees the cooler and the of the
@@ -340,7 +340,7 @@ basically completely DECENTROLAIS
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 nice just that's
 just to make it a little bit more more
 clear maybe not that it's not clear but
@@ -356,7 +356,7 @@ function right yeah
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yeah I mean just
 think about it just like a baby a most
 obviously or Facebook right I mean to
@@ -378,7 +378,7 @@ and baselayer infrastructure
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah Victor
 can I make a comment tell me if you
 think this is correct so I agree that
@@ -407,7 +407,7 @@ you're talking about but yeah okay good
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 so so let's focus on this a little bit
 so okay so so interactivity and and all
 these beautiful things like and not so
@@ -452,7 +452,7 @@ that that single point is compromised
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I was reading about yeah Gavin when
 he describes web 3 he calls it the post
 edward snowden web so i thought that was
@@ -477,7 +477,7 @@ conclusion of making a secure energy
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  so
 we talk about the two different things
 and important but for the for the
@@ -501,7 +501,7 @@ problems can be mitigated
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah and
 that's what that's referring me and
 that's what brings me to my next
@@ -521,7 +521,7 @@ you know just a little bit about
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  maybe
 maybe let's summarize what what what's
 common to toward peer-to-peer solutions
@@ -564,7 +564,7 @@ saya so what's the time
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes what what
 well I'd like to hear about what sets
 warm apart more specifically the 
@@ -572,7 +572,7 @@ warm apart more specifically the
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 form
 unit if you just concentrate on the on
 the actual document storage and content
@@ -615,7 +615,7 @@ hobbies face yourself
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so now unlike
 Napster you're not just sharing files
 you could also contribute files that
@@ -627,12 +627,12 @@ didn't have that ability
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 so correct 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah
 one thing okay
 
@@ -640,7 +640,7 @@ one thing okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it all comes back to Napster it always
 seems that everything it's so crazy
 everything
@@ -651,7 +651,7 @@ now go
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ahead Victor have you ever seen
 or heard of van Jacobson his talk okay
 so I said I was blown away he gave a
@@ -682,7 +682,7 @@ wasn't bringing
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  that up this exactly the
 next topic I was gonna see it's a
 unified solution used across the various
@@ -734,7 +734,7 @@ define a block
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah once I when I that
 once I heard that and it made so much
 sense I wondered how anybody could ever
@@ -759,7 +759,7 @@ in that example
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 you know enough for and
 of course this is even more relevant I
 mean it's one thing that you might read
@@ -779,7 +779,7 @@ possible with with content addressing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 that's right
 now would you say that swarm is takes a
 lot of the good ideas from BitTorrent
@@ -789,7 +789,7 @@ and kind of just expands on it right
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 Bittan say that swarm is basically for
 people who are not so tech savvy I
 usually say that think of swamis as
@@ -800,7 +800,7 @@ content
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 a good one I'm gonna tell
 everybody that's warmest I've always had
 trouble explaining it so I'm gonna steal
@@ -809,7 +809,7 @@ that I'm saying Bitcoin instead
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 of
 course of course let's be let's be fair
 here so we use a lot of the basic ideas
@@ -832,7 +832,7 @@ there to maintain like
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I don't go ahead
 I don't know if you have I'm sure you
 have worked more questions on this topic
@@ -856,7 +856,7 @@ you want to say it
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 I mean I don't want
 to pretend that I I'm too savvy about
 this topic but it's just clear that my
@@ -877,7 +877,7 @@ sort of cultural legacy of a regulation
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah so what you're saying you're saying
 that it's a political it's political for
 you not just interesting to
@@ -886,7 +886,7 @@ points
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 anyone that's that's that's was
 definitely my one of my main motivators
 that my my professional interesting and
@@ -899,7 +899,7 @@ improve
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  victor wouldn't you say that you
 were kind of talking about the
 centralization of data earlier on these
@@ -920,7 +920,7 @@ that kind of your
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 I'm definitely I
 definitely resonate with that see that's
 what we're call it dream yeah I really
@@ -934,7 +934,7 @@ here like at least lose it lose it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 can I ask a question Victor all right so
 I'm just like with blockchains I'm a
@@ -958,7 +958,7 @@ and how they all
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 I already touched upon
 one important difference which is the
 the genuine sense in which you can
@@ -988,7 +988,7 @@ no pun intended
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so just a clarify so
 believe I don't know file coin is the
 ipfs interplanetary file system solution
@@ -1001,7 +1001,7 @@ for incentivization
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yeah okay Mike when
 is exactly which is confusing a bit on
 this theorem okay and we believe that
@@ -1050,7 +1050,7 @@ to loss
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so if I understand you
 correctly it's the your commence is the
 incentivization so you think you have
@@ -1064,7 +1064,7 @@ choose swarm over ifs okay
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  correctly so
 someone is not exactly what second is
 incentivization especially in terms of
@@ -1077,7 +1077,7 @@ goodies so okay
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah those the two big
 ones okay is there any other competition
 besides ipfs that's on your radar 
@@ -1086,7 +1086,7 @@ besides ipfs that's on your radar
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 I mean
 let's start storage and and and SIA are
 already existing and and production
@@ -1099,12 +1099,12 @@ swamp to try
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 get more ambitious like
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  we
 might and that end up being the dummy so
 for this one project and the momentum
@@ -1122,13 +1122,13 @@ interesting
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I can ask you another
 question so go ahead add something
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 I just wanted to you know before before
 we run out of time I want to ask a
@@ -1147,7 +1147,7 @@ swarm or is all this
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 a few basic there's
 a few basic depths like a like an is
 this distributed photo album this
@@ -1164,7 +1164,7 @@ the solutions are able to now right now
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so it's your fingers you know that it
 could make up that that does isn't
 around yet which Jack would it be what's
@@ -1176,13 +1176,13 @@ right
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  away these centralized  YOUtube 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh
 yeah
 nobody would ever doubt web three if you
@@ -1191,7 +1191,7 @@ could do that
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  yeah life beer that let's
 set up to implement a decentralized
 media server end and streaming solution
@@ -1203,7 +1203,7 @@ beat rate
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay let's get let's get
 people excited till decentralized
 YouTube launches in the same popularity
@@ -1217,7 +1217,7 @@ that
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 well you know just because I'm I
 can only say that the basically our
 infrastructure that the technology core
@@ -1245,7 +1245,7 @@ importance in in the mass deduction
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 adoption is hard to predict yeah
 Dex arranger said 2019 Dex Iran is an
 active developer in aetherium classic
@@ -1260,7 +1260,7 @@ aetherium ports different
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 I'm fully
 supportive of the NBN and in fact me you
 would like to makes one right away
@@ -1291,7 +1291,7 @@ compatibility and
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 there's no there's no
 technical reason why you couldn't have
 swarm work across several blockchain
@@ -1303,7 +1303,7 @@ sophistication that
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 if in fact in a few
 years time there's going to be standard
 solutions for for inter blockchain
@@ -1326,7 +1326,7 @@ alright
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so people should definitely look
 into swarm then for the future of cloud
 services and file services 
@@ -1335,7 +1335,7 @@ services and file services
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 let's be fair
 the same is probably true of ipfs and
 some other solution so let's be fair
@@ -1345,7 +1345,7 @@ some other solution so let's be fair
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah do you have any predictions couple
 years like five years from now what do
 you think ipfs 
@@ -1354,7 +1354,7 @@ you think ipfs
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 where are they gonna be
 funding yeah it probably a good position
 to to churn ahead with there with there
@@ -1363,7 +1363,7 @@ was some tech
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah they have a little
 bit they they just have a little bit of
 runway 200 minutes 
@@ -1373,7 +1373,7 @@ runway 200 minutes
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 okay compared to that
 and the swamp project is the
 not somewhere funded but i won't i won't
@@ -1386,7 +1386,7 @@ pot
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so iko iko why don't you do a swarm
 i co start a company and get become the
 chief their wealth super well-funded
@@ -1396,7 +1396,7 @@ what about that idea
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  this is that put
 upon their banner to develop sworn it
 would be would you rather it is
@@ -1409,7 +1409,7 @@ is gonna begin promised and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 which which
 brings me which brings me to my next
 question that i know you want me to ask
@@ -1448,7 +1448,7 @@ kind of
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  yeah something right traveling
 in the past two years basically
 constantly yeah some of these travels
@@ -1470,7 +1470,7 @@ from various places
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 are happy as you say
 all this in the community are happy you
 enjoy it because you're killing it you
@@ -1479,7 +1479,7 @@ guys are doing doing big stuff man
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you
 said now everybody always could use more
 funding but is there anything else that
@@ -1489,7 +1489,7 @@ a science funding of course
 
 
 
-Viktor Tron:
+**Viktor Tron:**
  yes thanks
 for thanks for asking I mean helping
 hands are always needed so if you are a
@@ -1508,7 +1508,7 @@ using this
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  technology and tell people
 about the a your ambitions to replace
 the internet with a new improved or the
@@ -1520,7 +1520,7 @@ a carload anything else you have
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  no I
 just wanted to uh I just wanted to thank
 Victor for for coming on and Christian
@@ -1531,12 +1531,12 @@ sometime good
 
 
 
-Viktor Tron:
+**Viktor Tron:**
 yeah thank you very much
 and I'm always available 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay all right
 guys for anybody that thank you guys for
 listening to today's show till next time
@@ -1545,6 +1545,6 @@ hey thank you bye them
 [Music]
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to etherium classic
