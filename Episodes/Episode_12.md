@@ -1,5 +1,5 @@
 # Let's Talk ETC: Maxwell Sanchez & Justin Fisher - Proof of Proof.
-Christian Seberino:
+**Christian Seberino:****
 hello and welcome to another edition of
 let's talk EDC once again I will be
 running the show as Carlo is still on
@@ -10,26 +10,26 @@ that i pronounce that correctly
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 oh you
 were close Justin Fisher
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  Oh Justin
 Fisher I'm sorry and they are from Vera
 block right did I say that dress
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  yes
 Caroline
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay and so they're going to
 talk about their technology that they've
 been working on and I've chatted with
@@ -45,7 +45,7 @@ so max why don't you go first
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  share my
 name's Michael Sanchez I've been the
 station's 2011 and developing software
@@ -80,13 +80,13 @@ officers 911 services things like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and Justin would you please
 introduce yourself oh 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 sure Thank You
 Christian my name is Justin Fisher I'm
 the co-founder CEO here at Vera block by
@@ -174,7 +174,7 @@ about my background Thank You Christian
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so just for the audience as I told you
 these guys that are very bright guys
 Justin you seem like you might be a
@@ -200,7 +200,7 @@ of the same way
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  yeah I mean I'm
 obviously um I'm not is technically no I
 go down my I know some administration
@@ -217,20 +217,20 @@ advocate of homeschooling
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that's
 right yeah so
 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  what my son was also
 homeschooled 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay wonderful yeah yeah
 that's worked out well for it so let's
 let's talk about the your technology Oh
@@ -242,7 +242,7 @@ classic action
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 so forth herein classic
 um I was falling of course the Syrian
 project is gained a lot of traction got
@@ -299,14 +299,14 @@ got a lot of traction so we kept home
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay great Justin do you want to add
 anything to that um
 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  yeah he you know I
 thought the etherion project you know I
 bought into the concept of smart
@@ -360,7 +360,7 @@ i'm a sucker like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 i'm sure that
 that will be encouraging to EP see bands
 that you know business people are
@@ -388,7 +388,7 @@ altcoins could you bitcoins that correct
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 yeah so the idea is bitcoin is
 incredibly secure um you have ridiculous
 hashrate behind that you have an
@@ -441,7 +441,7 @@ already doing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so is it correct to say
 that says because that's the first
 thought that came to my mind when Justin
@@ -459,7 +459,7 @@ backward
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 if I can just if you know I
 think max what do you think about the
 idea of maybe presenting a quick a quick
@@ -528,7 +528,7 @@ was our goal I don't know
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 and then sort
 of the point about blockchains not being
 able to hold a private key and secure
@@ -550,7 +550,7 @@ somewhere and improving that you did so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes now you guys are very polite I know
 you guys don't want to start any turf
 wars with any other technologies but if
@@ -567,7 +567,7 @@ and how you guys fit into that nest
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  sure
 so on the level of consensus protocols
 um and being able to inherit security
@@ -637,7 +637,7 @@ create long-term consensus
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 and now with
 the incentive I an attack and then do
 just kind of summarize what Mac said
@@ -662,7 +662,7 @@ stay on the rails I think that's
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  not
 good if I could just help you i can add
 my own simplification so merge mining
@@ -678,7 +678,7 @@ power of the mind right
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 and regular
 mining doesn't require anything to be
 changed in regular merge my name with
@@ -703,7 +703,7 @@ be used together
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and then do you want to
 say something about colored coins and
 rootstock those are two other projects
@@ -714,7 +714,7 @@ top of it how do you
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  sure so so in the
 perspective of all colored coins what we
 call like laird technologies or embedded
@@ -773,7 +773,7 @@ embedded okay platform
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so if I if I
 understand you correctly you talked
 about the expense of colored coins would
@@ -791,7 +791,7 @@ accurate statement for
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 sure yeah if you
 want more control over your blockchain
 the things like block size or whatever
@@ -819,7 +819,7 @@ your tokens
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah we're all your system
 you could do you know a thousand
 transactions on your alternate
@@ -830,7 +830,7 @@ transactions like Jax
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 yeah exactly and
 then that that cost could be subsidized
 by sort of like a coin based reward
@@ -854,7 +854,7 @@ validate
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so periodically yeah
 periodically yeah right crunching Justin
 do you want to say something 
@@ -863,7 +863,7 @@ do you want to say something
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 oh no I
 think Matt you know max encompassed it
 you know um II when we talk about block
@@ -930,7 +930,7 @@ you've been adopted adapt you that
 
 
 
-Christian Seberino:
+****Christian Seberino:**
  yeah
 yeah next fence so if I just for the
 benefit of our audience if it correct me
@@ -952,7 +952,7 @@ happy
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 if you're going to be doing
 high-volume transactions and your your
 your risk is a cup of coffee rather a
@@ -1050,7 +1050,7 @@ it's irrefutable imagine
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah you know
 you just something just click with me if
 I could do your marketing for you just
@@ -1070,7 +1070,7 @@ wonderfully so that makes a lot of sense
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 I mean it's the largest secure proof
 agility in the world second to none and
 if you're going to peel off half the
@@ -1110,7 +1110,7 @@ hope it's Bitcoin
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 max I have a tech
 question for you I made so just been
 talked about the trust lyst nature of
@@ -1123,7 +1123,7 @@ Bitcoin watching
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 yeah good question is
 that there's absolutely no Federation
 anyone just like Bitcoin mining anyone
@@ -1151,7 +1151,7 @@ blockchain
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I'm sure a lot of people are
 going to love to hear that your system
 is also trust with now if i understand
@@ -1167,7 +1167,7 @@ anybody stuck
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  yeah poof of proof is a
 consensus protocol so they're certainly
 in a plane we do plan to work with root
@@ -1201,12 +1201,12 @@ on Bitcoin side the
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  hard part basically
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 basically is
  yeah um there's a lot of
 ideas in the states for how to do side
@@ -1234,7 +1234,7 @@ impossible
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay all right now if I may
 it's okay with you guys I'd like to move
 on to so I think people now have an idea
@@ -1251,7 +1251,7 @@ big picture
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 sure so a proof of proof
 miner is a
 taking what we're calling state data
@@ -1322,7 +1322,7 @@ it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay I'm not going to say so I
 presume if the way your system works in
 different altcoins can decide what how
@@ -1335,7 +1335,7 @@ hash and that's what gets written
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  pretty
 much the baby you're writing is what
 you're doing when you're pushing proof
@@ -1355,7 +1355,7 @@ truth wait i just thought of something
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so what you're saying is the alt point
 we'll still have a proof-of-work system
 like bitcoin now your system makes it
@@ -1367,7 +1367,7 @@ your approval
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 that's a really good
 question and that sort of the idea of
 chain BB in a nutshell was you know let
@@ -1411,7 +1411,7 @@ validating that block by doing
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so you
 would still have you interesting so you
 have competing miners all writing to the
@@ -1420,7 +1420,7 @@ chain so you have redundancy then that's
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 right right there's a tendency and then
 it also makes that if someone's building
 an attacking chain they would have to
@@ -1461,7 +1461,7 @@ on top of existing consensus
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  yeah the
 block chain whatever whatever
 even remove the word blockchain from the
@@ -1478,7 +1478,7 @@ match
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  yeah we don't replace consensus we
 fortify it for your existing consensus
 continues as normal and then we make it
@@ -1490,7 +1490,7 @@ publications to Bitcoin
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that's
 that's great so it's almost like
 insurance just just to make people happy
@@ -1506,13 +1506,13 @@ a certain number
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 exactly 
 
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 it's exactly so
 you have a guarantee that you know this
 block chain cannot work back more than
@@ -1534,12 +1534,12 @@ change
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay Justin a 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 so if a block chain
 is Tom it may be it traditionally may be
 vulnerable to an attack because there's
@@ -1565,7 +1565,7 @@ that case no value
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah so far the
 further
 benefit of the audience if I could try
@@ -1586,7 +1586,7 @@ that
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  yeah they did a good analogy we can
 you know Mark a certain block and people
 can look at it and say you know there's
@@ -1608,7 +1608,7 @@ certainly can't um
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  and there's an
 interesting paradox that are that
 evolves from the idea if it's adopted or
@@ -1655,7 +1655,7 @@ the blockade
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah yep now if I could
 just kitchen we can you address so I
 think people have a little bit more of
@@ -1670,7 +1670,7 @@ that
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 sure so there's kind of two
 discussions here first of all the papery
 mentioned if anyone wants to read
@@ -1697,7 +1697,7 @@ and security
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well now in fairness to you
 guys if I could I so you basically said
 that you're you're just being honest
@@ -1713,7 +1713,7 @@ Yeah right
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  so that'd be the main attack
 vectors yeah Bitcoin Forks or what we
 call it we call the master blockchain
@@ -1755,7 +1755,7 @@ using
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so did you it is one of the points
 you're making that it's up to the alt
 coin to decide what to write to the
@@ -1768,7 +1768,7 @@ correct that what you're saying
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 right so
 it yeah most of the issues with the
 proof of proof protocol would be in if
@@ -1792,7 +1792,7 @@ this would not be an issue at all
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you'll
 help people to use your technology
 correctly of course so yeah okay
@@ -1801,7 +1801,7 @@ correctly of course so yeah okay
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  mostly
 attack vectors just come down to either
 Bitcoin being attacked itself for
@@ -1835,7 +1835,7 @@ recovery
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah if you wouldn't have said
 that I that was that idea came to my
 mind when you are listing a possible
@@ -1850,7 +1850,7 @@ it too big
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  it's a great tool but you
 just got to use it correctly and so if
 I'm use the tool correctly if you have
@@ -1868,14 +1868,14 @@ danger
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so okay now Justin do you want to
 add anything to that 
 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 that was pretty
 good summary I mean I don't think I'd be
 adding anything of value if I added
@@ -1943,7 +1943,7 @@ great deal secure a block change
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes now
 at one point like if I could just see
 your healthy do your marketing one more
@@ -1958,7 +1958,7 @@ that correct
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 ok can I answer that max I
 would say for me personally
 philosophically I would I would say that
@@ -1986,7 +1986,7 @@ centric
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yes let me unless you guys
 have any other comments why don't we why
 don't we wind things down by and kind of
@@ -2000,11 +2000,11 @@ classic now
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  action
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  sure i'll put pretty
 simply what we'd like to do is work with
 the community and be if you're in
@@ -2044,7 +2044,7 @@ are but gorgeous
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 yeah yeah I am I've
 been watching a fear IAM classic I have
 an interest in the project I think
@@ -2116,7 +2116,7 @@ each other's strengths
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah i can't
 really think anything away so not you
 right if they presumably let's say they
@@ -2128,7 +2128,7 @@ but adds extra
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 it's no cost because
 here's here's the way here's and that's
 an interesting question you know cuz
@@ -2181,12 +2181,12 @@ classic
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 uh-huh yeah wonderful 
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 if you're
 in classic is also like the perfect
 example of the blockchain where proof of
@@ -2214,20 +2214,20 @@ the monitors with your entities and sort
 of threat 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so yeah yeah I think it's a
 very nice
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
  interplay between the two
 projects
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so if I was to try to summarize
 our discussion the highlights some of
 the points for the listeners so you're
@@ -2247,7 +2247,7 @@ to that
 
 
 
-Maxwell Sanchez:
+**Maxwell Sanchez:**
 yeah and we've gotten some peer
 review on the white paper there's been
 very very positive feedback on it we're
@@ -2270,13 +2270,13 @@ unacceptable and open
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 Justin do you want
 to add anything to that
 
 
 
-Justin Fisher:
+**Justin Fisher:**
  um well i mean
 first foremost you know from this from
 the onset of meeting with carlo in new
@@ -2296,13 +2296,13 @@ guys
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah charging for that 
 
 
 
 
-Justin Fisher:
+**Justin Fisher:**
 that's
 pretty that's there's a clear value
 there um but you know that's obviously
@@ -2323,7 +2323,7 @@ to be part of it so thank you
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 all right
 thank you guys also for a great
 discussion I really appreciate it I will
