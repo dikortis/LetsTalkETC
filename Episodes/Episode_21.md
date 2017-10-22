@@ -1,5 +1,5 @@
 # Let's Talk ETC: Anthony (Pyskell) - Security & More.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody thank you for listening to
 less talk ECC I'm your host Carla V
 along with my co-host dr. Christian
@@ -32,7 +32,7 @@ bad guys
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 can I just say one thing about
 yeah if anybody's worried about that
 just make sure you type the the web
@@ -47,7 +47,7 @@ should be fine
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yep and also another
 disclaimer if you're not sure and and
 weird things are going on with the
@@ -67,7 +67,7 @@ just some now go ahead
 
 
 
-Anthony:
+**Anthony:**
 yeah just one little thing related to
 that too if you are consider
 that I mean I know people get concerned
@@ -86,7 +86,7 @@ way
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 very true very true start off good
 thanks uh-huh so I'm just some some good
 news we have some rumor stuff and some
@@ -129,12 +129,12 @@ the show
 
 
 
-Anthony:
+**Anthony:**
 thanks for having me 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 absolutely
 so high scale I think at
@@ -157,7 +157,7 @@ behind how you got where you are today
 
 
 
-Anthony:
+**Anthony:**
 okay so you know I've listened to a few
 of the shows and I was expecting this
 part so yeah I see where cryptocurrency
@@ -175,25 +175,25 @@ and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 kick seems like you wanna choke
 yourself now but 
 
 
 
-Anthony:
+**Anthony:**
 ya know it's fine it'll
 probably be again in a year 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no 
 
 
 
 
-Anthony:
+**Anthony:**
 you need
 a stable value for a currency but yeah
 so I got it I got interested there at
@@ -214,7 +214,7 @@ be a you know a bit better for that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  now
 what what's your background before you
 got into crypto since it's such a new
@@ -225,7 +225,7 @@ story before the whole cryptocurrency
 
 
 
-Anthony:
+**Anthony:**
 yes so before cryptocurrency I'm not I'm
 not I didn't learn to program in school
 I was I work it I work as and I still
@@ -257,14 +257,14 @@ programming work
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 and then that kind of
 led into the crypto rabbit hole since
 you're already in tech and development
 and stuff like that is that correct
 
 
-Anthony:
+**Anthony:**
 oh yeah definitely yeah and it made
 getting into this stuff a lot easier and
 it also you know it it also it's it's
@@ -282,7 +282,7 @@ got a code from good code pretty easily
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 hey Anthony I gotta ask so you're an
 entrepreneur you know about market
 research have you thought about putting
@@ -294,7 +294,7 @@ business there
 
 
 
-Anthony:
+**Anthony:**
 yeah I have thought about
 pivoting and moving towards something
 that's more related to cryptocurrencies
@@ -303,7 +303,7 @@ yet
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay seems like you would know with
 your market research to have at least
 baked as wise of a leap as you could
@@ -311,7 +311,7 @@ here doing some software and then nobody
 wants to use it
 
 
-Anthony:
+**Anthony:**
  yeah I mean it's just
 you know the marketing on its base is
 really simple you just need to know
@@ -329,7 +329,7 @@ you a bit of an insight I guess
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah and
 also I've always want to ask is so pipe
 pie scale that's a reference to Python
@@ -338,18 +338,18 @@ and Haskell I'm guessing is that right
 
 
 
-Anthony:
+**Anthony:**
 yeah that's correct 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay all right you
 experienced with either of those are
 just kind of a fan I suppose 
 
 
 
-Anthony:
+**Anthony:**
 Python yes
 Haskell I Dublin more recently though
 for functional languages I've been
@@ -360,28 +360,28 @@ crypto currencies using F sharp
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 this is uh this is Christian's
 wheelhouse again 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I got it so since you
 like Python one of my little guilty
 pleasures is the serpent smart contracts
 ever messed with that 
 
 
-Anthony:
+**Anthony:**
 no I haven't I
 mean I've read about it but I haven't a
 used Python for that yet 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah the world
 seems to prefer solidity that that's a
 perfectly valid one I think there's one
@@ -391,12 +391,12 @@ ahead
 
 
 
-Anthony:
+**Anthony:**
 I have a question related to that
 community bug in in serpent 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you could
 simulate a blockchain and run it on the
 mock blockchain that's what I do
@@ -405,14 +405,14 @@ and you could see yeah
 
 
 
-Anthony:
+**Anthony:**
 but I mean like can I pause my execution
 at a given line and see what my local
 and global variables 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I haven't done that
 yet I haven't looked and maybe I I don't
 look uh I will admit that flat out right
@@ -425,16 +425,16 @@ in it
 
 
 
-Anthony:
+**Anthony:**
  yeah because that issue too well
 ok debugging is is difficult 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 have
 you have you done anything specifically
 in solidity yet or just kind of messing
@@ -442,7 +442,7 @@ around
 
 
 
-Anthony:
+**Anthony:**
 with it
 there's a nonworking contract on my
 github i just cannot figure out why the
@@ -452,7 +452,7 @@ can't figure it out that's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  pretty funny
 so so you've been in etc' since like the
 very very beginning what do you think of
@@ -463,7 +463,7 @@ of where it was and where it is now
 
 
 
-Anthony:
+**Anthony:**
 uh I
 think it's absolutely amazing how far
 ahead
@@ -491,7 +491,7 @@ that it was going to last at first
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 no I I definitely agree it's definitely
 come so far and you know just crazy to
@@ -503,7 +503,7 @@ should say
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so why so are you a a rabid
 et Cie fan do you do you never use ETH
 or how what's your thought like how
@@ -514,7 +514,7 @@ for you
 
 
 
-Anthony:
+**Anthony:**
 oh you should keep emotions out
 of this no e.t.c is is definitely my
 favorite blockchain but as far as other
@@ -530,7 +530,7 @@ in ETCs I would say
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay okay do you
 think that the etc' attracts a certain
 political bent and the ETH attracts a
@@ -539,7 +539,7 @@ different political bent and
 
 
 
-Anthony:
+**Anthony:**
  most
 definitely especially pokes the fork
 okay you know I feel like etherium
@@ -556,7 +556,7 @@ modify it here yeah that's right
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 you know crypto is starting to get
 popular and be more mainstream when
@@ -577,7 +577,7 @@ works out that way
 
 
 
-Anthony:
+**Anthony:**
 I think it's a great
 way to for you know cuz it's again like
 et Cie is just it runs how to run so
@@ -595,13 +595,13 @@ distributes out the value
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yep perfect I
 hope they do that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  oh that's an interest
 that's an interesting coming you're
 saying every week everybody could build
@@ -613,7 +613,7 @@ that kind of like that that's good yeah
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yep that's true that's true I'll try and
 relay that to some of them whoever
 whoever they are but um where do you uh
@@ -627,7 +627,7 @@ future your your 3,000 kind of stuff
 
 
 
-Anthony:
+**Anthony:**
 I
 would definitely like to see you know a
 lot more I guess corporate interests
@@ -646,7 +646,7 @@ distributed that type of thing
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I
 saw some interesting talk in reference
 to some smart pool smart mining pool
@@ -659,7 +659,7 @@ the miners
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no but I'd love to have a
 show that talks about smart pool cuz
 that sounds like a problem
@@ -667,7 +667,7 @@ idea
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's uh that's on the list
 we'll try to get that together for for
 next week but um yeah so that was some
@@ -681,7 +681,7 @@ that
 
 
 
-Anthony:
+**Anthony:**
 yeah I've done a little bit of
 mining I don't know if I've mined DTC I
 have mines aetherium though yeah I
@@ -689,7 +689,7 @@ understand if you want to kick me off
 that chat now 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 cool and this was guessing
 like back last year you're still still
 got something turning away
@@ -697,7 +697,7 @@ uh
 
 
 
-Anthony:
+**Anthony:**
 no not now I mean it's summer so it's
 hot yeah and it's not uh it's probably
 not financially worth it but yeah back
@@ -710,14 +710,14 @@ help make the house a little warmer
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right yeah you're making money and
 making it warmer so that works 
 
 
 
 
-Anthony:
+**Anthony:**
 yeah but
 then it but then it went into summer and
 then it was just a bit more of a
@@ -726,12 +726,12 @@ suffering
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah then it's just hot yeah
 no go ahead Christian 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no I know I was I
 was just gonna say I've I know that
 don't panic burns says he's a big miner
@@ -742,7 +742,7 @@ buy as many rigs as you can
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now MINEERS
 tough businessman what uh what did you
 haven't you had like one little rig just
@@ -753,7 +753,7 @@ you had like a whole set up
 
 
 
-Anthony:
+**Anthony:**
  one computer
 that I wasn't I built it for gaming and
 then I wasn't really using it much and
@@ -768,7 +768,7 @@ of times over
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay that's the way don't
 panic burns talks okay so if it pays for
 itself then isn't logically you want to
@@ -787,7 +787,7 @@ paid for itself so I'm confused
 
 
 
-Anthony:
+**Anthony:**
 um so I guess so for like for me or
 don't panic burns I guess it depends on
 your mindset for it so though I don't
@@ -817,14 +817,14 @@ for a long time after that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  which was a
 good thing depending on when you started
 it 
 
 
 
-Anthony:
+**Anthony:**
 it can be a good thing if the market
 goes up it could be a bad thing for you
 though 
@@ -832,7 +832,7 @@ though
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah but I'm saying has anybody
 has anybody lost money if they if they
 sell their gains right away 
@@ -840,7 +840,7 @@ sell their gains right away
 
 
 
-Anthony:
+**Anthony:**
 no I think
 still now you would maybe depending on
 how much your electricity costs you
@@ -851,7 +851,7 @@ looked at mining in a while but okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah remember like the reason that
 his graphics card was paid for so many
 times over is because everything went up
@@ -869,13 +869,13 @@ would pay for itself 10 times over oh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that's what I was getting you 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 which which is why you don't scale up
 because let's say you scale up and you
@@ -890,7 +890,7 @@ Negri somebody's angry
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah Carlo cleared up he said it better
 than I I was able to say yes I was I was
 trying to ask if if the price is steady
@@ -903,7 +903,7 @@ necessary for you
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I think not I yes not
 entirely but for you to for you to be
 ahead when all things being equal and
@@ -917,7 +917,7 @@ Anthony
 
 
 
-Anthony:
+**Anthony:**
  yeah pretty much it also depends
 a lot on your locality so like if you're
 mining in China or something or
@@ -935,7 +935,7 @@ twenty percent on your investment
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see
 so we should all GUP we should all
 Google for like if I don't know if they
@@ -945,7 +945,7 @@ where you are on the list
 
 
 
-Anthony:
+**Anthony:**
 oh yeah they
 have a bunch of mining calculators and
 you could put in your kilowatt hour
@@ -953,24 +953,24 @@ costs and stuff and it'll tell you what
 you could expect to make 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 there's even what's that website what
 should I mine or something like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 never heard of it 
 
 
 
 
-Anthony:
+**Anthony:**
 yeah I think so yeah
 just live in mining pools where they
 switch like you could it'll mind one
@@ -980,7 +980,7 @@ day and you get paid in Bitcoin
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I see yeah serious business
 for sure
 but I know 
@@ -988,7 +988,7 @@ but I know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 Anthony why don't you cut
 share kind of what you're working on now
 and so the audience could learn about
@@ -996,7 +996,7 @@ that
 
 
 
-Anthony:
+**Anthony:**
 sure so I guess right now and like
 it's nowhere near done because I'm still
 learning of sharp but I wanted to write
@@ -1025,7 +1025,7 @@ luck
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so wait this is interesting so
 exchanges they could what would they do
 then if you call them and also you have
@@ -1037,7 +1037,7 @@ could they do you
 
 
 
-Anthony:
+**Anthony:**
 know they could
 ideally freeze the funds okay because
 you would want to because then this way
@@ -1051,13 +1051,13 @@ the real person
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah thanks
 question 
 
 
 
-Anthony:
+**Anthony:**
 I I did have an idea on how to
 do that but I I need to I would need to
 implement it in solidity I would
@@ -1078,7 +1078,7 @@ thinking of some ways to do that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you
 know you just gave me an idea about some
 mischief though Anthony what if you are
@@ -1096,7 +1096,7 @@ accounts
 
 
 
-Anthony:
+**Anthony:**
 well yeah but then you you
 still have to prove ownership you you
 can't just call and say you own my
@@ -1108,7 +1108,7 @@ Christian Severino own okay account
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 but I mean what would they would they
 freeze it before they got that
@@ -1122,7 +1122,7 @@ until the whole mess gets cleared up
 
 
 
-Anthony:
+**Anthony:**
 yeah you know I mean they could freeze
 it though anyway so they just need to
 freeze it from when I say freeze I mean
@@ -1136,14 +1136,14 @@ don't go somewhere else
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 and so can you
 make smart contracts with F sharp 
 
 
 
 
-Anthony:
+**Anthony:**
 I
 don't think there's any frameworks to
 make smart contracts with F sharp and it
@@ -1152,12 +1152,12 @@ crazy
 no I'm your serpent 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 why hey why
 would it maybe this is gonna go down a
 huge rabbit hole why would it be so
@@ -1168,13 +1168,13 @@ complicated language to do it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 in try to
 compile I think 
 
 
 
-Anthony:
+**Anthony:**
 yeah it's the compiler
 there's no compiler for F sharp to
 solidity the ways you would do it is uh
@@ -1200,21 +1200,21 @@ complex things to do
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 sounds like this
 would be a mess
 
 
 
 
-Anthony:
+**Anthony:**
  but it depends also on
 what you do like it's not my that
 wouldn't be my forte anyway 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 gotcha
 gotcha gotcha yeah so what are what are
 some things you'd like to do on et3
@@ -1222,7 +1222,7 @@ potentially
 
 
 
-Anthony:
+**Anthony:**
 those are the two things I
 would really like to do I don't know
 eventually I would love to see like etcb
@@ -1233,7 +1233,7 @@ way off
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well you mean you you'd like a
 job where you were developing for etc'
 full-time is that what you mean 
@@ -1241,7 +1241,7 @@ full-time is that what you mean
 
 
 
-Anthony:
+**Anthony:**
 yeah EGC
 or you know just block chains in general
 I just like the technology but but yeah
@@ -1255,7 +1255,7 @@ various block chains in general
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I
 think I get we're saying and well not
 maybe not some things you'd like to you
@@ -1277,7 +1277,7 @@ notepad and get to work on
 
 
 
-Anthony:
+**Anthony:**
 yes so I think one of the biggest things
 that I would absolutely love to see any
 TC is a more declarative non Turing
@@ -1309,13 +1309,13 @@ types of bugs
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah it's a big it's a big
 goal it's a big goal for her 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah with
 your you said you liked haskell so i
 could i think he's doing some work with
@@ -1327,7 +1327,7 @@ in the near future first of all
 
 
 
-Anthony:
+**Anthony:**
  yeah
 yeah haskell and i think i they're
 working on scala which is uh would be
@@ -1335,7 +1335,7 @@ similar
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 well they're they're
 implementing their their client but not
 necessarily i don't know if they're
@@ -1345,14 +1345,14 @@ like Scala oh
 
 
 
-Anthony:
+**Anthony:**
  yeah yeah you're right it
 is uh the client that's still good
 though it's still uh very beneficial
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 greed so what are some things from not
 just et Cie but from the blockchain
 cryptocurrency community at large that
@@ -1363,7 +1363,7 @@ think
 
 
 
-Anthony:
+**Anthony:**
 I would I would love to see a better way
 for you know people to get their money
 back if it's stolen in a hack because
@@ -1389,7 +1389,7 @@ would love to see that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh Anthony can I
 say something about that so it's
 interesting that you brought that up so
@@ -1423,18 +1423,18 @@ what would you do in that situation
 
 
 
-Anthony:
+**Anthony:**
 well for anybody I would buy a hardware
 while it you just you should just get
 one and that uh 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah everyone
 
 
 
-Anthony:
+**Anthony:**
  should
 have a hardware wallet protection
 
@@ -1442,12 +1442,12 @@ have a hardware wallet protection
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  green
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I mean I I like it that it's it's it's
 libertarian and we're all in control of
 our funds but the thought of vaporizing
@@ -1458,7 +1458,7 @@ you're just Drake's on my nerves
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you
 gotta trust that copy/paste button man
 you don't trust that button you're gonna
@@ -1468,7 +1468,7 @@ have problems
 
 
 
-Anthony:
+**Anthony:**
  yeah you just got a double
 check I do it every time I read the
 first four characters and less four
@@ -1478,7 +1478,7 @@ sending to those match
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so how would I
 would that like could you could could I
 could I could you somebody email a
@@ -1492,7 +1492,7 @@ oh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  so I think he's just talking about
 security in general correct 
 
@@ -1500,7 +1500,7 @@ security in general correct
 
 
 
-Anthony:
+**Anthony:**
 yeah in
 general so wouldn't solve a copy-paste
 issue the copy-paste you probably just
@@ -1510,7 +1510,7 @@ then do the second one
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah that
 was the idea that we had that was the
 best idea so far just do it in pieces
@@ -1519,7 +1519,7 @@ yeah
 
 
 
-Anthony:
+**Anthony:**
 so one of the nice things and I
 think he probably could do something
 with theorem class of contracts so I
@@ -1541,7 +1541,7 @@ wallet previously
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah that's a good
 idea that would be at the beginning of a
 couple of good checks that would be easy
@@ -1557,7 +1557,7 @@ stuff like that that's a good idea
 
 
 
-Anthony:
+**Anthony:**
  yeah
 basically or even if it just popped up a
 warning like if I went to you know my
@@ -1573,14 +1573,14 @@ oh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah that's yeah 
 
 
 
 
 
-Anthony:
+**Anthony:**
 you would have to I
 mean some people still click OK and
 don't read the message but right right
@@ -1589,7 +1589,7 @@ don't read the message but right right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah this is the same exact issue right
 with a browser where it says you know
 there's a problem with the SSL
@@ -1601,7 +1601,7 @@ least there'd be the option of doing
 your due diligence 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I think
 good no I was just gonna say that I
 think that's true not to pigeonhole
@@ -1618,7 +1618,7 @@ them as much as possible I agree
 
 
 
-Anthony:
+**Anthony:**
 yeah
 there's a ton of good ideas out there so
 it's just not worth it's not worth like
@@ -1629,7 +1629,7 @@ just ideology
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah agreed
 okay so that's an interesting one from
 ripple what other kind of interesting
@@ -1638,13 +1638,13 @@ other chains are doing oh
 
 
 
-Anthony:
+**Anthony:**
 sorry uh for
 sex like other I like 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah like you
 brought up a good ripple example are
 there any other chains that are doing
@@ -1655,7 +1655,7 @@ to implement that you know
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  something
 you'd want to see on et Cie that other
 yeah other blockchain systems might have
@@ -1663,13 +1663,13 @@ yeah other blockchain systems might have
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes actually
 
 
 
 
-Anthony:
+**Anthony:**
 kind of related to that because I do
 think a lot of the problems with block
 chains that you know the main problem of
@@ -1689,13 +1689,13 @@ so there's one called Golding
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  gulden
 yeah I know those good 
 
 
 
-Anthony:
+**Anthony:**
 yeah yeah I just
 think it's really neat that they have
 you know they have their proof of work
@@ -1713,7 +1713,7 @@ take basically
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yep yep no I know what
 you're saying I think an interesting
 thing about the golden as well as I
@@ -1725,13 +1725,13 @@ it makes that possible you know that one
 
 
 
-Anthony:
+**Anthony:**
 oh really it says uh atomic swaps
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I
 don't know what it is exactly I just
 know a little bit about it but I know it
@@ -1744,7 +1744,7 @@ anywhere that that bitcoin is accepted
 
 
 
-Anthony:
+**Anthony:**
 oh that's cool I think I saw something
 like that I just didn't I might have
 just glanced over it but yeah that's
@@ -1757,7 +1757,7 @@ eventually be a theorem classic
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 agree
 agree so okay so that's that's so you
 got rippled some interesting stuff from
@@ -1768,7 +1768,7 @@ that you think is interesting
 
 
 
-Anthony:
+**Anthony:**
 oh let me
 see what you think for a sec 
 
@@ -1776,7 +1776,7 @@ see what you think for a sec
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah just
 go to just go to coin Marquis Catholic
 go through the list I guess 
@@ -1784,7 +1784,7 @@ go through the list I guess
 
 
 
-Anthony:
+**Anthony:**
 yeah uh I
 don't know I I like Mon arrow I think
 it's really interesting to have a crypto
@@ -1798,13 +1798,13 @@ you're sending
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 your funds you don't know
 you don't know where the cash
 
 
 
-Anthony:
+**Anthony:**
 um yeah and and also it's it's also you
 know it's like a bank account to like
 you know right now with the fear in
@@ -1815,14 +1815,14 @@ it's
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 uh kind of crazier than
 
 
 
 
 
-Anthony:
+**Anthony:**
  much so
 yeah so you know they are I think maybe
 I'm getting it wrong but sorbus maybe or
@@ -1835,7 +1835,7 @@ from on arrow but uh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah yeah I think
 that would be pretty wild if we got that
 going yeah okay cool so we got some
@@ -1852,7 +1852,7 @@ thinking
 
 
 
-Anthony:
+**Anthony:**
 I've got a lot of opinions on a
 lot of cryptocurrency 
 
@@ -1860,7 +1860,7 @@ lot of cryptocurrency
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay now keep it
 going then keep it going ZK snarks like
 I like that ZK snarks functionally do
@@ -1893,13 +1893,13 @@ that that they can get and you know you
 just you think it's secure at that point
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah no I know what you mean 
 
 
 
 
-Anthony:
+**Anthony:**
 the things
 about CK start 
 
@@ -1907,7 +1907,7 @@ about CK start
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 oh you know Anthony I'm
 sure you've heard about this one had
 someone there they found a bug in the
@@ -1930,25 +1930,25 @@ Wow
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah energy Z cash ZEECOIN 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Z cash uses some zero
 cash protocol and Zee Moines uses zero
 coin 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 similar but more advanced implementation
 I believe and but yeah so shut out the Z
 coin that took care of that very
@@ -1959,7 +1959,7 @@ place ago uh
 
 
 
-Anthony:
+**Anthony:**
 no I didn't hear about that
 one I mean I know I've heard that that's
 happened in other situations too but ya
@@ -1973,7 +1973,7 @@ else
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 it's it's like a zero knowledge thing
 but it's not exactly I don't know this
 is stuff that's beyond my education
@@ -1986,7 +1986,7 @@ thing
 
 
 
-Anthony:
+**Anthony:**
 no that's a great way to handle it
 the only problem is eventually you run
 out of coins that you covered
@@ -1994,7 +1994,7 @@ out of coins that you covered
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yes that
 is truly so hopefully they took care of
 that completely 
@@ -2002,7 +2002,7 @@ that completely
 
 
 
-Anthony:
+**Anthony:**
 yeah yeah that's uh
 that's actually what ZK snarks there -
 sorry
@@ -2010,7 +2010,7 @@ sorry
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I was going to say the the during
 that reminds me of when there was the
 flash crash for ETH and I believe
@@ -2026,7 +2026,7 @@ bank
 
 
 
-Anthony:
+**Anthony:**
 oh yeah I think they're
 implementing safety guards for that now
 to help protect against flash crashes
@@ -2037,7 +2037,7 @@ have any applet
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  that got ugly pretty
 quick and then and then it got much
 better very quickly as well 
@@ -2046,7 +2046,7 @@ better very quickly as well
 
 
 
-Anthony:
+**Anthony:**
 yes yeah and
 all of you seconds a milliseconds
 probably 
@@ -2054,14 +2054,14 @@ probably
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 not can you believe that
 
 
 
 
 
-Anthony:
+**Anthony:**
  yeah
 that's what happens when you have
 somebody who has a ton of aetherium that
@@ -2074,7 +2074,7 @@ they're doing there
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so for people that
 don't know flash crashes when you have
 all these computer systems set to
@@ -2086,20 +2086,20 @@ leads to a disaster the price crash
 
 
 
-Anthony:
+**Anthony:**
 yeah
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah and I think I think people yeah
 when as low as like 17 cents or
 something ridiculous for it 
 
 
 
-Anthony:
+**Anthony:**
 yeah people
 picked up some it's here I'm very cheap
 the thing I went down as low as 10 cents
@@ -2111,7 +2111,7 @@ for a dollar
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh you can stop even
 waiting there now that's an interesting
 it yeah so when if there's another flash
@@ -2123,7 +2123,7 @@ like that I should do that
 
 
 
-Anthony:
+**Anthony:**
  yeah cuz it's
 not a no now if everybody does it
 because it wasn't on coinbase proper it
@@ -2134,7 +2134,7 @@ yeah it's an order for this price
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 but maybe week we can also put a link to
 some info on what happened there in the
@@ -2150,7 +2150,7 @@ community maybe get going
 
 
 
-Anthony:
+**Anthony:**
 um no not
 really I mean those are those are the
 main ones that I that I would look
@@ -2161,7 +2161,7 @@ in time
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay cool cool I think that that
 actually works out because we're coming
 to a close on the the show as well and
@@ -2177,7 +2177,7 @@ stage
 
 
 
-Anthony:
+**Anthony:**
  thanks for having me no shameless
 plugs just if anybody's listening and
 you see anybody message you about a hack
@@ -2201,12 +2201,12 @@ underlying chain and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  if it got that bad
 
 
 
-Anthony:
+**Anthony:**
 yeah so there's so for a lot of things
 there's no reason to panic and I mean if
 there is an issue you're going to see
@@ -2226,14 +2226,14 @@ I think that's absolutely awful
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 poisoning the well it doesn't for
 everybody
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari**:
 yeah I agree yeah yeah okay so I agree
 we left off with some good security
 stuff and some good bashing of the
@@ -2245,13 +2245,13 @@ joining us and we'd love to have you on
 again sometime
 
 
-Anthony:
+**Anthony:**
  sure let me know I really
 enjoyed this 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 awesome okay so everybody
 listening thanks for tuning in and we'll
 catch up with you guys later next week
@@ -2260,6 +2260,6 @@ thanks so much take
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to aetherium classic
