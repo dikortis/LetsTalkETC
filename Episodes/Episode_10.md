@@ -1,5 +1,5 @@
 # Let's Talk ETC: Charles Hoskinson & Roman Oliynykov - Treasury Proposal.
-Christian Seberino:
+**Christian Seberino:**
 hello everybody welcome to another
 episode of let's talk epc Carlo can't
 make it he's on travel and so I will be
@@ -10,14 +10,14 @@ did i pronounce that correctly Roman
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 oh
 yeah I don't want honey to go yeah
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay
 and we're going to be discussing the
 Treasury proposal and related topics so
@@ -29,7 +29,7 @@ doesn't hasn't heard of you
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 I think at
 this point if people haven't heard of me
 than they did they don't want to hear of
@@ -49,7 +49,7 @@ discuss to me
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and Roman why don't
 you say a little bit about yourself how
 you got into crypto currencies athyrium
@@ -58,7 +58,7 @@ classics like then
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 I joined this topic 1
 year ago before it I need very deep
 research in cryptography are in
@@ -75,7 +75,7 @@ and it's really interesting and exciting
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay and so you have a cryptography
 background strong math background and so
 that helps you a security background to
@@ -85,7 +85,7 @@ proposals that correct
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
  yes you're quite
 right i defined i have did my ms
 background in in crypto in and also mas
@@ -99,7 +99,7 @@ did we help same to the carcass
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so
 welcome both of you and so we're the
 topic it is the Treasury proposal so the
@@ -118,7 +118,7 @@ well
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 I can like I can start with the
 principles and I guess Roman can get
 into the design so when I first started
@@ -248,12 +248,12 @@ desh
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay Roman you are taken away 
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 yes
 thanks so the continuation of what child
 already said I said so when you're using
@@ -296,7 +296,7 @@ the ways how can we improve it we are
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 watching for everybody's benefit take us
 through kind of hell as a dash proposals
 made so let's say Alice wants to get
@@ -306,7 +306,7 @@ dash
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 so are they just create such
 proposal they learn some small amount of
 money and after that it goes into the
@@ -328,7 +328,7 @@ market
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so essentially it's the simplified
 explanation would be so it's just voting
 you you submit your proposal they have
@@ -343,7 +343,7 @@ that you found the biggest one
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
  so
 intense it is implemented go to vote in
 mechanism where each must note can vote
@@ -368,7 +368,7 @@ surgical point of view it can be brought
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so all right so that they it's open
 voting and because it's not private that
 leads to some concerns and issues that
@@ -376,7 +376,7 @@ need to be resolved alright at a mexican
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 Yeah Yeah Yeah right for example from
 theoretical it's on the theoretical
 point of view i it's it's rather
@@ -399,7 +399,7 @@ finished his voting
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay alright so as
 if I could just interject this is maybe
 semi tan gentle but what is going on
@@ -415,7 +415,7 @@ Frankie well
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 I mean you know I think
 what happens up happening in our space
 is that people tend to is to focus on
@@ -513,7 +513,7 @@ and what's not working for
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you can I
 catch a question so you said something
 that caught my attention you said that
@@ -524,7 +524,7 @@ version 12
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 so what was the hard work
 that they did do some improvements to
 the court protocol so when we did our
@@ -561,7 +561,7 @@ becoming their penis
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes the reason that
 that that drew my attention is because
 they don't necessarily at they don't
@@ -578,7 +578,7 @@ time ago there's no way to change it so
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 right now the other the caveat to that
 and this is where the I mentioned I was
 going to get back to Titanic driven
@@ -719,7 +719,7 @@ there
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 can I ask you another question
 about that that I was thinking of so
 you're you're a smart guy so I hope you
@@ -744,7 +744,7 @@ mechanism somehow and so it'll take her
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 I'll take a get cracking and I get
 roller can take a crack at it too we can
 reach as we can see how much of the
@@ -858,7 +858,7 @@ national election or
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay okay I like what you said about
 that you said how the stakes aren't as
 high and so the attackers wouldn't be so
@@ -874,7 +874,7 @@ critical and well
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 that's not something
 scope of the Treasury so that's another
 yea so if it is a distinguish between
@@ -937,7 +937,7 @@ should be digital or not
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 just might be
 just a few words about technical details
 of Treasury so we looked in we we did
@@ -973,7 +973,7 @@ research of different different models
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 yeah do we have a threat analysis in in
 the proposal that ended up ever end up
 getting its way into this oh 
@@ -982,7 +982,7 @@ getting its way into this oh
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 yes we did
 initial analysis and we continue to work
 with our security analysis we described
@@ -1001,13 +1001,13 @@ give full circle proof
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 okay investor
 that's why 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 i like what you guys said
 that and i know some people might be
 just quickly looking into this but i
@@ -1024,7 +1024,7 @@ Nelly boat and
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
  let's talk about that so
 you know when I I when we first did the
 proposal and I guess you know it kind of
@@ -1119,7 +1119,7 @@ to learn our second case
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you just
 brought up an interesting point which I
 hadn't thought of before but the reason
@@ -1144,7 +1144,7 @@ compensated quickly
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 right that's the
 basic idea is saying that there's a
 difference between dry code and wet
@@ -1195,7 +1195,7 @@ that Roman
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 so I agree I agree with you
 so I here we have complex system of this
 complex system requires very
@@ -1206,7 +1206,7 @@ me to go with it yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay great so is
 there anything else any of you guys want
 to add any message you want to get out
@@ -1216,7 +1216,7 @@ covered
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 so a couple of things logistical
 thing first off the proposal that we
 made in let's try to quantify things in
@@ -1359,7 +1359,7 @@ cryptocurrency but yeah
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so on what I
 what are you saying is so like for
 example the dash there their initial
@@ -1377,7 +1377,7 @@ going to be great for my
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 right right
 right because because frankly there's
 too much competition
@@ -1494,7 +1494,7 @@ more decentralized conversations
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah
 and I i think what one of the things you
 said it personally to me it seems like
@@ -1527,7 +1527,7 @@ could have that principle as well
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
  right
 well I would be skeptical even if they
 did that I mean the underlying cause of
@@ -1562,7 +1562,7 @@ team
 
 
 
-Roman Oliynykov:
+**Roman Oliynykov:**
 so besides me are in team we have
 three page dr specialists they all have
 the ground in cryptography one of them
@@ -1587,7 +1587,7 @@ which is publicly available
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 right Oh
 Christian if you could just edit that
 last dialogue a little bit
@@ -1595,7 +1595,7 @@ last dialogue a little bit
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay wait is
 there something want me to add or remove
 from that it was
@@ -1603,20 +1603,20 @@ from that it was
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
  just just just the
 clarification where where I asked about
 the team is that whole thing 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay all
 right 
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 okay then just just to add to the
 to the team we're going to be adding to
 it so we're in discussions with people
@@ -1711,7 +1711,7 @@ it you having a question for me
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  no I
 just have one thought to just encourage
 both of you that I'm very good at saying
@@ -1743,31 +1743,31 @@ not wanting to take you to a pinch of
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 Ukrainian politics at all 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes okay 
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 no
 comment 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no I have high hopes for what
 you guys are doing 
 
 
 
 
-Charles Hoskinson:
+**Charles Hoskinson:**
 right it's it's a fun
 pursuit you know it's kind of funny
 because a lot of people in this space
@@ -1806,7 +1806,7 @@ the window
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah well thanks again guys been a great
 discussion and appreciate you guys
 coming up Rob ND
