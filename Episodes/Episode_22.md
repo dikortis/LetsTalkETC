@@ -1,5 +1,5 @@
 # Let's Talk ETC: Lukasz Gasior & Radek Tkaczyk - Scala Client Coming Soon.
-Carlo Vicari:
+**Carlo Vicari:**
 hi everybody you're listening to let's
 talk et Cie I'm your host karlovy along
 with my co-host dr. Kristen suberino I
@@ -68,7 +68,7 @@ on here
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so what what country are you
 guys in just out of curiosity first of
 all 
@@ -76,12 +76,12 @@ all
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 we are from Poland okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  now Poland
 don't worry guys Poland's famous enough
 people know Poland's in the earth I hope
@@ -89,14 +89,14 @@ I hope
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 programmers I guess 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 mm-hmm but uh
 so so for anybody listening what we're
 gonna be doing on the show is leading up
@@ -114,7 +114,7 @@ Christian helix
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah nosebleed no just kidding yeah I
 don't know he likes to be fine I don't
 know how these things get decided 
@@ -122,7 +122,7 @@ know how these things get decided
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 well
 you know what I don't want to get in
 trouble and call it the helix client
@@ -146,7 +146,7 @@ Lukas I guess you could go ahead first
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 okay
 pretty usual way with just regular HTML
 files I don't even remember what was
@@ -201,7 +201,7 @@ there for quite some time already
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 THAET IMPRESIV
 Lucas
 so you even so before you started to
@@ -214,7 +214,7 @@ impressive
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 yeah it's true for the past
 few years I've been focused almost
 entirely on Scott so I was trying to
@@ -224,7 +224,7 @@ avoid the Java as much as possible
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  magic
 oh sorry I was coming out there how
 about erratic how what's your how did
@@ -236,7 +236,7 @@ all that
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
  so I guess the motivation was
 that's back in the day I had a really
 tracked computer and I had all those
@@ -251,7 +251,7 @@ that to be able to run them and
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  you were
 you were programming out of like
 necessity almost 
@@ -260,7 +260,7 @@ necessity almost
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 yeah you might say that
 so but actually the start into
 programming was kind of unusual one
@@ -321,7 +321,7 @@ programmers position you're saying
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so
 even though you didn't have a degree in
 computer science you and even though you
@@ -331,14 +331,14 @@ though he's that's you switched you over
 just because he was impressed 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 yeah 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you
 might say that 
 
@@ -347,7 +347,7 @@ might say that
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 yeah unfortunately for me
 the LAN bishop that uses a company with
 Java language like it doesn't really
@@ -369,7 +369,7 @@ predominantly in the sky so
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  you know the
 high level you know the high level
 language Scala and you also are very
@@ -379,7 +379,7 @@ that's pretty impressive
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 at least I used
 to be because I was actually being in
 the major programming for the for the
@@ -392,7 +392,7 @@ companies can see which is okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so what's kind of the so that I we have
 the tech programming story how did you
 guys kind of fall into crypto is it
@@ -406,7 +406,7 @@ story behind
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 SO ECSHEN NEW BITCOIN FOR QVAI SOMETIME
 that and you have it works
 and for the blockchain work 
@@ -416,14 +416,14 @@ and for the blockchain work
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you just
 didn't own any 
 
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 I knew
 but I wasn't really too much interested
 into it thank you
@@ -448,7 +448,7 @@ join
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I see so that happened pretty
 I have that all happened pretty quick it
 was like you knew about Bitcoin and
@@ -461,7 +461,7 @@ a client for the etherium competitor
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
  yes
 it was not that boom I knew I did about
 it for quite some time I just wasn't too
@@ -472,7 +472,7 @@ learned about the filium I see boom okay
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right right
 how about here adequate do you have a
 kind of a rabbit hole story you knew
@@ -482,7 +482,7 @@ about it for a while or brand new what's
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 up um so actually I I haven't even heard
 about etherium before being kind of
 starting the recruitment process for HK
@@ -508,7 +508,7 @@ there's a thing called
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so oh you know I
 I wasn't gonna ask you this I didn't
 even occur to me it is the Scala client
@@ -519,13 +519,13 @@ there
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay
 
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
  I think we are not using any
 code that's like strictly from Discogs
 framework 
@@ -534,7 +534,7 @@ framework
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay so score X is a beautiful
 rewrite of the of the Bitcoin software
 system that's more flexible and you
@@ -546,7 +546,7 @@ interesting to meet it
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 it looks interesting it's kind of
 flexible and I think it's very good for
 prototyping blockchain solutions but
@@ -567,13 +567,13 @@ with the client without it
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I see okay
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now do you guys um I guess that's kind
 of your story about how you first
 started getting into crypto I know Lucas
@@ -592,7 +592,7 @@ what do you think Lucas
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
  very much oh
 really
 you got deep but for the second part of
@@ -606,7 +606,7 @@ be the future no enough
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's true
 pragmatic answer what about you
 radically what do you think 
@@ -614,7 +614,7 @@ radically what do you think
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 well I still
 believe we were like pioneers you know
 to 4-bits community remain encrypted
@@ -630,7 +630,7 @@ don't know what's gonna happen that's it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so I guess I'm drinking a lot more
 kool-aid about about blockchain than or
 crypto than you guys are cuz uh on a
@@ -645,11 +645,11 @@ Lucas
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 17
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay all right that's right you
 have the minor you have the minor in
 your balcony
@@ -660,7 +660,7 @@ what about what about you radical
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 blotching generally yes I'm just not
 sure about if it's any of the current
 implementations of it 
@@ -671,7 +671,7 @@ implementations of it
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I definitely
 agree I mean I definitely have the
 obviously that the chains that I believe
@@ -694,7 +694,7 @@ how was you guys working together
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 so for
 me it was definitely challenging and
 I've learned a lot during this time with
@@ -706,14 +706,14 @@ kind of tricky
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what what are some
 examples taken said surprise D 
 
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 well
 stomach lumpy one thing that was tricky
 to work with was the yellow paper
@@ -736,7 +736,7 @@ changed in which a Yaqui
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah no I tell
 me if you agree with this so my
 impression is that the yellow paper is
@@ -756,7 +756,7 @@ two sources you guys use
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 that's how we
 did it usually but it could be much
 easier if it was just written somewhere
@@ -778,7 +778,7 @@ right
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 tedious yeah yeah sure wait Radek I'm
 curious so you said you you learned
 assembly that was your first language
@@ -793,7 +793,7 @@ architecture
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 yes in fact yeah I might
 call myself an expert on this I believe
 I was the main developer for this part
@@ -828,7 +828,7 @@ write interesting experience
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes
 sometimes people have tricky questions I
 think and they look for subject subject
@@ -843,7 +843,7 @@ brain about different things
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 well but I
 actually I was thinking and because you
 know and we found some bugs in either a
@@ -872,7 +872,7 @@ papers
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh we need a need a yellow paper
 fork you're saying
 to capture the divergence yes I see what
@@ -882,7 +882,7 @@ you mean good point
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah so now in
 reference to the I which case Scala
 client do you guys see anything
@@ -903,7 +903,7 @@ things that you would like to see may
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 not be the answer that they expect
 because I would really like to see and
 would like to have some time to clean it
@@ -924,7 +924,7 @@ the beta
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah yeah that's good I prefer
 your honesty yeah you know and also I
 think isn't that just isn't that common
@@ -943,7 +943,7 @@ your mistakes and
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 it's usually
 developers would like to do come back
 and try to carry out the deed but on the
@@ -953,7 +953,7 @@ like to new features
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I always I always think about like
 the the Linux kernel Ennis he made his
 first version and then he's had 20 years
@@ -967,7 +967,7 @@ rewriting things
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
  yeah I think it just
 doesn't exist
 
@@ -976,12 +976,12 @@ doesn't exist
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what about remember sorry go ahead
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 okay from the more exciting features I
 think as you mentioned the Dallas
 integration 
@@ -990,7 +990,7 @@ integration
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah can you also wait for
 people that don't know can you
 what is date Daedalus 
@@ -998,17 +998,17 @@ what is date Daedalus
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Daedalus swalot
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes thank 
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 you another project of IOH guy
 is well it's basically a wallet mm-hmm
 
@@ -1018,7 +1018,7 @@ is well it's basically a wallet mm-hmm
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah okay it yet it's a wallet and
 there's gonna be some potentially some
 HD wallet features and some other things
@@ -1034,7 +1034,7 @@ pipeline
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 what did you say HD wallet what
 what's that yeah what do you mean HD 
 
@@ -1042,7 +1042,7 @@ what's that yeah what do you mean HD
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so
 this is a bit more of complicated stuff
 then 
@@ -1050,7 +1050,7 @@ then
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay well just what does it mean
 okay just what does it stand for they
 just say that
@@ -1060,7 +1060,7 @@ just say that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah yeah I'm trying to
 think of I'm trying to think of a good
 good way to say it you know it's like
@@ -1077,7 +1077,7 @@ and stuff like that
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 totally
 support worker said I mean for me it's
 all about the features it's about making
@@ -1103,12 +1103,12 @@ should look at Thanks
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  gotcha kappa 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 you
 are talking about speed now i it's my
 understanding that rust is it's you it's
@@ -1122,7 +1122,7 @@ for example
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 also hold on before before I
 forget to do this in the show there's
 anyone listening that was interested so
@@ -1145,7 +1145,7 @@ sorry so
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
  so we had back to your question
 Christian I think yeah rust and and go
 and have that kind of advantage of the
@@ -1163,7 +1163,7 @@ machine code so my
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I was that was
 what I was gonna mention next since you
 said you liked Python you may be
@@ -1179,13 +1179,13 @@ or something else
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 right yeah 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 can I also
 before I forget I wanted to ask you so
 about the so people have an
@@ -1206,7 +1206,7 @@ did I hear that correct
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 so to be honest
 I'm not too familiar with go and trust
 and confidence in those languages about
@@ -1224,7 +1224,7 @@ we're here
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah it was your style
 functional for the most part in Scala I
 would you say 
@@ -1232,14 +1232,14 @@ would you say
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 I think in our deepest no
 no of course that means we try to be as
 much functional as 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I think the reason
 that people think Scala is great for
 concurrency in multiple cores I think
@@ -1248,14 +1248,14 @@ it easy to be
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 yeah 
 BLA BLA BLA
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 so we've covered a
 lot of the Scala client we've talked
 about the potential names we've learned
@@ -1271,7 +1271,7 @@ add oh
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 um my favorite question is always
 and some of the more grounded people
 which I guess I'm definitely not
@@ -1291,7 +1291,7 @@ pop your head if you had to guess
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  so I
 think that replacing Fiat money was
 definitely a good one that's a as a
@@ -1301,7 +1301,7 @@ of the developed world currencies
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 that
 would that would be a big thing other
 than that I can think of anything top of
@@ -1310,28 +1310,28 @@ my head that's already the whole world
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 could be running on Scala right if the
 whole world starts using a theory and
 classic they'll you be using your code
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 that's 
 MY DRIM WORK
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 what about erratic any any crazy
 use case scenarios you can think of off
 the top of your head
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
  no would serve some
 sort of use cases with I think at the
 end of the day there's always the real
@@ -1340,7 +1340,7 @@ of your country recognizes that
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  let's
 let's pretend let's pretend there's
 nothing in the way no no Uncle Sam no
@@ -1350,23 +1350,23 @@ you if you could do it
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 I don't know 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 you
 can if you can dream it
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 EXTRFYGHJKGHJ 43:07
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I think
 that was the first thing ever that's the
 first transaction ever the pizza so okay
@@ -1377,7 +1377,7 @@ tied into the blockchain so now
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 maybe
 IOT yeah that's right interesting but
 personally well I don't see a good
@@ -1390,7 +1390,7 @@ just not too much into the subject
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 oh oh
 well I can I can answer that so yeah
 what one idea is that in the future
@@ -1405,7 +1405,7 @@ I've heard
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I guess it would also
 avoid the honey pots of data and stuff
 like that correct yeah so smart smart
@@ -1417,14 +1417,14 @@ Christian
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I don't see why not I
 just wrote a paper about the blockchain
 system's replacing the web potentially
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 so oh yeah that's right I saw that pop
 up yeah for anyone listening Christian
 you got to put that in the description
@@ -1441,7 +1441,7 @@ very very biased
 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 on that what's really
 lacking is some way to access big data
 and there were some proposals made for
@@ -1451,7 +1451,7 @@ like temporary thing
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I'm glad I'm glad
 you brought that up because I think
 there's some things popping up very soon
@@ -1465,7 +1465,7 @@ something like that
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 no but just just
 address your your point here you're
 right I the blockchains like a TC needs
@@ -1483,7 +1483,7 @@ to the world
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah there's also SIA and
 storage as well I don't know if you guys
 are heard of those yes he is very good
@@ -1492,7 +1492,7 @@ storage good team as well
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah but that
 Lucas is right the blockchain provides
 the trustless property but you wouldn't
@@ -1505,7 +1505,7 @@ storage
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 oh yeah no no absolutely no SIA
 does something where they just utilize
 the token so that they're actually
@@ -1514,27 +1514,27 @@ network of other people's hard drives or
 something 
 
 
-Christian Seberino:
+**Christian Seberino:**
 like that yes 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah it's not
 actually the data inside the block I
 mean the house 
 
 
-Christian Seberino:
+**Christian Seberino:**
 just the hashes 
 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right
 exactly exactly 
 just the hashes of the
@@ -1551,18 +1551,18 @@ before we we sign off here shortly
 
 
 
-Lukasz Gasior:
+**Lukasz Gasior:**
 there's the backcombing( A BITA COMMENS) they do 
 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay got
 you got you how about 
 
 
-Radek Tkaczyk:
+**Radek Tkaczyk:**
 DON'T BREAK IT
 
 
@@ -1570,13 +1570,13 @@ DON'T BREAK IT
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 don't break it 
 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I just I'm just so happy
 that there's deep subject matter experts
 so that the number of subject matter
@@ -1590,7 +1590,7 @@ that you'll be a valuable resource
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 in
 the future and for anybody listening if
 you're if you're watching or listening
@@ -1612,6 +1612,6 @@ next week take care
 right
 [Music]
 
-Christian Seberino:
+**Christian Seberino:**
 if you are passionate about anything
 related to aetherium classic
