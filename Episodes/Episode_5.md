@@ -1,5 +1,5 @@
 # Let's Talk ETC: Investors Featuring Jeriaska (Jerry J.)
-Carlo Vicari:
+**Carlo Vicari:****
 hi everyone and thank you for tuning in
 you're listening to episode 5 of let's
 talk ET cie i'm your host karlovy along
@@ -80,11 +80,11 @@ coming on
 
 
 
-Jerry:
+**Jerry:**
  I'm good Carla thing
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  excellent
 excellent so um you know something we've
 been doing just for people when it's
@@ -101,7 +101,7 @@ that and maybe in the future we'll we'd
 love to have you back on again
 
 
-Jerry:
+**Jerry:**
  um yeah
 thanks I mean that I started investing
 in Bitcoin around 2015 and it was really
@@ -122,16 +122,16 @@ checked out any of those on YouTube
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 definitely
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah
 
 
 
-Jerry:
+**Jerry:**
  so from an intellectual
 standpoint I found that really
 fascinating as for blockchain you know
@@ -164,13 +164,13 @@ meetup in Singapore and I found it
 really 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 that's awesome and yes I'm sorry
 I could take you sorry Bennett 
 
 
 
-Jerry:
+**Jerry:**
 known I
 was just saying that you know you go on
 youtube and you have access to all these
@@ -202,18 +202,18 @@ rewarding
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  how absolutely 
 
 
-Christian Seberino:
+**Christian Seberino:**
 like a
 glycation how do you like what's your
 how do you like helping people what do
 you help people within the community
 
 
-Jerry:
+**Jerry:**
  oh
 hey Kristin well I like that athyrium
 classic is an open platform so what I
@@ -239,7 +239,7 @@ engaging in coercion or ad hominem
 attacks to get our way
 
 
-Christian Seberino:
+**Christian Seberino:**
  okay at one
 hundred percent you also see yourself as
 trying to bring in more capital into the
@@ -248,7 +248,7 @@ of trying to convince people to invest
 in epc 
 
 
-Jerry:
+**Jerry:**
 well something that I feel I'm
 capable of doing is arguing against
 people who I feel are attempting to
@@ -266,19 +266,19 @@ the market value of etherium classic is
 right don't favor of its long term usage
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok so you don't work with Barry Silbert
 but you just have a high regard for him
 and you've met him as you said
 
 
-Jerry:
+**Jerry:**
  nominated
 recording 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ok yeah I had a question for
 people that aren't big investors that
 are listening so it might seem like this
@@ -302,7 +302,7 @@ with my money that way
 
 
 
-Jerry:
+**Jerry:**
  well again I'm an
 independent party I'm part of the
 etherium classic community and I'm
@@ -319,7 +319,7 @@ might feel like a will who am I to
 participant you know
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  uh for anybody
 listening out there I've seen Jerry uh
 you know speak on numerous occasions on
@@ -332,7 +332,7 @@ wish i didn't because there's a lot of
 great ones in there you know 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes I
 understand what you're saying so you
 can't speak for Barry you have your
@@ -345,7 +345,7 @@ scary for a lot of people so
 
 
 
-Jerry:
+**Jerry:**
  yeah you
 know you don't need to necessarily
 invest monetarily if you feel that
@@ -388,7 +388,7 @@ is what makes the reward possible
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah
 now that you just I just thought have
 another question speaking of the how you
@@ -401,23 +401,23 @@ checking the price every day and
 obsessing over little changes
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 crypto is a crazy place
 
 
-Jerry:
+**Jerry:**
  by you guys who
 mean the investors in general
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes yeah
 
 
 
-Jerry:
+**Jerry:**
 okay um I just want to reiterate that I
 don't want to have people misled into
 thinking that I'm speaking for digital
@@ -425,7 +425,7 @@ currency group you know and I missed
 that it so night
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I think I think
 Christian more meant like looking inside
 of the implicit because we have a lot of
@@ -440,7 +440,7 @@ other investors think you know
 
 
 
-Jerry:
+**Jerry:**
  so to me
 what made Bitcoin valuable was that it
 was a venue for anarcho-capitalism it
@@ -465,7 +465,7 @@ figure other than this public ledger and
 this technology that Satoshi created 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yes
 and it's it's a work in progress it's an
 experiment in progress all this
@@ -479,7 +479,7 @@ thinking oh my gosh what maybe I got
 into earlier they even made a mistake
 
 
-Jerry:
+**Jerry:**
  no
 it's a very good question about blood
 pressure there are ways that you can
@@ -511,7 +511,7 @@ given cryptocurrency or another
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yeah I
 think I should advise I think that's
 good advice overall too if you want to
@@ -525,7 +525,7 @@ taking risks and I know that this is
 higher risk and so I'm okay with that
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  oh
 also for everyone listening out there
 dollar cost averaging is your friend if
@@ -535,7 +535,7 @@ any particular place dollar cost
 averaging very good
 
 
-Jerry:
+**Jerry:**
  and you know this is
 really about investing in a technology
 so if you find that you're making
@@ -569,7 +569,7 @@ elements that are more idealistic
 arguably 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 there's there's definitely a
 sweet spot to you know come to terms
 with what would work for all three
@@ -583,7 +583,7 @@ you whatever oh now go ahead sorry
 
 
 
-Jerry:
+**Jerry:**
  a
 conservative way of doing it is you
 start by investing very little and if
@@ -598,7 +598,7 @@ see
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I might a question since you
 mentioned about defending the reputation
 of et Cie in the investor community do
@@ -609,7 +609,7 @@ you had to do to protect me TC
 
 
 
-Jerry:
+**Jerry:**
 well you
 know when i mentioned that i viewed
 bitcoin as an anarcho-capitalist
@@ -642,12 +642,12 @@ winning the election yeah did you check
 out that that widget 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I heard about it
 but I wasn't paying attention to 
 
 
-Jerry:
+**Jerry:**
 the day
 before the election the day before the
 election when that widget appeared the
@@ -694,7 +694,7 @@ or another
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yes it it's like they they
 might not necessarily be such bias
 people but once they're so heavily
@@ -703,7 +703,7 @@ off the bias you know
 
 
 
-Jerry:
+**Jerry:**
 and they're
 relying on the bias just as the New York
 Times was relying on the incredulity of
@@ -733,7 +733,7 @@ of a capitalist platform where we have
 competition between block chains 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I
 could imagine just you got me thinking I
 could imagine let's say there was
@@ -754,7 +754,7 @@ have so much invested in a competitor
 
 
 
-Jerry:
+**Jerry:**
 yeah there's a lot at stake and you know
 I was an ethereal investor so I met a
 lot of people during that time I made
@@ -792,13 +792,13 @@ truly revolutionary about Satoshi's
 vision 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 now that was kinda weird that
 what what they did right well not ever
 dated
 
 
-Jerry:
+**Jerry:**
  in etherium value Satoshi's vision
 so it's important to recognize that
 there's a lot of trash talking about
@@ -816,7 +816,7 @@ institutions and governance models
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 I thought I have a quick question
 actually about especially not just how
@@ -835,7 +835,7 @@ that
 
 
 
-Jerry:
+**Jerry:**
 well again I don't want to position
 myself as a big in
 bester because I think that um you know
@@ -843,13 +843,13 @@ bester because I think that um you know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 well no I just my god what you're
 thinking or how they're how you like
 thinking my general sentiment
 
 
-Jerry:
+**Jerry:**
  it's a
 good question i'm nitpicking a bit
 because I don't want for people to turn
@@ -873,7 +873,7 @@ see this
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  keke you can't be serious I
 honestly think all his posts are satire
 III it has to be a joke I know you're
@@ -881,12 +881,12 @@ talking about that armin van whatever i
 don't know right
 
 
-Jerry:
+**Jerry:**
  well i don't want to
 name names because i'm being critical
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 i'll name it i'll give it its that urban
 van whatever uh i would say that for
 anyone listening i would say that i'd
@@ -897,7 +897,7 @@ he's got some pretty funny tweets just
 to save the least 
 
 
-Jerry:
+**Jerry:**
 the way i like to do
 it is that I I like to name names when
 I'm congratulating people and I'm a
@@ -947,7 +947,7 @@ contract a smart contract he
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  well I
 think I've read I've read some of these
 debates on there where people have
@@ -976,7 +976,7 @@ main talking point is every single time
 that I've seen 
 
 
-Jerry:
+**Jerry:**
 yeah I mean you can argue
 that any transactions on the etherium
 classic block chain or a violation of
@@ -1022,7 +1022,7 @@ the person who is making those arguments
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 okay yeah I think that's good advice and
 that's I'm not a I'm not a professional
 trader but I assume that that's probably
@@ -1032,12 +1032,12 @@ recognition superstars and and just go
 buy everything they say is gospel right
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no Jerry sorry go ahead 
 
 
 
-Jerry:
+**Jerry:**
 I'm not a
 professional trader I'm not an investor
 if you're a traitor today you might be
@@ -1055,7 +1055,7 @@ token that people have already invested
 capital into
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  um Jerry what up pre Dow
 pre now fork freedom s pre doubt debacle
 whatever however you want to say it what
@@ -1069,7 +1069,7 @@ on that before kind of that whole mess
 started 
 
 
-Jerry:
+**Jerry:**
 well I thought that it was risky
 to a transition from proof of work to
 proof of stake and since then I've
@@ -1117,13 +1117,13 @@ disconcerting sure
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  it's like it's like a
 bunch of red flags leading up to a
 bigger red flag you know
 
 
-Jerry:
+**Jerry:**
  well I don't
 know whether
 they'll be able to pull it off without a
@@ -1166,13 +1166,13 @@ banks you're aware of this message on
 the yep this is Blanc
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 very libertarian
 principles absolutely
 
 
 
-Jerry:
+**Jerry:**
 and so when you have an authority in
 etherium that's able to engage in not
 only printing up new fiat currency but
@@ -1201,11 +1201,11 @@ bailout right so it's not unprecedented
 and 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 absolutely 
 
 
-Jerry:
+**Jerry:**
 if you look at the videos
 by andreas antonopoulos andreas
 frequently talks about money printing as
@@ -1218,7 +1218,7 @@ more feel right can
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  I make a comment
 about that tell me if you agree or
 disagree but to be fair to be a theory
@@ -1238,7 +1238,7 @@ would you agree with
 
 
 
-Jerry:
+**Jerry:**
  that well the
 similarities are that the Federal
 Reserve has no cap on the number of
@@ -1293,13 +1293,13 @@ successful as an investment asset class
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah that's a pretty telling quote I'd
 say
 
 
 
-Jerry:
+**Jerry:**
  so the idea with the theorem classic
 is that we depart from this centralized
 governance model that etherium is
@@ -1317,7 +1317,7 @@ developers and investors more generally
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 can I make a comment so I think I think
 that I think it's wise to have a cap to
 the supply I think that's easy for
@@ -1339,21 +1339,21 @@ total supply increases now that they
 
 
 
-Jerry:
+**Jerry:**
 recognize the need for the transition to
 proof of stake in order to rein in the
 inflationary
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  yes they're fake is a whole
 nother another you know issue but I mean
 that back 
 
 
 
-Jerry:
+**Jerry:**
 it's not really another issue
 because the transition to proof of stake
 will allow for a deflationary a monetary
@@ -1382,7 +1382,7 @@ government are taking high denomination
 physical cash as a collection
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah also
 the other side of the coin for that
 Christian is so let's just say if you
@@ -1407,7 +1407,7 @@ seems like there is a moment
 
 
 
-Jerry:
+**Jerry:**
  and how
 inflationary was the contentious hard
 fork you double the money supply
@@ -1427,7 +1427,7 @@ is symptomatic of over centralization of
 the governance model
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah I uh Jerry I
 wanted to know what are since we're
 talking about you know inflation and
@@ -1443,20 +1443,20 @@ guess right
 
 
 
-Jerry:
+**Jerry:**
  yeah I mean that's what's
 happening now in that as well as you
 speak right 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 raise either way they're
 weighing the money in red it's 
 
 
 
-Jerry:
+**Jerry:**
 weighing
 stacks of bills in order to pay for cups
 of coffee in Venezuela and that's an
@@ -1502,7 +1502,7 @@ set forward by you know people in
 positions of power 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Jerry have you ever
 heard this have you ever heard this
 quote before I think it's a pretty
@@ -1531,7 +1531,7 @@ Republic
 
 
 
-Jerry:
+**Jerry:**
 in US history there's a similar
 quote something along the lines of that
 you need a new revolution every
@@ -1550,12 +1550,12 @@ supply in a protocol that cannot be
 manipulated by human actors right
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  yeah
 true 
 
 
-Jerry:
+**Jerry:**
 yes so basically Barry Silbert says
 of a theorem classic this is at the
 blockchain startup Singapore meet up
@@ -1602,12 +1602,12 @@ the Bitcoin blockchain
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 right then he
 left
 
 
-Jerry:
+**Jerry:**
  yeah the crowning achievement was
 he left and that well allows for Bitcoin
 to be what I view as being an inner co
@@ -1617,22 +1617,22 @@ anarcho-capitalism
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I can I have fun I
 have my theory on Satoshi 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 ya know just
 to make a comment so 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah good good
 
 
-Christian Seberino:
+**Christian Seberino:**
  so I
 think what we're all saying so if we if
 us three if we decided tomorrow that
@@ -1652,14 +1652,14 @@ powerful person well go ahead
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 go ahead
 Jerry I have my thoughts on that but go
 ahead 
 
 
 
-Jerry:
+**Jerry:**
 oh it was to protect
 decentralization because vitalik has
 been very successful as a figure that
@@ -1693,7 +1693,7 @@ another potentially leaderless model
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I'm about it so I was also thinking
 about Satoshi a lot of his bitcoins
 haven't moved correct at the there's a
@@ -1703,13 +1703,13 @@ he's really upset
 
 
 
-Jerry:
+**Jerry:**
 I think he burned
 anything 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah he just lost his keys and
 he's got a million a lot of million I
 don't know how much money that would be
@@ -1717,7 +1717,7 @@ right now I
 
 
 
-Jerry:
+**Jerry:**
  I think he burned the keys
 because his goal was not to get rich his
 goal was to create a platform that would
@@ -1727,12 +1727,12 @@ win wat
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 can't imagine burning burning a
 key with a million bitcoins on it well
 
 
-Jerry:
+**Jerry:**
 well what would be more rewarding to you
 right i mean arguably would you find it
 more rewarding to win the lottery and
@@ -1745,7 +1745,7 @@ our time but uh it would
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  I would I would
 fade it to the background keep my key
 and then of the year 20xx cash on him
@@ -1754,7 +1754,7 @@ that I mean that's just me
 
 
 
-Jerry:
+**Jerry:**
 I think
 Satoshi burned them but I mean and you
 don't know 
@@ -1762,12 +1762,12 @@ don't know
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Jerry you're hurting me
 you're hurting my chest i felony
 
 
-Jerry:
+**Jerry:**
  how
 many millions of dollars do you need
 though I mean should we put an upper cap
@@ -1777,37 +1777,37 @@ would want to possess I mean I'd 90
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah
 I guess 
 
 
 
-Jerry:
+**Jerry:**
 so I did it for himself he had
 enough cash and what he needed was to
 create something that was you know for
 the well-being of the human Enterprise 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 I
 am I heart sinking 
 
 
-Christian Seberino:
+**Christian Seberino:**
 yeah I think of a
 similar 
 
 
 
-Jerry:
+**Jerry:**
 Craig right and ask him to send
 you some of Satoshi's coins more than 
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I
 know but an analogy is think about the
 world wide web when Tim berners-lee was
@@ -1821,7 +1821,7 @@ wasn't whether
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  whether he has the key or
 doesn't have the key it doesn't control
 it but it would be nice if he had the
@@ -1839,7 +1839,7 @@ that hurts a lot of resources or you
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 know I don't like you now it were no no
 that analogy it's more like it's more
 like he just threw a bunch of random
@@ -1849,13 +1849,13 @@ garbage
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 no no well were you gonna say
 Jerry sorry 
 
 
 
-Jerry:
+**Jerry:**
 I think that you know the
 vision of Bitcoin to me it seemed
 conspicuously as I said to be an
@@ -1874,11 +1874,11 @@ eliminate the 500 and 1,000 rupee notes
 over not really 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 crazy
 
 
-Jerry:
+**Jerry:**
  and everyone had
 to take their 500 and 1000 rupee notes
 to the bank and deposit them or exchange
@@ -1911,7 +1911,7 @@ on a global scale
 
 
 
-Christian Seberino:
+**Christian Seberino:**
 I've heard that before
 a long time ago that well if you think
 and I could see the arguments for that
@@ -1931,7 +1931,7 @@ out there notoriously there was a clever
 argument 
 
 
-Jerry:
+**Jerry:**
 it's it's a technological arms
 race because as the ability as as
 technology improves that allows people
@@ -1961,7 +1961,7 @@ boon to their ya venis
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  i have i have
 some thoughts on on countries and their
 willingness to you know use
@@ -1989,7 +1989,7 @@ think that's what
 
 
 
-Jerry:
+**Jerry:**
  I hope this historical
 precedent of automobiles in Europe don't
 you at the at the time when as a
@@ -2032,7 +2032,7 @@ be seeing something similar yes
 
 
 
-Christian Seberino:
+**Christian Seberino:**
  that's
 actually encouraging what you guys said
 because if you're if you in the back
@@ -2047,7 +2047,7 @@ ban cryptocurrency NBC
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 Is still though
 still though it's almost like a
 government version of a 51-percent
@@ -2078,7 +2078,7 @@ neighbors and they want to be better
 than them 
 
 
-Jerry:
+**Jerry:**
 yeah you're also going to see
 some pro blockchain innovation within
 geographical regions that are anti
@@ -2110,7 +2110,7 @@ know less advantageously situated places
 out of necessity 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah I agree um so I
 think that about wraps it up for me I
 don't know if you have any other
@@ -2118,27 +2118,27 @@ questions there anything you want to
 touch on unchristian
 
 
-Christian Seberino:
+**Christian Seberino:**
  no no that was
 pretty thorough 
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah good great stuff
 Jerry
 
 
-Jerry:
+**Jerry:**
  can I bring up one more thing oh
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah absolutely go ahead 
 
 
 
-Jerry:
+**Jerry:**
 um not to
 belabor the point but the thesis that I
 arrived upon regarding the etherium
@@ -2200,11 +2200,11 @@ useful framework to think of when
 engaging with the community 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 okay
 
 
-Christian Seberino:
+**Christian Seberino:**
  so
 you'd like to see us just to partially
 summarize you'd like to see the
@@ -2215,7 +2215,7 @@ undesirable behaviors
 
 
 
-Jerry:
+**Jerry:**
 so there are
 certain people who are miners who are
 also investors because they mine the
@@ -2274,7 +2274,7 @@ breeds sabotage
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah very true it's a
 tripod we got to keep all three legs
 nice and strong you said dominoes I was
@@ -2282,7 +2282,7 @@ thinking tripod
 
 
 
-Jerry:
+**Jerry:**
 that's all that's like
 my framework for thinking about the
 necessity of negotiation and when people
@@ -2326,7 +2326,7 @@ using ad homonyms as a form of coercion
 that makes sense 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 yeah makes sense to me
 and I agree that's why you know I think
 we all do or most people do a pretty
@@ -2337,15 +2337,15 @@ um so uh anything else you wanna you
 want to touch it on Christian or Jay 
 
 
-Jerry:
+**Jerry:**
 no
 
 
-Christian Seberino:
+**Christian Seberino:**
 I'm good that's it for me
 
 
-Carlo Vicari:
+**Carlo Vicari:**
  okay excellent
 so Jerry thanks for joining us tonight
 absolutely thanks for joining me and
@@ -2360,12 +2360,12 @@ week scope going forward but we'd love
 to have you on again sometime absolutely
 
 
-Jerry:
+**Jerry:**
 my pleasure looking cool in ecology
 
 
 
-Carlo Vicari:
+**Carlo Vicari:**
 excellent all right take care guys
 gracefully with you
 you
