@@ -2,10 +2,10 @@
 **Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to episode 2 of let's
-talk ET SI i'm your host karlovy along
-with my co-host dr. christian Severino
+talk ETS i'm your host Carlovy along
+with my co-host dr. Christian Severino
 also i want to make a special point
-tonight and thank the ET SI developers
+tonight and thank the ETS developers
 for working on this project Christian
 and I you know we're in touch with the
 community an awful lot but it's really
@@ -17,33 +17,33 @@ times so I just wanted to make a special
 point about thanking them for everything
 they do and also that kind of segues us
 into the next topic for tonight we have
-a special guest with us ET c developer
-Elaine Elaine why don't you just
+a special guest with us ETC developer
+Elaine why don't you just
 introduce yourself to everybody and also
 thanks so much for everything you've
-done with for the UTC community and the
+done with for the ETC community and the
 eegees project
 
 **Elaine:**
- sure um hi but thanks for
+ sure hi but thanks for
 having me on I'm you know excited to be
 here and I'm glad to see so much support
-for ET cie I mean you give the devs a
+for ETC I mean you give the devs a
 lot of credit but I think really it's
 the community and the people who build
-apps for UTC that will go actually give
+apps for ETC that will go actually give
 it value
 
 **Carlo Vicari:**
- yeah very true very true um so
-let's let's also I'd like to thank the
-ECC community along with all the
+ yes very true so
+let's also I'd like to thank the
+ETC community along with all the
 developers and you know everyone that's
-participating in this project um you
+participating in this project you
 know that's across the globe there's
-just so much support um and I guess we
-can you know talk a little bit about ET
-cie newsletter that it was just released
+just so much support and I guess we
+can you know talk a little bit about ETC
+newsletter that it was just released
 and talk about some of the stuff in the
 development report on there it's you
 know great to have a one of you guys on
@@ -55,7 +55,7 @@ more depth of what's going on
 should I good
 
 **Carlo Vicari:**
- Yeah yeah I guess some I
+ Yes I guess some I
 know we were talking earlier you were
 telling me and Christian about you know
 some of the stuff going on in the dev
@@ -63,49 +63,49 @@ report like parody and f qor and stuff
 like that
 
 Elaine:
- yeah so previously we had
+ yes so previously we had
 updated go athyrium client to delay the
 bomb and now parody are the earth core
 team has accepted our treat but the same
 changes for the parody client and right
 now parody is the most popular client in
-84 ET SI so bi our january hard fork
+84 ETS so bi our january hard fork
 everyone should have the update client
 with the bomb delay and it's great that
 math core has been so supportive of our
 changes and willing to accommodate us
 and me for that matter you know the rest
-of the etherium developers have also
+of the ethereum developers have also
 provided a lot of technical support in
 helping us get everything stabilized
 
 **Carlo Vicari:**
-cool cool oh 
+cool
 
 **Elaine:**
-yeah I saw something 
+yes I saw something 
 
 **Carlo Vicari:**
-yeah
-yeah definitely Christian go ahead
+yes
+definitely Christian go ahead
 
 **Christian Seberino:**
  okay
 well first of all I didn't know what
 Alain just said I'm very glad that she's
-getting support from the etherium
+getting support from the ethereum
 developers and but I did have one
 question that might help some people
 listening so I was reading about in the
 dev report and in this link this paper
 that is in the dev report called it
-Nerium classic fundamentals and if you
+ethereum classic fundamentals and if you
 read this and you read what the
 developers are doing i could imagine
 some people thinking holy moly if I'm
 not a genius I can't contribute and I
 you guys picked up the the clients
-midstream and and you guys are now you
+midstream and you guys are now you
 know working on them you remove the dow
 issues and i was just wondering what
 would you say to somebody that maybe is
@@ -116,7 +116,7 @@ you have to be a genius to help you guys
 
 **Elaine:**
 well of course not i mean i don't think
-any of the current ET cie developers
+any of the current ETС developers
 were familiar with rust which is the
 programming language used for parody
 prior to
@@ -127,7 +127,7 @@ code bases are pretty big they've been
 working on it for like two years now so
 it's impossible to expect anyone to jump
 in and instantly be familiar with it
-everything so yeah the community is
+everything so the community is
 supportive and it's easy to get help and
 get questions answered
 
@@ -140,17 +140,17 @@ using see forever and I heard that if
 you ask a dumb question on the colonel
 list that they pretty much chew you up
 but that sounds like what you're saying
-is the EPC devs the you guys aren't like
+is the ETCdevs the you guys aren't like
 that so it more welcoming is that right
 
 
 
 **Elaine:**
-yeah I don't have much I mean I don't
+yes I don't have much I mean I don't
 have any expand experience them
 contributing to the Linux kernel but i
 mean i've heard mixed stories about that
-but regardless over here yeah everyone
+but regardless over here everyone
 is you know very patient and will I
 answer dumb questions
 
@@ -158,23 +158,23 @@ answer dumb questions
  okay
 
 **Carlo Vicari:**
- uh yeah yeah
+ yes
 I've definitely had my fair share of
 those kind of being uh in the non tech
-side of these things but um you know
-everybody even from from day one has
+side of these things but you know
+everybody even from day one has
 just been so supportive throughout the
 whole community and you know I always
 post a like a community poll to just to
 see how everybody's communicating and
 getting along and stuff like that and it
 seems like everything is doing really
-well so far which is great um and also I
+well so far which is great and also I
 guess this kind of can bring us into our
 next topic as far as a community support
-and stuff like that um you know big big
+and stuff like that you know big
 semi announcement nothing official but
-from the CEO of btcc originally it
+from the ICO of btcc originally it
 started out as that coin Telegraph
 article which was kind of just like a
 little bit of a rumor mill but then he
@@ -185,62 +185,62 @@ no time frame yet and
 so the Twittersphere is going nuts with
 that one it's it's pretty awesome what
 do you guys think Lane I guess you can
-give us give us your thoughts on that um
+give us your thoughts on that
 
 
 
 **Elaine:**
-yeah when I went to Shanghai two months
+yes when I went to Shanghai two months
 ago I was surprised that like how big
 the community support was over in China
 because I hadn't really been in touch
 with that part of the community at all
 but it seems like there's a lot more
-support for e.t.c over there than here
+support for ETC over there than here
 in the states and it's great to hear
 that btcc will be supporting if you're
-in classic and I here are not um the
-other one um which one
+in classic and I here are not the
+other one which one
 
 
 **Carlo Vicari:**
- I'm sorry um I
+ I'm sorry 
 
 **Elaine:**
 think they're only going to support one
 
 
 **Carlo Vicari:**
-yeah yeah that's um that's what it looks
-like right now um I the we chat is kind
+yes that's what it looks
+like now I the we chat is kind
 of still buzzing about what's going on
 with that for you guys listening out
 there who don't know what I meant by
-that um we kind of have a lot of our
+that we kind of have a lot of our
 discussions amongst the North American
 and European counterparts take place you
 know on slack and read it and stuff like
-that but a lot of the Asian community um
+that but a lot of the Asian community
 they really communicate a lot through
-the we chat group that's on for a
-theorem classic so what do you think
+the we chat group that's on for
+ethereum classic so what do you think
 Krisha I mean I know you've probably
 been in touch with some people about
 this and you've got a lot of community
-response about education um it's pretty
+response about education it's pretty
 cool how much the Asian community is
-into what we've got going on right
+into what we've got going on
 
 
 **Christian Seberino:**
- yeah
+ yes
 I contacted by somebody that wanted to
 translate some of my educational
 materials which and that I wasn't
 expecting that and edit stuff he even
 showed me some Chinese web page which of
-course I couldn't read but he said oh
-yeah you got all these people reading
+course I couldn't read but he said
+you got all these people reading
 your stuff on this website so i thought
 off to take your word for it because i
 have no clue what it says and how to
@@ -251,14 +251,14 @@ you said that the Asian community has
 what is supporting et see more do you
 have any idea why that is the case is
 there some cultural reason that makes
-them more attractive ET c or is it
+them more attractive ETC or is it
 something else
 
 **Elaine:**
- um well III don't know if
-they're necessarily supporting ET see
+ um well i don't know if
+they're necessarily supporting ETC
 more you know versus like other chains
-like cerium III think that their support
+like ethereum I think that their support
 is just greater relative to what we
 might see over here in North America and
 I mean it's possible that they're just
@@ -271,24 +271,24 @@ digital currency over there
 
 
 **Carlo Vicari:**
- yeah I
-I think um you know the digital currency
+ yes
+I think you know the digital currency
 or cryptocurrency blockchains in general
 just have kind of a different value
-proposition over there um they're
+proposition over there they're
 they're pretty seems like they're pretty
 hyped about the possible how heavily the
 community is leaving leaning towards cap
 regarding regards to the monetary policy
-what else some what else can you tell us
+some what else can you tell us
 about your trip I know you had a couple
 of meetups over there and you were kind
 of you know I think he went to Def Con
 and a whole bunch of other cool stuff
-yeah
+
 
 **Elaine:**
- I didn't exceed our def con um I
+ I didn't exceed our def con  I
 only went for the UTC meet up
 
 **Carlo Vicari:**
@@ -298,58 +298,58 @@ made up like I know we tried to stream
 it but the stream drop because there
 were too many people trying to watch
 their was like 3500 people I'm trying to
-watch a stream at the time um it went
+watch a stream at the time it went
 
 
 **Elaine:**
-well I I met Roy who is uh I guess
+well I met Roy who is  I guess
 leading the Chinese speaking community
-over there for et Cie I got to learn a
+over there for ETC I got to learn a
 bit about like BTCC and how they make
 decisions about what I guess coins to
-list on their exchanges and I'm I'm
+list on their exchanges and  I'm
 guessing that one of the main concerns
-that they have right now regarding ET c
-or etherium
+that they have right now regarding ETC
+or ethereum
 is that the clients are still for the
-block chains are still a little bit
+blockchains are still a little bit
 unstable and subject to multiple Forks
 
 **Carlo Vicari:**
-yeah yeah I know what you mean um I'm
+yes I know what you mean I'm
 glad we're taking kind of a security
 first approach to things as opposed to
 move fast break things which is a little
 bit of a different mantra so I'm glad
-we're we're taking that approach um
+ we're taking that approach
 Christian I want to ask you also about
 just along those lines with the the
 unstable pneus of the chains potentially
-and what we're doing going forward with
+and what we're going forward with
 security first and kind of how that
 plays into the the Asian community
 international community in North
 American South American European
-communities going forward for et Cie
+communities going forward for ETC
 
 **Christian Seberino:**
-yeah I think I can feel their pain as a
+yes I think I can feel their pain as a
 famous politician said I nobody likes
 hard forks and so if there's people in
 the Asian community that aren't too
 happy about that but it's really no I'm
 sure Elaine would agree that you just
 there's nothing you could do about
-certain rights um sometimes you have to
+certain sometimes you have to
 hard fork the denial of service
 vulnerabilities we have to hard for it
 there's just no way around that the way
 this will all play out hopefully is that
 we will get most of the hard Forks out
 of the way now and then going forward
-they'll they'll be less and less it may
+they'll and less it may
 be eventually you know one every couple
-years if that and that that's just the
+years if that and that's just the
 nature of software I'm hoping that
 that's how it turns out that's what I'm
 gonna suming is gonna happen
@@ -358,7 +358,7 @@ gonna suming is gonna happen
  that's true
 I think even the way the last hard fork
 went that we did that was for a protocol
-update was really really smooth uh so as
+update was really smooth so as
 long as we continue to update the code
 base and do protocol Forks or protocol
 updates really they are since I think
@@ -379,14 +379,14 @@ that what do you think Elaine
  well
 bitcoin is facing a protocol update
 right now regarding the block size and I
-mean we're lucky right now in that our
+mean we're lucky now in that our
 community is still fairly small and we
 are all fairly aligned in our goals I
 think as as the community gets bigger
 there might be more contention over
 protocol updates because people will
-have different priorities for what ET SI
-should be good at so yeah my preference
+have different priorities for what ETC
+should be good at  my preference
 is to get all the protocol updates and
 hard Forks out of the way early on and
 just have something stable for longer
@@ -394,24 +394,24 @@ term
 
 
 **Carlo Vicari:**
- yeah very true very true um so I
+ yeS very true very true so I
 think that's a you know pretty pretty
 good discussion that we had about the
-BTC and the CEO and the coin Telegraph
+BTC and the ICO and the coin Telegraph
 article I guess is kind of encompassed
-on that I had to make a yeah go ahead
+on that I had to make a go ahead
 
 
 
 **Christian Seberino:**
-okay so there's there's it there's at
+okay so it there's at
 least two reasons why a hard fork could
 be a bad thing so one of them is
 definitely if there's a huge
 disagreements in the community but you
-didn't quite it didn't seem like you you
+didn't quite it didn't seem like you
 saw that even some people changes
-annoying even if there's there's
+annoying even if there's
 complete agreement you have to update
 your clients you have to do and some
 people just rather not have to deal with
@@ -427,29 +427,29 @@ want so
  well I'm glad
 really good especially for exchanges who
 you know I have to who are securing like
-a huge amount of ether or UTC
+a huge amount of ethereum ETC
 have to be able to update securely
 
 **Carlo Vicari:**
- yeah
+ yes
 very true um I got a chance to speak to
 some of the people from exchanges over
-at KOIN agenda and they expressed a lot
+at COIN agenda and they expressed a lot
 of that same sentiment about not
 necessarily whether it's contentious are
 not contentious it's just a pain in the
 neck for them all together whether
 whether it was all agreed upon or not so
-that's that's very true very true um so
+that's very true so
 also there was also another thing from
 the recent news letter was an article
-from Rocky uh from by rocky from Krypto
+from Rocky from by rocky from Krypto
 hustle I don't know if you got a chance
 to see that Christian or what was going
 on with that article
 
 **Christian Seberino:**
- oh yes
+ yes
 
 **Carlo Vicari:**
  for anybody
@@ -468,9 +468,9 @@ have a link to the newsletter
 summary a rocky who describes himself as
 a full-time crypto currency trader
 investor and analyst so he decide okay I
-better check out etcc if it's something
+better check out ETC if it's something
 I want to park some money in and he
-apparently is bullish on et Cie and he
+apparently is bullish on ETC and
 he wrote a paper describing why he
 thinks there's happy times ahead and he
 goes into detail he must have really
@@ -482,10 +482,10 @@ then he talks about barry silbert as a
 investment trust and they're they're
 working on the monetary policy and
 anyway so he just makes his case why
-he's a fan of ET cie an investor
+he's a fan of ETC an investor
 
 **Carlo Vicari:**
- yeah
+ yes
 I'm not sure if you got a chance to
 check that check out that article did
 you uh Elaine I know you're busy doing a
@@ -497,30 +497,30 @@ up oh
  I heard it pretty quickly and I
 thought like most or pretty much
 everything was
-fairly accurate and uh yeah I would I I
+fairly accurate and I would  I
 mean I agree with everything that he
-said regarding you know how with areum
+said regarding you know how with ethereum
 classic formed and its fundamentals
 
 **Carlo Vicari:**
- yeah
-yeah Rocky's been uh he's already put
+ yes
+Rocky's been  he's already put
 out a couple of articles for for
-relative to ET c and talking about the
+relative to ETC and talking about the
 community so shout out to rocky for
-representing ET c um especially when
+representing ETC especially when
 there's so many hit pieces that have
 come out against us from a couple of
-different different news sources so I'm
+different news sources so I'm
 happy for rocky and crypto hustle to be
 able to get the facts out there about
-what the et Cie community and the et Cie
+what the ETC community and the ETC
 development community has been doing and
 working on the project 
 
 
 **Christian Seberino:**
-uh oh why I
+why I
 caught so what go ahead yet one thing I
 got from rockys paper this is part of
 one of the reasons why i asked Elaine if
@@ -539,12 +539,12 @@ moly man these guys are amazing
 
 
 **Carlo Vicari:**
-definitely um it's for anyone listening
+definitely it's for anyone listening
 that has seen the username splits out
 there on splits that would be Igor for
 anyone out there listening that's
 interested kind of wants to put the
-username with the actual name uh so what
+username with the actual name so what
 I know you've done a bunch of work
 probably with Igor and stuff like that
 Elaine so what do you what's the dynamic
@@ -556,7 +556,7 @@ thing going
 **Elaine:**
 on well first of all Igor is
 legitimately a tank and a coding machine
-like yeah but to this point like most
+like but to this point like most
 development work has been done
 sort of independently with a little bit
 of communication on github when we open
@@ -567,13 +567,13 @@ community doesn't actually want to like
 dive into the code they can still
 monitor like what the issues are and
 what changes are being made and they're
-welcome to comment on them so yeah what
+welcome to comment on them so what
 we've been doing so far has been fairly
 unstructured
 
 
 **Carlo Vicari:**
- got you got you absolutely
+ got you absolutely
 in reference to the participation so in
 the newsletter guys that's in the
 description if you're watching this on
@@ -582,7 +582,7 @@ a call to action post from our reddit
 that has all the information about how
 you can join and participate on github
 and stuff like that so uh you know we've
-discussed a lot about et Cie and
+discussed a lot about ETC and
 something that our viewers are
 interested in is as much as I like to
 talk about 80 °c and what's going on in
@@ -590,30 +590,30 @@ the community we are all major
 proponents of blockchain and block train
 in general and what's going on so
 because the recent hype has been
-recently about all the Z cash stuff so
+recently about all the Zcash stuff so
 not that any of us here know a whole
 bunch of what's going on with that but
 just a couple of opinions on what's
-going on with Z cash and the whole
+going on with Zcash and the whole
 launch of that if you guys have any
 opinions on it what's going on just a
 couple of brief thoughts if
 
 
 **Christian Seberino:**
- yes I so so
+ yes I so
 I was the process of researching this so
 it's timely that you asked so there's
 been some new advances in cryptography
 that can provide a privacy that they
-help with with privacy concerns and so
-Zuko has he's leading this Z cash
+help with privacy concerns and so
+Zuko has he's leading this Zcash
 project I remember there was some other
 project unrelated I remember talking to
 him years and years ago on another peer
 to peer community and so he's just taken
 the lead
-this but yeah I'm just excited to see
+this but yes I'm just excited to see
 how this whole zero-knowledge proof
 business plays out if it gives everybody
 you know the privacy that that zuko
@@ -624,23 +624,23 @@ great what
  do you think Elena 
 
 **Elaine:**
-um yeah I
+yes I
 think I mean the technology behind see
 cash and ZK snarks has the potential to
 be very interesting and I know that
 bitcoin is currently looking at ways to
 better preserve the privacy of their
 transactions and it's probably something
-that et Cie might even want to consider
+that ETC might even want to consider
 in the future I mean this might not be
 the most scalable solution but I mean
 something we should think about and I
-think Z cash got a lot of unnecessary
+think Zcash got a lot of unnecessary
 grief because of the way they set up
 there you know for-profit corporation
 and got venture funding and I think that
 distracts a lot from the actual
-technology behind Z cash because I mean
+technology behind Zcash because I mean
 eight it hasn't I mean it's very
 interesting probably fewer than a dozen
 people on a planet actually know how ck
@@ -650,18 +650,18 @@ protocol instead of how they set up
 their corporation
 
 **Carlo Vicari:**
- agree yeah I agree
+ yes I agree
 absolutely understand what you're saying
 and stuff like that and there was a lot
 of discussion about this and slack and
 people were actually discussing I don't
-know if you saw it ether ninja and a
+know if you saw it ethereum ninja and a
 couple of other people were discussing
 about Lakeman arrow and relay between
-that and ET c and a whole bunch of other
+that and ETC and a whole bunch of other
 stuff not sure if you got a chance to
 see that Elena 
-oh yeah yeah you should
+you should
 check that out it was pretty interesting
 conversation I didn't get to go too in
 depth into it but I know a lot of people
@@ -696,7 +696,7 @@ of what we've already established
 
 
 **Carlo Vicari:**
-definitely it's definitely evolving
+it's definitely evolving
 that's for sure it feels like um you
 know every every year that goes by these
 chains evolved the way that like an
@@ -709,7 +709,7 @@ these ideas are constantly progressing
 at such a rapid rate 
 
 **Christian Seberino:**
-yeah maybe if
+yes maybe if
 somebody has a different viewpoint maybe
 they could add a comment but if given a
 choice between you know having privacy
@@ -722,8 +722,7 @@ going to dominate in the future I don't
 see why that wouldn't be the case
 
 **Carlo Vicari:**
- very
-true very true and i guess like gullane
+very true and i guess like gullane
 said in reference to the ZK snarks would
 you say la there's probably like less
 than two dozen or dozen people that
@@ -731,7 +730,7 @@ really get what's going on with ZK
 snarks and how the technology works
 
 **Elaine:**
- yeah
+ yes
 there was a call from I mean it's posted
 on YouTube somewhere where Zuko was at a
 meet up and someone asked him to explain
@@ -739,17 +738,16 @@ how zero knowledge proofs work and he
 said
 something to the effect of you know to
 be honest I don't actually really know
-how they work oh yeah that's reassuring
-yeah there probably aren't enough people
+how they work  that's reassuring
+there probably aren't enough people
 out there who understand how it works
 but it was the same case with you know
-blockchain in general when tires yeah
-yeah when it first came out and let Nick
+blockchain in general when tires
+when it first came out and let Nick
 no one understood it but eventually a
 lot of people understood it
 
 **Carlo Vicari:**
- agreed
 agreed I know exactly what you mean it's
 kind of just the natural progression of
 technology even going past before
@@ -764,7 +762,7 @@ I can make it one more
 comment 
 
 **Carlo Vicari:**
-yeah go ahead definitely
+yes go ahead definitely
 
 
 **Christian Seberino:**
@@ -784,12 +782,12 @@ to establish privacy crypto currencies
 
 
 **Carlo Vicari:**
-definitely definitely i I've you know
+definitely i I've you know
 I've read about the mixing and stuff
 like that and the ring signatures as
 well I've read a little bit about
 although I don't know too much about it
-um so in reference to this is kind of a
+so in reference to this is kind of a
 little bit of a derailment on what we've
 been talking about but I wanted to bring
 it up because it's an important thing
@@ -799,8 +797,8 @@ we have going on in the community so I
 don't know if you guys saw this or maybe
 Elaine saw or just christian in
 reference to the wikipedia page that
-right now if you wikipedia athyrium
-classic it redirects you to etherium
+right now if you wikipedia ethereum
+classic it redirects you to ethereum
 currently so I don't know if you guys
 saw this but inside the newsletter i put
 a kind of a call to action
@@ -812,22 +810,22 @@ the guys over in Wikipedia in the chat
 and they recommended what some other
 people were recommending which was we
 need to add citations and add
-information inside the actual etherion
+information inside the actual ethereum
 page to the point where it's so
 comprehensive that then will kind of be
-promoted in a way to our own etherium
+promoted in a way to our own ethereum
 classic page on Wikipedia so I don't
 know if you saw that Elaine
 
 **Elaine:**
- yeah I think
+ yes
 I think that's a great idea but we could
 pretty much take like Rocky's whole
 article and just paste it in right
-mm-hmm 
+
 
 **Carlo Vicari:**
-yeah yeah it was a that was a
+yes it was a that was a
 great article and we've got a ton of
 other articles and another a ton of
 other info too so Christian did you see
@@ -835,11 +833,11 @@ that on unread it as well
 
 **Christian Seberino:**
  yes I did and
-my my thought 11 encouraging thing was
+my thought 11 encouraging thing was
 that for anybody that wants to
 contribute this is really like the the
 ground floor I mean if if people are
-putting up the the first et see
+putting up the the first ETC
 Wikipedia page you know clearly where
 this is going to get in the developers
 are getting you know organizing getting
@@ -869,7 +867,6 @@ resource for us to point people in
 
 **Christian Seberino:**
  yes
-yes
 
 **Carlo Vicari:**
  very cool so
@@ -884,14 +881,14 @@ YouTube leave it in the comments section
 below and we'll definitely be able to
 bring that up in the next podcast
 l'ainte anything else you guys want to
-talk about or touch on ok cool cool so
+talk about or touch on so
 again I'd like to thank you guys for
 being on here with me Christian thanks
 again for helping me out co-hosting the
 show and special thanks to you Elaine
 it's great to have a dev on here and
 thank you to the you know entire
-athyrium classic community the TC
+ethereum classic community the ETC
 community and the development community
 that's been helping out with this
 project so much so thank you guys for
@@ -905,7 +902,7 @@ hit s'amuser questions for anybody who
 post them in the comments below
 
 **Christian Seberino:**
-sounds good 
+so good 
 
 **Carlo Vicari:**
 all right excellent guys
