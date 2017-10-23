@@ -3,7 +3,7 @@
 you
 hi everyone and thank you for tuning in
 you're listening to episode 6 of let's
-talk ET cie i'm your host karlovy along
+talk ETC i'm your host karlovy along
 with my co-host dr. christian see
 burrito I want to thank ETC community
 for another great week for those of you
@@ -13,12 +13,12 @@ below um we didn't have an episode last
 week because I had the chance to attend
 the monetary policy meet up in London
 which was awesome and I'd really like to
-thank Charles and I ohk forgive me the
+thank Charles and IOHK forgive me the
 opportunity to go out there also special
 thanks to our panelists flicks snap roll
 avatar and also Eversheds who hosted the
 event I tried to live stream allows out
-there but it didn't go so well um but
+there but it didn't go so well but
 thankfully avatar had a professional
 team out there to film the event and
 they're putting some things together
@@ -31,18 +31,18 @@ league team for those of you who don't
 know the growth league team is a new
 team of seven guns that I ohk has
 committed to building a scholar client
-for et Cie so that's pretty cool um the
+for ETC so that's pretty cool the
 monetary policy proposal by snap-roll is
 still in there in the newsletter for
 anybody who wants to check that out and
 a couple other things I wanted to let
 everyone know about number one please
-check out ET SI today we'll have that
+check out ETC today we'll have that
 link in the description as well it's a
 like a online newspaper that's just
 really nice to read and it's got a lot
-of et Cie info ET SI news stories and
-also also like general blockchain
+of ETC info ETC news stories and
+also like general blockchain
 stories in there so it's really good I
 really recommend it to everyone that I
 speak to lately there's also an
@@ -54,7 +54,7 @@ experienced miner check it out there's
 also a few articles in there including
 another article from dr. submarine oh
 this one being about setting up here on
-ET SI note so yeah you know pretty cool
+ETC note so you know pretty cool
 stuff especially the london meet up and
 the new team joining the project grown
 deep team just another reminder um is
@@ -67,7 +67,7 @@ monetary policy proposal which was kind
 of what the entire london meetup was
 about although it covered a lot of what
 has happened thus far like since this is
-the start of Nerium classic and
+the start of ethereum classic and
 everything that's been going on but
 really most of that meetup was kind of
 based around the monetary policy
@@ -89,7 +89,7 @@ having me
 
 
 **Carlo Vicari:**
-yeah we're good um so uh
+yes we're good 
 
 
 **Matt:**
@@ -98,7 +98,7 @@ you from Boston
 
 
 **Carlo Vicari:**
-no no
+no 
 
 
 **Matt:**
@@ -108,11 +108,11 @@ New York
 
 
 **Carlo Vicari:**
- yeah New York right right okay
-Wicked's uh quick it's totally awesome
+ yes New York right okay
+Wicked's quick it's totally awesome
 oh you know what I think I think we can
-wrap up the wicked rubs off on me cuz uh
-um I could live in Vermont for a few
+wrap up the wicked rubs off on me cuz
+I could live in Vermont for a few
 years and Boston in Vermont next makes
 quite a bit you know that's true yep hi
 
@@ -124,7 +124,7 @@ what so if
 I've never had a proposal
 that led to an international conference
 and people are flying out to discuss my
-proposal how did how did that make you
+proposal how did that make you
 feel well 
 
 
@@ -149,9 +149,9 @@ touch so I'm not going to be coding up a
 whole lot but I know that there's gonna
 be a lot of analysis that can go
 on with monetary policy you know I be
-right leave an ET c at the time hated
+right leave an ETC at the time hated
 everything that was going on wanted
-become a part of it i just jumped right
+become a part of it i just jumped
 in so but i know i don't have to avatar
 put it all on and he was awesome like
 it's unbelievable i hope the community
@@ -162,8 +162,8 @@ easy season that was
 
 
 **Carlo Vicari:**
- pretty pretty cool
-um just a whole the whole set up the
+ pretty cool
+just a whole the whole set up the
 fact that it was where it was where it
 was and it you know it was set up the
 way it was said was it was awesome it
@@ -175,15 +175,15 @@ think
 
 
 **Matt:**
-yeah nice so I suffer for how
+yes nice so I suffer for how
 small and how young are you know our
-little community is oh yeah it's it's
+little community is
 it's over the top it was great 
 
 
 **Carlo Vicari:**
 it was
-wild and really I really want to see the
+wild and really want to see the
 meteor that you know the filming of the
 event that that should be coming out
 soon 
@@ -216,7 +216,7 @@ go link
 
 
 **Carlo Vicari:**
-oh great or whatever like to
+great or whatever like to
 hear
 
 
@@ -261,8 +261,8 @@ feedback sorry
 
 
 **Matt:**
-okay no worries so um
-yeah so I I just lined up with an
+okay no worries
+so I just lined up with an
 opportunity to join a really small
 start-up out in Oregon doing unmanned
 aircraft that was in like 06 Wow so I
@@ -289,7 +289,6 @@ all that the unmanned pilot project
 
 
 **Matt:**
-oh
 so I wasn't my prized ever site so i was
 like i don't know i was like number 40
 they're right i think it's at like
@@ -300,7 +299,7 @@ you're asking
 
 
 **Carlo Vicari:**
-yeah like what was their
+yes like what was their
 objective cuz i mean i know what the the
 drones do know or what their objective
 is with the drones at this point time
@@ -309,7 +308,7 @@ but i'm just really
 
 
 **Matt:**
-wow ok so i've been
+wow so i've been
 a market analyst tell me i have no idea
 what a non-executive are okay it's ever
 mind thank you very till this is word
@@ -319,16 +318,16 @@ readers
 
 
 **Carlo Vicari:**
-okayed everybody I guess I
+everybody I guess I
 thought I knew but it's probably way
-beyond what um what's supposed to be but
+beyond what's supposed to be but
 I just thought that they're looking into
 it you know for amazon and packages and
-stuff like that but so a 
+stuff like that but
 
 
 **Matt:**
-oh god don't
+god don't
 even get me started on amazon and is it
 amazon only advertises its drone systems
 around thanksgiving black friday and
@@ -342,9 +341,7 @@ a dark a boy I guess that's as far
 
 
 **Matt:**
- as I
-can tell like I was getting that since
-24
+I can tell like I was getting that since 24
 there's they're working on it I have a
 friend who you know works up there but
 when you consider regulations right are
@@ -372,13 +369,12 @@ what they're doing so it's all right
 
 
 **Christian Seberino:**
-I
-Predator drones then
+I Predator drones then
 
 
 
 **Matt:**
- so yeah so what
+ yes so what
 mine was a defense it was defensive is
 what it was 
 
@@ -405,8 +401,8 @@ Afghanistan that right all those guys
 
 
 **Carlo Vicari:**
-mmm okay so yeah sorry I yeah I derailed
-the convo there okay so you got into the
+okay so sorry I derailed
+the convo there so you got into the
 defense and drones and stuff keep going
 
 
@@ -415,8 +411,8 @@ defense and drones and stuff keep going
 sir dude that is my wheelhouse okay you
 bring me into the into this AK drone
 space I'll talk your ear off so i'll try
-to lay off of that but uh I but yes I
-was there since about oh six boeing buck
+to lay off of that but I but yes I
+was there since about six boeing buck
 company like a way to nine and so i
 started working a lot more with boeing i
 wound up doing strategy MA and doing
@@ -433,13 +429,13 @@ using completely different languages
 
 
 **Carlo Vicari:**
-right it's like the the the the
+right it's like the
 translators that people don't know our
 translators 
 
 
 **Matt:**
-yeah exactly
+yes exactly
 so can you tell
 
 
@@ -450,7 +446,7 @@ us what you mean by ma
 
 
 **Matt:**
- yeah so merchant
+ yes so merchant
 mergers and acquisitions 
 
 
@@ -472,7 +468,7 @@ swear just read lemon hey
 
 
 **Matt:**
-oh so yeah I didn't have a really nice
+so yes I didn't have a really nice
 bone colored yet business card or
 anything like though 
 
@@ -497,8 +493,8 @@ have to return some videotapes
 
 **Matt:**
  after
-this I wanted to leave early so um
-anyways yeah so I got into that and was
+this I wanted to leave early so
+anyways so I got into that and was
 doing that for number of years again
 2013 2014 2015 it was just pandemonium
 everyone's like our commercial stuff is
@@ -543,16 +539,15 @@ don't ever do that never answer
 
 
 **Carlo Vicari:**
-don't I
-don't think what the colorado mar or the
+I don't think what the colorado mar or the
 girl part 
 
 
 **Matt:**
 no the colorado part is great
-yeah this guy's did it for the girl part
+yes this guy's did it for the girl part
 that was so man okay great it's great
-for six months but yeah right 
+for six months but
 
 
 
@@ -580,7 +575,7 @@ of Portland
 
 
 **Carlo Vicari:**
-yeah so I I went there a few
+yes so I went there a few
 times when I was like what was I like 13
 14 15 me if you know something is
 actually out of the norm in the adult
@@ -596,8 +591,8 @@ reality is not exactly what you've grown
 up around and you don't think it's
 almost like being in jail for 50 years
 where you come out you're like red was
-here from yeah it's like an institution
-man yeah you can't do guys you can't
+here from it's like an institution
+man you can't do guys you can't
 literally get aid for sitting outside
 and playing a guitar and some was not
 going to give you a sandwich like at the
@@ -612,7 +607,7 @@ anywhere else in the world
 
 
 **Christian Seberino:**
-so so did you
+so did you
 make money investing in Bitcoin or what
 was your interest or how did you pursue
 that interest 
@@ -633,7 +628,7 @@ real is that what's going on oh my god
 come check it out ok Jesus all right
 let's go look right and then we'll do
 dungeons and dragons later all right so
-so yeah I looked at it then got into it
+so I looked at it then got into it
 just playing around with it a little bit
 not go
 too crazy and then you had that spike
@@ -651,7 +646,7 @@ most people haven't gone through that i
 right so i saw i went through that for
 like a month where I was like that's it
 i'm just i'm not getting any sleep it
-was it was harsh times so so that was
+was it was harsh times so that was
 interesting and then so 2014 your scam
 city right and i'm really interested in
 this stuff and I want to start playing
@@ -679,8 +674,7 @@ the money into it seemed real awesome
 
 
 **Carlo Vicari:**
- as
-there is as a result of having a steak
+ as there is as a result of having a steak
 you end up learning a ton 
 
 
@@ -691,28 +685,28 @@ paying for your education
 
 
 **Carlo Vicari:**
-yeah right or
+yes right or
 or sometimes getting paid for your
 education 
 
 
 
 **Matt:**
-yeah jentezen yeah one in ten
+yes jentezen yeah one in ten
 thousand times that that happens 
 
 
 
 **Carlo Vicari:**
 yes
-correct yeah
+correct
 
 
 
 **Christian Seberino:**
  and so how did you then
-make the leap from Bitcoin to theoria
-man in ethereal classic
+make the leap from Bitcoin to ethereum
+man in ethereum classic
 
 
 
@@ -750,7 +744,7 @@ the Dow that advertising was completely
 insane I don't know how people through
 money into that thing looking at that
 advertising I thought that was strange
-do so but yeah when they uh I thought
+do so but yeah when they  I thought
 classic wouldn't survive right i just it
 just seemed like it was just
 overpowering the pr political propaganda
@@ -758,7 +752,7 @@ machine has just over run this thing by
 the way I'm getting out of e I'm getting
 out of anything associated with this and
 then you see like these guys playing
-around with Severian classic things okay
+around with ethereum classic things okay
 whatever I mean I love the effort guys
 but you're up against a huge wall so
 money and in tonight's what 
@@ -774,7 +768,7 @@ lose
 
 
 **Matt:**
-yeah but but but classic was like
+yes  but classic was like
 the Jeb Bush right didn't forget it like
 you just know you're not getting
 anywhere like the Rubio or something
@@ -785,7 +779,7 @@ whole bunch of people talking about it
 and then you see people on the reddit
 you're like I'm sitting there going
 alright you know what I'm in I want it
-let's let's do this yeah there's no
+let's let's do this there's no
 possible there's no business case for
 East 
 
@@ -795,7 +789,7 @@ East
 you know did lady this head look it
 looks bleak when it went from I remember
 it opened and when it first opened in
-Colonials I was like oh man it's
+Colonials I was like it's
 happening and then it went from like 95
 cents to 35 cents instant ain't like
 really fast as
@@ -811,7 +805,7 @@ night so at the risk of letting everyone
 know that I wasn't doing anything on the
 Saturday go for ya right so there's my
 interesting life we're watching hey
-she's interested yeah so uh so yeah I
+she's interested so I
 was sitting there looking i was just
 kind on the reddit checking it out and
 all of a sudden someone announces
@@ -819,7 +813,7 @@ somewhere hey it's on Polonia x okay wow
 this is what the heck is going on this
 is insanity and obviously we know the
 next five days the next week was just
-crazy yeah right so I so one of the
+crazy right so I so one of the
 things I say is and then you know
 leading up the hold-down thing was just
 there's so much drama it's just crazy
@@ -851,46 +845,46 @@ like a sideways movement that's
 
 
 **Matt:**
-yeah
+yes
 it's nothing that's boys seven percent
-snow that's an expectation yeah right
+snow that's an expectation  right
 movement of seven percent that's an
 expectation
 
 
 
 **Carlo Vicari:**
- yeah like and I was it was
+ yes like and I was it was
 just funny seeing them I kind of start
-to to get into it it's a just funny I
+to get into it's a just funny
 
 
 
 **Christian Seberino:**
-don't know that one thing that was
+I don't know that one thing that was
 speaking of funny stories one thing I
 read was suds that was a good Samaritan
 I was trying to send a message to
 metallic who apparently if i remember
 correctly had was doing the demo
 somewhere he just casually moved almost
-a million dollars working oh yeah it was
+a million dollars working it was
 real somebody say wait wait hold on guys
 let's remember that the stuff has
 monetary value and people in the real
 world will be nasty things to a
-take money something yeah that was that
+take money something that was that
 was I think 
 
 
 
 **Carlo Vicari:**
 that was confirmed real as
-well oh man yeah that was pretty wild um
+well yes that was pretty wild 
 by the way did either of you guys ever
 get a chance to read before the fork
 happened there was a post on the
-etherium credit and I think it was
+ethereum credit and I think it was
 titled two chains and this guy laid it
 all down perfectly exactly from like a
 game theory analysis whatever you want
@@ -909,7 +903,7 @@ time though
 **Carlo Vicari:**
 no he just broke it down and
 he said you know there's gonna be the
-second chain okay and once there's the
+second chain and once there's the
 second chain there's gonna be some one
 mining and getting all the transactions
 and then they're gonna gotcha there's
@@ -929,7 +923,7 @@ interesting
 
 
 **Christian Seberino:**
-yeah we
+yes we
 made so I'll see on his prediction 
 
 
@@ -945,19 +939,19 @@ what you're not predicting right what
 
 
 **Carlo Vicari:**
-what what he most likely did was uh he
-made that post then made a post
+what he most likely did was he
+then made a post
 completely contradicting it and then
-delete a fat one uh well no I I don't
-know so it's okay so so you're on the so
-e.t.c starts to happen you get involved
+delete a fat one well no I don't
+know so it's okay so you're on the so
+ETC starts to happen you get involved
 okay keep going sorry we derailed 
 
 
 
 **Matt:**
-yeah
-so I I saw there's a bunch of stuff
+yes
+so I saw there's a bunch of stuff
 going on and all it occurred to me was
 okay cool more chaos I love this this is
 so much fun so it was more along the
@@ -984,26 +978,25 @@ you find something
 
 
 **Carlo Vicari:**
-yeah one hundred
+yes one hundred
 percent right just kind of you you know
 the snowball starts the role and you
 start to do this that and the other
 thing you're doing one thing then you
 end up doing two then you end up doing
-for sure um
+for sure
 
 
 
 **Matt:**
- yeah well so it was great
-like yeah once you do start the snowball
-it's a very good very good example um
-cuz yeah that's I guess kind of how it
+ yes well so it was great
+like once you do start the snowball
+it's a very good very good example
+cuz that's I guess kind of how it
 happened i didn't expect to be doing any
 of the stuff that I'm doing here I'm
 just I'm just trying to truck forward
-and doing trying to try to help out et
-si 
+and doing trying to try to help out ETC
 
 
 
@@ -1018,14 +1011,14 @@ called right a city in every sense too
 
 
 **Matt:**
-it's not a city it's not a city stable
+it's not a city stable
 is definitely not ready within the city
 it's got his own like yams and stuff
 
 
 
 **Carlo Vicari:**
-yeah it's not the city-state it's called
+yes it's not the city-state it's called
 the City of London and it has the Lord
 governor mayor of La Nina some really
 british sounding title now Lord narrow
@@ -1044,7 +1037,7 @@ that about the subject that you proposed
 
 
 **Matt:**
-yeah so it's kind of a hobby one of mine
+yes so it's kind of a hobby one of mine
 understanding economics I guess when I
 started doing work full time out of
 college I just worked all the time I
@@ -1054,7 +1047,7 @@ basically SAT there and go what is this
 on doing and what like what am i chasing
 after it turns out this little piece of
 paper like what what am i what is this
-thing right so just as a hobby I started
+thing so just as a hobby I started
 reading into money
 doing economics that sort of stuff
 reading their economics just I guess
@@ -1126,7 +1119,7 @@ at something that's really high risk
 
 
 **Carlo Vicari:**
-yeah so so it's a fertile you know it
+yes so it's a fertile you know it
 provides the fertile ground to get the
 ball rolling at least you know 
 
@@ -1173,7 +1166,7 @@ than pushing all this inflation
 **Christian Seberino**:
  okay
 well you elaborate that's interesting so
-yeah you so prove you evolved 
+you so prove you evolved 
 
 
 
@@ -1184,7 +1177,7 @@ on the fly here so bear with me but to
 your point will it drive future users
 and speculators away who might be trying
 to find like a store value for this
-thing potentially yes okay now does it
+thing potentially yes now does it
 increase or decrease if you shove more
 supply closer to now closer to the start
 and spreading it out over time okay that
@@ -1221,15 +1214,15 @@ ownership that make sense
 
 
 **Carlo Vicari:**
-yeah yeah
-especially with yeah I was gonna say um
+yes
+especially with I was gonna say
 and then the the double whammy with that
 is the centralization and the move to
 proof of stake as well 
 
 
 **Matt:**
-sure yeah we're
+sure yes we're
 money talks 
 right whoever's got them
 
@@ -1239,7 +1232,7 @@ right whoever's got them
 **Carlo Vicari:**
 exactly control so you could you can I
 was going to say you could maybe make
-some sort of you know argument that oh
+some sort of you know argument that
 if it's centralized and then you they
 stay proof of work eventually the funds
 get dispersed and stuff like that but
@@ -1267,16 +1260,16 @@ bitcoin is well known by anybody that's
 in the crypto space they know exactly
 what the distribution rate is and nobody
 really has a problem with it so that's
-why I looked a ttc and I said look we
+why I looked a ETC and I said look we
 can avoid all of these conversations all
 these arguments all these people in the
 three
 
-or now claiming that oh this is a scam
+or now claiming that this is a scam
 they put too many coins too soon or oh
 it's too late like they're not doing it
 fast enough look here's the model that
-works mm-hmm let's try to to mirror this
+works let's try to to mirror this
 as much as we can
 
 
@@ -1296,14 +1289,13 @@ exactly
 
 
 **Carlo Vicari:**
-yeah I think that's a
+yes I think that's a
 pretty pragmatic approach for sure
 
 
 
 **Matt:**
- oh
-that's why yeah we can come up with all
+that's why yes we can come up with all
 the theory in the world but it it's ten
 times more valuable if you can find
 something in practice that works and
@@ -1312,7 +1304,7 @@ just kind of copy that
 
 
 **Christian Seberino:**
-yeah and it also
+yes and it also
 helps making the case you say well look
 here's Bitcoin and it's working great
 okay what's what's your argument for for
@@ -1322,14 +1314,14 @@ say that's
 
 
 **Matt:**
-right well so so the other
+right well so the other
 point is I look at we kind of want to
 boot the strip bootstrap the system now
 right in the short term so the other
 thing to this point is that imagine if
 we did something a lot sooner where we
 just did a hundred million and it stops
-next year right it's all done whoever's
+next it's all done whoever's
 in now so I would argue that over the
 next three years you'd have more optimum
 so if I'm looking for optimum total
@@ -1353,7 +1345,7 @@ recognize it as opposed to a model which
 is specifically designed to try to jack
 up early investment right pushing
 everything to like a hundred million
-within the next six months yeah okay cuz
+within the next six months okay cuz
 they're going to sit there go scam I'm
 not touching it I don't know who owns
 this stuff I can't play a big
@@ -1377,7 +1369,7 @@ what it's just a bigger pie in general
 
 **Matt:**
 right well even if you got try to get
-your your your share of the pie right
+your your share of the pie right
 sample the argument that people have
 been given me is you know I they want to
 increase the share the pie they won't
@@ -1393,14 +1385,14 @@ percent to twenty percent when the
 reality is is that they would have more
 total pie if they worked on putting
 their efforts towards doubling the size
-of the pie mmm so double the degrees is
+of the pie so double the degrees is
 far less than x squared okay so that's
 so that's what I'm looking at here is
 how can we expand this pie to
 incorporate as many people as possible
 so the pie expands fresh Air's expand
 the pine we're all better off the
-network is is the important
+network is the important
 
 
 
@@ -1412,7 +1404,7 @@ interest especially in China and stuff
 you know the trading volumes are always
 massive over there um and they're just
 they're pretty interested in what's
-going on with ET cie um pretty much you
+going on with ETC pretty much you
 know since not since I don't know about
 since the start but pretty early on
 China's been really interested in what's
@@ -1420,9 +1412,9 @@ going on and actually um it looks like
 there's going to be another you know big
 meet up or a big conference over there
 in mid-january no details exactly on
-that yet but yeah it looks like that's
+that yet but it looks like that's
 shaping up are you heading up the
-efforts on that a taller uh yeah yeah
+efforts on that a taller
 I'm working on that with some people
 nothing's you know
 set stone or anything like that but as
@@ -1433,13 +1425,13 @@ awesome
 
 
 **Christian Seberino:**
-question that's before before we
+question that's before we
 end our show I wanted to make sure that
 to ask you this is there some what's
 like the most common misunderstanding or
 issue that you that people meet they
 need you to clarify or that what would
-you what would you like your your
+you what would you like your
 message to what do you want to get out
 for the show the biggest kind of thing
 you could help Shelby
@@ -1447,7 +1439,7 @@ you could help Shelby
 
 
 **Matt:**
- um let me try to
+ let me try to
 pull up my computer here and I was going
 to look at my slides and see what some
 of the arguments are you can kind of
@@ -1455,14 +1447,13 @@ look at the slides I threw them on our
 slack channel i can upload them again
 but there's a there's a few arguments
 that were interesting there one was have
-a lower ET c amount so i think the ec IP
+a lower ETC amount so i think the ec IP
 proposal it's between 205 and 215
 million given uncle rates over time I
 think it'll wind up closer to 10 than
 anything but anyway that basically the
 bounds will be somewhere between 200 and
 210 I figure by five block five million
-so um
 
 
 
@@ -1478,9 +1469,9 @@ to think of one well there
  was some
 there was um there's a someone named I
 forgot his last name but his name's Jess
-is right and he brought up uh you know
+is right and he brought up you know
 he was he was pretty respectful he had
-questions um there was uh yeah yeah I
+questions um there was I
 think we try to avoid kind of an echo
 chamber mentality that can happen in
 other communities so I'm glad you know
@@ -1492,8 +1483,8 @@ opportunity um post interview for him to
 speak his views on but then there was
 another thing I think there was a lot of
 negativity
-on reddit and slack um kind of just
-people trying to trying to rip him apart
+on reddit and slack kind of just
+people trying to rip him apart
 just for asking some questions 
 
 
@@ -1509,7 +1500,7 @@ there and did a pretty good presentation
 about what the status is of everything
 and some of the stuff he wants to do on
 core and some of that stuff so what was
-jazz is that what his name was yeah
+jazz is that what his name was
 except so judge says hey you guys are
 doing all this stuff I want the
 innovation give me the innovation like
@@ -1541,17 +1532,17 @@ is not well probably
 
 
 **Carlo Vicari:**
-yes right I had a I
-had a late on and she mentioned she was
-likes flicks is a tank yeah I'd love to
-have him on by the way but uh that's for
-another day but yeah she said like he's
+yes right I had
+a late on and she mentioned she was
+likes flicks is a tank I'd love to
+have him on by the way but that's for
+another day but she said like he's
 a machine
 
 
 
 **Matt:**
- so that's awesome yeah so
+ so that's awesome so
 thank God you know he's doing his thing
 and he's and he's got the right mind set
 on that and that's why I think you guys
@@ -1586,10 +1577,10 @@ the community is committed to doing x
 y&z; on set by such and such date you
 know we're okay with that so it's not
 like it's not like the investors that
-were interested in ET c or like okay do
-it do it next week you got to do it now
-you got to do it now um so a lot of them
-are here and with ET c because they want
+were interested in ETC or like okay do
+it do it next week
+you got to do it now so a lot of them
+are here and with ETC because they want
 that the opposite of the move fast break
 things mentality so they're okay with us
 you know doing things diligently and you
@@ -1598,7 +1589,7 @@ know methodically
 
 
 **Matt:**
- so so i argue that the
+ so i argue that the
 Jazz will see the innovation once the
 security rises up sufficiently and once
 the platform is more stabilized because
@@ -1607,7 +1598,7 @@ I'd be I'd be playing around with stuff
 right and we're playing on the system
 but I wouldn't be doing anything serious
 just cuz I don't know what's going on
-right yeah maybe we might see some big
+right maybe we might see some big
 stuff and just you know a few months not
 I would say you know months three months
 I don't know maybe there's people
@@ -1621,7 +1612,7 @@ just saying no one's going to touch it
 in at that massive level until the
 stability reliability is absolutely
 there unquestionable and then until the
-hash rate is higher so so what I want to
+hash rate is higher so what I want to
 say to jazz also was he's worried about
 the innovational that will let's get the
 thing working first you'll probably see
@@ -1633,14 +1624,14 @@ pendant but I don't know what the
 business case is for even more I don't
 know what a business case is for a
 transaction reversing decentralized
-block chain mm-hmm so distributed ledger
+block chain so distributed ledger
 makes way more sense far more efficient
 far faster or cheaper to operate just
 do that 
 
 
 **Carlo Vicari:**
-yeah what's uh it's a strain
+yes what's it's a strain
 that was their whole value proposition
 that kind of kind of went out the window
 there I guess that's why we are where we
@@ -1657,12 +1648,12 @@ were talking about this you know a
 couple months back you were like oh no
 we need to focus on we need to you know
 do this that and the other thing for dev
-dev dev and like well you know i'm i'm
+and like well you know i'm
 not dev I don't know how to code so
 everyone's going to do with their
 inclined to do on an open source project
 and that's kind of how a whole bunch of
-stuff gets done um so people who are
+stuff gets done so people who are
 inclined to work on the economics of the
 project will people who are inclined to
 develop will develop people who are into
@@ -1699,7 +1690,7 @@ you're rewarded and oh yeah and both
 that's I mean that goes for anything in
 life really like if you just if you go
 all-in it doesn't matter what it is
-mm-hmm those at some point get
+those at some point get
 recognized 
 
 
@@ -1727,7 +1718,7 @@ a bacon tomato sorry
 
 **Matt:**
 I didn't mean it so
-yeah I haven't heard too much crazy and
+I haven't heard too much crazy and
 I've tried to leave the door open for
 people to contact me on it but like I
 said I haven't really heard too much 
@@ -1735,7 +1726,6 @@ said I haven't really heard too much
 
 
 **Christian Seberino:**
-ok
 now I just wanted to make one comment
 i'm a big fan of counting my blessings
 and it could have it this could have
@@ -1744,7 +1734,7 @@ differently that they could have been
 you know a really big brawl with
 different opinions on the monetary
 policy and it's just I'm just glad that
-it's not that way that it's it's not
+it's not that way that it's not
 that controversial there's not this big
 fight but that that's something on my
 mind and that's something other people
@@ -1761,20 +1751,20 @@ made a point that monetary policy were
 probably the most contentious issue that
 we have at least in the near term and
 that we probably won't be able to get
-rid of all of it all the contention but
+rid of it all the contention but
 at least we can mitigate that by
 communication by making a solid you know
-yeah making the information the case for
+making the information the case for
 it to be to be solid you can't pull any
 punches you can't like try to sneak
 anything in there right we come up with
 the best policy I think and we can
 explain it well and people will
 understand it see it and be willing to
-go with it mm-hmm right but if you try
+go with it right but if you try
 to start playing games or you're trying
 to maybe we can maybe we can sneak in
-some extra ether or some extra et Cie
+some extra ethereum or some extra ETC
 early right people p someone's going to
 cry foul yeah we're great right so if
 you just try to do the best thing then I
@@ -1792,8 +1782,7 @@ people a chance to voice their concerns
 and their gripes absolutely it doesn't
 blow up into you know the worst case
 scenario course would be
-it blows up into another Fork yeah yep
-yeah i mean 
+it blows up into another Fork 
 
 
 
@@ -1801,21 +1790,21 @@ yeah i mean
 **Matt:**
 so if someone comes up with
 a better monetary policy than mine do
-you want to go with it I'm fine mm-hmm
+you want to go with it I'm fine
 right if you guys want to go work for it
-go for it because I'm I'm for what's
+go for it because I'm for what's
 good for et see my ego is way out of
-this mm-hmm okay I did it's not a
+this I did it's not a
 personal shot at me if something else
 gets adopted that's great i'm all for it
-yeah you know
+yes you know
 
 
 
 
 **Carlo Vicari:**
-Mary Mary paste everything
-is the way to go for sure sure um so go
+Mary paste everything
+is the way to go for sure so go
 I was gonna say also you mentioned kind
 of your initial rabbit hole trip i guess
 was was kind of a lot of people with
@@ -1839,7 +1828,7 @@ know your opinion on that
 
 
 **Matt:**
-no I i agree
+no I agree
 with you i what cryptocurrency bitcoin
 all that's what's up what I think it
 might be the first thing in mankind you
@@ -1854,7 +1843,7 @@ that
 
 
 **Carlo Vicari:**
-yeah I get what he was saying about
+yes I get what he was saying about
 how you know if the inflation numbers
 known then that's all that matters but
 at the same time if you can improve on
@@ -1878,7 +1867,7 @@ right
 
 
 **Carlo Vicari:**
-yeah excited I think so oh that's
+yes excited I think so that's
 what cuz we started getting into this at
 um what are eating you know dinner that
 one night after we walked for ten miles
@@ -1888,9 +1877,9 @@ which is pretty funny
 
 **Matt:**
 that was only 10
-miles and so so one of the things is so
+miles and so one of the things is so
 splits by the way I met him up on Monday
-oh yeah nice monday tuesday and
+nice monday tuesday and
 wednesday he got back to me when he went
 back to Russia and he said look we
 averaged 24 kilometres a day walking I
@@ -1902,7 +1891,7 @@ that's 15 miles 24 kilometres about 15
 miles so that's 45 miles over 32 I think
 i lost about three or four pounds just
 hanging out with that guy in london so
-what uh 
+what 
 
 
 
@@ -1913,7 +1902,7 @@ in LA
 
 
 **Matt:**
-okay you want that story oh yeah
+okay you want that story
 so the great slips is a great guy right
 so not only is he really good at what
 he's doing there was good at programming
@@ -1935,13 +1924,13 @@ luggage up or whatever it was and I go
 man I'm freezing right so i have my
 scarf I've got like three shorts on and
 I've got my overcoat I'm from Florida
-that's where I grew up so so I'm cold
+that's where I grew up so I'm cold
 this maybe 25 degrees or something
 outside 20 degrees Fahrenheit so
 Mexico's man I'm it's so hot here this
 is crazy so he's like just walking
 around in the sweatshirt it's just like
-okay here we go with this day here we go
+here we go with this day here we go
 let's go get some coffee all right so we
 walked around towards Big Bend through
 Hyde Park Big Ben walk you know just
@@ -1972,8 +1961,8 @@ this is what up what
 
 **Matt:**
 well sorrow thanks
-man I'm sorry if I'm making funny oh
-yeah baby i love you man we're great 
+man I'm sorry if I'm making funny 
+i love you man we're great 
 
 
 
@@ -1985,7 +1974,7 @@ have a snap roll story you know
 
 
 **Matt:**
- oh boy
+ boy
 
 
 **Carlo Vicari:**
@@ -2006,19 +1995,19 @@ market and what they cause
 
 
 **Matt:**
- yeah well
+ yes well
 they calls monopolies as well cause but
-well yeah you get not anything in
+well you get not anything in
 particular what are you
 
 
 
 **Carlo Vicari:**
- yeah like um so
+ yes like so
 if you could kind of talk about some of
 the regulations you saw in your previous
 industry and the unintended consequences
-that they might they caused um I know
+that they might they caused I know
 you're talking about how they just they
 don't even care about the FAA
 regulations and 
@@ -2027,7 +2016,7 @@ regulations and
 
 
 **Matt:**
-oh oh no I don't say
+no I don't say
 they don't care about them they'd
 absolutely care about but the point that
 I would write about house regulations
@@ -2039,8 +2028,8 @@ I do know that all of them are way above
 FAA regulations because no insurance
 agency is going to ensure an aircraft
 full 300 people if you are not like
-pretty awesome at your safety right
-right so it's almost like there's just
+pretty awesome at your safety
+so it's almost like there's just
 like these fake walls all over the place
 like a formality so kinda its side any
 anti-competitive I don't know right so
@@ -2057,8 +2046,8 @@ regulation wasn't necessary
 
 
 **Carlo Vicari:**
- right right
-I mean it it's a they self-regulate in a
+ right
+I mean it's a they self-regulate in a
 sense we know no airliner wants their
 plane could go down and lose you know
 it's a millions of dollars business
@@ -2073,7 +2062,7 @@ aircraft someone who has skin in the
 game like an insurance company or
 someone who doesn't have a
 hundred-million-dollar asset on the line
-like yeah fit 
+like fit 
 
 
 **Carlo Vicari:**
@@ -2083,14 +2072,14 @@ insurance company
 
 **Matt:**
 right exactly I'm
-sorry so yeah there's that and like I
+sorry so there's that and like I
 said I know a lot of people have a you
 know what I'm a flight instructor I'm
 licensed and everything I get it there
 are some of the stuff is pretty good but
 the vast majority I just I don't really
 understand it and it kind of holds back
-innovation sure yeah well oh so the
+innovation sure well so the
 other thing I want to make yeah when I
 said monopolies is if you look at any of
 the industries that are that are highly
@@ -2100,21 +2089,21 @@ commercial aircraft builder in the US
 Amy namey five like an Indian boy right
 agam you won its Boeing great I can name
 you another one but it's not in the US
-it's called Airbus hmm right yeah so so
+it's called Airbus so
 those are the major same with defense so
 how many defense companies do we have
 like four or five right hey I Boeing
 does it Lockheed Martin
 um Aquaman now you're getting with her
-Alice it's yeah there's there's a few
+Alice it's there's a few
 right I don't know why I'm not
-remembering them right now but but yeah
+remembering them now but
 anywhere and the same thing with you
 know finance right so there was a bunch
 of banks before and they've all kind of
 how many investment banks are there in
 New York now big big investment banks
-yeah we gobbled xa10 something like that
+we gobbled xa10 something like that
 not a 
 
 
@@ -2130,7 +2119,7 @@ about in such a giant city
 right so you
 I mean you tend to get a lot of
 efficiencies that come with that as well
-but well I 
+but well 
 
 
 
@@ -2141,7 +2130,7 @@ before when you get into the political
 regulation you know the Stanford
 standard conversation and I'm like you
 know they talk about these laws against
-monopolies um which end up usually just
+monopolies which end up usually just
 creating art that's right it may end up
 creating monopoly right 
 
@@ -2160,7 +2149,7 @@ the regulation that creates a monopoly
 say there's a business that's an actual
 monopoly all it really just means is
 that they are doing something way better
-than anybody else um is this absent are
+than anybody else is this absent are
 you okay i'm seeing a regulation idea
 i'm saying absent something that
 actually keeps them at a competitive
@@ -2174,14 +2163,14 @@ doing something really well
 
 
 **Matt:**
-yeah but
+yes but
 well so my point is is how long do
 monopolies last in purely free market
 
 
 
 **Carlo Vicari:**
-yeah it doesn't it doesn't happen I
+yes it doesn't happen I
 think I a cutlass but it's not gonna
 last long because it's going to
 
@@ -2196,7 +2185,7 @@ full of your accuracy
 
 
 **Carlo Vicari:**
- yeah it's pretty
+ yes it's pretty
 much um someone brought up one of the
 only ones they can think of and they
 said good beers how true that is i'm not
@@ -2219,7 +2208,7 @@ monopoly and they are
 
 **Matt:**
  it does deserve
-the money now Heinz is mustard no 
+the money now Heinz is mustard
 
 
 
@@ -2231,22 +2220,22 @@ you need to get another team for the
 Heinz mustard they need to work on it
 but yeah they can all catch up market
 though yeah they feel like sending him a
-Christmas card that's how good their um
-so yeah uh Christian what up what else
+Christmas card that's how good their
+so Christian what up what else
 
 
 
 
 **Christian Seberino:**
  I
-think we pretty much covered it um we
+think we pretty much covered it we
 you share did you did it was there
 anything else you wanted to share
 actually last question that we typically
 ask you know most of our most of our
-guests so um just a fun you know fun
+guests so just a fun you know fun
 question you can get on board well no
-it's uh some people though don't
+it's some people though don't
 
 
 
@@ -2264,12 +2253,12 @@ want to be yours
 
 
 **Carlo Vicari:**
-no no they want to keep
+no they want to keep
 it so they want to keep everything so
 realistic and not get into the future I
 like to ask and these are these are some
 things I like to talk about what do you
-see on the horizon for ET c or block
+see on the horizon for ETC or block
 chain in general you can give you know
 wild use cases whatever you think
 although you're extremely pragmatic so
@@ -2279,7 +2268,7 @@ that stuff
 
 
 **Matt:**
-yeah I don't hate it I don't
+yes I don't hate it I don't
 hate it I could talk about it forever
 it's just you're right right what okay
 so the question is is what's a
@@ -2289,18 +2278,18 @@ this stuff
 
 
 **Carlo Vicari:**
- yeah your 
+ yes your 
 
 
 
 **Christian Seberino:**
 predictions your
-predictions for the future oh 
+predictions for the future
 
 
 **Matt:**
-yeah here
-we go uh 
+yes here
+we go 
 
 
 Carlo Vicari:**
@@ -2333,12 +2322,12 @@ wet way out there
 
 
 **Carlo Vicari:**
-yeah okay so so as far
+yes okay so as far
 as your imagination goes 
 
 
 **Matt:**
-um four-block
+four-block
 cane in general 
 
 
@@ -2354,7 +2343,7 @@ it into arrows you know eros piglet
 what
 it would ache what excites no space like
 what what excites you snapper like one
-person yeah that's that like it sure
+person that's that like it sure
 
 
 
@@ -2364,12 +2353,12 @@ the fact that that somehow there is a
 kind of go to Bitcoin on this one
 but what excites me somehow someone
 figured out how to make a unique digital
-asset it's a unique item right that's
+asset it's a unique item that's
 digital that hasn't existed any before
 and that's that's amazing and that's
 when your imagination can just go crazy
 what you know what the potential of this
-is what's interesting to me about ET c
+is what's interesting to me about ETC
 is just the fact that you can do some
 really low level programming some
 interesting stuff I think it's basic I
@@ -2379,23 +2368,23 @@ this you know taking over stock markets
 and everything I don't know how long
 that is out that's kind of be on my
 horizon I kind of look at the next three
-years max so so what I would like to see
+years max so what I would like to see
 what what is interesting to me about
 this is kind of simple automations on
 what people currently do with Vic one
-mm-hmm right so so simple stuff that
+right so so simple stuff that
 people do can can some of those small
 processes be be automated do I have an
 example clear-cut right now no because I
 wasn't expecting this question but in
 general that's what interests me about
-et Cie 
+ETC 
 
 
 
 **Christian Seberino:**
 so what I hear you saying i think
-is your you you like the idea of making
+is your you like the idea of making
 our lives easier or more efficient in
 the short term in different ways more
 efficient processes and in the industry
@@ -2406,22 +2395,22 @@ and other things using Bitcoin
 **Matt:**
  a little
 bit more pragmatic than that but yes I
-well okay so in in the crypto space yes
+well okay so in the crypto space yes
 making it easier mostly eliminating even
 middle men that are currently in this
 face right so whether its buying
-something online or or out of some
+something online or out of some
 people i do gambling and stuff i don't
-really do any of that but but there's
+really do any of that but there's
 still middlemen in the space even though
 we're trying to completely eliminate
 that because people are running their
 own websites for their console but can
 you eliminate that risk and i think
 there is a pretty good use case for for
-something like ET cie to remove a lot of
-this a lot of that little men mm-hm
-right um breast i would say sure so okay
+something like ETC to remove a lot of
+this a lot of that little men 
+right breast i would say sure so okay
 so that is specifically what interests
 me how it'll stay out no idea but that's
 kind of the
@@ -2442,12 +2431,12 @@ to you hey
 
 
 **Matt:**
-I'm I'm pragmatic to maybe a
+I'm pragmatic to maybe a
 level where I'm just boring I already
-knew that right so so yeah I've got to
+knew that right so I've got to
 remember I've gone through so I used to
 be like that to Carlo when I had hope in
-life but yeah but keep in mind that late
+life but keep in mind that late
 2013 through 2015 I lived through the
 most insane hype cycle I've ever seen in
 my life when it came to drones you put
@@ -2455,7 +2444,7 @@ drone in a headland on graph paper and
 you'd sell a newspaper right that was
 the craziest thing that everybody
 thought they were just gonna do all this
-stuff and when you you sit back and pull
+stuff and when you sit back and pull
 the emotion out you look at what the use
 cases are there are some interesting
 niche use cases when I've been kind of
@@ -2463,9 +2452,9 @@ working with Noah lets out in boulder
 that's the national oceanic and
 atmospheric administration they do
 whether stuff so I've been kind of
-helping them out with some some
+helping them out with some
 interesting use cases but the same thing
-with this it's it's really easy and I I
+with this it's really easy and I I
 went through to it maybe 2013-2014 yeah
 my mind exploded and I was like the
 whole world is going to change you drive
@@ -2473,10 +2462,10 @@ up to Seattle from Portland to hang out
 with some people and you look at all
 those bag good and you're like they have
 no idea what's about to hit upload and
-they don't yeah I don't think it's going
+they don't I don't think it's going
 to be just this massive rapid uptake
 where we have a billion people using
-this by next year it's August
+this by next it's August
 
 
 **Christian Seberino:**
@@ -2487,13 +2476,13 @@ consciously optimistic
 **Matt:**
  no I'm not even
 cautiously optimistic I'm optimistic
-uh-huh I'm just not losing my mind to
+I'm just not losing my mind to
 emotion I would say
 
 
 
 **Carlo Vicari:**
- he goes too much he
+he goes too much he
 knows too much 
 
 
@@ -2503,9 +2492,9 @@ I've seen things
 
 
 **Carlo Vicari:**
-yeah he
-seemed leave wait wait wait uh so last
-question um this I wanted to ask about
+yes he
+seemed leave wait so last
+question this I wanted to ask about
 this earlier you mentioned telling
 people to get a 200 foot pole instead of
 where the camera
@@ -2514,20 +2503,20 @@ on its bit of the drone sure
 
 
 **Matt:**
-yeah so
+yes so
 there was I was actually talking to a
 racetrack owner
 
 
 **Carlo Vicari:**
- yeah now was that was
+ yes now was that was
 that were you being facetious or this
 sounds like something you actually said
 
 
 
 **Matt:**
-no so the point is is that the guy was
+no so the point is that the guy was
 like hey what I'd like to do is track
 the cars going around the track right
 hey guys well I want to take a drone
@@ -2556,13 +2545,13 @@ you go well as a drone needed is the
 drum the best use for what you want and
 then you can say no hey you've got
 something flying in the air that's scary
-enough right you could have gps issues
+enough you could have gps issues
 which causes the thing to fly off
 something could happen with the motors
 because most of these things are still
 using kind of RC components there's
 nothing there's no real like crazy
-awesome yeah so even even a lot of the
+awesome so even even a lot of the
 military guys are using RC equipment for
 certain things I mean right carbon fiber
 and all this stuff but you know a lot of
@@ -2585,25 +2574,25 @@ flip ring in there
 
 **Carlo Vicari:**
  do you pretty much
-oil didn't get a 200-foot pool yeah well
+oil didn't get a 200-foot pool well
 if that if
 
 
 **Matt:**
- yeah if that's a bit didn't
-need to be 200 but yeah so like a
+ yes if that's a bit didn't
+need to be 200 but so like a
 hundred 200 foot pole you could do that
 telescopic and have the camera on it the
-point is is what is he trying to do sure
+point is what is he trying to do sure
 right and then we figure out what the
 solution is and ninety percent of the
 time it's not a drone right certain most
-use case that you have for drones right
+use case that you have for drones
 now are mostly novelty type stuff like
-getting a cool picture somewhere right
+getting a cool picture somewhere
 but for like an industrial use case it's
-not quite there yet yeah it'll be there
-of course it's just just let you know
+not quite there yet it'll be there
+of course it's just let you know
 what warp drive will be here too but I'm
 not gonna invest water
 
@@ -2621,9 +2610,8 @@ good
 
 
 **Carlo Vicari:**
- alright guys so the pleasure yeah
+ alright guys so the pleasure
 thanks for joining us tonight everybody
 out there listening thank you guys for
 listening and I will see you guys next
 week all right take your bike
-you
