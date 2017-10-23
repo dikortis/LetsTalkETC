@@ -8,27 +8,27 @@ talk about everything going on in the
 fear in classic community and blockchain
 in general um guess where your two hosts
 I'm my name is Carlo vicari I'm [/u/CarloVetc](https://www.reddit.com/user/CarloVetc)
-ETC on Reddit and in the theorem
+ETC on Reddit and in the ethereum
 classic slack and I'm here with dr.
 Christian Severino he goes by Sabrina
 and slack and on reddit also what's
 going on Christian
 
 **Christian Seberino:**
- uh doing good as
+ doing good as
 welcome at Carlo welcome everybody
 listening to our first episode and let's
 get to it
 
 **Carlo Vicari:** 
- yeah so um this podcast we're
+ yes so this podcast we're
 just going to be going over some of the
 things that are going on inside the
 community and going over some of the
 development stuff and you know what's
 kind of happening recently what's going
 on now and what might be going on in the
-future so um let's get to it uh you know
+future so um let's get to it  you know
 first thing on the board is a you know
 the newsletter that was released earlier
 this week which had a lot to cover I
@@ -36,7 +36,7 @@ know you checked it out Christian we got
 a lot of good feedback about it
 
 **Christian Seberino:**
- yeah
+ yes
 
 **Carlo Vicari:**
 you know it covered stuff talking about
@@ -62,7 +62,7 @@ going on with that
  yes so the replay
 attack involved the fact that you could
 take a transaction from either system
-the etherium classic or the etherium
+the ethereum classic or the ethereum
 with the fork and play on the
 on the other system and it would accept
 it and the reason is because there was
@@ -79,8 +79,8 @@ if that's something you might
  cool 
 
 **Christian Seberino:**
-um oh by the way other than one point oh
-you're um yeah this develop yeah this
+ by the way other than one point 
+you're yes this
 development report that you're talking
 about is very nice because otherwise you
 have to go to lots of different places
@@ -91,7 +91,7 @@ work right digging through like you've
 done the different sources
 
 **Carlo Vicari:** 
- yeah yeah
+yes
 we're trying to consolidate as much
 stuff as possible and um you know trying
 to get some more info out there and some
@@ -107,17 +107,17 @@ maybe everybody doesn't have the ability
 to say on top of all this like you do
 
 **Carlo Vicari:** 
-yeah yeah I mean that's what it's all
+yes I mean that's what it's all
 about and also this podcasters was a
-great idea uh you know trying to get
+great idea you know trying to get
 everybody that's interested in YouTube
-and podcasts and stuff like that um
+and podcasts and stuff like that
 maybe you know a different medium than
 the standard newsletter and reading and
 emails and stuff like that
 
  **Christian Seberino:**
- yeah I don't
+ yes I don't
 know how everybody else but that I
 sometimes don't have time to read as
 much as I'd like you but what I find
@@ -128,7 +128,7 @@ the car on a bike commute and that's
 some time that
 
 **Carlo Vicari:** 
- yeah definitely
+ yes definitely
 
 **Christian Seberino:**
  would
@@ -146,15 +146,13 @@ protocol update went through um it's
 about monetary policy
 
 **Christian Seberino:**
- yeah
-
+ yes
 **Carlo Vicari:** 
 
-and normally this would be a boring thing and probably to a lot of my friends that aren't in the block chain space this would be a boring subject but for everybody that's interested in ETC and interested in Bitcoin blockchain and you know all that's good stuff um it looks like a lot of the community and a lot of the people involved in this are leaning heavily in favor of a cap supply which is um we're getting a lot of great responses from the Asian community and well international community in general as well as a you know domestic North America South America and stuff like that so uh I don't know who you've been speaking to but i'm sure you've gotten a lot of great feedback as well right.
+and normally this would be a boring thing and probably to a lot of my friends that aren't in the block chain space this would be a boring subject but for everybody that's interested in ETC and interested in Bitcoin blockchain and you know all that's good stuff um it looks like a lot of the community and a lot of the people involved in this are leaning heavily in favor of a cap supply which is um we're getting a lot of great responses from the Asian community and well international community in general as well as a you know domestic North America South America and stuff like that so I don't know who you've been speaking to but i'm sure you've gotten a lot of great feedback as well right.
 
 **Christian Seberino:**
- yeah
-yeah and i think that the cap is a great
+yes and i think that the cap is a great
 idea i'm i'm hesitant to make any
 pronouncements in the area of monetary
 policy because they are not what my PhD
@@ -175,32 +173,32 @@ and let think the chips fall where they
 may and my sense i think Satoshi would
 agree with me i think the the
 cryptocurrency community leans towards
-right distributing power don't let
+distributing power don't let
 anybody being controlled and they're not
 a big fan of this benevolent dictator
 idea and we want to have a monetary
 policy where it's specified in advance
 what's going to happen everybody knows
-that you know when when the ether the
+that you know when the ether the
 supply is going to grow and we don't
 have somebody that can have
 the power to say oh you know today I
 feel like increasing the money supply by
-sams I think that yeah with it what
+sams I think that  with it what
 happened in the last few years with the
 the Federal Reserve I think there's a
 real that's just a sore spot with a lot
 of people
 
 **Carlo Vicari:** 
- yeah yeah definitely I mean
-that's that's where you know even though
+ yes definitely I mean
+that's where you know even though
 the original white paper for Bitcoin
-talked about a lot of that stuff so yeah
-I think I think it's a great direction
+talked about a lot of that stuff so yes
+I think it's a great direction
 as well and I know what you mean you
-know I I'm not an economist or anything
-like that but uh you know and on the
+know  I'm not an economist or anything
+like that but you know and on the
 surface and probably I'd say deeper than
 the surface since I do understand a
 little bit of this stuff um i think it's
@@ -208,25 +206,25 @@ a it's a great idea and I'm excited to
 see where it goes in the future
 
 **Christian Seberino:**
- yeah and
-I thought we can't um I mean we won't we
+ yes and
+I thought we can't um I mean we
 won't be able to settle the debate on
 what's the best economic policy in
 general people been debating that for
 centuries but 
 
 **Carlo Vicari:** 
-yeah 
+yes 
 
 **Christian Seberino:**
 I don't think that's
-gonna I think I think what what we can
-offer is we can offer a system where you
+gonna I think what we can
+offer a system where you
 know what's going to happen it's
 predictable and and will stand by that
 and if that's the way to go if that's a
 useful way to run a monetary system then
-great but that's that's what we can
+great but that's what we can
 offer if we try to offer the benevolent
 dictator idea we're not really offering
 anything that right traditional
@@ -235,7 +233,7 @@ see the point in trying to go there with
 a cryptocurrency 
 
 **Carlo Vicari:** 
-yeah I saw you know
+yes I saw you know
 this was discussed a lot on slack and
 everyone was pretty much in agreement
 that you know we're committing to
@@ -249,22 +247,22 @@ people are looking into this and doing
 their research I'm also that the
 proposal that's out there currently on
 that a lot of people are talking about
-is the it's from either user snap roll
+is the it's from ethereum user snap roll
 from slack will post the link to his
 document in the comments below and also
 Chuck wrote an article about snap rolls
 proposal will
 link that as well it was on medium it
 was called instead of a happening at
-tithing very TC so if you guys want to
+tithing very ETC so if you guys want to
 check that out on medium will close the
 link there
 
 **Christian Seberino:**
- yeah I read those and I I
+ yeS I read those and I
 really appreciate these down stepping up
-and sharing their ideas okay and they
-even that's out yeah the numbers like
+and sharing their ideas and they
+even that's out the numbers like
 when the the monetary supply is going to
 reach the 91st ninety-nine percent of
 the time is never going to get and they
@@ -273,7 +271,7 @@ interested in that definitely check that
 out
 
 **Carlo Vicari:** 
- yeah yeah um you know he did a great
+ yes you know he did a great
 job very cool so shout out to snap roll
 for that one and also Chuck for that
 great article and um anybody that helps
@@ -283,16 +281,16 @@ guess if you want to put your name on it
 will put it in the comments below
 
 **Christian Seberino:**
- yeah
+ yes
 one thing was interesting is so bitcoin
-they cut their via rewards in half right
+they cut their via rewards in half
 every certain know that certain number
 of blocks but i thought it was
 interesting that they people are
-proposing to cut it by ten percent so
+proposing to cut it by ten percent 
 
 **Carlo Vicari:** 
-yeah yeah
+yes
 
 **Christian Seberino:**
  because they when you're
@@ -301,9 +299,9 @@ you don't want to change anything too
 fast so 
 
 **Carlo Vicari:** 
-yeah yes someone someone brought
+yes someone brought
 up that the having was a good thing
-because you know it gets a theorem in
+because you know it gets ethereum in
 the news and it's like this giant event
 but then a few other people were talking
 and we all kind of came not that this is
@@ -311,7 +309,7 @@ necessarily the agreement but a lot of
 people were talking about it and they
 said you know we're going to be in the
 news for um you know stuff development
-stuff that we have going on uh and so we
+stuff that we have going on and so we
 should be focused on a nice you know
 safe ten percent down as opposed to this
 very violent you know having events that
@@ -323,8 +321,8 @@ that for the miners and developers and
 you know the general community if we can
 improve on what bitcoin has done you
 know it's a step in the right direction
-so yeah
- and also also any of you guys
+so yes
+ and also any of you guys
 don't want to join and talk about
 monetary policy and kind of participate
 the community join us on slack will post
@@ -338,7 +336,7 @@ personal feelings on that the the
 tithing is opposed to the having
 
 **Christian Seberino:**
- so I I
+ so I 
 like the idea of hiding just because I
 like change to happen slowly I don't
 necessarily like the jar everybody's
@@ -348,18 +346,18 @@ economist but that seems like the most
 sensible thing to do
 
 **Carlo Vicari:** 
- yeah I thought it
-was pretty elegant too um so yeah that's
-uh that's what's going on I guess as far
+ yes I thought it
+was pretty elegant too so
+that's what's going on I guess as far
 as the last Development Report guys that
 was put out a few days ago um it's also
 next thing on the newsletter I guess we
 could talk with everybody about was
-Charles had a really great interview uh
+Charles had a really great interview 
 for anyone out there listening it
 doesn't know it's Charles Hoskinson he's
 some in charge of um well I ohk that's
-uh that will link you to that as well in
+that will link you to that as well in
 the description below well that's
 company that he started um after he left
 athyrium he's one of the original
@@ -368,17 +366,17 @@ intelligent guy great guy and will post
 his youtube interview that he did with
 cripta holics that was really great and
 provides a lot of insight into what's
-going on in a fear in classic and what
-the future might hold forth herein
+going on in ethereum classic and what
+the future might hold forth ethereum
 classic if you guys want to check that
 out yeah that's gotta listen to that
 right Christian
 
 **Christian Seberino:**
- yeah that's one of the
+ yes that's
 one of the podcasts that I've been
 listening to on my drive to and from
-work and he had yeah I can i can
+work and he had I can i can
 certainly recommend that if anybody
 wants to check that out one he has a lot
 of great ideas as you said he's a smart
@@ -395,34 +393,33 @@ charge and he was he was discussing
 making a way to discuss issues make
 changes vote on changes in a
 decentralized way so against let
-everybody knows what to expect and yeah
+everybody knows what to expect and
 
 **Carlo Vicari:** 
-yeah i think it was in reference to like
-the dash model um and I don't think he
+yes i think it was in reference to like
+the Dash model and I don't think he
 said anything necessarily for or against
-the dash model because I think I ohk is
+the Dash model because I think I OHK is
 doing a lot of research looking into it
 and looking at what the pros and cons
 are love it but on the boarding the word
 interesting definitely comes to mind for
-the dash model 
+the Dash model 
 
 **Christian Seberino:**
-yeah
+yes
  he's interest in
 school
-
- yeah he seems to be big on the
-idea of you know let's let's say in
+ he seems to be big on the
+idea of you know let's say in
 advance what we're doing and let's be
 totally open and you know so there's no
 funny business there's no reason to
 think 
 
 **Carlo Vicari:** 
-yeah yeah yeahs get everything get
-everything out on the floor talk about
+yes get everything
+out on the floor talk about
 it and you know often a lot of
 discussion and debate leads to better
 ideas for what's going on but you
@@ -431,15 +428,15 @@ can do going forward with something so
 reference to the crypto holics episode
 and also there's a we're talking about
 the your article that you actually let
-out um MIT block chains are weird an
+out MIT blockchains are weird an
 introduction to the strangeness which I
 felt was a really great article if you
 want to talk about that
 
 **Christian Seberino:**
- yeah so I like
+ yes so I like
 like you and everybody I've heard the
-term block chain and everybody's been
+term blockchain and everybody's been
 getting excited about it and I you know
 people say its revolutionary and I was
 just thinking what what is so
@@ -467,21 +464,21 @@ that way that nobody is in charge and
 and by and you know almost seems almost
 miraculous that that seems to work
 better not only does it work it it works
-having people truck work work yeah own
+having people truck work own
 interest ends up making things work out
 better than if they tried to
 
 **Carlo Vicari:** 
- yeah yeah
+ yes
 like it's almost like a you know trust
 its trust list in the same way that
-something is priceless something it's
+something it's
 priceless is worth a ton and something
-that's trust trust list is actually
+that's trust list is actually
 extremely trustworthy 
 
 **Christian Seberino:**
-yes yes
+yes
 
 **Carlo Vicari:** 
  I think
@@ -492,8 +489,8 @@ can tamper with it that it becomes an
 extremely trustworthy system
 
 **Christian Seberino:**
- yeah you
-know competition on how yeah there's
+ yes you
+know competition on how there's
 competition is the important for free
 market and interesting that they also
 make their foundational the block chains
@@ -503,14 +500,14 @@ paper about someday or something but
 competition is a core to both
 
 **Carlo Vicari:** 
- yeah yeah
-definitely um so I think that's those
-are definitely important concepts for um
+ yes definitely
+ so I think that's those
+are definitely important concepts for
 you know blockchain and crypto currency
 and you know this whole decentralized
-movement going forward in general um so
-uh also there was a interesting
-discussion going on on reddit for
+movement going forward in general so
+also there was a interesting
+discussion going on reddit for
 anybody out there listening who wasn't
 taking part or wasn't looking into it
 and they were talking about
@@ -518,21 +515,21 @@ like what immutability means and what it
 doesn't mean and how that can be
 sometimes a you know a difficult thing
 to define for some people but I think in
-the affair in classic community where um
+the affair in classic community where
 pretty you know we have our bearings and
 what we know it means even though some
-people not in the community try to twist
-twist what we what we say and what we
+people not in the community try to
+twist what we say and what we
 want to do and what our objectives are
 into weird and strange ways you know
 
 **Christian Seberino:**
-yeah yeah what makes it a good thing is
-that the etherium hard fork that
-recovered the Dow funds didn't didn't
+yes what makes it a good thing is
+that the ethereum hard fork that
+recovered the Dow funds didn't
 technically change the blockchain what
 it did was it effective how the state is
-made from the block chain and so and so
+made from the block chain and so
 that people think okay immutability just
 means that you don't change the
 blockchain but it people mean more than
@@ -547,15 +544,15 @@ would agree that it at least means that
 
 
 **Carlo Vicari:** 
-yeah I think um you know what I try to
+yes I think you know what I try to
 when people talk to me about it what I
 try to you know explain is that I
 whatever transaction took place on the
 blockchain won't be altered if there's a
 transaction that took place on the
 blockchain we're not going to alter it
-and um you know that's and people try to
-bring up and this this was a big slogan
+and you know that's and people try to
+bring up and this was a big slogan
 for the ETC community which became
 problematic unfortunately the code is
 law and so you can just never change
@@ -568,24 +565,23 @@ obviously nearly actually we don't have
 to say nearly it's impossible to do
 
 **Christian Seberino:**
-yeah yeah so and also without changing
+yes so and also without changing
 the you don't want to change
 transactions but the previous heart a
 recent heart forks that both systems did
-raised of course the gas prices to to to
+raised of course the gas prices to
 protect against denial-of-service
 attacks but what's interesting is that
 is it somebody might have an idea of the
 way these systems work and then a month
 later after the hard for say wait it's
 not working that way somebody could be a
-stickler and say well no no that was a
+stickler and say well no that was a
 violation of immutability too so that
 just shows that it's kind of it's tricky
-to pin down exactly
+to pin down
 
 **Carlo Vicari:** 
- say
  I would say one
 of the important concepts is for you
 know like one analogy that I was saying
@@ -595,25 +591,25 @@ added the three-point line in the NBA
 you don't after the three-point line is
 added go and change a bunch of scores
 that already took place the year before
-or 20 years before mhm you know so
+or 20 years before you know so
 changing the rules as long as those new
 rules apply going forward is a little
 bit different than something that
 already took place and then you're
-trying to change the score um after the
+trying to change the score after the
 fact 
 
 **Christian Seberino:**
-yeah 
+yes
 
 **Carlo Vicari:** 
 is a little bit different yes
-so but yeah it's um it's definitely a
+so but it's definitely a
 tricky thing but I think we have our
 principles down pretty solidly and I
 like where we're going on the way
 forward so another couple of things we
-could talk about uh just talk about the
+could just talk about the
 community in general for anybody
 listening that doesn't know out there
 we've got a Twitter account that will
@@ -630,13 +626,13 @@ check gas tracker I owe you can see what
 the big mining pools are and what's
 going on with the hash rate and
 I think one of the last things I want to
-talk about it's a kind of a start start
+talk about it's a kind of a start
 a lot of buzz in the community christian
 now just to be clear everyone listening
 this is not an official announcement in
 any way but it's in reference to the
-major Chinese exchange btcc um possibly
-starting trading of etherium classic
+major Chinese exchange btcc possibly
+starting trading of ethereum classic
 according to coin telegraphed which if
 anyone does read them their the
 cryptocurrency or blockchain news
@@ -649,15 +645,15 @@ interesting
 **Christian Seberino:**
  don't then encourage other
 entities to support ETC and who knows
-oh and up
+and up
 
 **Carlo Vicari:** 
- yeah yeah but um so it's an
+ yes  so it's an
 interesting article and i checked it out
-but i got i think um it's just based off
+but i got i think it's just based off
 a couple of tweets back and forth but i
 do know that asia and the international
-community is very interested in fear in
+community is very interested in ethereum
 classic so even if this article is kind
 of just a little bit of rumor mill I
 definitely think there's some truth to
@@ -667,22 +663,22 @@ got a chance to read some of that
 article when you think 
 
 **Christian Seberino:**
-uh I just thought
+ I just thought
 the headline but I didn't read into the
-details but but yeah if that's if that's
+details but if that's
 really true i think that would be great
 but I'm kind of just taken away and see
 attitude right now 
 
 **Carlo Vicari:** 
-yeah it's pretty new
-was actually um looks like it was just
-posted on reddit a few hours ago um so
-it's it's it's relatively new i think
+yes it's pretty new
+was actually looks like it was just
+posted on reddit a few hours ago so
+it's relatively new i think
 it's been out for more than a few hours
 but a lot of buzz going on talking about
-it and um so what are uh what are some
-things uh you see going on in the
+it and  so what are what are some
+things you see going on in the
 community last week that maybe you want
 to talk about with the viewer or the
 listeners out there or something you're
@@ -691,7 +687,7 @@ an article that you're thinking about
 writing and
 
 **Christian Seberino:**
- yeah I was not going to
+ yes I was not going to
 maybe doing something on monetary policy
 something on smart contracts
 explaining the basics of those I know
@@ -700,42 +696,42 @@ you said everybody's thinking about and
 but I have to figure figure out how to
 write that you know not trying to make
 pronouncements as if farmer economist so
-that's one thing i'm working on yeah
+that's one thing i'm working on
 
 **Carlo Vicari:** 
-yeah yeah i know there was um someone
-also posted something about uh Haskell
-and smart contracts um again this is
-this some stuff I'm not really into as
+yes i know there was someone
+also posted something about  Haskell
+and smart contracts again this is
+some stuff I'm not really into as
 much as you
 
 **Christian Seberino:**
- yeah yeah yeah let's talk
+ yes let's talk
 about that so we V at the Dow attacked
 got everybody interested in gosh how can
 we make smart contracts secure and
 Charles actually mentioned some
 languages he's looking into in that
-interview that that you mentioned and so
-there's there's an article on why people
-should check out Haskell Haskell is this
+interview that you mentioned and so
+there's an article on why people
+should check out Haskell is this
 academic functional language that's
 become very practical even though it had
 academic beginnings and a lot of people
 think that that would be a great
-language to make a et Cie smart
+language to make a ETC smart
 contracts because you can make certain
 guarantees right especially if there's
-lots of money involved so
+lots of money involved
 
 **Carlo Vicari:** 
- yeah yeah he
+ yes he
 talks of a mission critical software and
 you know the differences between
 security and accessibility and for
 something like ETC or for something
-like a block chain or cryptocurrency um
-you would want security um trumping
+like a blockchain or cryptocurrency
+you would want security trumping
 accessibility and stuff like that
 
 **Christian Seberino:**
@@ -755,27 +751,27 @@ and Haskell more than that could
 hopefully leak a lot of good things
 
 **Carlo Vicari:** 
-yeah like a silver-lining type thing
+yes like a silver-lining type thing
 you're talking about I go 
 
 **Christian Seberino:**
-yes yeah
+yes
 
 **Carlo Vicari:** 
  you
 got you gotta you know and something bad
-happens you gotta try to try to find the
-good in it I guess yeah so that's that's
+happens you gotta try to find the
+good in it I guess that's
 definitely the one if you know it may be
 something like the Dow that shifts
-everybody towards these um you know
+everybody towards these you know
 safer I don't want to say safer but more
 secure programming languages and you
-know it just helps the space the block
-chain space in general
+know it just helps the space the blockchain
+space in general
 
 **Christian Seberino:**
- yeah yeah nama
+ yes nama
 it's not like this is a new field
 there's been dead right research it's
 just that not everybody cares about or
@@ -787,23 +783,23 @@ software that runs nuclear power plants
 but it's 
 
 **Carlo Vicari:** 
-right right
+right
 
 **Christian Seberino:**
  it's nice to see it
 this the stuff get applied to more and
-more sectors of the economy and and so
-that that's what's exciting to me is is
+more sectors of the economy and so
+that's what's exciting to me is
 having more developers talking about it
 excited about it using it good
 
 **Carlo Vicari:** 
- um so I
+ so I
 gave everybody a quick rundown of the
 dev report and kind of what's going on
 inside the community and what's going on
-in the inside slack inside telegram uh
-so thanks so thanks Christian for for
+in the inside slack inside telegram
+so thanks Christian for
 joining you know where guys are really
 doing this every week for everybody out
 there listening
@@ -817,6 +813,6 @@ to it
 yes we love people
 
 **Carlo Vicari:** 
- yeah absolutely
-all right Christian take care all right
+ yes absolutely
+all right Christian take care all
 have it going
