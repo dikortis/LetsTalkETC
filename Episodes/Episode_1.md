@@ -2,13 +2,13 @@
 
 **Carlo Vicari:** 
 everyone welcome to the first episode of
-let's talk ET SI podcast I'm here with
+let's talk ETC podcast I'm here with
 dr. Christian Severino we're going to
 talk about everything going on in the
 fear in classic community and blockchain
 in general um guess where your two hosts
 I'm my name is Carlo vicari I'm [/u/CarloVetc](https://www.reddit.com/user/CarloVetc)
-ET cie on Reddit and in the theorem
+ETC on Reddit and in the theorem
 classic slack and I'm here with dr.
 Christian Severino he goes by Sabrina
 and slack and on reddit also what's
@@ -76,7 +76,7 @@ vulnerable and so sure to check that out
 if that's something you might
 
 **Carlo Vicari:** 
- cool cool
+ cool 
 
 **Christian Seberino:**
 um oh by the way other than one point oh
@@ -150,7 +150,7 @@ about monetary policy
 
 **Carlo Vicari:** 
 
-and normally this would be a boring thing and probably to a lot of my friends that aren't in the block chain space this would be a boring subject but for everybody that's interested in ET SI and interested in Bitcoin blockchain and you know all that's good stuff um it looks like a lot of the community and a lot of the people involved in this are leaning heavily in favor of a cap supply which is um we're getting a lot of great responses from the Asian community and well international community in general as well as a you know domestic North America South America and stuff like that so uh I don't know who you've been speaking to but i'm sure you've gotten a lot of great feedback as well right.
+and normally this would be a boring thing and probably to a lot of my friends that aren't in the block chain space this would be a boring subject but for everybody that's interested in ETC and interested in Bitcoin blockchain and you know all that's good stuff um it looks like a lot of the community and a lot of the people involved in this are leaning heavily in favor of a cap supply which is um we're getting a lot of great responses from the Asian community and well international community in general as well as a you know domestic North America South America and stuff like that so uh I don't know who you've been speaking to but i'm sure you've gotten a lot of great feedback as well right.
 
 **Christian Seberino:**
  yeah
@@ -425,9 +425,9 @@ yeah yeah yeahs get everything get
 everything out on the floor talk about
 it and you know often a lot of
 discussion and debate leads to better
-ideas for what's going on mmm but you
+ideas for what's going on but you
 can do going forward with something so
-um let's go to uh you know that's in
+ let's go to you know that's in
 reference to the crypto holics episode
 and also there's a we're talking about
 the your article that you actually let
@@ -556,7 +556,7 @@ transaction that took place on the
 blockchain we're not going to alter it
 and um you know that's and people try to
 bring up and this this was a big slogan
-for the et Cie community which became
+for the ETC community which became
 problematic unfortunately the code is
 law and so you can just never change
 anything ever again but that would be
@@ -648,7 +648,7 @@ interesting
 
 **Christian Seberino:**
  don't then encourage other
-entities to support ET c and who knows
+entities to support ETC and who knows
 oh and up
 
 **Carlo Vicari:** 
@@ -733,7 +733,7 @@ lots of money involved so
 talks of a mission critical software and
 you know the differences between
 security and accessibility and for
-something like ET c or for something
+something like ETC or for something
 like a block chain or cryptocurrency um
 you would want security um trumping
 accessibility and stuff like that
