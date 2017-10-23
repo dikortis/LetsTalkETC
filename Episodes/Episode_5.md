@@ -1,14 +1,14 @@
 # Let's Talk ETC: Investors Featuring Jeriaska (Jerry J.)
-**Carlo Vicari:****
+**Carlo Vicari:**
 hi everyone and thank you for tuning in
 you're listening to episode 5 of let's
-talk ET cie i'm your host karlovy along
+talk ETC i'm your host karlovy along
 with my co-host dr. Christian submarino
-I want to thank the ET cie devs
+I want to thank the ETC devs
 investors nurse users and other
 community members for another great week
 for those of you watching on YouTube the
-ET cie newsletter that was just released
+ETC newsletter that was just released
 today will be in the description below
 so that's anyone watching on YouTube you
 can find the link to that newsletter
@@ -16,7 +16,7 @@ also in this newsletter we've got really
 big news uh now I don't have all the
 details yet but Charles Hoskinson and I
 ohk are bringing a new team on board and
-committing them to etherium classic the
+committing them to ethereum classic the
 team is called the girl geek team
 they're named after Alexander girl geek
 who is a mathematician that became a
@@ -25,7 +25,7 @@ algebraic geometry I'll have more
 details on this as soon as I'm gonna you
 know I'm going to be introducing them
 the whole team to the cold community
-pretty soon so as soon as I have all the
+pretty soon as I have all the
 details i'll definitely be letting you
 guys know also if you guys have cool
 ideas about how the community can
@@ -39,12 +39,12 @@ so that we can get some really cool
 updating features for what these guys
 are up to and just everything that
 they're going to be contributing towards
-the etherium classic platform so also we
+the ethereum classic platform so also we
 have the monetary policy by snap-roll
 which is still in there for anyone who
 wants to check that out um there's
-another reminder in there about the et
-Cie event in London which has been
+another reminder in there about the ETC
+event in London which has been
 organized by dr. avatar Sarah it's going
 to be taking place next week on December
 13th at 6pm I'm actually going to be
@@ -62,11 +62,11 @@ distributed governance model by Luis
 Molina and we have another article from
 dr. submarino about interplanetary file
 systems ipf s for any of you guys that
-are interested in that so um yeah very
+are interested in that so very
 cool stuff especially the new team
 joining the project now on to the main
 focus of the show tonight we have a
-community member from the et Cie
+community member from the ETC
 investment community that's going to be
 joining us we have a really great guest
 he's extremely knowledgeable and has
@@ -85,8 +85,7 @@ coming on
 
 
 **Carlo Vicari:**
- excellent
-excellent so um you know something we've
+excellent so you know something we've
 been doing just for people when it's
 their first time on the show we kind of
 just get a you know kind of their
@@ -102,7 +101,7 @@ love to have you back on again
 
 
 **Jerry:**
- um yeah
+ yes
 thanks I mean that I started investing
 in Bitcoin around 2015 and it was really
 fortunate timing because bitcoin was
@@ -127,7 +126,7 @@ definitely
 
 
 **Christian Seberino:**
- yeah
+ yes
 
 
 
@@ -145,7 +144,7 @@ primary motivation in my participating
 as an investor and because i got in at
 the right moment i was able to use the
 profits from my bitcoin investment to
-then invest in athyrium which I've found
+then invest in ethereum which I've found
 to be a really fascinating technology
 the idea of having smart contracts and
 these these centralized organizations
@@ -155,7 +154,7 @@ of the etherium governance model and I
 was really influenced to a degree by
 what I read on Barry Silbert feed so
 that's part of what got me interested in
-athyrium classic from an investor's
+ethereum classic from an investor's
 standpoint and it was a really good
 experience for me to be able to see
 Barry Silbert and melton dem roars a
@@ -183,7 +182,7 @@ inspiring or gave you kind of a better
 understanding of the unique neat
 uniqueness of blockchain technology I
 find that in person when I attend
-meetups for Bitcoin or athyrium that it
+meetups for Bitcoin or ethereum that it
 can tend to be disappointing if I
 compare it with you know the level of
 engagement that I have when listening to
@@ -214,14 +213,13 @@ you help people within the community
 
 
 **Jerry:**
- oh
-hey Kristin well I like that athyrium
+hey Kristin well I like that ethereum
 classic is an open platform so what I
 like to do is volunteer my time to reach
 out to other investors and see if maybe
 we can come to some consensus on our
 objectives as a group because in my view
-athyrium classic is composed of three
+ethereum classic is composed of three
 camps primarily three constituencies
 that have differing objectives and it's
 very natural that they should have
@@ -253,7 +251,7 @@ well something that I feel I'm
 capable of doing is arguing against
 people who I feel are attempting to
 sabotage investor confidence I have a
-degree of confidence in a theorem
+degree of confidence in a ethereum
 classic as a long-term store of value so
 when I see arguments being made that I
 view as being irrational or illogical
@@ -262,7 +260,7 @@ networks that are interactive I can you
 know reply to certain statements that
 are being made so that's a way where I
 as an investor can help in protecting
-the market value of etherium classic is
+the market value of ethereum classic is
 right don't favor of its long term usage
 
 
@@ -279,21 +277,21 @@ recording
 
 
 **Christian Seberino:**
-ok yeah I had a question for
+ok yes I had a question for
 people that aren't big investors that
 are listening so it might seem like this
 black magic and mysterious thing that
 you guys do and I remember personally
 Barry Silbert started getting bullish on
-et Cie and he came made a big investment
+ETC and he came made a big investment
 and he was one of the early proponents
 of it and I remember thinking you know
 that's impressive that he's sticking his
 neck out like that with his money and
-every right so that he's so confident
+every so that he's so confident
 and he I guess he has his method of
 analyses
-and but uh I don't know if everybody
+and but I don't know if everybody
 would have the confidence to stick their
 neck out with the new technology like he
 did can you say something about how you
@@ -305,7 +303,7 @@ with my money that way
 **Jerry:**
  well again I'm an
 independent party I'm part of the
-etherium classic community and I'm
+ethereum classic community and I'm
 volunteering my time as an investor to
 put out information that I believe is
 backed up by reason and evidence I don't
@@ -320,8 +318,8 @@ participant you know
 
 
 **Carlo Vicari:**
- uh for anybody
-listening out there I've seen Jerry uh
+ for anybody
+listening out there I've seen Jerry 
 you know speak on numerous occasions on
 slack you know you're not Twitter on
 multiple different channels and his
@@ -346,13 +344,13 @@ scary for a lot of people so
 
 
 **Jerry:**
- yeah you
+ yes you
 know you don't need to necessarily
 invest monetarily if you feel that
 you're not in a position to do that you
 can always invest your time and energy
-right if if you like the ideology of
-etherium classic you can invest in doing
+right if you like the ideology of
+ethereum classic you can invest in doing
 research and then posting a blog or you
 can invest in doing an interview with
 someone in the community or if you have
@@ -389,7 +387,7 @@ is what makes the reward possible
 
 
 **Christian Seberino:**
- yeah
+ yes
 now that you just I just thought have
 another question speaking of the how you
 guys operate now as the like you said
@@ -402,7 +400,7 @@ obsessing over little changes
 
 
 **Carlo Vicari:**
- yeah
+ yes
 crypto is a crazy place
 
 
@@ -413,12 +411,12 @@ mean the investors in general
 
 
 **Christian Seberino:**
- yes yeah
+ yes
 
 
 
 **Jerry:**
-okay um I just want to reiterate that I
+okay I just want to reiterate that I
 don't want to have people misled into
 thinking that I'm speaking for digital
 currency group you know and I missed
@@ -426,12 +424,12 @@ that it so night
 
 
 **Carlo Vicari:**
- I think I think
+ I think
 Christian more meant like looking inside
 of the implicit because we have a lot of
 people that listen on here that are
 maybe just devs or maybe just users so
-good yeah I guess I think you can at
+good I guess I think you can at
 least give us some insight maybe into
 your investment related mind people can
 extrapolate their own ideas about how
@@ -467,7 +465,7 @@ this technology that Satoshi created
 
 **Christian Seberino:**
 yes
-and it's it's a work in progress it's an
+and it's a work in progress it's an
 experiment in progress all this
 blockchain technology is fairly new and
 when you hear about the block sighs
@@ -502,7 +500,7 @@ your portfolio you put into a more
 stable block chain token like Bitcoin
 and what percentage you want to risk on
 a more volatile and uncertain blockchain
-like a theorem classic so if you feel
+like ethereum classic so if you feel
 that your blood pressure is suffering
 your sleep cycles are suffering you can
 always mitigate the risk by lowering the
@@ -512,7 +510,7 @@ given cryptocurrency or another
 
 
 **Christian Seberino:**
- yeah I
+ yes I
 think I should advise I think that's
 good advice overall too if you want to
 play it a little bit safe have most of
@@ -526,7 +524,6 @@ higher risk and so I'm okay with that
 
 
 **Carlo Vicari:**
- oh
 also for everyone listening out there
 dollar cost averaging is your friend if
 you're if you're just getting into this
@@ -543,10 +540,10 @@ certain sacrifices that might be the way
 that you contribute to the community
 right for me I've made profits off of
 Bitcoin I've made profits off of
-etherium I'm ideologically invested in
+ethereum I'm ideologically invested in
 athyrium classic so being involved
 during this volatile price discovery era
-of etherium classics lifecycle you have
+of ethereum classics lifecycle you have
 to be open because it's so risky to
 making sacrifices for the benefit of the
 community that's a way in which
@@ -570,7 +567,7 @@ arguably
 
 
 **Carlo Vicari:**
-there's there's definitely a
+there's definitely a
 sweet spot to you know come to terms
 with what would work for all three
 parties and what would you know make the
@@ -578,7 +575,7 @@ best combination of features or the
 platform going forward into the future I
 think I'm pretty happy with the
 direction that things are are going
-currently enough yeah I wanted to ask
+currently enough I wanted to ask
 you whatever oh now go ahead sorry
 
 
@@ -601,11 +598,11 @@ see
 **Christian Seberino:**
 I might a question since you
 mentioned about defending the reputation
-of et Cie in the investor community do
+of ETC in the investor community do
 you have any funny stories or maybe not
 so funny stories of
 of kind of verbal altercations or things
-you had to do to protect me TC 
+you had to do to protect me ETC 
 
 
 
@@ -623,7 +620,7 @@ would prefer you know some other model
 but the anarchic part is elusive because
 in our vernacular Anarchy has come to
 mean no rules so you're setting bonfires
-and garbage cans and Europe yeah maybe
+and garbage cans and Europe maybe
 not all of your hair and you're tipping
 cows over that that's what people think
 of in terms of anarchy in the historical
@@ -638,7 +635,7 @@ New York Times the day before the
 presidential election there was a little
 widget on the page that showed the
 likelihood of one or the other candidate
-winning the election yeah did you check
+winning the election did you check
 out that that widget 
 
 
@@ -695,7 +692,7 @@ or another
 
 
 **Carlo Vicari:**
-yes it it's like they they
+yes it's like they
 might not necessarily be such bias
 people but once they're so heavily
 invested in something it's hard to turn
@@ -713,7 +710,7 @@ advantage that didn't actually exist so
 you really need to be skeptical you
 really need to rely upon your own
 ability to distinguish fact from fiction
-and what I like about athyrium classic
+and what I like about ethereum classic
 is that as an open platform it
 lights everyone equally to be involved
 and then the community determines who is
@@ -722,7 +719,7 @@ subvert the well-being of the network
 and there are definitely many people out
 there who hold tokens of other
 blockchains who are making a not so
-subtle attempt to subvert the etherium
+subtle attempt to subvert the ethereum
 classic community if you jump on the on
 the reddit and check out some of the
 comments it becomes evident that not
@@ -734,14 +731,14 @@ competition between block chains
 
 
 **Christian Seberino:**
-yeah I
+yes I
 could imagine just you got me thinking I
 could imagine let's say there was
 hypothetically somebody had invested a
 hundred thousand or more in athyrium the
 forked version I could imagine them
 being threatened by you and people like
-you investing in a theorem classic and
+you investing in ethereum classic and
 anything to do with a competitor like if
 they're in classic that I could see them
 going on the defensive and are the
@@ -755,7 +752,7 @@ have so much invested in a competitor
 
 
 **Jerry:**
-yeah there's a lot at stake and you know
+yes there's a lot at stake and you know
 I was an ethereal investor so I met a
 lot of people during that time I made
 friends and so I try to be as you know
@@ -765,7 +762,7 @@ associate with but there is a lot of
 animosity you know back and forth
 between a theremin etherion plastic what
 made me reluctant to continue supporting
-etherium is that like I mentioned a
+ethereum is that like I mentioned a
 couple times before I see Bitcoin in its
 orientation being this experiment in
 anarcho-capitalism where the blockchain
@@ -774,7 +771,7 @@ power and authority within a small
 sphere of your life
 right you've still got the state to
 protect you against criminality outside
-of the blockchain within the block chain
+of the blockchain within the blockchain
 there are certain things that you can do
 that don't require an authority figure
 and that's what makes it a narco
@@ -794,18 +791,18 @@ vision
 
 **Carlo Vicari:**
 now that was kinda weird that
-what what they did right well not ever
+what they did right well not ever
 dated
 
 
 **Jerry:**
- in etherium value Satoshi's vision
+ in ethereum value Satoshi's vision
 so it's important to recognize that
 there's a lot of trash talking about
-Satoshi within etherium not everyone but
+Satoshi within ethereum not everyone but
 certain people and so that's where one
 can draw the distinction one can say I
-support etherium classic because I see
+support ethereum classic because I see
 the community taking steps to bring it
 in line with the model provided by bit
 coin and I see there being too many
@@ -817,10 +814,10 @@ institutions and governance models
 
 
 **Carlo Vicari:**
-yeah
+yes
 I thought I have a quick question
 actually about especially not just how
-the theorem classic TV ated from
+the ethereum classic TV ated from
 athyrium in respect to principles of
 immutability but even the steps were
 taking with regard to like monetary
@@ -838,7 +835,7 @@ that
 **Jerry:**
 well again I don't want to position
 myself as a big in
-bester because I think that um you know
+bester because I think that you know
 
 
 
@@ -854,7 +851,7 @@ thinking my general sentiment
 good question i'm nitpicking a bit
 because I don't want for people to turn
 off their skepticism when listening to
-me so I view myself as a little a little
+me so I view myself as a little
 investor and every man and if I can be
 of some use to the community then so can
 you it's a very good question to get
@@ -863,12 +860,12 @@ christian asked about pushing back
 against remarks that I view as illogical
 there was a tweet that was posted by a
 Cornell professor saying that if
-athyrium classic the community and on
+ethereum classic the community and on
 paraphrasing were to take the steps to
 solve the monetary policy issues that
 classic inherited from the Telex design
 that this would be a violation of the
-etherium contract I don't know if you
+ethereum contract I don't know if you
 see this
 
 
@@ -883,7 +880,7 @@ don't know right
 
 **Jerry:**
  well i don't want to
-name names because i'm being critical
+names because i'm being critical
 
 
 **Carlo Vicari:**
@@ -899,7 +896,7 @@ to save the least
 
 **Jerry:**
 the way i like to do
-it is that I I like to name names when
+it is that I I like to names when
 I'm congratulating people and I'm a
 little more reticent when it comes to
 naming names when I think that there are
@@ -907,7 +904,7 @@ mistakes that are being made so when I
 talk about vitalik my feeling is that he
 created a technology that I value and I
 want to see that technology preserved
-and if the theorem classic is successful
+and if the ethereum classic is successful
 I think metallic as a technologist will
 be vindicated I think that he's made
 not the best as a politician which is a
@@ -924,7 +921,7 @@ this is an intellectual he's rational
 he's you know got the facts and finger
 figures at his fingers but I really want
 to break down this tweet because he says
-that if areum classic fixing this issue
+that if ethereum classic fixing this issue
 of the inflationary monetary supply
 which is in conflict with Satoshi's
 original vision of a cryptocurrency that
@@ -949,11 +946,11 @@ contract a smart contract he
 
 **Carlo Vicari:**
  well I
-think I've read I've read some of these
+think I've read some of these
 debates on there where people have
 gotten into it with him so what I think
 he meant by that is his his big thing
-with the etherium classic community what
+with the ethereum classic community what
 he likes to bring up um pretty much all
 the time is that any change we make if
 it's a protocol improvement or a bug fix
@@ -963,31 +960,31 @@ had
 a difference of opinion with athyrium
 reversing a transaction and altering the
 blockchain so now he takes that
-objection that the etherium classic
+objection that the ethereum classic
 community has and he uses it for
-anything that ethereal classic does if
+anything that ethereum classic does if
 we fix a bug if we do a protocol
-improvement if we fork to to move away
+improvement if we fork to move away
 from the bomb or you know whatever it is
 he'll post something and say see they
-change the code they're not immutable um
-at least that's that's what I think his
+change the code they're not immutable
+at least that's what I think his
 main talking point is every single time
 that I've seen 
 
 
 **Jerry:**
-yeah I mean you can argue
-that any transactions on the etherium
-classic block chain or a violation of
+yes I mean you can argue
+that any transactions on the ethereum
+classic blockchain or a violation of
 the contract because you know you're
 you're adding new blocks to the
 blockchain and essentially what it
 breaks down to when I view it what I see
 it as conspicuously as an argument that
-if you are competing with etherium if
-etherium classic is is competing with
-etherium that's unfair if you update the
+if you are competing with ethereum if
+ethereum classic is is competing with
+ethereum that's unfair if you update the
 platform so that it's in a position
 where it's capable of surviving that's
 unfair and basically unfair means you
@@ -1000,8 +997,8 @@ that degree of status should not be
 making irrational irrational illogical
 arguments it's up to us as a community
 to determine what we view as being the
-best governance model for athyrium
-classic and the etherium foundation has
+best governance model for ethereum
+classic and the ethereum foundation has
 their own separate block chain where
 they can do a separate instantiation of
 a theorem that prizes mutability again
@@ -1012,7 +1009,7 @@ standing who's using irrational
 arguments for you know biased reasons I
 think it's out of self-interest because
 this
-holds etherium forked tokens it just
+holds ethereum forked tokens it just
 goes back to that earlier example of the
 New York Times having this wildly wrong
 widget on their page we need to be more
@@ -1023,8 +1020,8 @@ the person who is making those arguments
 
 
 **Christian Seberino:**
-okay yeah I think that's good advice and
-that's I'm not a I'm not a professional
+okay yes I think that's good advice and
+that's I'm not a professional
 trader but I assume that that's probably
 a you know fundamental advice to rely on
 on facts on data not emotion not name
@@ -1041,7 +1038,7 @@ no Jerry sorry go ahead
 I'm not a
 professional trader I'm not an investor
 if you're a traitor today you might be
-in a theorem classic and tomorrow maybe
+in ethereum classic and tomorrow maybe
 you've sold your tokens for a profit so
 you're an investor one day and not an
 investor the next I'm an enthusiast
@@ -1056,7 +1053,7 @@ capital into
 
 
 **Carlo Vicari:**
- um Jerry what up pre Dow
+Jerry what up pre Dow
 pre now fork freedom s pre doubt debacle
 whatever however you want to say it what
 were your thoughts when things were
@@ -1087,17 +1084,17 @@ order to correct the inflationary model
 of etherium so etherium is eventually
 intending to transition into a
 deflationary model but right now it's
-inflationary the same is true of Z cash
-Z cash will one day transition into a
+inflationary the same is true of Zcash
+will one day transition into a
 deflationary model right now it's highly
 inflationary so to me I was always
-interested in the etherium technology i
+interested in the ethereum technology i
 found the smart contracts platform is a
 visionary and exciting but there was
 always that risk and when the dow a
 fiasco occurred what that convinced me
 was that i could not properly trust the
-etherium foundation as a centralized
+ethereum foundation as a centralized
 authority as a centralized entity to
 pull off Casper to pull off the
 transition to proof of stake without any
@@ -1118,7 +1115,7 @@ disconcerting sure
 
 
 **Carlo Vicari:**
- it's like it's like a
+it's like a
 bunch of red flags leading up to a
 bigger red flag you know
 
@@ -1128,7 +1125,7 @@ bigger red flag you know
 know whether
 they'll be able to pull it off without a
 hitch the fact that it's untested is is
-a is a problem and with athyrium classic
+a is a problem and with ethereum classic
 basically the decision was made that we
 would fix the monetary policy issue we
 would fix the inflationary monetary
@@ -1138,22 +1135,22 @@ cap on the overall issuance of the
 tokens so that you never have in terms
 of snap rolls vision of the ec IP you
 never have more than about two hundred
-million athyrium classic tokens this
-brings etherium classic in line with the
+million ethereum classic tokens this
+brings ethereum classic in line with the
 vision of satoshi nakamoto in a way that
 i find highly valuable because i've seen
 what's been accomplished with bitcoin if
 we can have the same kind of monetary
 policy attached to this exciting smart
 contracts platform technology then
-Bitcoin and etherium classic can operate
+Bitcoin and ethereum classic can operate
 side-by-side and complement each other
 because they're based on the same
 prevailing ideology I view a theorem as
 having violated too many of the tenants
 of satoshi nakamoto in ways that you
 know I myself you as very conspicuous
-it's up to each of the etherium
+it's up to each of the ethereum
 community supporters to determine for
 themselves whether the Dow contentious
 hard fork was a bailout I view it that
@@ -1178,7 +1175,7 @@ etherium that's able to engage in not
 only printing up new fiat currency but
 essentially due to the contentiousness
 of the hard fork doubling the number of
-etherium tokens right and youth using
+ethereum tokens right and youth using
 the new tokens to reward the Dow
 investors who were incredulous enough to
 invest in a smart contract platform that
@@ -1228,12 +1225,12 @@ the Federal Reserve where you have a
 bunch of people that sit around and they
 could they could turn the spigot write
 as much print as much money as they want
-or it's it's it's they have a set policy
+or it's they have a set policy
 in place for how much the money supply
 increases I won't rate it increases so
 in that since it's not is I don't think
-it's it's it's completely accurate to
-say it's it's like the Federal Reserve
+it's completely accurate to
+say it's like the Federal Reserve
 would you agree with
 
 
@@ -1272,13 +1269,13 @@ saying he's capable of arguing in favor
 of the monetary policy
 Bitcoin to some investors you have to
 recognize those people are very
-conservative they're they're much less
+conservative they're much less
 impulsive than my rent or right putting
 money into the Dow okay here's a direct
 quote from Barry Silbert from the meetup
 the Dow he says and here's the quote
 that was to me the final nail in the
-coffin of the etherium investment bates
+coffin of the ethereum investment bates
 Silbert says you have to understand that
 i spend easily 25% of my time with
 institutional investors and hedge funds
@@ -1294,13 +1291,13 @@ successful as an investment asset class
 
 
 **Carlo Vicari:**
-yeah that's a pretty telling quote I'd
+yes that's a pretty telling quote I'd
 say
 
 
 
 **Jerry:**
- so the idea with the theorem classic
+ so the idea with the ethereum classic
 is that we depart from this centralized
 governance model that etherium is
 relying upon we take it slow instead of
@@ -1318,11 +1315,11 @@ developers and investors more generally
 
 
 **Christian Seberino:**
-can I make a comment so I think I think
-that I think it's wise to have a cap to
+can I make a comment so I think
+it's wise to have a cap to
 the supply I think that's easy for
 people to understand but just in it
-again just in fairness to the etherium
+again just in fairness to the ethereum
 the fourth version I think and their
 their argument is so they're they're
 increasing the money supply at a
@@ -1332,7 +1329,7 @@ like way in the future the money supply
 will be much bigger and so that constant
 rate of ink
 will become more and more insignificant
-see what I'm saying but it that that the
+see what I'm saying but it that the
 money that's added becomes more and more
 that it becomes less significant as the
 total supply increases now that they
@@ -1358,16 +1355,16 @@ it's not really another issue
 because the transition to proof of stake
 will allow for a deflationary a monetary
 policy so it is the necessary step to
-take in order to bring areum in line
+take in order to bring ethereum in line
 with otherwise you just have
 quantitative easing on the blockchain I
 don't see the any point in doing that if
 you agree with the vision of satoshi
-nakamoto that this is this is a way of
+nakamoto that this is a way of
 providing value that fiat currency
 cannot do because those who are in
 authority to print up money in fiat
-currency they can't resist yeah they
+currency they can't resist they
 cranked up too much so if their imprints
 up too much as well the way that they
 are going to solve this problem is
@@ -1383,7 +1380,7 @@ physical cash as a collection
 
 
 **Carlo Vicari:**
- yeah also
+ yes also
 the other side of the coin for that
 Christian is so let's just say if you
 took the idea that ok it's a steady
@@ -1396,7 +1393,7 @@ sake because
 there's always that fear that after the
 centralization and the reversal of the
 Dow there is the fear that in the future
-that centralization can lead to oh well
+that centralization can lead to well
 let's just up the inflation rate or
 let's just create you know we could
 create a hundred million out of thin air
@@ -1428,11 +1425,11 @@ the governance model
 
 
 **Carlo Vicari:**
- yeah I uh Jerry I
+ yes I uh Jerry I
 wanted to know what are since we're
 talking about you know inflation and
 fiat and governance gold all this stuff
-what are your thoughts about um
+what are your thoughts about
 hyperinflation and you know stuff like
 what happened in Zimbabwe I guess that's
 in reference to your analogy earlier
@@ -1444,7 +1441,7 @@ guess right
 
 
 **Jerry:**
- yeah I mean that's what's
+ yes I mean that's what's
 happening now in that as well as you
 speak right 
 
@@ -1522,7 +1519,7 @@ majority always votes for the candidate
 promising the most benefits from the
 public treasury with the result that the
 democracy always collapses due to loose
-fiscal policy so I I always thought that
+fiscal policy so I always thought that
 was kind of an interesting one you know
 whether it's true or false you know it's
 hard to hard to say there's a similar
@@ -1551,23 +1548,23 @@ manipulated by human actors right
 
 
 **Carlo Vicari:**
- yeah
+ yes
 true 
 
 
 **Jerry:**
 yes so basically Barry Silbert says
-of a theorem classic this is at the
+of ethereum classic this is at the
 blockchain startup Singapore meet up
 with Milton Demarest this is a quote by
 Barry Silbert I've become excited about
-the people focusing in on athyrium
+the people focusing in on ethereum
 classic you don't have this governance
 risk where someday someone's going to
 make a change that goes against the core
 tenets of investing in crypto currency
 and the way that I interpret that is the
-community of etherium classic is
+community of ethereum classic is
 interested in having a decentralized
 governance model in the mold of Bitcoin
 and if you look at the history of
@@ -1584,7 +1581,7 @@ thought this through and maybe it would
 be better if I were you know to post
 under a pseudonym if from now on you
 could refer to me as Satoshi Nakamoto
-the cat would be on the back right right
+the cat would be on the back right
 his very first step had to be as a
 pseudonym in order to decentralize the
 network because in the early stages he
@@ -1608,7 +1605,7 @@ left
 
 
 **Jerry:**
- yeah the crowning achievement was
+ yes the crowning achievement was
 he left and that well allows for Bitcoin
 to be what I view as being an inner co
 capitalist model because the leader
@@ -1629,7 +1626,7 @@ to make a comment so
 
 
 **Carlo Vicari:**
-yeah good good
+yes good
 
 
 **Christian Seberino:**
@@ -1666,11 +1663,11 @@ been very successful as a figure that
 inspires inspiration and this was not
 the model that Satoshi set out to create
 in my opinion so if you look at the
-block chains I mean Kristen you were
+blockchains I mean Kristen you were
 saying if you were to create a
 blockchain the the next question is
-would you as christian create a block
-chain or would you as a pseudonym create
+would you as christian create a blockchain
+or would you as a pseudonym create
 a block chain why was it necessary for
 Satoshi to be pseudonymous in this
 enterprise now go down the list of block
@@ -1694,7 +1691,7 @@ another potentially leaderless model
 
 
 **Carlo Vicari:**
-yeah I'm about it so I was also thinking
+yes I'm about it so I was also thinking
 about Satoshi a lot of his bitcoins
 haven't moved correct at the there's a
 few address not none of them alone so
@@ -1710,7 +1707,7 @@ anything
 
 
 **Carlo Vicari:**
-yeah he just lost his keys and
+yes he just lost his keys and
 he's got a million a lot of million I
 don't know how much money that would be
 right now I
@@ -1746,7 +1743,7 @@ our time but uh it would
 
 
 **Carlo Vicari:**
- I would I would
+ I would
 fade it to the background keep my key
 and then of the year 20xx cash on him
 out have a little bit of a good time
@@ -1778,7 +1775,7 @@ would want to possess I mean I'd 90
 
 
 **Carlo Vicari:**
-yeah
+yes
 I guess 
 
 
@@ -1791,12 +1788,11 @@ the well-being of the human Enterprise
 
 
 **Carlo Vicari:**
-I
-am I heart sinking 
+I heart sinking 
 
 
 **Christian Seberino:**
-yeah I think of a
+yes I think of a
 similar 
 
 
@@ -1840,7 +1836,7 @@ that hurts a lot of resources or you
 
 
 **Christian Seberino:**
-know I don't like you now it were no no
+know I don't like you now it were no
 that analogy it's more like it's more
 like he just threw a bunch of random
 numbers
@@ -1850,7 +1846,7 @@ garbage
 
 
 **Carlo Vicari:**
-no no well were you gonna say
+no well were you gonna say
 Jerry sorry 
 
 
@@ -1932,7 +1928,7 @@ argument
 
 
 **Jerry:**
-it's it's a technological arms
+it's a technological arms
 race because as the ability as as
 technology improves that allows people
 to counterfeit fiat currency the
@@ -1945,7 +1941,7 @@ see rolex watches being you know taken
 out of circulation it's a substitution
 for one thousand rupee notes but it's
 it's kind of a crude right especially in
-comparison with the obvious realize yeah
+comparison with the obvious realize
 cryptocurrency is basically positions to
 replace these high denomination bills
 and so the question becomes
@@ -1962,12 +1958,12 @@ boon to their ya venis
 
 
 **Carlo Vicari:**
- i have i have
+ i have
 some thoughts on on countries and their
 willingness to you know use
 cryptocurrency or block chains in
 general and stuff like that um i see it
-as kind of being like a domino effect um
+as kind of being like a domino effect 
 so the only thing that these countries
 dislike more than block chains are their
 necks
@@ -2035,7 +2031,7 @@ be seeing something similar yes
 **Christian Seberino:**
  that's
 actually encouraging what you guys said
-because if you're if you in the back
+because if you in the back
 your mind if somebody has a fears of a
 coming you know war government versus
 the cryptocurrency enthusiasts and the
@@ -2079,12 +2075,12 @@ than them
 
 
 **Jerry:**
-yeah you're also going to see
+yes you're also going to see
 some pro blockchain innovation within
 geographical regions that are anti
 capitalism as a as a means of survival
 right so necessity breeds invention is
-that the the phrase if you're in
+that the phrase if you're in
 Venezuela right now and you're a Bitcoin
 ur that can be a value to you immensely
 if you're in the United States you know
@@ -2111,7 +2107,7 @@ out of necessity
 
 
 **Carlo Vicari:**
-yeah I agree um so I
+yes I agree so I
 think that about wraps it up for me I
 don't know if you have any other
 questions there anything you want to
@@ -2119,29 +2115,29 @@ touch on unchristian
 
 
 **Christian Seberino:**
- no no that was
+ no that was
 pretty thorough 
 
 
 
 **Carlo Vicari:**
-yeah good great stuff
+yes good great stuff
 Jerry
 
 
 **Jerry:**
- can I bring up one more thing oh
+ can I bring up one more thing
 
 
 **Carlo Vicari:**
-yeah absolutely go ahead 
+yes absolutely go ahead 
 
 
 
 **Jerry:**
-um not to
+not to
 belabor the point but the thesis that I
-arrived upon regarding the etherium
+arrived upon regarding the ethereum
 classic community was that there were
 these three constituent constituencies
 of the developers the miners and the
@@ -2171,7 +2167,7 @@ on Tuesday for you it's a bit late for
 me it's a bit early but we each make
 concessions in order to arrive upon a
 conclusion that we both can live with
-right right the other thing that can
+right the other thing that can
 occur of course is to engage in coercion
 so you know I call you nasty names or
 you threaten me or so and so forth
@@ -2182,7 +2178,7 @@ bargaining chips that you could use in
 order to arrive on a on a harmonious
 solution that that requires concessions
 so that's what I'm really concerned
-about with a fear in classic we don't
+about with a ethereum classic we don't
 want anyone strong-arming the community
 we want a series of checks and balances
 and we should always be vigilant in
@@ -2194,7 +2190,7 @@ incapable of being part of the
 discussion or because they are holding
 tokens from some other blockchain and
 they have a vested interest in the
-etherium classic community being non
+ethereum classic community being non
 competitive so that I view as being a
 useful framework to think of when
 engaging with the community 
@@ -2275,7 +2271,7 @@ breeds sabotage
 
 
 **Carlo Vicari:**
-yeah very true it's a
+yes very true it's a
 tripod we got to keep all three legs
 nice and strong you said dominoes I was
 thinking tripod 
@@ -2287,7 +2283,7 @@ that's all that's like
 my framework for thinking about the
 necessity of negotiation and when people
 attack Barry Silbert which happens
-fairly frequently within the etherium
+fairly frequently within the ethereum
 classic community the way that I think
 about that is I view it as a way of
 basically using coercion right it's an
@@ -2297,7 +2293,7 @@ investors and investors like me are
 particularly I think that we are
 threatened by the ease with which people
 can characterize investors as being self
-a short-term oriented and selfish right
+a short-term oriented and selfish
 but without the investors invest in
 capital without people like Barry
 Silbert going out on a limb as you
@@ -2306,8 +2302,8 @@ digital currency group as an institution
 without their going out on a limb and
 taking risks and saying we see there
 being this really good foundation for
-athyrium classic then there's no value
-to the tokens right if no investors are
+ethereum classic then there's no value
+to the tokens if no investors are
 investing capital in the token there's
 no value to the tokens that means the
 miners can't pay their veldt their bills
@@ -2327,7 +2323,7 @@ that makes sense
 
 
 **Carlo Vicari:**
-yeah makes sense to me
+yes makes sense to me
 and I agree that's why you know I think
 we all do or most people do a pretty
 good job of keeping the debates and
@@ -2368,4 +2364,3 @@ my pleasure looking cool in ecology
 **Carlo Vicari:**
 excellent all right take care guys
 gracefully with you
-you
