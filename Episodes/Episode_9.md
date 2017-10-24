@@ -1,7 +1,7 @@
 # Let's Talk ETC: Conversation With Alan McSherry.
 **Carlo Vicari:**
 hi everybody welcome to another episode
-let's talk e.t.c I missed you guys the
+let's talk ETC I missed you guys the
 last few weeks we haven't been able to
 coordinate the show I've been over in
 Japan for the time difference is a
@@ -14,7 +14,7 @@ lot of big news that's been going on I
 just want to fill you guys in before we
 start the show so if anyone out there
 hasn't heard although i'm sure you have
-about the e.t.c investment trust from
+about the ETC investment trust from
 gray scale so that's pretty awesome
 another big event that's coming up is
 the epc athan which is set to take place
@@ -26,8 +26,8 @@ extended for two months so that's a
 pretty important piece of information
 for anybody that was interested in
 what's going on with that withdraw
-contract and the extension etc etc also
-there was an AMA on a ptc recently that
+contract and the extension ETC also
+there was an AMA on a ETC recently that
 featured avatar and splits and snap roll
 and they were talking and answering
 questions about some of the different
@@ -41,7 +41,7 @@ of the video and on to the main point
 for today's show which is we have a
 special guest with us Alan McSherry
 who's leading the groeten deke team on
-the new scallop client for ET c which
+the new scallop client for ETC which
 this is a client built completely from
 scratch and it's built in a functional
 programming language and Alan is an
@@ -55,18 +55,17 @@ able to join us really appreciate it
 
 
 **Alan McSherry:**
-yeah no problem thanks for
+yes no problem thanks for
 so asking me on I was listening to some
 of the stuff that you guys have done it
 you know I really want to say thanks
 from from from everybody else because
-it's great it's a great service thanks a
-lot 
+it's a great service thanks a lot 
 
 
 
 **Carlo Vicari:**
-yeah yeah I appreciate it i mean
+yes I appreciate it i mean
 really it's you know i always say it's a
 you know it's the developers it's the
 miners it's the other community members
@@ -106,24 +105,23 @@ company in four years there in the or
 indeed apartment and worked on their web
 projects and what sort of ended in the
 in the first tech bubble so we have been
-intact i guess since I yeah yeah it's a
-bully 
+intact i guess since it's a bully 
 
 
 **Carlo Vicari:**
-right right but blockchain is
+right but blockchain is
 definitely a new to the if as new as
 tech yet so how did you we call it the
 blockchain rabbit hole like I guess that
 everybody falls into so how'd you end up
-getting into block chain from the
+getting into blockchain from the
 greater tech field i guess you could say
 
 
 
 
 **Alan McSherry:**
-yeah that was um I i I'm not sure
+yes that was um I i I'm not sure
 exactly how I became aware of Bitcoin
 but I think like most people Bitcoin was
 before
@@ -141,7 +139,7 @@ these had real value you know you
 exchange interfered I was pretty much
 hooked instantly yeah so close when he
 when you think at first the bitcoin is
-kind of where it is it's sort of at the
+kind of where it's sort of at the
 beginning in the end and I suppose in
 the very beginning it was the beginning
 in the end but it just exploded really
@@ -154,7 +152,7 @@ to get involved you know one of the
 things that you discover I guess shortly
 after you discover we have a distributed
 currency is how do we how do we you know
-how do i how do we do exchanges I mean
+we do exchanges I mean
 we still have that problem of not having
 distributed exchanges so one of the
 early one of the early attempts there
@@ -163,7 +161,7 @@ tried to kind of get involved in that
 but that didn't really work out they
 were writing all the code and coffee
 script and I have to admit kind of kept
-me back of it so so I asked from it was
+me back of it so I asked from it was
 a long time it was a long time interest
 and then probably last year I started
 working full time in the blockchain cold
@@ -171,7 +169,7 @@ and Scala was my language of choice and
 husbands and I guess but 2013 and i came
 across the score x framework yeah I
 don't know if you wear the score
-experiment but it's the it's a scala
+experiment the it's a scala
 based framework that externally has put
 together now love it i was going to say
 
@@ -208,7 +206,7 @@ Couric's is an abstract framework I'd
 say that you that you then build classes
 using the abstract framework classes as
 base classes to create your creature
-blockchain okay at the time but I'm
+blockchain at the time but I'm
 talking about when I first came across
 that it was it was score X 1 point you
 know who scored very early version of
@@ -220,7 +218,7 @@ classes and out of it and and use them
 there was some really good networking
 classes that were extremely useful and
 also they had a great script Oh library
-on which is which is they use it a
+on which is they use it a
 dependency and they release it it has
 its own release cycle
 
@@ -241,9 +239,9 @@ correct
 
 **Alan McSherry:**
 well I don't want to get into
-any language worries here but yeah skala
+any language worries here but skala
 you know Scala is a very very nice
-language to to write code in it it's
+language to write code in it's
 quite it's very terse and you leverage a
 lot of the you know a lot of the
 libraries that are built for the for the
@@ -267,11 +265,11 @@ begin with
 
 **Carlo Vicari:**
 now all of this with score X
-this this is this segue you into ET c is
+this this is this segue you into ETC is
 that correct i guess some just to
 connect the audience with the ship you
 went you know from bitcoin and block
-chain and how did you get into ET c
+chain and how did you get into ETC
 
 
 
@@ -287,7 +285,7 @@ take care of it I said
 
 
 **Carlo Vicari:**
- yeah yeah why
+ yes why
 don't you for anyone in the audience
 that hasn't been following as closely or
 is just listening to this about
@@ -297,12 +295,12 @@ isn't necessarily completely informed
 why don't you tell them a little bit
 about what you guys are building and
 what you're currently working on for
-three TC 
+three ETC 
 
 
 
 **Alan McSherry:**
-sure um so II TC is an etherion
+sure um so ETC is an ethereum
 classic clients and it's built entirely
 in Scala and where we're at at the
 moment we have we have a team that's
@@ -320,12 +318,12 @@ continue and yeah I guess where we're at
 they
 is we started off looking at okay how
 can we just connect to a client you know
-an etherion classic client so the first
+an ethereum classic client so the first
 the first thing we try to do is just you
 know stoop do a successful handshake and
 so we might as well so we're able to
 connect to the etherium network and then
-the next step was okay well let's try
+the next step was well let's try
 and let's try and download the
 blockchain so that's that's pretty much
 the phase that we're in at the moment is
@@ -337,18 +335,18 @@ the project it also involves you know
 using the Merkel Patricia tree and
 getting your persistence right and I've
 been able to you know success it's a
-great thing about working with HTC is
+great thing about working with ETC is
 actually let this be you test straight
 away you know I mean you know straight
 away if you've got it right because you
 connect you can't get it you can't get
-the blocks properly so so yeah we're
+the blocks properly so we're
 currently just finishing that up and we
 started our ebn implementation so that
 when you've got to block a block
 consists of a bunch of transactions and
 you need to run those transactions
-through the etherium virtual machine
+through the ethereum virtual machine
 which will produce a space but different
 from the state you had before you run
 them through the ebm because that's the
@@ -365,7 +363,7 @@ question Alan
 
 
 **Alan McSherry:**
-yeah
+yes
 
 
 
@@ -383,7 +381,7 @@ benefit them to learn Scala
 
 
 **Alan McSherry:**
- yeah let's
+ yes let's
 do a language war I'm on board with that
 let's do language 
 
@@ -396,7 +394,7 @@ criticize other languages but
 
 
 **Alan McSherry:**
- no no no
+ no
 we don't we won't put any other language
 down but we can you can definitely talk
 about why Scala is clearly the best
@@ -405,9 +403,9 @@ language or something
 
 
 **Christian Seberino:**
-yeah okay I'll
+yes  I'll
 just I'll just say right now I've heard
-academics for the longest time say oh
+academics for the longest time say 
 yeah functional is the future but then
 in the real world meaning in industry I
 don't necessarily see functional taking
@@ -427,7 +425,7 @@ arguments here but obviously scholars
 the best language that's ever been
 created and the fact and not only is it
 future but it's the future's here yes
-well don't decide I mean Scala is a is a
+well don't decide I mean Scala is a
 natural successor to to Java in many
 ways so for developers who are out there
 you know if they're I mean there's a
@@ -440,7 +438,7 @@ a much more expressive language but
 secondly where java was object-oriented
 to a certain extent and wasn't so
 immutable so Java collection libraries
-there they're mutable when you you alter
+there they're mutable when you alter
 things in place which makes concurrency
 and multi-threaded behavior a little bit
 more tricky to to handle whereas skala
@@ -450,20 +448,20 @@ collections so it favors it favors it
 much easier to multi-threaded code with
 and i guess some of the other advanced
 this is the other major advantage which
-you know as you as you alluded to their
+you know as you alluded to their
 functional programming is so hot right
 now and scala as well as allowing you to
 write object-oriented code also allows
 you to write a very functional cope
 and the cool thing about a functional
-code is that it's it's very its
+code is that it's very its
 side-effect free or timeless to a
 certain extent so actually it is
-timeless it is a it is side-effect free
+timeless a it is side-effect free
 so this means that it's you know when
 you'd it's more testable as when you
 when you test it and it does what it
-does of those that's it so it's a it's
+does of those that's it's
 very popular now and rightly so but I
 think the great thing about Scala is
 that it does you know lend a hand to the
@@ -493,7 +491,7 @@ easier to learn is that true
 
 
 **Alan McSherry:**
-yeah
+yes
 certainly the last point it is easier to
 learn I don't it is a gentle yeah
 everything there i think i'd agree with
@@ -505,7 +503,7 @@ quickly
 
 
 **Christian Seberino:**
-ok so is there be any reason to
+so is there be any reason to
 ever your team to ever do anything with
 Haskell or do you think you could always
 do everything you want with Scala then
@@ -515,7 +513,7 @@ do everything you want with Scala then
 **Alan McSherry:**
 everything that we've looked at so far
 can definitely be done with with Scala
-ok yeah you know we've we've looked at
+you know we've we've looked at
 most parts of the system now and the
 libraries that were using you know are
 really giving us and we're really
@@ -536,7 +534,6 @@ communicate over over a DGP
 
 
 **Christian Seberino:**
-okay
 interesting yeah what about what about
 the people talk about when they want to
 move a lot of money in a smart contract
@@ -551,10 +548,10 @@ these certain components
 
 
 **Alan McSherry:**
-yeah there's a
+yes there's a
 lot of talk and I'm doing a lot of
 listening about in exactly that area now
-from our from from the point of view I
+from the point of view I
 guess of the release the beta we're
 going to look at getting the codes
 posited by security professionals first
@@ -574,7 +571,7 @@ future we will have a plan to do that
 
 
 **Christian Seberino:**
-okay okay i always found the
+okay i always found the
 
 
 
@@ -597,7 +594,7 @@ okay i know solidity i was
 talking to some of their developers and
 they're doing things like yeah a common
 if they
-common pattern that that leads to
+common pattern that leads to
 security issues though they want to add
 warnings right to things like that so
 that's how they're dealing with it for I
@@ -606,12 +603,12 @@ know it's one way
 
 
 **Alan McSherry:**
-yeah when we get to
+yes when we get to
 you know at the moment what we're doing
 is we're building out our re vm so it's
 a case of getting the bear to dance at
 all first of all and when we do that we
-you know we look around at what at what
+you know we look around at what
 the state of the art is in terms of
 security securing humble and you know we
 will make sure that we're at least as
@@ -643,8 +640,8 @@ can you compare those mate
 
 
 **Alan McSherry:**
-oh yeah well
-I mean one is is is more complex than
+well
+I mean one is more complex than
 the other there's a fairly small
 instruction set well 
 
@@ -654,17 +651,17 @@ instruction set well
 i don't know
 because i saw i saw on someone posted
 like an infographic explaining the the
-etherium yellow paper and its supposed
+ethereum yellow paper and its supposed
 to like BB yellow paper for dummies and
 it was really confusing for me could I
 could it was there was a lot of
 information so this especially you know
 I've looked at the yellow paper a few
-times and it's it's a bit much a bit
+times and it's a bit
 much for me but the infographic was
 actually pretty cool maybe maybe we'll
 put that in the the description on
-YouTube yeah Christian or anyone to
+YouTube Christian or anyone to
 check that out I have that I have that
 link saved somewhere it's actually
 pretty interesting ok
@@ -672,7 +669,7 @@ pretty interesting ok
 
 
 **Alan McSherry:**
- yeah when we
+ yes when we
 insist on that paper you know that is I
 think probably everybody's first
 reaction when they start reading that
@@ -686,41 +683,41 @@ think notice that the you know the
 papers starting to make a huge amount
 more sense you know you can kind of read
 it almost naturally now and as far as
-nodding vigorously so it it is dance in
+nodding vigorously so it is dance in
 the beginning but you know over time it
 does seem to come cloud and become
 become far more care 
 
 
 **Carlo Vicari:**
-yeah like the fog
+yes like the fog
 the more you've been working on the
 project of the fog starts to clear i
 guess in a sense 
 
 
 **Alan McSherry:**
-yeah exactly exactly
-and and then it that's kind of exciting
-you know when when you start to when we
+yes exactly
+and that's kind of exciting
+you know when you start to when we
 start to read what was originally looked
 a little bit like gobbledygook and
-you're reading to go like alia yeah yeah
-that make sense yeah
+you're reading to go like alia
+that make sense
 
 
 
 **Carlo Vicari:**
- yeah that's true
-that's true yeah we were actually
+ yes that's true
+we were actually
 talking about this before the show
 started christian he was telling me
-about how the more that they they've
+about how the more they've
 been working in the project there they
 just start to see bits and pieces for
 what they really are and you know it's
 like learning another language
-essentially okay you know the difference
+essentially you know the difference
 between looking at a bunch of letters
 and actually being able to read what's
 on the page i suppose in a sense
@@ -736,13 +733,13 @@ is kind of what it's like at first it's
 tiring because you're reading it you're
 going like what what and then and then
 as you say one day you're reading to go
-like oh yeah I guess 
+like I guess 
 
 
 
 **Christian Seberino:**
-yeah right i think
-i think the natural probably a lot of
+right i think
+the natural probably a lot of
 people there what they do is they don't
 find something they don't understand
 like blue filters so then they learn
@@ -758,11 +755,11 @@ difficult
 
 
 **Carlo Vicari:**
-so um so I know this is a
+so I know this is a
 little bit of a segue but I'm interested
 in hearing a little bit about this since
 you've been in tech for so long island
-and um block chain is so new as far as
+and blockchain is so new as far as
 technology is concerned
 where do you see with your experience in
 tech in your background and you know you
@@ -778,18 +775,18 @@ whatever whatever you think
 
 
 **Alan McSherry:**
- yeah we well
+ yes we well
 you know we've been kind of so
 concentrate you know so focused only on
 the small details of what's what's right
 in front of us now that I actually
 haven't given a huge amount of thought
-to pivot to the future of the vtc in
+to pivot to the future of the ETC in
 five years time I mean I guess broadly
 speaking I would probably like to see
 you know like everybody else you want to
 see some actual will use cases that are
-not not suspect as if so so the so that
+not not suspect as if so that
 is the use cases that are that were you
 know that it becomes very very useful in
 them yeah I don't work but the the
@@ -798,7 +795,7 @@ killer app for free PC as yet
 
 
 **Carlo Vicari:**
- yeah well
+ yes well
 I mean like blockchain technology one
 decade you know how do you see it
 changing the world or changing the
@@ -814,7 +811,7 @@ there's a lot of talk about banking me
 on buying you know you've got usually
 use cases have been able to hire a car
 over the over the internet and turn up
-and unlock it with a with a private key
+and unlock a with a private key
 neram to meet any one of the same with
 revolutionising Airbnb
 
@@ -832,11 +829,11 @@ have a
 **Alan McSherry:**
 so if you have a a transaction
 whereby your you basically can transfer
-the ownership of a key to from from will
+the ownership of a key to from will
 they couldn't being controlled by my key
-to being controlled by by your key and
+to being controlled by your key and
 then you can you
-that too just unlock the car so so over
+that too just unlock the car so over
 the Internet you could basically arrange
 that transfer blockchain transaction
 secondly you come up to your car and you
@@ -859,8 +856,8 @@ I would like to see I would like to
 see huge destruction in social networks
 i would like to see some kind of virtual
 currency be the backbone for distributed
-social networks that's probably yeah
-cases that i'd like to see so so
+social networks that's probably
+cases that i'd like to see so
 currently you know we have a lot of we
 have these walled gardens where people
 are Facebook and whatnot they make a lot
@@ -874,9 +871,9 @@ themselves to keep to balance the books
 but they're all basically coordinating
 to to provide social network services
 and of course everything that they they
-transmit and receive is is encrypted and
-only decrypt able by by the people that
-I spoke so that yeah kind of these cases
+transmit and receive is encrypted and
+only decrypt able by the people that
+I spoke so that yes kind of these cases
 that sort of is sticking as been stuck
 with me for I guess two or three years
 now 
@@ -895,7 +892,6 @@ contributions that correct
 
 
 **Alan McSherry:**
-exactly
 exactly i mean you know there was a it
 was a you know there's been a couple of
 almost versions of this but as you say
@@ -974,15 +970,15 @@ I'm willing to pay I'm also willing to
 pay to send stuff to my friends because
 I know that none of my data and my
 network are being minds because these
-pods right they make their money off the
+pods they make their money off the
 transaction
 fees everything is encrypted now they
 can probably look at some of the meta
-data in terms of you know who's who's
+data in terms of you know who's
 connected to who I mean that could be a
 weakness but you know that sub stuff
 that could be against work done but at
-the point right the use case that I'm
+the point the use case that I'm
 trying to get at is where we showed it
 we sort of removed the we pay basically
 for the service that we're using so I'm
@@ -1057,9 +1053,9 @@ mean for people I guess who are in tech
 and definitely people are interested in
 blockchain I mean this is all old hat
 but I think for the general you know
-even even in the mainstream it's
+even in the mainstream it's
 starting to dawn on people you know why
-Facebook is free in inverted commas yeah
+Facebook is free in inverted commas
 
 
 
@@ -1074,7 +1070,7 @@ content and once you have say a nice
 critical mass of people that are on
 there producing interesting content and
 they're getting paid for their content
-directly through this block chain a
+directly through this blockchain a
 social network you're going to start to
 see more and more people gravitate
 towards the content that's on there as
@@ -1091,7 +1087,7 @@ is going to be just by virtue of so much
 competition open competition it's just
 going to be far and away way better than
 anything you see on facebook 
-yeah and I
+and I
 am so if you can only run you're going
 to snowball from there 
 
@@ -1111,7 +1107,7 @@ decentralization law
 
 **Carlo Vicari:**
 you know I think the funny thing about
-that is is a lot of the people that are
+that is a lot of the people that are
 interested in privacy and
 decentralisation they don't necessarily
 make up a huge chunk of the general
@@ -1122,7 +1118,7 @@ so it's not that they represent a large
 chunk of people but these are the types
 of people that make things happen on the
 Internet I don't know I can't really
-describe it what do you think Alan yeah
+describe it what do you think Alan
 
 
 
@@ -1167,9 +1163,9 @@ remember not being too surprised you
 know and I don't think that they think
 it was a it was a reaction to the fact
 that they were about to lose a lot of
-share to signal that was how how I read
+share to signal that was how I read
 that where it's single you know their
-purpose was to be secure from from the
+purpose was to be secure from the
 beginning a 
 
 
@@ -1193,7 +1189,7 @@ happen to me sort of thing
 
 
 **Christian Seberino:**
-yeah yeah I
+yes I
 think if the Snowden revelations didn't
 convince people out of the house could
 convince 
@@ -1201,7 +1197,7 @@ convince
 
 
 **Carlo Vicari:**
-yeah I don't I I guess it's a
+yes I don't I I guess it's a
 combination of things i think the the
 privacy I don't think people completely
 discounted but I think the overall
@@ -1210,7 +1206,7 @@ one thing and then if they're comparing
 say you know a facebook and a
 decentralized facebook I think privacy
 could be a tiebreaker for sure you know
-mm I think I think it does count for
+I think it does count for
 something for people but in reference to
 like signal and whatsapp just the
 network effect that whatsapp has the
@@ -1235,7 +1231,7 @@ signal over what's up
 
 
 **Christian Seberino:**
- yeah and not only
+ yes and not only
 does the new block chains provide
 privacy but there's another another
 equally important attribute which people
@@ -1253,12 +1249,12 @@ and power doing something malicious but
 that's certainly something to be
 concerned about and block James can help
 protect from
-actors that are in power mmhmm 
+actors that are in power
 
 
 
 **Alan McSherry:**
-yeah I
+yes I
 think that's an important plank in that
 sort of potential use cases but you know
 if you're if you're a particular project
@@ -1276,28 +1272,28 @@ do that
 
 
 **Carlo Vicari:**
- oh that's true I don't what
+ that's true I don't what
 what Alan was just talking about as far
 as because there's been a lot of
 controversy lately about you know people
 being banned on Twitter you know for
 better for worse that's what I was it is
-a fact yeah the fact of the matter is
+a fact the fact of the matter is
 you know I think you guys are both right
 about that more I guess more so than the
 privacy thing I think the censorship is
-a big one yeah 
+a big one
 
 
 
 **Christian Seberino:**
 yes the arch is
-censorship but like political bias right
+censorship but like political bias 
 
 
 
 **Carlo Vicari:**
-right right so I see what you're saying
+right so I see what you're saying
 so it's like the the network being
 impartial completely and just you know
 whatever people's thoughts are just get
@@ -1310,7 +1306,7 @@ the end of it
 **Christian Seberino:**
 yes now Alan what do you
 think about this this idea so I think
-about block chains as out there in
+about blockchains as out there in
 cyberspace you know outside the control
 of any nation or person and so in a
 sense it's almost like the first steps
@@ -1321,7 +1317,7 @@ you know what I'm saying
 
 
 **Alan McSherry:**
-yeah I know
+yes I know
 what you're saying the singularity then
 well I mean it certainly would I could
 see some kind of you know emergent
@@ -1332,14 +1328,14 @@ artificial intelligence as being you
 know you'd start with sort of some of
 the machine learning or you know some
 some of the technologies that are going
-on today and and that was just somehow
+on today and that was just somehow
 you know we get some stage where that
 would be able to build its own AI which
 would obviously we you know far better
 than the one that we built and then that
 would take off whereas I kind of see
-this sort of what's happening with block
-chain and a lot of the smart contracts
+this sort of what's happening with blockchain
+and a lot of the smart contracts
 that go out there that you know that may
 be some kind of unexpected that behavior
 will emerge from a lot of different
@@ -1361,17 +1357,17 @@ this is too much guys well
 **Christian Seberino:**
  no but let go
 is one last point just enough again for
-this but let's say oh 
+this but let's say 
 
 
 
 **Carlo Vicari:**
-no no I want to
+no I want to
 talk of interesting stuff actually I do
 have a quick question for Alan that I've
 actually never got a chance how do you
 met ask someone about AI and writing so
-I read some I read something interesting
+I read something interesting
 one time I don't know where or who wrote
 it but it was about that really
 conceivably the first AI would just be a
@@ -1397,7 +1393,7 @@ by itself
 
 
 **Carlo Vicari:**
-yeah but could it rewrite its
+yes but could it rewrite its
 own development machine learning code
 you know what I'm saying like rewrite
 its own code 
@@ -1415,7 +1411,7 @@ Riyadh
 
 **Carlo Vicari:**
 no feet no feeding it just it
-rewrites its own code I don't know yeah
+rewrites its own code I don't know
 that's the thing so okay Alan 
 
 
@@ -1445,7 +1441,7 @@ language I you know one of the first
 things you can do then is is you know we
 write the compiler in the language and
 use the compiler to compile what you've
-just written mm-hmm for what you know
+just written for what you know
 there's a I guess precedent for EM for
 doing crazy things like that software
 yes well 
@@ -1463,15 +1459,15 @@ Alan took the
 question I wanted to ask you earlier and
 I really want to ask so let's go with
 your example of the the blockchain car
-door opener okay and then of course you
+door opener and then of course you
 can have a house door opener and then
 money is on the blockchain and we know
-that block chain is sensor proof so as
+that blockchain is sensor proof so as
 more and more of our our the
 functionality of our lives is on the
 blockchain and nobody can stop the
 blockchain nobody could sensor can you
-see that it it's there's like this
+see that it's there's like this
 mysterious entity that's all of a sudden
 taking taking over more and more of our
 lives that that nobody controls that
@@ -1505,8 +1501,8 @@ happen what's that well actually that's
 right no but that brings up another
 question what if somebody makes a smart
 contract that after they let it loose
-and then they say oh I really wish I
-do that but they they wrote it in such a
+and then they say I really wish I
+do that but they wrote it in such a
 way that they can't stop it then what do
 you do get them saying because it's
 since your proof
@@ -1514,15 +1510,15 @@ since your proof
 
 
 **Alan McSherry:**
- yeah you can write a
+ yes you can write a
 smart contract and gating it I don't
 know 
 
 
 
 **Christian Seberino:**
-yeah I know so saginaw software
-software out of control that's that's
+yes I know so saginaw software
+software out of control
 the that's what I the in a nutshell what
 I'm thinking it 
 
@@ -1530,7 +1526,7 @@ I'm thinking it
 
 
 **Alan McSherry:**
-yeah I mean that sounds
+yes I mean that sounds
 it sounds like a lot like I guess you
 know the virus but you accidentally
 release but it'll just keep running and
@@ -1542,7 +1538,7 @@ should eventually and you know if
 they're not supported by external
 stimulus like people calling this the
 contracts then you would hope that they
-just run out of gas and tight uh-huh and
+just run out of gas and tight and
 
 
 
@@ -1551,8 +1547,8 @@ just run out of gas and tight uh-huh and
 **Christian Seberino:**
 we've had already an example of what I'm
 referring to the Dow attack right they
-couldn't just say oh bummer we let okay
-let's kill the smart contract right once
+couldn't just say oh bummer we
+let's kill the smart contract once
 it was on the blockchain it's not so
 easy to stop it anymore so they has a
 letter thing so that's what I'm soon 
@@ -1563,7 +1559,7 @@ letter thing so that's what I'm soon
 
 **Alan McSherry:**
 yes
-yeah oh yeah I suspect I don't I got it
+I suspect I don't I got it
 and you know we know what happened 
 
 
@@ -1571,10 +1567,10 @@ and you know we know what happened
 
 
 **Christian Seberino:**
-yeah
+yes
 whereas with yet less server web
-application I can just say oh ok wow
-that that made a mess okay I'll just
+application I can just say 
+that made a mess
 I'll just turn the server off until I
 sort out this myth 
 
@@ -1584,13 +1580,13 @@ sort out this myth
 
 
 **Carlo Vicari:**
-right okay I see I
-see what you're saying now because the
+right I see
+what you're saying now because the
 web server I'm have a wait you have a
 way to turn it off yeah there's no
-turning it off okay gotcha gotcha oh so
+turning it off okay gotcha gotcha so
 also this is another kind of a thread
-derailment I guess but uh so this is a
+derailment I guess but so this is a
 shout out to my older sister sister
 Cheryl and she had a suggestion for the
 show which was to also ask kind of what
@@ -1601,7 +1597,7 @@ having the community get to know them
 and what they're all about so anything
 interesting
 I know you're probably neck deep into
-Scala code and et Cie stuff but anything
+Scala code and ETC stuff but anything
 interesting uh you know you're reading
 or watching these guys out 
 
@@ -1610,7 +1606,7 @@ or watching these guys out
 
 **Alan McSherry:**
 it's the last
-I guess it's really really interesting
+I guess it's really interesting
 book I read was with sapiens I can't
 remember I think it's Noah who vowed
 might be the name of the author and the
@@ -1644,7 +1640,7 @@ its people yeah he does it at am in a
 very readable way you know you find
 yourself turning a page and nodding your
 head and going yeah yeah I guess and now
-okay yeah i would highly recommend it
+i would highly recommend it
 actually thinks no I know you bow I
 think is the guys name I'm not can't
 remember so i can name i just opened up
@@ -1660,7 +1656,7 @@ sapiens-- there
 
 
 **Alan McSherry:**
-yeah thank you sorry I
+yes thank you sorry I
 beg your pardon it's fooling is well
 Noah harare 
 
@@ -1668,7 +1664,7 @@ Noah harare
 
 
 **Carlo Vicari:**
-okay gotcha okay you know we
+okay gotcha you know we
 can actually probably put a link to that
 that book or you know a link to that
 book in the description on YouTube as
@@ -1685,8 +1681,7 @@ I've talked enough
 
 
 **Alan McSherry:**
-yeah 
-
+yes
 
 
 **Carlo Vicari:**
@@ -1694,7 +1689,7 @@ all right
 well then Alan just want to thank you
 for coming on the show thank you for the
 time thank you for everything you've
-done free TC so far and everything
+done free ETC so far and everything
 you're going to do and we're really
 excited and happy to have you on the
 show 
