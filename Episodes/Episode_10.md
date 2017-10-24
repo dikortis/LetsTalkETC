@@ -11,8 +11,7 @@ did i pronounce that correctly Roman
 
 
 **Roman Oliynykov:**
-oh
-yeah I don't want honey to go yeah
+yes I don't want honey to go
 
 
 
@@ -33,13 +32,13 @@ doesn't hasn't heard of you
 I think at
 this point if people haven't heard of me
 than they did they don't want to hear of
-me there is behind the CEO of I ohk we
+me there is behind the CEO of IOHK we
 work on crypto currencies and do a lot
 of first principles research we're also
 leading the growth of deke team which
 has been on previously and the team is
 responsible for building the full
-scholar client for Syrian classic I ohk
+scholar client for ethereum classic IOHK
 also does a lot of basic research into
 the design of crypto currencies
 everything from blockchain architecture
@@ -52,7 +51,7 @@ discuss to me
 **Christian Seberino:**
 okay and Roman why don't
 you say a little bit about yourself how
-you got into crypto currencies athyrium
+you got into crypto currencies ethereum
 classics like then 
 
 
@@ -65,9 +64,9 @@ research in cryptography are in
 symmetric cryptography metal security
 infrastructure security in Ukraine and
 one year ago I got the chance to do to
-join I ohk and I got here excellent
+join IOHK and I got here excellent
 chance of very interesting chances to
-research book chain technologists and
+research bookchain technologists and
 I'm like it was it so my current project
 is a fair empathic and graphic Treasury
 and it's really interesting and exciting
@@ -122,7 +121,7 @@ well
 I can like I can start with the
 principles and I guess Roman can get
 into the design so when I first started
-working in Syrian classic one of my
+working in ethereum classic one of my
 goals was try to create a project that
 was as balanced as possible so you know
 whatever you have a power vacuum or
@@ -134,14 +133,14 @@ follow Moses tourism development you
 know like Moses the guy who leads you to
 the promised land comes down with the
 tablets and tells you the 10
-commandments and says I'll I'll take you
+commandments and says  I'll take you
 there which can be quite good if you
 have a Steve Jobs but if you have a Jim
 Jones and you know probably hear how
-could I have a good day right so we we
+could I have a good day so we
 said well you know if we're going to get
 involved in this project what we ought
-to say as a differentiator for ET SI e
+to say as a differentiator for ETC e
 versus etherion more frankly other
 projects like Bitcoin which follow a
 different development product
@@ -154,7 +153,7 @@ development teams like ECG see Devin
 there right now carrying the ecosystem
 on their back and they're responsible
 for the dev work that's done the last
-two hard floors and what allows e.t.c to
+two hard floors and what allows ETC to
 survive but then they're counterbalanced
 by the existence of the growth and deep
 team which will become increasingly more
@@ -183,7 +182,7 @@ you like them you're back into Moses
 driven development if you don't like
 them well you're still stuck in that
 paradigm another way is the donation
-model where you say okay well whoever is
+model where you say well whoever is
 doing work you know put out my can shake
 it and hopefully somebody will give me
 some money and unfortunately that model
@@ -195,7 +194,7 @@ necessarily the people who are doing the
 best work second the funding model tends
 to be very inconsistent in general that
 maybe some months you have a lot of
-money coming in in other months you're
+money coming in other months you're
 pretty tight and if you think about when
 you would need money the most it tends
 to be the time when the currency is
@@ -214,7 +213,7 @@ project so donation driven development
 to me is always seem to be a really
 curious way of running an ecosystem that
 we anticipate people putting money into
-yeah then the other option is to do kind
+then the other option is to do kind
 of like a patronage style development
 where you have basically
 well-capitalized actors like for example
@@ -234,17 +233,17 @@ community from this style of government
 and embrace something new so I had
 Romans team begin pretty hardcore and
 Alice the dash dresser model because to
-me the dash model was one of the few
+me the Dash model was one of the few
 things out there were it seemed at least
 you know on the surface you would be
-able to to to centralize the pool of
+able to centralize the pool of
 capital and the access to that pool of
 capital a little bit so they started a
 pretty aggressive project and I guess
 roaming can kind of tell you some of the
 things he discovered and some of the
-things they learned from from studying
-desh 
+things they learned from studying
+Dash 
 
 
 
@@ -260,7 +259,7 @@ already said I said so when you're using
 crypto currency we believe and it is the
 natural conditions that there are own is
 not a majority of participants are on
-full notes for math notes in dash and
+full notes for math notes in Dash and
 but besides it's there are another
 conditions for example besides honest
 majority of participants so we need to
@@ -283,7 +282,7 @@ solution comparing with centralized
 development which may happen when one
 company or a couple of companies will
 give a funds for the currency
-development so we looked at dash
+development so we looked at Dash
 experience and we liked it very much
 because it's really working model they
 did it from the very beginning they
@@ -298,10 +297,10 @@ the ways how can we improve it we are
 
 **Charles Hoskinson:**
 watching for everybody's benefit take us
-through kind of hell as a dash proposals
+through kind of hell as a Dash proposals
 made so let's say Alice wants to get
 submit a proposal how would she do that
-dash 
+Dash 
 
 
 
@@ -362,7 +361,7 @@ result of voting for other participants
 until the last one i finished his vote
 only other set rules are opened english
 it is presented everything in open a fro
-from from the very beginning and from
+from the very beginning and from
 surgical point of view it can be brought
 
 
@@ -377,9 +376,9 @@ need to be resolved alright at a mexican
 
 
 **Roman Oliynykov:**
-Yeah Yeah Yeah right for example from
+Yes right for example from
 theoretical it's on the theoretical
-point of view i it's it's rather
+point of view i it's rather
 unlikely to happen in practice but when
 votes are divided fifty-fifty and the
 last two water gets his chance to vote
@@ -403,9 +402,9 @@ finished his voting
 okay alright so as
 if I could just interject this is maybe
 semi tan gentle but what is going on
-with the dash guys they are just so
+with the Dash guys they are just so
 impressive they they were doing
-anonymous currency you know I I guess
+anonymous currency you know I guess
 before anybody else and their net and
 now they have the basically voting
 mechanism and so they amend too bad we
@@ -424,18 +423,18 @@ thing is not right everything else is
 wrong and so if you if you decompose the
 cryptocurrency as an ecosystem into
 components you have things like your
-block chain in your scripting language
+blockchain in your scripting language
 and you can sense this algorithm in your
 network stack and you have this notion
 of marketing and governance how do you
 accrue a community and how do you reach
 discussions at a community and how do
 you get the community engaged in a fault
-if you look at dash as a technology
+if you look at Dash as a technology
 stack their core innovation has been the
 treasury model and you certainly found
 some issues with it may have corrected
-some of them with 12.1 it's it's an
+some of them with 12.1 it's an
 ongoing debate about what makes a good
 pressuring model but what they've done
 exceptionally well above and beyond that
@@ -469,7 +468,7 @@ Roman look into the treasure model was
 work and he's actually right that the
 work that dash has done is not
 theoretically based so you'd like to
-work cryptographers at ihk and
+work cryptographers at IOHK and
 mathematicians and computer scientists
 and so how we start is we start from
 first principles we write a white paper
@@ -525,11 +524,11 @@ version 12
 
 
 **Charles Hoskinson:**
-so what was the hard work
+so what was the hard fork
 that they did do some improvements to
 the court protocol so when we did our
 analysis it was actually unfortunately
-time we did the analysis right when
+time we did the analysis when
 there was both of community split
 occurring was dashing as well as a hard
 fork that they had planned and we were
@@ -592,7 +591,7 @@ cheddar that's at risk it was bitcoin is
 20 billion with a ferryman I think it's
 2.5 billion as of this recording a lot
 of money and and all of a sudden you
-start getting really really really
+start getting really
 paranoid that even small changes can
 damage your house of cards and
 everything comes collapsing down so the
@@ -601,15 +600,15 @@ making decisions
 naturally deteriorate because it's less
 about how do we innovate and how do we
 compete and it's more about how do we
-preserve what we have yeah that's the
+preserve what we have that's the
 first one and every great organization
 would it be Microsoft or Google or Apple
 they start going down those drones and
 you start to your market decline in
 their ability to innovate because of it
-so dash as it grown I have no doubt it's
+so Dash as it grown I have no doubt it's
 going to fall into that same pattern
-where yeah right now it's pretty easy I
+where right now it's pretty easy I
 think when they made the 12.1 hard fork
 they were under a hundred million
 dollars in market cap and they're very
@@ -619,12 +618,12 @@ when you get to a billion dollars and
 you have competing groups and so forth
 it's a lot more challenging so I should
 bring me back to my point about what
-with Amy trying to do for ET c is that
-we're not trying to copy dash or copy it
+with Amy trying to do for ETC is that
+we're not trying to copy Dash or copy it
 areum rather what we're trying to have
 is how how do we what type of core
 technology do we need to invest in and
-deploy into et Cie to give us the
+deploy into ETC to give us the
 ability to avoid both Titanic internal
 development and motors driven
 development where we actually have kind
@@ -659,7 +658,7 @@ project called ec IP quorum and we have
 some time in this interview can
 certainly talk about it but the basic
 idea is that it's a smart contract that
-allows people to propose EC IPS discuss
+allows people to propose ETC IPS discuss
 them vote on them and it will provide a
 level data point for whether people have
 consented to a change of the protocol or
@@ -671,7 +670,7 @@ I've seen some great work done like
 there's a recent article where a person
 was trying to define the difference
 between immutability of history and
-immutability of process as well yeah and
+immutability of process as well and
 the basic point of it is that we have to
 start defining our principle because
 anytime we make a change as a community
@@ -713,8 +712,7 @@ decentralized there is no server that
 hosts this there's no github repo that
 one particular attempt to control
 there's no particular community greater
-in charge of it it's just it's just all
-there 
+in charge of it's just all there 
 
 
 
@@ -748,7 +746,7 @@ mechanism somehow and so it'll take her
 I'll take a get cracking and I get
 roller can take a crack at it too we can
 reach as we can see how much of the
-death we can break okay so I have
+death we can break so I have
 certainly seen a lot of the arguments
 for Sando evo ting shouldn't happen and
 you know a lot of it stems from saying
@@ -763,7 +761,7 @@ have a perfectly secure version of
 windows or linux or mac OS and a second
 are there any back doors and your
 hardware that the OS runs on is somebody
-could exploit and you know and so so
+could exploit and you know and so
 that's one of the big concerns about
 loading that a team from people like i
 watch the lecture on a princeton that
@@ -784,8 +782,8 @@ JPMorgan Chase how much money will they
 make you Trump as president versus
 Hillary's presence I imagine that maybe
 the RAND Corporation or something to
-build a model like that but we have ET c
-or dash you know when you have a
+build a model like that but we have ETC
+or Dash you know when you have a
 Treasury model now this is a very
 different animal because your value risk
 go ahead of time you know you're voting
@@ -803,7 +801,7 @@ sovereign election and an adversary
 might be willing to spend hundreds of
 millions or billions of dollars to
 manipulate that because there's you know
-a massive massive game if you're an
+a massive game if you're an
 about a Treasury with five or ten
 million dollars very sophisticated
 extremely mercurial attacks like
@@ -859,7 +857,7 @@ national election or
 
 
 **Christian Seberino:**
-okay okay I like what you said about
+okay I like what you said about
 that you said how the stakes aren't as
 high and so the attackers wouldn't be so
 motivated if we were if they were voting
@@ -868,7 +866,7 @@ hundred thousand so that's true if we
 are if the if they're voting on
 something that's not so critical but
 like let's the switch from there was the
-debate about whether etc' should stick
+debate about whether ETC should stick
 with proof of work with something that
 critical and well 
 
@@ -877,10 +875,10 @@ critical and well
 **Charles Hoskinson:**
 that's not something
 scope of the Treasury so that's another
-yea so if it is a distinguish between
+so if it is a distinguish between
 what gets funded and what gets
 implemented so currently there is no
-system in the block chain space to fold
+system in the blockchain space to fold
 on Forks Bezos who's trying to do this
 and I suspect them have their launch in
 their sale and their beta and we'll get
@@ -904,7 +902,7 @@ entire behavior users of the protocol
 and then you need to be able to come up
 with some sort of state transition
 function that allows you to convert the
-protocol into into a new configuration
+protocol into a new configuration
 that's what we're trying to do but the
 liquor in the amount of time you have to
 spend to do that kind of work is
@@ -913,7 +911,7 @@ research into how to do that but I don't
 think we're going to get anywhere in a
 short period of time now not me the
 other hand talking about funding it is
-entirely reasonable to say okay well
+entirely reasonable to say well
 somebody could propose a provable
 perfect steak algorithm example we
 release twins claim and make a ballot to
@@ -925,7 +923,7 @@ approved and and then we would do the
 work and that it would sit there but
 then they would still need to be another
 debate about whether
-the hard work required to to get that
+the hard work required to get that
 installed and that would not be
 necessarily done automatically that
 would be done through meatspace be humid
@@ -947,7 +945,7 @@ course there are a lot of factors at
 work but we we implemented such mechanic
 such procedures in Treasuries that Craig
 and Treasury as hard as cracking Salem
-through basic block chain itself so yeah
+through basic blockchain itself so
 I take care I need to involve a huge
 funding for implementation of this
 attack in practice so if you have some
@@ -963,20 +961,20 @@ like the case which attack might be
 successful in this situation attacker
 allows us much more competitive games we
 use take deposits in our proposal we use
-limited funding and so on so in this
+limited funding and so in this
 case intimidation of attack becomes
 economically unreachable unusable and we
 continue with the filter ethical
-research of different different models
+research of different models
 
 
 
 
 
 **Charles Hoskinson:**
-yeah do we have a threat analysis in in
+yes do we have a threat analysis in
 the proposal that ended up ever end up
-getting its way into this oh 
+getting its way into this
 
 
 
@@ -993,7 +991,7 @@ site such types of attack for the
 general theoretical model probe mobile
 security it's very complex questions we
 continue to open them moreover such
-treasury system is very very complex
+treasury system is very complex
 which requires enemies from very
 different point of views and we will
 open it but the model is very complex to
@@ -1017,7 +1015,7 @@ vote for everything everything is up in
 the air enough for grabs that it's just
 the fun percentage of the funding that
 comes that right now is all going to
-mining that's that's the only thing
+mining that's the only thing
 we're discussing so that's I think good
 Nelly boat and
 
@@ -1026,9 +1024,9 @@ Nelly boat and
 
 **Charles Hoskinson:**
  let's talk about that so
-you know when I I when we first did the
+you know I when we first did the
 proposal and I guess you know it kind of
-came out a ham-fisted way we we said hey
+came out a ham-fisted way we said hey
 let's have a cool open-source discussion
 about like monetary policy and Treasury
 and so forth so we kind of broadcasted
@@ -1070,7 +1068,7 @@ the other departments get zero dollars
 but are expected to perform their
 utility it's madness it's absolute nuts
 the problem is that it's impossible
-right now for a human being to develop
+now for a human being to develop
 an algorithm maybe forever that can
 possibly account mechanistically for all
 of the funding that's required for each
@@ -1089,7 +1087,7 @@ get their point based they'll just get
 slightly less so we're cutting one
 department's budget but then we're
 putting it into a general fund to
-reallocate now yeah the problem is is
+reallocate now the problem is is
 that you can create a great security
 model for this but then you still have
 to figure out well how do you create
@@ -1201,7 +1199,7 @@ so I here we have complex system of this
 complex system requires very
 comprehensive analysis and we are on
 Danish NHL point of a trend we can't get
-me to go with it yeah 
+me to go with it 
 
 
 
@@ -1248,14 +1246,14 @@ it's in that constituency best interest
 to have same ol reliable funding for the
 growth of ecosystem because would you
 rather mine a dead coin or would you
-rather my dash which is worth 100
+rather my Dash which is worth 100
 million dollars and you've just gotten
 to 10 n in the recent trading pattern of
 these things so sometimes investing some
 of your proceeds into the growth of a
 community is a good idea the second
 point I am if there's been a much
-conflation about this is that this is
+conflation about that this is
 some sort of desire to create a Dow to
 point
 and we should probably have a reasonable
@@ -1268,7 +1266,7 @@ guarantee funding it's really a
 pointless model because it's not a
 Treasury at the donation pool and what
 we go back to the same problems we have
-a donation land okay and the second way
+a donation land and the second way
 is to modify the core protocol to
 accommodate a Treasury model model
 itself now this is the most efficient
@@ -1324,15 +1322,15 @@ and just frankly incredibly unfair I'm
 not in the business of building Dow you
 know I it's just unbelievable to me that
 people would save it but you know it is
-what it is it's a space you have to be
+what it's a space you have to be
 you have to accept it another point is
 that our hope is to have a constructive
 discussion about the treasury model and
 a discussion about things like ecit
 quorum and also how we create a balance
-of power in Assyrian classic land I
+of power in ethereum classic land I
 think what we have to understand with a
-Syrian classic is that we earned the
+ethereum classic is that we earned the
 right to be born but we have to earn the
 right to live so when the Dow hack
 occurred and there was a betrayal of the
@@ -1353,8 +1351,8 @@ had to do hard fork when we play attack
 had to be results I mean it was a very
 stressful little road and we lived
 through all of that and now what's
-emerged is a very very resilient
-cryptocurrency but yeah 
+emerged is a very resilient
+cryptocurrency but
 
 
 
@@ -1369,8 +1367,8 @@ to take over the world but they had to
 add the Treasury model and keep
 innovating and with a TV you're saying
 we believe immutability is important
-it's it's cords crucial it's but that
-years unfortunately that one that one
+it's cords crucial it's but that
+years unfortunately that one
 principle is not enough to then win over
 the world and take over everything's
 going to be great for my 
@@ -1378,8 +1376,7 @@ going to be great for my
 
 
 **Charles Hoskinson:**
-right right
-right because because frankly there's
+right because frankly there's
 too much competition
 into space for us to even hope to
 survive in that respect so for example
@@ -1404,7 +1401,7 @@ into a healthy ecosystem that will be on
 par with what if your aim is
 accomplished so in past you just like
 dash did say okay we got to move from
-Dark Queen to something else let's let's
+Dark Queen to something else let's
 innovate and so the the challenge behind
 innovation is to find a way to do
 innovation commensurate with the
@@ -1413,7 +1410,7 @@ founded on and the community I think the
 core principle goes beyond immutability
 is this desire for lack of centralized
 control no one likes saying that
-somebody is in charge of the Syrian
+somebody is in charge of the ethereum
 classic myself included I think it's
 extremely bad from the very beginning I
 said I don't want to be the guy who runs
@@ -1433,13 +1430,13 @@ very solid value proposition to death
 developers and to other people where
 we're saying listen no one's going to
 come along and rip the rug out from
-underneath you you know and if you're if
+underneath you know and if you're if
 you're a guy who builds infrastructure
 in your health care company or an IOT
 company or something you want to put
 billions of dollars of infrastructure on
 something you're the CEO of that company
-you can't go to your CEO and say oh yeah
+you can't go to your CEO and say
 I want to build on this platform and by
 the way they can have a harsh work at
 any moment and there's AC 3 guys beside
@@ -1458,7 +1455,7 @@ platforms have a lot better to me that
 sounds like stable infrastructure to to
 deploy upon so I think that needs to be
 the direction that we as a community a
-TTC have to aspire towards we have to we
+ETC have to aspire towards we have to we
 have to work in that in that flow and it
 requires a huge commitment it means that
 every time we see centralization of
@@ -1476,7 +1473,7 @@ as recent Carlo out to China please hit
 what's have wrong and Carlo and other
 people go and talk about et IP tips of a
 team because you know the quote unquote
-power brokers had decided oh this is
+power brokers had decided this is
 great but if that doesn't actually
 reflect the world whim of the community
 especially the people who were hosting
@@ -1495,7 +1492,7 @@ more decentralized conversations
 
 
 **Christian Seberino:**
- yeah
+ yes
 and I i think what one of the things you
 said it personally to me it seems like
 the strongest argument for needing to
@@ -1509,14 +1506,14 @@ little armchair game theoretician myself
 and I had the thought a couple weeks ago
 I brought it up on slack that the what
 if the
-the etherium decided one day to say you
+the ethereum decided one day to say you
 know what okay fine we made a mistake
 with the Dow hard fork and from now on
 we're going to admit our mistake and
 we're going to believe in the mutability
 and that's going to be a core principle
 and we learned our lesson that that
-could cut the legs up from ET c and so
+could cut the legs up from ETC and so
 then all of a sudden that's not a
 distinguishing feature a ttc anymore now
 that probably won't happen but I think
@@ -1532,26 +1529,26 @@ could have that principle as well
 well I would be skeptical even if they
 did that I mean the underlying cause of
 that behaviors because of the
-centralized way in which Syrian is
+centralized way in which ethereum is
 developed its following a motive driven
 development pattern you know there's a
 small group of actors who have
 tremendous influence over the roadmap
 the direction and the philosophy of
-etherium and as long as you have that
+ethereum and as long as you have that
 even if those groups at all well
 mutability is now cool principal again
 they would they might revert back to old
 behaviors and it becomes inconvenient
 and what do you do to stop them you
-can't that's the that's the whole point
+can't that's the whole point
 so I think skepticism from a game
 theoretic aspect would probably keep
 people in our in our camp but but anyway
 I mean nothing is permanent and this is
 just the proposal it's up on our website
 and if you could put the link to it in
-the show notes that'd be great okay want
+the show notes that'd be great  want
 everybody to read it send us emails
 Roman how big is your team right now
 working on the Treasury proposal can you
@@ -1588,7 +1585,7 @@ which is publicly available
 
 
 **Charles Hoskinson:**
-right Oh
+right
 Christian if you could just edit that
 last dialogue a little bit
 
@@ -1604,7 +1601,7 @@ from that it was
 
 
 **Charles Hoskinson:**
- just just just the
+ just the
 clarification where where I asked about
 the team is that whole thing 
 
@@ -1617,7 +1614,7 @@ right
 
 
 **Charles Hoskinson:**
-okay then just just to add to the
+okay then just to add to the
 to the team we're going to be adding to
 it so we're in discussions with people
 from Lancaster we also might bring
@@ -1637,7 +1634,7 @@ conversation where we're actually
 looking to hire and we're also looking
 for a healthy debate so what I mean by
 healthy debate is that you actually come
-and say okay well if you want to
+and say well if you want to
 accomplish this goal here are the
 problems you're going to have and here's
 your issues and here's why I think the
@@ -1661,7 +1658,7 @@ to be on reference treasury model so it
 will have some parameterization and we
 can we're going to certainly
 parameterize it as a nice eip for a
-cerium classic but it can be used in
+ethereum classic but it can be used in
 other cryptocurrencies as well so that's
 kind of the benefit ion which case you
 know where the business is building
@@ -1690,12 +1687,12 @@ at the side chain you potentially could
 do use a Treasury the same Treasury for
 more than one cryptocurrency that's kind
 of like a trippy mind thing right so
-let's say dash besides outsource the
+let's say Dash besides outsource the
 Treasury model they could build a side
 chain to the Treasury layer and the same
 group of people could make those
 decisions on dash funding as they could
-for ETP funding and you can actually
+for ETC funding and you can actually
 have the submergence of kind of like a
 decentralized meta government in in the
 space so that's cut out there and it
@@ -1716,7 +1713,7 @@ it you having a question for me
 just have one thought to just encourage
 both of you that I'm very good at saying
 stupid things so if it's a stupid just
-tell me so but uh so my my understanding
+tell me so my understanding
 was that one of the reasons America so
 successful was because the founding
 fathers wanted to basically have an
@@ -1731,7 +1728,7 @@ really seems to improve the world when
 you've got these systems that people can
 rely on they trust there's there's
 freedom and so if you are improving this
-governance treasury model for et Cie
+governance treasury model for ETC
 maybe this will lead to improved
 democracy overall and that's a that's
 what grand thought for you guys you guys
@@ -1749,7 +1746,7 @@ Ukrainian politics at all
 
 
 **Christian Seberino:**
-yes okay 
+yes  
 
 
 
@@ -1768,7 +1765,7 @@ you guys are doing
 
 
 **Charles Hoskinson:**
-right it's it's a fun
+right it's a fun
 pursuit you know it's kind of funny
 because a lot of people in this space
 say that OBLA chains are going to
@@ -1783,7 +1780,7 @@ witness so when you have the inability
 to make small changes to a system I
 don't think these systems are ready to
 be used in a context of a government so
-actually that's that's a super exciting
+actually that's a super exciting
 prospect of where we can take appear in
 classic is to demonstrate that you can
 actually lead a cryptocurrency in a
@@ -1807,8 +1804,6 @@ the window
 
 
 **Christian Seberino:**
-yeah well thanks again guys been a great
+yes well thanks again guys been a great
 discussion and appreciate you guys
 coming up Rob ND
-[Music]
-you
