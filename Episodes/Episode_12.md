@@ -1,7 +1,7 @@
 # Let's Talk ETC: Maxwell Sanchez & Justin Fisher - Proof of Proof.
-**Christian Seberino:****
+**Christian Seberino:**
 hello and welcome to another edition of
-let's talk EDC once again I will be
+let's talk ETC once again I will be
 running the show as Carlo is still on
 travel today I have two guests with me
 Maxwell Sanchez and Justin lyst state is
@@ -11,7 +11,7 @@ that i pronounce that correctly
 
 
 **Justin Fisher:**
-oh you
+you
 were close Justin Fisher
 
 
@@ -36,9 +36,9 @@ been working on and I've chatted with
 Max before it well Justin as well and
 they are very bright guys I'm sure you
 will benefit from this discussion so
-let's let's get right to it so why don't
+let's get right to it so why don't
 we first do this let's have the audience
-learn a little bit about you guys I yeah
+learn a little bit about you guys I
 so max why don't you go first
 
 
@@ -67,7 +67,7 @@ I ended up meeting up with Justin about
 two years ago and sometimes are working
 on Vera block and the various projects
 that we've been creating which are
-primarily the better block block chain
+primarily the better blockchain
 and then also another spin-off project
 we've been working on us a long time
 watching it custody which is using
@@ -82,7 +82,7 @@ officers 911 services things like that
 
 **Christian Seberino:**
 okay and Justin would you please
-introduce yourself oh 
+introduce yourself
 
 
 
@@ -93,13 +93,13 @@ the co-founder CEO here at Vera block by
 backgrounds primarily an Internet
 bandwidth web hosting financial
 information services and
-telecommunications um co-founded some
+telecommunications co-founded some
 ISPs helped on the launch of an internet
 bank that was recently sold and I came
 in contact with the crypto space I'm a
-linux advocate since 94 95 we do okay so
-slack works where I made my bones yeah
-yeah I remember that I attempted Linux
+linux advocate since 94 95 we do so
+slack works where I made my bones
+I remember that I attempted Linux
 by scratch I wouldn't consider it a
 success but it was a great learning
 experience and um so you know being an
@@ -124,7 +124,7 @@ around when it was 26 million and it was
 you know trading pennies to a doll or
 something like that it was starting to
 get a little buzz and kind of piqued my
-interest cuz I remember no II Cass
+interest cuz I remember no I Cass
 coming and going back in the 90s and
 attempts it you know digital gold and
 all these other things in and I hadn't
@@ -141,7 +141,7 @@ wasn't really that interesting men in
 breaking out and a lot of the smart
 money smart money started to come in so
 revisited the space and one thing led to
-another yadda yadda Max and I connected
+another yadda Max and I connected
 at a conference in miami a North America
 coin conference and one of the interests
 one of the reasons that I connected with
@@ -191,7 +191,7 @@ I refuse the treasuring them and then
 this coin kind of reminds the block
 chains in general kind of reminds me of
 that but I kind of have that same
-intuition that this is I can't no a no
+intuition that this is I can't no a
 amount of time that I spend it too much
 because it's just like Linux is going to
 be huge obviously and that were you kind
@@ -201,8 +201,8 @@ of the same way
 
 
 **Justin Fisher:**
- yeah I mean I'm
-obviously um I'm not is technically no I
+ yes I mean I'm
+obviously I'm not is technically no I
 go down my I know some administration
 you know I'm not I'm not like a hardcore
 expert by any stretch of the imagination
@@ -218,8 +218,8 @@ advocate of homeschooling
 
 
 **Christian Seberino:**
- yeah that's
-right yeah so
+ yes that's
+right
 
 
 
@@ -231,12 +231,12 @@ homeschooled
 
 
 **Christian Seberino:**
-okay wonderful yeah yeah
-that's worked out well for it so let's
-let's talk about the your technology Oh
+okay wonderful
+that's worked out well for it so
+let's talk about the your technology
 actually before we do that so how did
-you find out about a theory and classic
-and what do you think about Syrian
+you find out about ethereum and classic
+and what do you think about ethereum
 classic action 
 
 
@@ -244,7 +244,7 @@ classic action
 
 **Maxwell Sanchez:**
 so forth herein classic
-um I was falling of course the Syrian
+I was falling of course the ethereum
 project is gained a lot of traction got
 a lot of trading volume each market cap
 and then of course that happened and I
@@ -258,7 +258,7 @@ the issues upcoming with the etherium
 fork and we were thinking you know
 assyrians original branding was hey you
 know let's you know the code is law
-right yeah and um and then it's okay
+and then it's okay
 that you know change that wall and you
 know there's reasons to do so bug fixes
 adding new features things like that but
@@ -267,16 +267,16 @@ type of a situation it seems like you
 know they people will subscribe to a
 contract and you know code is rather
 than let code bball and so we and then
-we saw the etherion classic project and
+we saw the ethereum classic project and
 we saw that taking off and getting some
 traction and it looks really interesting
 and we followed it of course we got some
 least i got some i think Justin probably
-did to some etherium classic tokens from
-the split because you get a theorem in
+did to some ethereum classic tokens from
+the split because you get ethereum 
 here in classic I bought some more
-classic um a few months later on the
-advice of um pretty much the community
+classic a few months later on the
+advice of pretty much the community
 whose those involved in saying it what's
 interesting and so we met up with Carlo
 in New York spent today talking about
@@ -301,28 +301,28 @@ got a lot of traction so we kept home
 
 **Christian Seberino:**
 okay great Justin do you want to add
-anything to that um
+anything to that
 
 
 
 
 **Justin Fisher:**
- yeah he you know I
+ yes he you know I
 thought the etherion project you know I
 bought into the concept of smart
-contracts um I think it was a wonderful
+contracts I think it was a wonderful
 idea I probably when I I actually
 originally I had a minor just kind of an
-interest stake in the ico um it was real
+interest stake in the ICO  it was real
 exciting I didn't really understand the
 tech like I do today it was more just I
 was I was enthralled by the notion of a
 smart contract and it really excited me
 I wanted to see the project unfold see
-where it could go and i know i'm i got
+where it could go and i know i got
 out at around 250 and tried to get back
 in and whatnot and traded around and I
-got caught in the dowel thing and and
+got caught in the dowel thing and
 again we're talking few hundred bucks
 and nothing crazy but the experience was
 enough for me to say you know I just
@@ -336,7 +336,7 @@ the day you've got to let things where
 they're going to be and go where they're
 going to go so um for me if you're in
 classic when i read i think it was a
-post by barry silbert man yes I think
+post by barry silbert man I think
 he's a good mind in the space and when I
 watched him get when he kind of liked
 what I heard other people voicing
@@ -344,7 +344,7 @@ similar philosophies that I adhere to
 and I'm not perfect I don't know if I'm
 right I just seemed to me like you know
 code as long as what we said you know
-what let's let's live and die by our
+what let's live and die by our
 decisions and when he came around and
 kind of supported it and I
 I thought oh wow they're still mining
@@ -362,10 +362,10 @@ i'm a sucker like that
 
 **Christian Seberino:**
 i'm sure that
-that will be encouraging to EP see bands
+that will be encouraging to ETC bands
 that you know business people are
 attracted by the philosophy the social
-contract that was that was always the
+contract that was always the
 hope that those principles would be
 valuable email all in business also that
 there'd be a value to that financially
@@ -382,18 +382,18 @@ know if trust as we want to use that
 word but you're leveraging the
 credibility and everyone's face in the
 Bitcoin system right to work that you
-little little project little new
+little project little new
 altcoins could you bitcoins that correct
 
 
 
 
 **Maxwell Sanchez:**
-yeah so the idea is bitcoin is
-incredibly secure um you have ridiculous
+yes so the idea is bitcoin is
+incredibly secure you have ridiculous
 hashrate behind that you have an
 incredible community built around it
-it's very very decentralized and
+it's very decentralized and
 distributed as the idea was to adopt
 that because bitcoin at the end of the
 day isn't about you know you can move
@@ -405,17 +405,17 @@ at a certain time and so being able to
 leverage that immutability of Bitcoin
 and then give that to other blockchains
 that want to adopt it for doing enhance
-their security either new block chains
-coming out or block chains like if
+their security either new blockchains
+coming out or blockchains like if
 you're in classic perhaps that have
 potential concerns about you know could
-be forked out from etherium there's some
-contention San hashing algorithm ah you
+be forked out from ethereum there's some
+contention San hashing algorithm you
 know your sort of the target so we
 thought watch chains like
-would be really really good to get on
+would be really good to get on
 board of the technology but it's all
-about any block chain that needs to or
+about any blockchain that needs to or
 want to enhance the current consensus
 security they have we're talking about
 making sure that forks at you know the
@@ -429,7 +429,7 @@ layer of security or also for proof of
 state coins that additional arm being
 able to get around issues concerning
 week subjectivity and node bootstrapping
-uh-huh I think I pretty much any block
+I think I pretty much any block
 chain and it straps on top it doesn't
 replace what are the block chains are
 doing their consensus it straps on top
@@ -479,18 +479,18 @@ those cams and you were securing it you
 were taking those hashes and securing it
 to Bitcoin in real time it would be
 irrefutable evidence and we came up with
-the name you know block chain of custody
+the name you know blockchain of custody
 instead of chain of custody
 so we thought wow that's really clever
-that's cute you know that actually um we
+that's cute you know that actually we
 actually take a traditional idea we show
 how this new idea can be a actually a
 better solution I mean fundamentally
 when you look at chain of custody in a
 legacy environment the longer the
 evidence remains in custody the less
-secure it becomes yeah we're in a black
-chain of custody the longer remains in
+secure it becomes we're in a blackchain 
+of custody the longer remains in
 custody the more secure it becomes when
 you look at that underlying principle
 that to me you know it shows clearly
@@ -500,7 +500,7 @@ know I got to thinking with Mexico and
 we were like that's when I learned and
 again I'm you know figuring this out I
 didn't even understand the idea that a
-block chain couldn't secure itself
+blockchain couldn't secure itself
 because it can't hold a private key and
 that's where the idea of proof proof
 evolved what is that you know could we
@@ -513,7 +513,7 @@ mechanism where no humans are
 mechanically turkey if you will to act
 on behalf of a blockchain following
 those attributes and that's that's kind
-of where that that idea evolved from
+of where that idea evolved from
 versus you know certainly you can have a
 federation or a central authority act on
 behalf but you know here we've got that
@@ -538,7 +538,7 @@ itself good coin can though incentivize
 people to mine for of same kind of
 parallels proof of proof of watching
 can't act on its own behalf and publish
-data to another block chain in a you
+data to another blockchain in a you
 know reliable manner but it can pay
 people and then validate that the work
 was done correctly and so we're bringing
@@ -570,14 +570,14 @@ and how you guys fit into that nest
 **Maxwell Sanchez:**
  sure
 so on the level of consensus protocols
-um and being able to inherit security
+and being able to inherit security
 from other block chains or right on top
 of them other stuff like merge mining
 emerge mining encounters some potential
 attack vectors with essentially there's
 an adoption curve which is a little bit
 difficult where as you know merge my
-block change is call it you know
+blockchange is call it you know
 namecoin or whatever one they have to
 get Bitcoin miners to actively watch
 their network and monitor it and
@@ -646,7 +646,7 @@ look at namecoin for example as emerged
 mining platform great I've loved the
 project type I really want to see where
 it goes i like the idea of decentralized
-dns but um with so for example you know
+dns but with so for example you know
 namecoin if let's say at some point one
 of the domain names becomes worth
 hundred million dollars or fifty billion
@@ -673,7 +673,7 @@ guys are another option that where you
 don't need to ask you don't need any
 special permissions and special hard
 fork for bitcoin and you get the full
-power of the mind right 
+power of the mind  
 
 
 
@@ -683,7 +683,7 @@ and regular
 mining doesn't require anything to be
 changed in regular merge my name with
 bitcoins requiring a Bitcoin protocol
-changes um that does require yeah yeah
+changes um that does require
 adoption of the miners and getting them
 q understand and support your project
 and then the opportunity cost so the
@@ -693,11 +693,11 @@ be not needing to get Bitcoin miners
 involved
 and also not having a very low
 opportunity cost of attacking the
-network mm-hmm and if you look together
-very very well you can merge mine a coin
+network and if you look together
+very well you can merge mine a coin
 and then do proof of proof and it's not
 a replacements not one or the other
-there yeah the more technology that can
+there the more technology that can
 be used together 
 
 
@@ -715,17 +715,17 @@ top of it how do you
 
 
 **Maxwell Sanchez:**
- sure so so in the
+ sure so in the
 perspective of all colored coins what we
 call like laird technologies or embedded
 protocols things that ride on the
-Bitcoin blockchain they're very very
+Bitcoin blockchain they're very
 secure there are secure Bitcoin
 essentially unless they have an
 underlying you know protocol issue
 that's unrelated consensus but consensus
 why they are secure is Bitcoin the issue
-really comes down to scalability um you
+really comes down to scalability you
 know Bitcoin we have one make that block
 size right now it's it's another thing
 we should increase in fact my personal
@@ -736,24 +736,24 @@ a high volume transaction network
 neither here nor there but embedded
 protocols in Bitcoin or any other token
 I'll really do say scalability issues
-because their entire block chain or at
+because their entire blockchain or at
 least the important parts of their block
 chain in the case of punches like all
-new layer um mcculloch ones they need to
-be embedded Bitcoin and that's very very
-limited very very expensive space and so
+new layer mcculloch ones they need to
+be embedded Bitcoin and that's very
+limited very expensive space and so
 every time you do a counterparty
 transaction every time you do an omni
 layer transaction all you end up in
 clearing a Bitcoin transaction fee so
 it's it's a very expensive way to
-inherit debt security it works very very
-secure um and depending on the
+inherit debt security it works very
+secure and depending on the
 underlying block shanna can scale to
 various degrees and there are ways to
 create things like payment channels on
 top of layer technologies but at a
-foundation you are sort of at the the
+foundation you are sort of at the
 whim of the network you ride upon and
 you don't get to make major decisions
 about your block chain structure because
@@ -774,7 +774,7 @@ embedded okay platform
 
 
 **Christian Seberino:**
- so if I if I
+ so if I
 understand you correctly you talked
 about the expense of colored coins would
 it be correct to say that it has a lot
@@ -782,7 +782,7 @@ of security but it it some might say
 that it in hugs but the Bitcoin system
 too tightly and so it's less flexible
 whereas if somebody wants more
-flexibility your your system was would
+flexibility your system was would
 provide that but at the same time still
 connect to them to the Bitcoin and
 provide the security as well that
@@ -792,10 +792,10 @@ accurate statement for
 
 
 **Maxwell Sanchez:**
-sure yeah if you
+sure yes if you
 want more control over your blockchain
 the things like block size or whatever
-um you want to have more control over
+you want to have more control over
 your own protocol for everything
 structured that's really that's the
 reason people create their own block
@@ -820,7 +820,7 @@ your tokens
 
 
 **Christian Seberino:**
- yeah we're all your system
+ yes we're all your system
 you could do you know a thousand
 transactions on your alternate
 blockchain and then have only incur the
@@ -831,8 +831,8 @@ transactions like Jax
 
 
 **Maxwell Sanchez:**
-yeah exactly and
-then that that cost could be subsidized
+yes exactly and
+then that cost could be subsidized
 by sort of like a coin based reward
 similar to Bitcoin mining where you know
 people are getting paid to perform this
@@ -846,8 +846,8 @@ approved mining on behalf of support in
 the blockchain or the partners watching
 auxiliary watching and they're bringing
 that up to Bitcoin proving if they did
-it in such a way that the other block
-chain can operate however wants to
+it in such a way that the other blockchain 
+can operate however wants to
 operate all that matters is that it can
 validate
 
@@ -855,8 +855,8 @@ validate
 
 
 **Christian Seberino:**
- so periodically yeah
-periodically yeah right crunching Justin
+ so periodically yes
+periodically crunching Justin
 do you want to say something 
 
 
@@ -864,12 +864,12 @@ do you want to say something
 
 
 **Justin Fisher:**
-oh no I
+no I
 think Matt you know max encompassed it
-you know um II when we talk about block
-size smaller instead of larger um the
+you know I when we talk about block
+size smaller instead of larger the
 idea of being behind and you know
-without going into the religion of it um
+without going into the religion of it
 if you look at for me personally in my
 journey um I keep circling back to
 bitcoin is proof and that it's
@@ -895,12 +895,12 @@ effortlessly and in a very compressed
 Burkle root get manner whatever the you
 know that the method of proofing is then
 why have all that extra overhead well if
-you make the argument that it's it's
+you make the argument that it's
 relevant to buy Bitcoin or high volume
 transactions I'm sorry bubble gum was
 Bitcoin or a cup of coffee you know
 that's obviously the debate that's going
-on right now and I don't know that I'm
+on now and I don't know that I'm
 smart enough to decide what's best I
 can simply say have i've got a bias
 based on a passion for proof and if the
@@ -909,9 +909,9 @@ garner proof is by making the payload as
 small as feasibly possible so it can
 propagate the quickest on lining to mine
 then you know then i would go let's go
-smaller let's not go bigger let's let's
+smaller let's not go bigger  let's
 bring more players into the space let's
-make the propagation faster um that
+make the propagation faster that
 would lend itself to decentralization
 etc so that's all I would want to add in
 regards to the block size because you
@@ -930,9 +930,8 @@ you've been adopted adapt you that
 
 
 
-****Christian Seberino:**
- yeah
-yeah next fence so if I just for the
+**Christian Seberino:**
+yes next fence so if I just for the
 benefit of our audience if it correct me
 if I'm wrong but you're describing the
 two visions of Bitcoin the do you want
@@ -943,7 +942,7 @@ know it's dependable it doesn't change
 very much or do you want that but you
 know convenience speed and so but that's
 of course the competing the debate
-that's happening right now and so I
+that's happening now and so I
 could see why you guys would value the
 the security that reliability more than
 that that's that's that goes with your
@@ -954,7 +953,7 @@ happy
 
 **Justin Fisher:**
 if you're going to be doing
-high-volume transactions and your your
+high-volume transactions and your
 your risk is a cup of coffee rather a
 cup of coffee it overhead that we want
 to put on the world's greatest proofing
@@ -1002,7 +1001,7 @@ determined because one would argue that
 well you know because in our situation
 we're proposing the value still works
 its way up to Bitcoin to incentivize the
-miners right so everyone talks about a
+miners so everyone talks about a
 scaling problem with Bitcoin but Bitcoin
 in my opinion it has zero scaling
 problem it's actually unlimitedly
@@ -1035,36 +1034,36 @@ game so be it i mean i would want to say
 thank you and say maybe it maybe it
 maybe it maybe it should be on something
 light lightning with seg wit maybe it
-should be off Cain completely yeah and
+should be off Cain completely and
 the risk should be mitigated by securing
-the height of your block chain because
+the height of your blockchain because
 there's only so much room for proof at
 our current rate because if you keep
 making the block sizes larger you know
 propagation is going to be it's going to
 play a role I mean look there's nobody
 that could argue the propagation is
-faster with smaller payloads right yeah
+faster with smaller payloads
 it's irrefutable imagine
 
 
 
 
 **Christian Seberino:**
- yeah you know
+ yes you know
 you just something just click with me if
 I could do your marketing for you just
-kidding for this so yeah you what you so
+kidding for this so
 you can have it both ways the
 conservative people that don't want to
-change Bitcoin because it works and and
+change Bitcoin because it works and
 let's not mess with it the people that
 want the better credit card the better
 whatever they could use your system or
 something like it off chain and then so
-you have the best of both worlds right
+you have the best of both worlds
 you don't have to mess with the first
-block chain system that works so
+blockchain system that works so
 wonderfully so that makes a lot of sense
 
 
@@ -1079,8 +1078,8 @@ whatever I don't know what's going to
 happen I you know we're going to follow
 the longest chain obviously I'll let max
 talk to that i won't i won't step over
-my own intellect try to wander right
-along but yeah i think i expressed it i
+my own intellect try to wander 
+along but i think i expressed it i
 mean you know proof is it's a pillar of
 a society that's governed by law and
 when you look at the benefits of proof
@@ -1094,7 +1093,7 @@ connect with it you realize how
 important and how it should I don't know
 I think it's critical I think it's
 obvious
-when you when you go down these rabbit
+when you go down these rabbit
 holes you come up with stuff and you
 start to adhere to principles and who
 knows who's right and I I don't like to
@@ -1124,7 +1123,7 @@ Bitcoin watching
 
 
 **Maxwell Sanchez:**
-yeah good question is
+yes good question is
 that there's absolutely no Federation
 anyone just like Bitcoin mining anyone
 can you know why hardware set it up and
@@ -1142,7 +1141,7 @@ will at home it's no one you can be
 totally anonymous with it you even have
 to have a public identity with anything
 other than an address to get paid for so
-it's very very similar to Bitcoin mining
+it's very similar to Bitcoin mining
 that regard anyone can join anyone can
 leave and then everyone can see the work
 that other people are doing on the
@@ -1168,17 +1167,17 @@ anybody stuck
 
 
 **Maxwell Sanchez:**
- yeah poof of proof is a
+ yes poof of proof is a
 consensus protocol so they're certainly
 in a plane we do plan to work with root
-stock in the future oh and they could
+stock in the future and they could
 easily adopt their technology it
 wouldn't remove the need for the
 Federation for the 28 egg between the
 currency
 proof of proof is a means of
 establishing maintaining consensus over
-your block chain it doesn't help with
+your blockchain it doesn't help with
 Inter blotchy and communication of you
 know like movement of funds or something
 that would be a different case a
@@ -1208,7 +1207,7 @@ on Bitcoin side the
 
 **Maxwell Sanchez:**
 basically is
- yeah um there's a lot of
+ yes there's a lot of
 ideas in the states for how to do side
 chains there's a lot of really exciting
 work on there was a project called drive
@@ -1236,7 +1235,7 @@ impossible
 
 **Christian Seberino:**
 okay all right now if I may
-it's okay with you guys I'd like to move
+it's with you guys I'd like to move
 on to so I think people now have an idea
 that what what these altcoins could not
 do is use your technology to to write
@@ -1256,15 +1255,15 @@ sure so a proof of proof
 miner is a
 taking what we're calling state data
 which on a proof-of-work blockchain say
-for example athyrium classic it would be
+for example ethereum classic it would be
 a block etter enough data to validate
-that there is it either a valid block or
+that there is it ethereum a valid block or
 Finland did a lot of work to pretend
 they had two bottle blonde you're taking
 that data that state data and they're
 putting it on bitcoin and actually we're
 building what we're calling the Vera
-block block chain which is a aggregation
+blockchain which is a aggregation
 layer between other block chains and
 Bitcoin it makes it easier to adopt
 publishing data to bitcoin is a little
@@ -1272,19 +1271,19 @@ bit difficult and that you're limited
 generally speaking to 80 bytes in off
 return you can of course chain most
 whopper turns together and get really
-fancy but um there's it's also very very
+fancy but um there's it's also very
 expensive as Bitcoin transaction fees
 continue to rise so we're building an
 aggregation layer where block chains can
 actually do proof approve to Vera block
 and then Vera block this proof of proof
-to Bitcoin and so block chains can do it
-directly can do it through us um we're
+to Bitcoin and so blockchains can do it
+directly can do it through us we're
 making and rolling out a set of tools
-and make it super super easy to adopt
-and add onto existing block chain
+and make it super easy to adopt
+and add onto existing blockchain
 projects and those would use the Vera
-block block chain for that security it
+block blockchain for that security it
 also provides intermediate security to
 them because they're black does have
 some improvement work as well and so we
@@ -1305,7 +1304,7 @@ validate that there's a plausible block
 on the blockchain kind of like SPV level
 access take that publish it to Bitcoin
 and then create a construct a proof of
-that publication that that's going and
+that publication that's going and
 return that to the subordinate network
 and that gives that that auxiliary
 network arm the what would effectively
@@ -1329,7 +1328,7 @@ different altcoins can decide what how
 many transactions go into every right
 every proof on a bit put the coin chain
 and that correct and you basically make
-a hash hash of all of it a nice tiny
+a hash of all of it a nice tiny
 hash and that's what gets written
 
 
@@ -1362,7 +1361,7 @@ like bitcoin now your system makes it
 more secure by leveraging the security
 of bitcoin so why would an out point
 need a proof-of-work system at all why
-not just junk it and rely completely on
+not junk it and rely completely on
 your approval 
 
 
@@ -1377,7 +1376,7 @@ that we're didn't exist and shame to be
 but we're calling through people doing
 that let's let them assemble two blocks
 to UM their ends up being some game
-theory issues that the block chains that
+theory issues that the blockchains that
 we secure still need to establish
 immediate consensus they need a way to
 actually create blocks and on a
@@ -1390,7 +1389,7 @@ intermediate consensus where they can
 have the network agree you a block
 temporarily before it gets elevated up
 to Bitcoin the issue with having
-um and the thing is a lot of proof to
+and the thing is a lot of proof to
 proof miners who are all working
 separately none of them are you know
 each other and necessarily er work
@@ -1415,19 +1414,19 @@ validating that block by doing
 so you
 would still have you interesting so you
 have competing miners all writing to the
-to the the blockchain as a Bitcoin block
-chain so you have redundancy then that's
+to the the blockchain as a Bitcoin blockchain
+so you have redundancy then that's
 
 
 
 **Maxwell Sanchez:**
-right right there's a tendency and then
+right there's a tendency and then
 it also makes that if someone's building
 an attacking chain they would have to
 also do those publications in broad
 daylight so everyone would see they're
 building a chain before they released
-their fourth um but what's really cool
+their fourth but what's really cool
 is that with that sort of the system you
 have a separation of power where the
 ability to decide what transactions get
@@ -1444,7 +1443,7 @@ for a network to for everyone on network
 to agree that this should be the next
 block other than someone saying this is
 the next block and I could work to prove
-so um you know like all the nodes on the
+so you know like all the nodes on the
 Bitcoin network have a similar but
 slightly different men pool their
 different transactions can pull
@@ -1456,14 +1455,14 @@ that block in a means that everyone can
 agree on and entrust and validate like
 proof award and then they can all do
 that duplication of work once the blocks
-already created like what are we right
+already created like what are we
 on top of existing consensus
 
 
 
 **Justin Fisher:**
- yeah the
-block chain whatever whatever
+ yes the
+blockchain whatever whatever
 even remove the word blockchain from the
 equation whatever you do to which he
 consensus is your business we're not
@@ -1479,7 +1478,7 @@ match
 
 
 **Maxwell Sanchez:**
- yeah we don't replace consensus we
+ yes we don't replace consensus we
 fortify it for your existing consensus
 continues as normal and then we make it
 you have to you establish content with
@@ -1491,7 +1490,7 @@ publications to Bitcoin
 
 
 **Christian Seberino:**
-yeah that's
+yes that's
 that's great so it's almost like
 insurance just just to make people happy
 and sleep well at night they can go do
@@ -1535,7 +1534,7 @@ change
 
 
 **Christian Seberino:**
-okay Justin a 
+okay Justin 
 
 
 
@@ -1566,12 +1565,12 @@ that case no value
 
 
 **Christian Seberino:**
- yeah so far the
+ yes so far the
 further
 benefit of the audience if I could try
 to make a simple analogy tell me if you
 like this so if I believe when there's a
-forest fire the the fireman can can burn
+forest fire the the fireman can burn
 a ring around it right basically and so
 then they go and try to put out the fire
 inside the ring but at so worst-case
@@ -1587,7 +1586,7 @@ that
 
 
 **Maxwell Sanchez:**
- yeah they did a good analogy we can
+ yes they did a good analogy we can
 you know Mark a certain block and people
 can look at it and say you know there's
 no way for consensus to be challenged
@@ -1603,7 +1602,7 @@ attacked you know this block could be
 challenged this block cannot be
 challenged as part of the force can burn
 what will try to stop it but report
-certainly can't um
+certainly can't
 
 
 
@@ -1618,12 +1617,12 @@ receive and then they're allowed to
 focus on their product or service unless
 on you know they can they can if they
 can look at more efficient consensus
-algorithms that that are worthy of what
+algorithms that are worthy of what
 it is that they're trying to secure
 these different block chains are going
 to have different thresholds of pain for
 what their level security needs to be
-know if if there can be a finite roofing
+know if there can be a finite roofing
 utility that people can subscribe to a
 grid through 50 well on the more people
 that subscribe the more you know the
@@ -1637,14 +1636,14 @@ that's where the hashing power lives and
 we'd want to tap that because its
 benefit of proof to your your project or
 not used specifically I made you clearly
-ah so yeah as
+so as
 if it's adopted then it becomes a
 self-fulfilling prophecy in that sense
 and that it allows blockchains to focus
 on their product or service instead of
 getting into debates about security or
-centralization or trustless and blah
-blah blah yeah it kind of gets it just
+centralization or trustless and
+it kind of gets it just
 wears you down and let's just focus on
 solutions and then let the solutions
 start to battle it out instead of
@@ -1656,7 +1655,7 @@ the blockade
 
 
 **Christian Seberino:**
- yeah yep now if I could
+ yes now if I could
 just kitchen we can you address so I
 think people have a little bit more of
 the idea of the fine detail you want to
@@ -1675,7 +1674,7 @@ sure so there's kind of two
 discussions here first of all the papery
 mentioned if anyone wants to read
 through to the white paper about 20
-pages going to be good very blah calm
+pages going to be good very calm
 and download and look at it the attack
 vectors against proof of proof are
 primarily regarding failures and
@@ -1686,7 +1685,7 @@ challenged although a fork in Bitcoin
 does not mean that the auxiliary chains
 of the fork it would only be if someone
 were to actively attack them along with
-their attack on Bitcoin um so Bitcoin
+their attack on Bitcoin so Bitcoin
 fourth doesn't mean that our other
 channel fork but it doesn't mean that on
 jewelry chain may forecast that burn
@@ -1705,10 +1704,9 @@ you're just basically saying that your
 security depends on Bitcoin security and
 well you're just you're you if Bitcoin
 has issues with their security you guys
-might have issues but what okay but
+might have issues but what but
 that's I wouldn't know nobody would
-expect otherwise so
-Yeah right
+expect otherwise 
 
 
 
@@ -1742,9 +1740,9 @@ pretending that a fork is occurring when
 it's not actually occurring because they
 could Pogo make publish bogus data that
 makes it look like they've created
-dollar chain when they have them oh
+dollar chain when they have them
 don't let me again with that is a spill
-proof proof in a way where the data
+proof in a way where the data
 you're publishing can be validated as
 valid between the rules of your
 immediate consensus on your auxiliary
@@ -1759,7 +1757,7 @@ using
  so did you it is one of the points
 you're making that it's up to the alt
 coin to decide what to write to the
-Bitcoin block chain but if they don't
+Bitcoin blockchain but if they don't
 write enough information then they could
 be in trouble so it's that is that
 correct that what you're saying 
@@ -1770,7 +1768,7 @@ correct that what you're saying
 
 **Maxwell Sanchez:**
 right so
-it yeah most of the issues with the
+it most of the issues with the
 proof of proof protocol would be in if
 you implemented certain things wrong
 these are attack vectors I could come
@@ -1795,7 +1793,7 @@ this would not be an issue at all
 **Christian Seberino:**
 you'll
 help people to use your technology
-correctly of course so yeah okay
+correctly of course
 
 
 
@@ -1809,17 +1807,17 @@ implementation if the implementation is
 incorrect in certain ways that may not
 be obvious when designing it that there
 could be issues that evolved out of that
-sure sure final consensus issue would be
+sure final consensus issue would be
 that with proof of proof there is if you
-are very very quiet block chain and
+are very quiet block chain and
 nobody's doing proof approve obviously
 not getting the security but your chain
 is actually technically at more risk
 because someone could create an
 alternative chain and you prove the
 proof to overcome your chain with less
-raw worth so if you're a block chain
-doesn't have at least some very very
+raw worth so if you're a blockchain
+doesn't have at least some very
 minor consistent proofing and you do
 open yourself up to more attack them if
 you didn't have proof approve didn't
@@ -1829,14 +1827,14 @@ every hour or two then you're safe but
 if they absolutely band approve the
 proof but they felt like implemented in
 the protocol then it does create a
-security risk yes I was gonna improve
+security risk I was gonna improve
 recovery 
 
 
 
 
 **Christian Seberino:**
-yeah if you wouldn't have said
+yes if you wouldn't have said
 that I that was that idea came to my
 mind when you are listing a possible
 attack vector so the analogy would be of
@@ -1844,7 +1842,7 @@ course if if you make your burn ring
 right 2 big then the fire has the
 potential to do a lot more damage than
 if you made it really close to the fire
-so don't be it's it's a mistake to make
+so don't be it's a mistake to make
 it too big
 
 
@@ -1856,11 +1854,11 @@ just got to use it correctly and so if
 I'm use the tool correctly if you have
 here just like Bitcoin a stick one too
 many miners it would be very insecure in
-fact it wouldn't even run right so too
+fact it wouldn't even run so too
 if you don't have proof of proof miners
-in your network you are vulnerable um
+in your network you are vulnerable
 and if you implement proof of proof
-visited sting shin is that that is the
+visited sting shin is that is the
 only case where by having proof of proof
 you are made less secure is by having it
 if not using it on it would be the
@@ -1907,12 +1905,12 @@ world's greatest proofing utility
 whatever that plans to be and inevitably
 if black change cuties proof proof
 independently and you know they see
-value in it that's great too because um
+value in it that's great too because
 it's still serving the greater good as
 far as supporting the world's greatest
 proofing utility and inevitably if those
-fees become cost prohibitive for a block
-chain because it's proof of proof is
+fees become cost prohibitive for a blockchain
+because it's proof of proof is
 successful then you know Vera block is
 readily available as a truly trust lyst
 decentralized permission list and
@@ -1920,11 +1918,11 @@ transparent solution for doing said
 proof of proofs in other words Vera
 block is a gateway to the proofing
 Network providing a very or the most
-efficient way to do the proofing right
+efficient way to do the proofing
 it's an aggregation so and ultimately
 it's life or death is going to depend on
-those block chains or utilities that its
-services so you know it's it's a Bible
+those blockchains or utilities that its
+services so you know it's a Bible
 people for the people play inevitably we
 want to build it launched just set it
 free and see where it goes but that's
@@ -1937,7 +1935,7 @@ if in theory things play out and you run
 lines down the down the road inevitably
 roads are all going to lead back to you
 know trying to do a single merkel route
-into the Bitcoin block chain to secure a
+into the Bitcoin blockchain to secure a
 great deal secure a block change
 
 
@@ -1974,13 +1972,13 @@ that they can truly have the same
 properties that proof of work has proof
 of work has its own inherent properties
 and if those properties those intangible
-properties that um that I'm personally a
+properties that that I'm personally a
 maximalist for and I want to move value
 up to the world's best of utility and if
 if bitcoin is the best form of proof of
 work to date and that's what we'll use
 it's something else tomorrow we'll use
-that we're not work we're we're
+that we're not work we're
 blockchain agnostic but we're proof
 centric 
 
@@ -1991,8 +1989,8 @@ okay yes let me unless you guys
 have any other comments why don't we why
 don't we wind things down by and kind of
 moving more to the discussion towards
-athyrium classic so you guys are Syrian
-plastic fans like me you believe in
+ethereum classic so you guys are ethereum
+classic fans like me you believe in
 their philosophy their vision so would
 you like to maybe say something about
 what you could offer if you're in
@@ -2010,7 +2008,7 @@ simply what we'd like to do is work with
 the community and be if you're in
 classic developers
 to put together a testament that has
-etherium classic functionality with
+ethereum classic functionality with
 proof of proof security demonstrate it
 show it off see people like it see if it
 everything works and it's a good fit for
@@ -2045,42 +2043,42 @@ are but gorgeous
 
 
 **Justin Fisher:**
-yeah yeah I am I've
-been watching a fear IAM classic I have
+yes I am I've
+been watching ethereum classic I have
 an interest in the project I think
 that's gotta smart group of people spend
 some time speaking with Charles and
 Carlo and smart guys and I like some of
 the things you've done as far as capping
 the emission rate I like some of those
-ideas um but I think there's an
+ideas but I think there's an
 interesting opportunity here and you
 know when I when I think about
 differentiating oneself and standing out
 and showing boldness and showing its
 kind of its thinking different if you
-will you look at a cerium and you look
-at Bitcoin and I'll say a serum classic
+will you look ethereum and you look
+at Bitcoin and I'll say ethereum classic
 I mean if you're in classic feels kind
 of funny I feel like I should just say
-athyrium and we're did but I won't go
+ethereum and we're did but I won't go
 there right now but are so for the sake
 of being clear if you're going to look
-at a theorem classic or
+ethereum classic or
 cerium original I look at Bitcoin there
 was always this kind of this adversarial
 relationship and I see it is completely
-unnecessary i think it's i think it's
+unnecessary i think it's
 void of truly being constructive so when
 i look at to me fundamentally what makes
 bitcoin great proof and I looking you
 know what makes what got me interested
-in the cerium to begin with you know
+in the ethereum to begin with you know
 smart contracts and the you know the the
-virtual machine right this cubed virtual
-machine if you all um I mean if you can
+virtual machine this cubed virtual
+machine if you all I mean if you can
 take the chocolate of Bitcoin and put it
-with the peanut butter of a cerium oh
+with the peanut butter of ethereum
 that's a really profound idea and it
 allows the debate about your mining and
 the ashtray and security it puts allow
@@ -2093,11 +2091,11 @@ know we're not afraid of Bitcoin we see
 its value and proof you'd be stupid to
 do that so it shows a lot of character
 and I think that could be a unique
-opportunity to really um you know if
+opportunity to really you know if
 you're in classic is one of the big boys
 and for one of the big boys to take a
 step forward and embrace an idea like
-this it's um it's a groundbreaking idea
+this it's a groundbreaking idea
 and it could really do a lot for the
 community and the interest in people
 coming in and I think there's a lot of
@@ -2117,7 +2115,7 @@ each other's strengths
 
 
 **Christian Seberino:**
- yeah i can't
+ yes i can't
 really think anything away so not you
 right if they presumably let's say they
 added it to a future hard court that
@@ -2130,27 +2128,27 @@ but adds extra
 
 **Justin Fisher:**
 it's no cost because
-here's here's the way here's and that's
+here's the way here's and that's
 an interesting question you know cuz
-okay sounds great what do I
-what does it cost right well it's
-relative right because you're going to
+sounds great what do I
+what does it cost well it's
+relative because you're going to
 be diverting a portion of the coin base
 to proof of proof miners to do the
 proofing on your behalf but in exchange
 you're going to inherit all that hashing
 power instantly for a fraction of the
 cost of what was spent to do the hash
-for you yeah now all of a sudden the guy
-who's mining okay maybe he's not getting
+for you now all of a sudden the guy
+who's mining maybe he's not getting
 as much coin but the coin he's getting
-could could seemingly be more valuable
+could seemingly be more valuable
 because it's more secure the people
 using the network are going to get more
 security and then there's one area we
 really haven't really touched on but
 it's an exciting area as well the
-exchanges the exchanges are going to get
+exchanges are going to get
 a set of metrics and that's one of the
 reasons that we think Vera block is
 going to have value it because max has
@@ -2166,12 +2164,12 @@ because when security comes value
 because know again that ring of fire
 gets tighter and tighter and tighter
 more compact and efficient so yeah the
-idea of etherium classic reaching out
+idea of ethereum classic reaching out
 and seeing the value of bitcoins proof
 as a form of security to protect
 themselves from bigger hashing power
-that might want to prey on them I know I
-I think that's I think it's a pretty
+that might want to prey on them I know
+I think it's a pretty
 compelling idea and I think it's a great
 story and it's a great narrative to
 those who are maybe thinking about
@@ -2182,7 +2180,7 @@ classic
 
 
 **Christian Seberino:**
-uh-huh yeah wonderful 
+yes wonderful 
 
 
 
@@ -2193,7 +2191,7 @@ example of the blockchain where proof of
 proof makes sense because you know as
 you guys become more successful and get
 a higher market cap and edge up closer
-to cerium your procedures more of a
+to  your procedures more of a
 threat and you know they have an
 incentive to attempt to disrupt the
 network and so you're at a position
@@ -2203,7 +2201,7 @@ of hash power and you know there is that
 that conflict between you know if you're
 in classic encroaching on the value of
 cerium or whatever and so it's a really
-good it's a very large block chain it's
+good it's a very large blockchain it's
 a very
 unique case where you know there is sort
 of a need for that protection as you
@@ -2215,7 +2213,7 @@ of threat
 
 
 **Christian Seberino:**
-so yeah yeah I think it's a
+so yes I think it's a
 very nice
 
 
@@ -2240,7 +2238,7 @@ vectors you have a paper people can read
 that spells it all this out and so
 there's plenty of information plenty of
 thought went into this and there's a lot
-of value in your your idea is that
+of value in your idea is that
 correct would you want to add anything
 to that 
 
@@ -2248,13 +2246,13 @@ to that
 
 
 **Maxwell Sanchez:**
-yeah and we've gotten some peer
+yeы and we've gotten some peer
 review on the white paper there's been
-very very positive feedback on it we're
+very positive feedback on it we're
 working at block labs who will have
 additional help and resources from them
 as well with building out the technology
-and getting it adopted and but yeah if
+and getting it adopted and but if
 anyone wants to look into the technology
 anymore the websites up our there's a
 white paper that explains it in
@@ -2265,7 +2263,7 @@ answer any questions people have about
 the technology how it works clarifying
 how blotching could adopt it or kind of
 world office looks like any of that can
-as more than welcome in my inbox so okay
+as more than welcome in my inbox so
 unacceptable and open 
 
 
@@ -2277,7 +2275,7 @@ to add anything to that
 
 
 **Justin Fisher:**
- um well i mean
+ well i mean
 first foremost you know from this from
 the onset of meeting with carlo in new
 york um getting to meet Charles and now
@@ -2297,22 +2295,22 @@ guys
 
 
 **Christian Seberino:**
- yeah charging for that 
+ yes charging for that 
 
 
 
 
 **Justin Fisher:**
 that's
-pretty that's there's a clear value
-there um but you know that's obviously
+pretty there's a clear value
+there but you know that's obviously
 everybody operating in a vacuum off your
 struggles with that and sometimes get
 another perspective and add an opinion
 it's really helpful so if you want to
 share some other stuff after the call
 and we'd like to keep you involved in
-our progress what we're doing um you
+our progress what we're doing you
 know we're just honored and grateful
 that you let us be a part of the show
 and gave us an opportunity to present to
@@ -2331,11 +2329,11 @@ definitely have to keep tabs on you guys
 I'm sure you guys are going to do great
 things and I'll be hearing about you in
 the news maybe in the future who knows
-so yeah thank you guys again for coming
+so thank you guys again for coming
 on and and that's it so I wish you guys
 well and we'll keep in touch ok great
 thank you take your Grecian if you are
 passionate about anything related to
-ethereal classic and you have
+ethereum classic and you have
 that's that leaking on show we're all
 looking for interesting
