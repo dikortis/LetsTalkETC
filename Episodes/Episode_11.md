@@ -1,12 +1,12 @@
 # Let's Talk ETC: Manuel Sabin - Proof Of USEFUL Work Systems.
 **Christian Seberino:**
 hello everyone and welcome to another
-episode of let's talk et Cie where we
+episode of let's talk ETC where we
 discuss technologies and issues related
-to aetherium classic as you know there's
+to ethereum classic as you know there's
 a lot of great research going on on
-blockchain regarding Bitcoin etherium a
-Syrian classic and lots of other
+blockchain regarding Bitcoin ethereum a
+ethereum classic and lots of other
 cryptocurrencies and today we have one
 of those innovators who we are going to
 talk to today I have with me
@@ -14,7 +14,7 @@ Manuel Saban he is a PhD student at the
 University of California at Berkeley and
 so he's going to be discussing his his
 work so Manuel why don't you introduce
-once you tell tell a little bit about
+once you tell a little bit about
 yourself how you got into this
 
 
@@ -22,8 +22,8 @@ yourself how you got into this
 
 **Manuel Sabin:**
  sure okay
-so yeah I am on well doing my PhD at
-Berkeley and um how did I get into this
+so I am on well doing my PhD at
+Berkeley and how did I get into this
 so I'm coming more from the theoretical
 computer science side of things I like
 to study 
@@ -36,7 +36,6 @@ sigh speech even is x-ray
 
 
 **Manuel Sabin:**
- yeah
 yes computer science PhD and I like to
 study the hardness of problems
 how hard were things and we've recently
@@ -83,7 +82,7 @@ or any comment on that
 
 
 **Manuel Sabin:**
-um you know I
+you know I
 could have dreams of making progress
 towards that but there's well-studied
 barriers to achieving that dream goal
@@ -91,11 +90,11 @@ barriers to achieving that dream goal
 
 
 **Christian Seberino:**
-okay so I I know that a lot of problems
-are they they they can't be solved and I
+okay so I know that a lot of problems
+are  they can't be solved and I
 was talking to a computer science
 professor when I was getting my PhD
-mm-hmm and he said he didn't think that
+and he said he didn't think that
 the P equals NP problem was one of those
 that was unsolvable he said or he had a
 feeling it just felt like one of those
@@ -108,8 +107,7 @@ we are times to sit it's been solved
 
 
 **Manuel Sabin:**
-oh
-yeah there's there's no real reason to
+yes there's there's no real reason to
 believe that it should not be solvable
 but there are very strong reasons why
 our current techniques will need to be
@@ -122,10 +120,10 @@ sufficient for tackling P versus NP
 
 **Christian Seberino:**
  okay
-and if I if I understand correctly it is
+and if I understand correctly it is
 not possible to it's either not easy or
 not possible period to prove certain
-things have a minimum minimum difficulty
+things have a minimum difficulty
 it is that correct that's a professor
 concern regarding computer security in
 factoring 
@@ -144,7 +142,7 @@ not been abundant according
 
 **Christian Seberino:**
 now before
-we get into the details of your your
+we get into the details of your
 work I'm curious what was just I like to
 find out a little bit more about
 people's history so tell me when you
@@ -165,7 +163,7 @@ kind of theoretical side of cryptography
 and this was something that was kind of
 off to the side it was much more
 practical and I went to some talks on it
-and it seemed so yeah it's a really
+and it seemed so it's a really
 interesting idea crypto currency in
 general is a very neat idea it wasn't
 quite the flavor of things I like
@@ -184,7 +182,7 @@ followed closely
 
 
 **Christian Seberino:**
-ok ok and so now so why
+ok and so now so why
 don't you then now describe for the
 audience and is first well why don't we
 start out this way in the simplest terms
@@ -227,7 +225,7 @@ problem
 
 
 **Christian Seberino:**
-okay so that's that's
+okay so that's
 interesting to me because so it hurts so
 proof of work at first for me was was
 kind of odd because you're intentionally
@@ -235,12 +233,12 @@ wanting to make something difficult
 
 
 **Manuel Sabin:**
- yeah
+ yes
 
 
 
 **Christian Seberino:**
-and and so and on top of that to add
+and so and on top of that to add
 insult to injury they they make
 something difficult by doing something
 that's pointless essentially and so your
@@ -256,7 +254,7 @@ a a good match
 
 
 **Manuel Sabin:**
- sure so um the hardness
+ sure so the hardness
 we get the hardness from so sorry much
 like cryptography we get so much like
 cryptography we base our hardness on
@@ -287,7 +285,7 @@ set of I don't know say 2000 people that
 all know each other you're trying to
 detect communities report so this is a
 type of problem that amenable to our
-framework okay or okay yeah or also like
+framework okay or also like
 if you have a network of roads you have
 points being the cities and you have
 edges being the roads and you want to
@@ -307,7 +305,7 @@ time to set it up so that it could be
 clearly executed on a computer but there
 enough is there a constant demand you
 know seven days a week for that type of
-work that it could be a block chain
+work that it could be a blockchain
 could to process that continually
 
 
@@ -333,10 +331,10 @@ as one of these three
 **Christian Seberino:**
  okay and might
 remind people of the correct me if I'm
-wrong with np-hard and a lot of yeah if
+wrong with np-hard and a lot of if
 you're an industry and there's a year
 you're trying to solve your specific
-little nish problem and you think oh my
+little nish problem and you think my
 gosh I'm not sure that there's even a
 simple solution to this you can what
 they commonly do is show that it's
@@ -344,7 +342,7 @@ equivalent to a more famous np-hard
 problem like the Traveling Salesman
 problem and and then once you do that
 it's that pretty much you know does it
-increases people people's confidence
+increases people's confidence
 that there's no simple solution and so
 there's a lot of these equivalent
 problems is it kind of related to that
@@ -358,10 +356,10 @@ exactly the idea so when you talk about
 something being np-hard you're saying
 that a lot of problems reduced to it and
 unless all of those problems become easy
-that yeah so if a problem is np-hard
+that so if a problem is np-hard
 it's going to be very hard because it
 just hearted all the problems that
-reduce to it yes is it is the point so
+reduce to it is the point so
 similarly we have these problems being
 hard in a sense as in when I say there's
 a rich framework of research supporting
@@ -395,11 +393,11 @@ scientists get again correct me if I'm
 wrong cuz you're the expert
 so if like you're talking about
 processing or analyzing the Facebook
-network right and so yeah if you want to
+network right and so if you want to
 solve a problem with involving let's say
 ten people and then if you want to solve
 a problem with involving twenty people
-so you doubled your problem size yeah
+so you doubled your problem size
 when we say it's when you say it's
 quadratic cubic what you mean is that so
 you double it so then it becomes four
@@ -408,13 +406,13 @@ or a now and so just because you
 increase it by a certain amount doesn't
 mean that difficulty increases by the
 same amount it could get more difficult
-and so and so if it's if you just so
+and so and so if you just so
 this is going to get a little nasty so
 if you raise it to an exponent and
 that's called polynomial time and but
-then that's that's already difficult
+then that's already difficult
 enough but then people they talk about
-exponential growth yeah and then that's
+exponential growth and then that's
 the really bad really difficult
 situations and so you're saying that
 even you're saying the polynomial what
@@ -425,7 +423,7 @@ right
 
 
 **Manuel Sabin:**
- yeah not only manageable but this
+ yes not only manageable but this
 is exactly what we want out of a proof
 of work we want to proof of work to be
 able to be done within a reasonable
@@ -443,7 +441,7 @@ it to be difficult
 
 
 **Manuel Sabin:**
-exactly exactly so
+exactly so
 when I say something is cubic computable
 or something that's exactly what you
 were saying is if I give you something
@@ -459,8 +457,7 @@ or input size to the fourth power that
 kind of tells me how hard I want to make
 this problem and you can kind of show
 you can set how hard you want the
-problem to be but also sorry yeah so
-yeah yeah
+problem to be but also sorry
 
 
 
@@ -491,7 +488,7 @@ like that
 
 
 **Manuel Sabin:**
- sure sure so we haven't
+ sure so we haven't
 created a blockchain scheme specifically
 but we do propose something very similar
 to that in in our paper so yeah the idea
@@ -503,7 +500,7 @@ meeting poops at work and the idea would
 be exactly as you said to have a queue
 of problems where okay I need up I have
 a problem that can need to be solved so
-what do you do you try to you see if
+what do you try to you see if
 your problem can be written as a problem
 that we have a proof of useful work for
 and based on the fact that many of these
@@ -574,15 +571,14 @@ the same instance every time
 
 
 **Christian Seberino:**
-okay
 okay so and then that would be that
-would help with the security okay
+would help with the security
 understeer 
 
 
 
 **Manuel Sabin:**
-oh and also the randomness is
+and also the randomness is
 really generated based on the contents
 of your block so if you try to alter a
 transaction that would change the random
@@ -594,14 +590,14 @@ invalidate any other proof of work sorry
 
 **Christian Seberino:**
 and who is who are the people that
-submit the work to be done oh 
+submit the work to be done 
 
 
 
 **Manuel Sabin:**
 sure at
-this point um we I don't see a reason
-why it couldn't be anyone okay as in you
+this point we I don't see a reason
+why it couldn't be anyone as in you
 like you said you have a queue and then
 people just submit to that queue when
 people want to implement a proofs of
@@ -615,15 +611,15 @@ the existing blockchain
 
 **Christian Seberino:**
 wait here's what
-I'm getting at so like in a Syrian
+I'm getting at so like in ethereum
 classic the miners provide a service
-they they they solve this difficult
+they solve this difficult
 problem which is allows blocks to be
 added to the blockchain but now what
-would be the like thus here the etherium
+would be the like thus here the ethereum
 community wouldn't just or any
 blockchain wouldn't just want to solve
-my my problems
+my problems
 you know do my work to make me short so
 they somehow it has to benefit the
 blockchain the cryptocurrency
@@ -646,11 +642,11 @@ understand what you're saying so
 
 
 **Christian Seberino:**
-so I I
+so I
 agree that there's lots of useful work
 in the world that could be done tried by
 the miners these computers but I guess
-I'm what would be the benefit okay
+I'm what would be the benefit
 here's a hit look but this way here what
 would be the benefit to a blockchain for
 being altruistic and saying you know
@@ -665,7 +661,7 @@ they get out of it
 
 **Manuel Sabin:**
 the miners whether
-they're miners get out of it um
+they're miners get out of it
 
 
 
@@ -686,12 +682,12 @@ it's useful to whoever submitted the job
 sure this is true so the the blockchain
 folk simply need to have instances to do
 work on if for some reason they want to
-collude and say okay let's only choose
+collude and say let's only choose
 instances that come from this company or
 from this country or this what-have-you
 then they could do that if you'd want to
 if you'd want to come combat that if you
-want to make sure every every instance
+want to make sure every instance
 is treated equally that would have to be
 a separate system that kind of lays on
 top of blockchain and that would be
@@ -702,7 +698,7 @@ about blockchain is it's decentralized
 right that's its main importance and
 that's because you don't want to trust
 someone
-your money yeah that aside delegating
+your money that aside delegating
 work this again lays on top of
 blockchain it doesn't really affect how
 centralized or decentralized blockchain
@@ -710,7 +706,7 @@ is lock chain can continue to be
 entirely decentralized and it be an
 entirely separate matter if there's more
 of a centralized system that creates a
-queue yes in that sense people still
+queue in that sense people still
 have don't need to trust anyone with
 their money or their transactions they
 can still do their poops to work per
@@ -725,10 +721,10 @@ money
 
 
 **Christian Seberino:**
- yeah if if anybody was worried
+ yes if if anybody was worried
 about centralization due to a queue I'm
 sure somebody could develop a
-decentralized queue that hmm synced with
+decentralized queue that synced with
 all the nodes somehow 
 
 
@@ -741,8 +737,8 @@ what the proof of useful work offers
 
 
 **Christian Seberino:**
-yeah so it sounds if I understand you
-correctly the it's it's it's just it's
+yes so it sounds if I understand you
+correctly the it's just it's
 altruistic if a blockchain decides to be
 useful work
 maybe literature live by 
@@ -772,7 +768,7 @@ instances to do work on me
 
 
 **Christian Seberino:**
-sure sure and
+sure and
 then another thing that something you
 said that caught my attention you were
 you're talking about for security
@@ -781,7 +777,7 @@ yes to the work but does that them that
 seems to work against this notion that
 we're going to help all these people
 with their computational problems
-because if I if I come to the system and
+because if I come to the system and
 say okay I have this specific
 calculation I need done then your system
 is going to insist right adding this
@@ -795,8 +791,8 @@ calculation the other thing
 
 
 **Manuel Sabin:**
-yeah yeah
-exactly so yeah a proof of useful work
+yes
+exactly so a proof of useful work
 should be two things it should be hard
 so that it's a proof of work and it
 should also be useful so that you can
@@ -831,12 +827,12 @@ started where
 
 
 **Christian Seberino:**
- okay so so it's up to the
+ okay so it's up to the
 person submitting the job to be done to
 to characterize it in a way that is
 compatible with your system where they
 could inject randomness in it and you
-still be happy with the results okay
+still be happy with the results
 that makes sense
 and I as you were as you were explaining
 it I just some ideas came to mind some
@@ -844,10 +840,10 @@ examples of work where there randomness
 would be fine like for example if we
 were trying to factor write a large
 number and then your system would would
-attempt write random random pieces of
+attempt write random pieces of
 the facespace the random numbers try to
 factor and that would be fine right and
-then the hope would be that by by luck
+then the hope would be that by luck
 eventually one of those random choices
 would lead to the answer and so that's
 an example where you could inject
@@ -857,7 +853,7 @@ randomness and still be for work
 
 **Manuel Sabin:**
 sure in
-our case though so the framework is um
+our case though so the framework is
 so there's no there's not luck really
 involved in it we have it set up so that
 if you solve this ramen challenge you
@@ -868,8 +864,7 @@ answer to your original problem
 
 
 **Christian Seberino:**
-okay
-okay yeah alright so if there's other it
+okay yes alright so if there's other it
 other limitations so it's not that you
 could run any computation you want there
 would have to be it has because be able
@@ -881,22 +876,22 @@ to be constructed a specific layer
 
 **Manuel Sabin:**
 sure
-so this is not um a turing-complete
+so this is not a turing-complete
 thing you can't do an arbitrary
-computation that you want okay um this
+computation that you want this
 is we have hardness based on a specific
 set of problems that also have some nice
 robustness characteristics as in many
 problems can be written as them but you
 have to fit within the framework of
-those problems yeah and the framework we
+those problems and the framework we
 give also leads to say that there's
 probably many other problems that can
 have this use property 
 
 
 **Christian Seberino:**
-yeah and then it
+yes and then it
 goes on they little become more and more
 flexible while school exactly secure yes
 
@@ -908,7 +903,7 @@ exactly
 
 **Christian Seberino:**
 well it's certainly a great service that
-year you're working on and what's the is
+you're working on and what's the is
 it still in the prototype stages are
 there are there alt coins talking about
 using this so stage
@@ -922,16 +917,16 @@ using this so stage
 theoretical stage in the sense that we
 accomplished it in a in a paper but
 there aren't there aren't
-implementations of it yet okay
+implementations of it yet
 there are we are working on it with
 someone to create yeah prototype
 implementation of it
 but what we have now is the definition
 of what a proof of useful work should do
 and how you could do that with practice
-with yeah with a set of practical
+with a set of practical
 problems that turned out to be quite
-robust okay yeah and the hum and so and
+robust and the hum and so and
 before this it was not sure how this
 possibly could be done it's been wanted
 for a while to have proofs of work that
@@ -956,7 +951,7 @@ prime coin you're saying
 
 
 **Manuel Sabin:**
- yeah yeah so so
+ yes so
 this is meant to for the first time
 capture what a proof of useful work
 should be in the sense of a proof of
@@ -977,20 +972,20 @@ curious have you heard of proof of stake
 
 **Manuel Sabin:**
 I was looking that up
-when uh yeah I was looking that up when
+when I was looking that up when
 we started talking about doing this
 interview
 
 
 
 **Christian Seberino:**
- so so a lot of people have
+ so a lot of people have
 been thinking is like you about they the
 issue with all this useful a useless
-work yeah on and so that was that was
+work on and so that was that was
 another attempt to try to address that
 that problem of those wasted resources
-yeah but so 
+but so 
 
 
 
@@ -1012,12 +1007,12 @@ have people do contract work out
 
 
 **Christian Seberino:**
- yeah so
-I'm I'm not prepared to give a okay
+ yes so
+I'm not prepared to give a
 anchor description and also the
-algorithms are evolving but but there I
+algorithms are evolving but there I
 just wanted you to just get your opinion
-that there are there are other things
+that there are other things
 that people are trying to do we are
 trying to make the work useful and other
 people are trying to eliminate the work
@@ -1025,7 +1020,7 @@ people are trying to eliminate the work
 
 
 **Manuel Sabin:**
-exactly yeah there is so there are
+exactly there is so there are
 things called proof of stake and there's
 a poof of space as well where instead
 you prove that you you you use a certain
@@ -1035,15 +1030,14 @@ issue by just avoiding work and proving
 that you do something else and what we
 try to do here is like say okay let's
 keep poof of work but fix the
-uselessness problem yeah and write this
+uselessness problem and write this
 as far as the proof of stake just a
 comparison with that because from what I
-understand with aetherium is that you
+understand with ethereum is that you
 can contract out work and from my
 understanding that's just work done on
 top of the proof of stake just having
 people do work
-[Music]
 what I'd want to say about ours our
 proof of work is that the computation is
 verifiable in the sense that the point
@@ -1058,7 +1052,7 @@ ask me some long question of like okay
 what's the answer to this and I tell you
 oh it's five and you could say okay Road
 are you sure
-and I say yeah yeah trust me and there's
+and I say trust me and there's
 no real way for you to check that the
 correct answer is five unless you go
 through and do the entire computation
@@ -1069,11 +1063,11 @@ words the correct answer
 
 
 **Christian Seberino:**
-okay so now now
+okay so now
 that obviously reminds everybody of the
 NP right but non-deterministic
 polynomial which is a terrible name but
-yeah the analogy that I always use to
+the analogy that I always use to
 describe what you're saying that you can
 easily verify a solution is so putting a
 jigsaw puzzle together is is relatively
@@ -1082,7 +1076,7 @@ man well look I did it right yeah thank
 you a few seconds to glance over so yes
 definitely yeah I can I can verify that
 solution so if some difficult problems
-are very easily verifiable and like like
+are very easily verifiable and like
 the pachinko so what you're
 
 
@@ -1101,13 +1095,13 @@ it is for the jigsaw puzzle verification
 
 
 **Manuel Sabin:**
-yeah exactly so my understanding of
-aetherium right now is lots of people
+yes exactly so my understanding of
+ethereum now is lots of people
 have to do the same task if there's a
 contracted thing if a task is contracted
 out people have to many computers have
 to do that task so that they can verify
-that oh yeah that was the correct answer
+that that was the correct answer
 whereas in our system only one person
 has to do it
 not each person has to do the task to
@@ -1116,18 +1110,17 @@ one person has to do it along with a
 very easily checkable proof like the
 jigsaw puzzle when I give a proof of
 useful work to be solved when someone
-solves it it's much more like a jigsaw
+solves it's much more like a jigsaw
 puzzle than an arbitrary answer oh yeah
 it's five trust me
-it's something that like oh great that's
+it's something that like great that's
 a solution I believe you because I can
 see right there that's the correct
-solution yeah yeah sorry
-
+solution 
 
 
 **Christian Seberino:**
- yeah so it's
+ yes so it's
 exciting the times that we're living in
 is all this innovation people are trying
 different things in the blockchain space
@@ -1139,8 +1132,8 @@ is going to end up you know where we're
 going to we're going to be like but
 you're part of that helping to kind of
 push humanity forward in a sense so I
-yeah really appreciate what you're doing
-so now you you've given a pretty good
+really appreciate what you're doing
+so now you've given a pretty good
 description of what you what you're
 working on is there anything else that
 you want to communicate that I haven't
@@ -1154,7 +1147,7 @@ one thing I should say is that my
 co-authors are Marshall ball alone Rosen
 and Prashant Vasudevan I just forgot to
 say that so maybe that edited to the
-beginning but but let's see other things
+beginning but let's see other things
 all right 
 
 
