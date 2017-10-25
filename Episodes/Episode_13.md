@@ -1,7 +1,7 @@
 # Let's Talk ETC: Daniele Levi Discusses Stampery.
 **Christian Seberino:**
 hello everybody and welcome to another
-episode of let's talk ET SI today I have
+episode of let's talk ETС today I have
 a special guest danielle levy from
 Stamper e and he'll be talking about his
 technology Carlo is still on travel so I
@@ -42,7 +42,7 @@ this is incredible hackers currency
 decentralized mining sounded incredibly
 clever for me and of course also the
 fact that the sadly was limited was
-something that really caught my my
+something that really caught my
 attention and remember it was quite an
 adventure because I try to find
 somewhere to buy bitcoin with my credit
@@ -61,15 +61,15 @@ the on the spot price but i bought my
 first my first bitcoins i think i bought
 like three bitcoin for twenty dollars
 something like that and they started
-buying every every every day until i
+buying every day until i
 realized that i had to send some money
-to mt gox Oh to wire some some money
+to mt gox Oh to wire some money
 that was the intelligent thing to do but
-let's say that the from the very very
+let's say that the from the very
 first moment I dived very deeply into
 into Bitcoin and cryptocurrencies i
 would say that from that day
-cryptocurrencies have become my my main
+cryptocurrencies have become my main
 focus and i have to say that while i
 first learned about cryptocurrency with
 bitcoin in 2012 I've always been a fan
@@ -78,9 +78,9 @@ was a teenager in the mid-90s I
 remembered that they spent a lot of time
 lurking in in cyberpunk news groups in
 the usenet and I remember reading the
-things by by the wit leaks guy now I
+things by the wit leaks guy now I
 just forgot his name a bias ang sorry
-yes and and and reading stuff by health
+yes and and reading stuff by health
 in a four for example and the PGP guys I
 remember using PGP I don't remember it
 was 1.0 or 2.0 but when it was a
@@ -88,7 +88,7 @@ teenager in 1993 or 90 94 and and they
 really loved that cipher cyberpunk war
 and when I first learnt about Bitcoin
 kind of data into that yeah yeah it
-really any yeah it really made sense
+really any it really made sense
 
 
 
@@ -102,9 +102,9 @@ started getting interested in Bitcoin
 **Daniele Levi:**
 okay so I always been an entrepreneur
 and a hacker always be going to take a
-hologram yeah well not really I'm not
-programming it's not my my main skill
-but let's say that I can I can program a
+hologram well not really I'm not
+programming it's not my main skill
+but let's say that I can program a
 little bit and I've always been
 interested in computer science security
 hacking and also music and I've been
@@ -115,7 +115,7 @@ months before starting before diving
 into the crypto currency space and be
 specific into the cryptocurrency space
 this is the fur the third venture I am
-leading in this place first I yeah first
+leading in this place first I first
 I built a very big mining operation
 instead it was 2013 I bought some
 avalons I'm avalon avalon machine
@@ -128,7 +128,7 @@ because as you know in mining timing is
 crucial so you need to to plug in a new
 generation yes early as possible to make
 a profit the first
-I did let's say I i built and i and i
+I did let's say I i built and i
 managed a big mining operation and it
 wasn't 13 then i tried to build an
 exchange in switzerland at that time we
@@ -155,23 +155,23 @@ depend on a third party like like a bank
 so that's when we started thinking about
 Stan free and that time speaking meet
 2014 mid-2014 maybe end of 2014 and Lee
-Stanford we wanted to focus on the non
+Stanford we wanted to focus
 on the use not related directly with the
 currency of the blocks and technology
 and that's why we created Stamper and at
 stamp ring what we do is extremely
 simple we just use public blockchains so
-both bitcoin an etherion classic to
+both bitcoin an ethereum classic to
 generate proof of existence and
 integrity and also ownership for
 any kind of data sets so files documents
-pictures etc 
+pictures ETC 
 
 
 
 
 **Christian Seberino:**
-yeah now I was going to I
+yes now I was going to I
 before the interview I was planning to
 ask you how you were so advanced what I
 mean is so my impression is people are
@@ -179,10 +179,10 @@ slowly getting interested in blockchains
 i slowly learn about it and then maybe
 slowly they might some people might
 think about starting a company but you
-know you you had the stamp read it's
+know you had the stamp read it's
 going strong and I was wondering how did
 you get so far ahead and like and you
-answered it it was because you were just
+answered it was because you were just
 one of the original people that from the
 weight from the very beginning right you
 were you were interested in the the
@@ -191,36 +191,36 @@ Bitcoin you know about Hal Finney so you
 were there from the very beginning
 you're one of the authentic real you
 know original cryptocurrency fans so
-that's pretty impressive and it's it's
-it's interesting that you you are always
+that's pretty impressive and it's
+it's interesting that you are always
 an entrepreneur and you weren't afraid
 to try mining you weren't a that you
 even were so ambitious to do an exchange
 that's very impressive um and then you
-did stanberry and um what what is
+did stanberry and what is
 interesting to me one of those lots of
 things that are interesting but
 basically it is a notary right
 notarization that's one way to describe
 what you do and you do more but that's
-that's a big part of it and so it would
+a big part of it and so it would
 make sense that you would you would be a
-fan of etherium classic because they're
+fan of ethereum classic because they're
 a big value is immutability right and
 they don't want to change the blockchain
 that I want to make too many
-improvements impulsively and so yeah so
-I was I was just really impressed with
+improvements impulsively and so
+I was just really impressed with
 your background and it would make sense
 that you'd be doing your work on on the
-theorem classic which is that correct
-everything I 
+ethereum classic which is that correct
+everything 
 
 
 
 
 **Daniele Levi:**
-yeah it's everything it's
+yes it's everything it's
 correct I i would like to tell you a
 little bit more about why i went only
 into crypto currencies i I felt from the
@@ -231,7 +231,7 @@ they wanted to be in the front line and
 I always had this feeling i saw the
 internet revolution because when my dad
 brought a model in in my house I was
-like 13 13 and nobody had internet yet
+like 13 and nobody had internet yet
 in your lexing Spain in Europe because I
 live a live in Spain and I knew that
 internet was going to change the world
@@ -242,7 +242,7 @@ just let's say happening in front of my
 eyes then the second revolution I saw
 what I witnessed was the mobile
 revolution I saw everybody had mobiles I
-knew that was going to to to be
+knew that was going to be
 something huge that or all our lives
 we're going to change because of this
 and this is another revolution I just
@@ -251,7 +251,7 @@ this time as soon as I learned about
 Bitcoin as I told you it was the end of
 2012 I said this is going to check the
 work I don't know if it's going to be
-Bitcoin big big key or a new iteration
+Bitcoin big key or a new iteration
 of this concept but Fresno currencies
 are here to change the world this is a
 huge revolution and I want to be in the
@@ -267,7 +267,7 @@ proposal of a crypto currencies a
 cryptocurrency and that's why I ray I
 immediately felt at home when i first
 read about
-about Bitcoin so what yeah what we do a
+about Bitcoin so what we do a
 temper as you said is some sort of 21st
 century notarization so we create this
 proof of integrity and exist and that
@@ -280,10 +280,10 @@ in the doubt but still I was against the
 hard fork because I seem to believe that
 erasing or modifying cryptographically
 verified history it's against the
-principle of a blockchain yes now now in
+principle of a blockchain yes now in
 hindsight I don't think that the three
 foundation made a mistake I think they
-what they did was was okay for their
+what they did was for their
 purposes or fail goals but still for a
 company like stanbridge the blockchain
 has to be immutable and it has it cannot
@@ -294,9 +294,9 @@ a negative president
 
 
 **Christian Seberino:**
-yes so it's it's
-clear that your your business depends
-very strongly you you immutability you
+yes so it's
+clear that your business depends
+very strongly you immutability you
 don't just need a lot of immutability
 need a hundred percent of you ability or
 whatever they're the right word is but
@@ -312,12 +312,12 @@ data
 
 
 **Christian Seberino:**
-and and also i'm a i'm not
+and also a i'm not
 a you know a great business person but a
 one thing that's impressive i think
 about stanberry is so many different
 types of businesses need right they need
-to notarize the verify data it's it's
+to notarize the verify data it's
 right there's a universal need for that
 no I think that's per
 smart that you guys did that I actually
@@ -376,7 +376,7 @@ mathematical proof right
 
 
 **Christian Seberino:**
- yeah yeah 
+ yes
 
 
 **Daniele Levi:**
@@ -390,7 +390,7 @@ and all word has been based on these
 kind of interactions and right now with
 with blocking technology you don't need
 to trust these third parties and if you
-think about it it's the same is the very
+think about it's the same is the very
 same principle
 that ellos a decentralized currency to
 do to happen and to work so you can take
@@ -418,27 +418,27 @@ went to the my bank's website and I
 downloaded or my the electric company
 let's say and I downloaded a bill so now
 maybe I have a PDF and so yours with
-stanberry I could I could I could maybe
+stanberry I could maybe
 make a hash or something use your system
-and put put in put information on the
+and put in put information on the
 blockchain that would guarantee the
-integrity right
+integrity 
 
 
 
 
 **Daniele Levi:**
- yeah yeah integrity it
+ yesintegrity it
 would guarantee that that utility bill
 or that document was never tampered with
 
 
 
 **Christian Seberino:**
-okay but ah ok but here's what I here's
+okay but here's what I here's
 my question for you let's say that I
 download or I get some document I tamper
-with it first okay I changed maybe the
+with it first I changed maybe the
 amount that I oh whatever and then I
 know I Notre I used stamp Rihanna
 tampered file
@@ -448,11 +448,11 @@ tampered file
 **Daniele Levi:**
  no of course I mean you
 get a proof of integrity of the file you
-embed it on the block chain or essay of
+embed it on the blockchain or essay of
 the file whose hash you embed it on the
 blockchain yes so you if you tampered
 with the file previously then force the
-system it's not going to to to work
+system it's not going to work
 probably you need the institution that
 it's giving you the document
 to hash it and to store it on the
@@ -461,19 +461,19 @@ blockchain
 
 
 **Christian Seberino:**
- okay I could yeah then that
-would add another more value if if
-people cared about that yeah that makes
+ okay I could then that
+would add another more value if
+people cared about that makes
 sense so and actually one thing if I
 could add so maybe Stamper II might not
 be able to guarantee that the original
-file is is correct but the Stanbury
+file is correct but the Stanbury
 could guarantee that let's say after
-that like in one year I don't change it
+that like in one I don't change it
 right from exotic it's fixed after that
-so that that's that's still useful also
+so that's still useful also
 and there'll be people that need that
-service so yeah that's that's great why
+service so that's great why
 don't we now why don't you kind of I
 think people now have an idea of the the
 value of Stanbury what your business
@@ -488,7 +488,7 @@ application a download or what
 
 
 **Daniele Levi:**
- yeah so
+ yesso
 look it's very simple and used for web
 application at m dot do and we have a
 web interface they just have to drag and
@@ -502,7 +502,7 @@ been stamped during a certain window of
 time and then we create a cryptographic
 tree of these hashes and then we take
 the roots of this tree and we embed it
-on both the theorem classic block chain
+on both the ethereum classic blockchain
 and the Bitcoin blockchain and then we
 generate a proof which is all you need
 to indefinitely verify that the file
@@ -535,11 +535,11 @@ one that was tampered with
 
 
 **Daniele Levi:**
- you you have
+ you have
 your original document and then you also
 have a proof which is a JSON file that
 has all the siblings and by siblings we
-mean the sibling hashes that k need to
+mean the sibling hashes that need to
 reconstruct the path from your document
 to the route that was embedded on the
 blockchain 
@@ -548,20 +548,20 @@ blockchain
 
 
 **Christian Seberino:**
-so it's basically like a like
+so it's basically like
 a Merkel tree is one of our country
 
 
 
 
 **Daniele Levi:**
- yeah
+ yes
 
 
 
 
 **Christian Seberino:**
-okay so so so let's say okay so just to
+okay so let's say okay so just to
 give the audience an idea how this works
 so let's say so I have a stamp rehash
 now I'm concerned that there was
@@ -581,7 +581,7 @@ some slightly delivered to you together
 as soon as you create the proof so okay
 you have the JSON file and when you send
 the original document to someone and you
-want them to be able to to check that
+want them to be able to check that
 this document was not tampered with you
 have to send them the proof to which is
 a little file or also a PDF if you want
@@ -592,8 +592,8 @@ which is more easy to read
 
 
 **Christian Seberino:**
- okay yeah
-that makes sense yeah I was reading in
+ okay yes
+that makes sense I was reading in
 your papers you had your the blockchain
 time-stamping archit
 texture that you called it and you said
@@ -604,14 +604,14 @@ how that worked but now it kind of makes
 sense how you combine several document
 hashes into one so then you said there
 was a patent pending so this is some
-original work yeah I resist
+original work I resist
 
 
 
 
 
 **Daniele Levi:**
- yeah this is
+ yes this is 
 some original work that we have done its
 work done basically by my co-founder
 Lewis even kwenda who is also co-founder
@@ -625,15 +625,15 @@ or CTO done
 
 
 **Christian Seberino:**
- ok ok and I was just looking
+ ok and I was just looking
 at your website I took some notes
-there's you you had some ideas that
+there's you had some ideas that
 wreath applications people could use
 stamp reef or one of them was trail bot
-yeah right where you could use Stamper e
+where you could use Stamper e
 to make sure that your files and logs
 haven't been tampered with like systems
-system administrators yeah that was yeah
+system administrators yeah that was
 joe you want to say something
 
 
@@ -641,7 +641,7 @@ joe you want to say something
 
 
 **Daniele Levi:**
- yeah yeah
+ yes
 trade but it's one of the vertical
 applications of this technology and we
 believe that the legacy notarization
@@ -664,7 +664,7 @@ something unexpected happens to your
 file so imagine that a log file its
 modified in a way that it's not expected
 for example something it's erased from a
-log file you connect either yeah like a
+log file you connect either like a
 hacker so you can trigger a smart policy
 for example bringing down the system or
 pinging a system administrator or
@@ -681,7 +681,7 @@ that does all these
 
 
 **Christian Seberino:**
-yes great so and um
+yes great so and
 what is the if somebody out there is
 interested what is the cost is there a
 specific cost per file or how does
@@ -702,7 +702,7 @@ kind of service has to be free
 **Christian Seberino:**
 well
 that'll certainly attract a lot of
-people to use your service um what is
+people to use your service what is
 then what's your revenue plan or
 business plan just
 
@@ -725,8 +725,8 @@ good that it becomes a commodity
 
 
 **Christian Seberino:**
- haha so
-I'm just I'm just guessing but you so
+so
+I'm just guessing but you so
 you that kind of reminds me since you're
 a smart business person so craigslist of
 course I uh if I understand correctly so
@@ -755,9 +755,9 @@ perhaps something like that
 
 
 **Daniele Levi:**
- yeah
+ yes
 something like that you can always start
-for support okay lays so there are many
+for support lays so there are many
 many different paths to generate revenue
 but at the beginning for it's important
 to have as many people as possible using
@@ -768,11 +768,11 @@ the basic stamping or the blockchain
 time stamping for free then another
 company it will come and they will give
 the service for free because the
-marginal cost it's very very little yes
+marginal cost it's very little yes
 and it makes sense to have this kind of
 fast an automatic data notarization for
 free then compute services on top for
-which you can sure you can get out
+which you can get out
 
 
 
@@ -780,21 +780,21 @@ which you can sure you can get out
 
 **Christian Seberino:**
  yes
-I'm glad I'm glad that we we cleared
+I'm glad that we cleared
 that up because I was suspecting maybe
 some people would be suspicious you know
 how could they charge it for free you
-know maybe they're in in six months
+know maybe they're in six months
 they're gonna there it's not going to be
 free anymore but you just gave a good
 reason why it makes sense to keep it
-free and so I yeah with with digital
+free and so I with digital
 technologies it's not very it's not
 terribly expensive to give things for
 free of course that's what Google does
-and so that's it's not it's not it's not
+and so that's it's not
 too surprising that people could see
-that you would do that so yeah yeah and
+that you would do that so and
 very nice now
 I'm curious why don't we talk about like
 how you're interacting with governments
@@ -809,7 +809,7 @@ you have any thoughts on that
 well so
 regarding government's we have a
 partnership with the government of
-Estonia Estonia it's one of the most
+Estonia it's one of the most
 advanced countries in the world they
 have this e residency program and this
 residency card that allows any arrested
@@ -822,15 +822,15 @@ bank account opening a company whatever
 you want and regarding getting divorced
 there is a fine story an estonian friend
 told me that his wife has his irrational
-card and also his pin pin okay because
+card and also his pin because
 sometimes they have to do some from some
 stuff online and he is the the pinger
 under to his wife for her too many good
-things and taste that that if she she
+things and taste that if she she
 she becomes too angry she can divorce
 online just with his car than his pin
 number so you have to be careful being a
-do everything online but yeah these
+do everything online but
 these guys in estonia do everything
 online with their ear ascendancy card
 and you can authenticate yourself on
@@ -838,24 +838,23 @@ stamping with an estonian a residency
 card and you can sign any kind of
 documents using this kind of a residency
 card and also take the document and
-notarize it using block chain
+notarize it using blockchain
 
 
 
 
 
 **Christian Seberino:**
- okk can I
-sku a another question about that yeah
-so
+ ok can I
+sku a another question about that so
 at the beginning of the interview I told
 you my story that I had to notarize
 those three documents and send them to
 Europe and how inconvenient that was and
-I I you had few through you threw out
-the idea that if if it was important
+I you had few through you threw out
+the idea that if it was important
 that the original document was trusted
-that maybe I should have my my bank or
+that maybe I should have my bank or
 the utility company make the hash and
 put it on stanberry so do you is there
 any discussions in a with American
@@ -905,11 +904,11 @@ the guarantees that Stanbury provides it
 would be nice to have a legal precedent
 or write that if the if Stanbury the
 blockchain says
-that something is true that a that a
+that something is true that a
 court could believe it or they have to
 they have to use that information if
 there was somehow legal weight behind it
-that would be nice right so I don't know
+that would be nice so I don't know
 what it would require for that to happen
 but you see I'm saying
 
@@ -918,7 +917,7 @@ but you see I'm saying
 
 
 **Daniele Levi:**
- yeah but I didn't
+ yes but I didn't
 a big technology we are using it's very
 standard cryptography it's we're just
 using hashes and as you can imagine
@@ -940,12 +939,12 @@ of time
 okay but it sounds from what you
 said it sounds like you thought that
 hashes had already been may be mentioned
-in previous court cases so far okay so
+in previous court cases so far so
 that would imply so that would mean that
 you could if you had to go to court if
 somebody suits somebody you potentially
-you could use Stamper II evidence right
-to help you get to the truth and and the
+you could use Stamper I evidence right
+to help you get to the truth and the
 judge would would listen to that so so
 it could be useful in a legal situation
 
@@ -955,12 +954,12 @@ it could be useful in a legal situation
 
 
 **Daniele Levi:**
-yeah look I will give you an example of
+yes look I will give you an example of
 a real use case stamp reuse case we have
 this law firm that use a Stamper because
 when they receive documents to be
 analyzed for example in mergers and
-acquisitions or or in this kind of
+acquisitions or in this kind of
 operations they take all the documents
 they receive and they stopped them with
 with tampering so they have this proof
@@ -992,7 +991,7 @@ of those documents
 
 **Christian Seberino:**
  yes so that's
-encouraging right if if the lawyers like
+encouraging right if the lawyers like
 Stanbury that means that they think
 there's validity there's that there's
 legal weight behind it if it's necessary
@@ -1000,7 +999,7 @@ so that's that the others that's good to
 know let me go back and ask you one last
 technical question so I'm impressed by
 your solution to this scaling problem
-how you combine hashes and you you you
+how you combine hashes and you
 said that it was similar to a Merkel
 tree what you were doing if it's not
 exactly the same so what was the what I
@@ -1019,23 +1018,23 @@ tree that you had
  I mean just as how if
 just how do we use it in this specific
 case and we needed the pattern just for
-have it in a defensive fashion we we
+have it in a defensive fashion we
 have a no intention of stopping others
 in using a similar technology we just
-applied for the for the pattern
+applied for the pattern
 to have as a defensive asset that's it
 
 
 
 
 **Christian Seberino:**
-okay okay okay I understand okay well um
-yeah thank you I think you've I think
+okay I understand well 
+yes I think
 you've answered all my questions I think
 people have a better idea of how Stamper
 e works it seems the fact that it's free
 and there's a global need Universal need
-for for your services I would think that
+for your services I would think that
 we're going to be hearing a lot from you
 in the near future sounds like you have
 a great business
@@ -1071,16 +1070,16 @@ notarization and related services and it
 does it on digital files the service is
 free and you can access the free
 notarization service at stampede I oh
-yep zacchara okay and it's useful for
+yep zacchara and it's useful for
 all kinds of file system administrators
 could use it for their log files right
 as you said lawyers could use it for all
 manner of files so really any kind of
 digital content that people want to make
 sure it hasn't been tampered with could
-use your free service which is which is
+use your free service which is
 great so thank you Danielle for
-explaining that to us and yeah so
+explaining that to us and so
 so I just wish you well and you will
 keep in touch
 
@@ -1092,9 +1091,9 @@ Chris all right
 
 
 **Christian Seberino:**
-bye-bye bye-bye if you
+bye if you
 are passionate anything related to a
-theory classic and you have something to
+ethereum classic and you have something to
 say we'd love to discuss that with you
 on the show we're always looking for
 interesting guests so don't be afraid to
