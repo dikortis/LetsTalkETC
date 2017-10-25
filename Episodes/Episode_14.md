@@ -1,22 +1,22 @@
 # Let's Talk ETC: Joel Dietz - Distributed Governance & More.
 **Carlo Vicari:**
 hi everybody thank you for tuning into
-let's talk ET c i'm your host karlovy
+let's talk ETC i'm your host karlovy
 along with my co-host dr. christian
 Severino christians would fill it in for
 me for the last like five or six shows
 so christian thanks a ton for being
 there guys I was over in Japan Shanghai
 and Malta Japan you know they just
-pushed through uh you know completely
+pushed through you know completely
 accepting Bitcoin as the form of payment
 Shanghai everybody's into blockchain and
 Bitcoin and all sorts of stuff and the
-ECC community over there is awesome and
+ETC community over there is awesome and
 Malta was over there for the financial
 cryptography conference and there's just
 so much cool work being done in the
-space right now um so just the one to
+space right now so just the one to
 give you guys a brief overview you know
 where I've been the last few months and
 it's just a really exciting to see where
@@ -25,33 +25,33 @@ touch upon especially like Shanghai
 there was like three buildings full of
 accelerators just doing all sorts of
 stuff and a whole bunch of blockchain
-accelerator stuff going on over there um
+accelerator stuff going on over there
 so also just to touch upon a couple of
-things in reference to ET cie it's great
+things in reference to ETC it's great
 to be back and just to fill you guys in
 on what's been going on this last week
 we have two additional developers
-joining the TC dev team and also if
+joining the ETC dev team and also if
 anyone saw the news about Stanbury using
 etherium just to let everybody know
-they're actually using the et Cie chain
+they're actually using the ETC chain
 which is really exciting check out the
-et Cie newsletter which was just
+ETC newsletter which was just
 released on this week on the 13th for a
-bunch of et Cie news and info and also
+bunch of ETC news and info and also
 check out ecet see today that has a
 bunch of articles and new stuff that's
-going on in the HTC community so to get
+going on in the ETC community so to get
 down into it i'd like to introduce
 everybody to joel deeps of swarm fund
-and also a gent 'ok uh yes that's
+and also a gent that's
 correct your agenda Craig up
 
 
 
 
 **Joel Dietz:**
- yeah
+ yes
 authentic group
 
 
@@ -61,10 +61,10 @@ so I mention well at
 coin agenda last year in vegas and the
 skies involved in a whole bunch of
 blockchain you know stuff and he's just
-a pill a pillar in the community and
+a pillar in the community and
 doing all sorts of stuff all over the
 world really cool guy great ambassador
-for block chain and work out a lot of
+for blockchain and work out a lot of
 awesome projects so crazy happy Anya's
 show Joel thanks for joining us
 
@@ -72,17 +72,17 @@ show Joel thanks for joining us
 
 
 **Joel Dietz:**
-yeah very happy to be here 
+yes very happy to be here 
 
 
 
 
 **Carlo Vicari:**
-yeah
-definitely so yeah yeah so uh Joel kind
+yes
+definitelyh so Joel kind
 of if you could just give everybody a
 little bit of a background and you know
-um your general background and kind of
+your general background and kind of
 how you got to detect I guess 
 
 
@@ -90,7 +90,7 @@ how you got to detect I guess
 
 
 **Joel Dietz:**
-um yeah
+yes
 sure i was one of these you know child
 prodigy programmer started programming
 at age six started you know taking
@@ -103,7 +103,7 @@ some enterprise-e Software Architect
 stuff for it became more about the
 overall system design rather than any
 specific technological implementation
-and it was around then that I I was sort
+and it was around then that I was sort
 of initially a Bitcoin skeptic to be
 honest and then after reviewing other
 attempted digital currency things I
@@ -129,24 +129,23 @@ problems was extremely exciting to me I
 started writing about reputational
 network systems you know how the future
 of organizational design I started doing
-some evangelism for athyrium created
-this sort of Silicon Valley athyrium
+some evangelism for ethereum created
+this sort of Silicon Valley ethereum
 group with Christian feel great
 thur casts an online educational smart
 contract channel with your sponsor and
 and just really was put all my energy
 into that so that was sort of the
-initial like whoa block chain is
+initial like whoa blockchain is
 something really real and exciting
 
 
 
 
 **Carlo Vicari:**
- yeah
-yeah like when it when it quit you know
+yes like when it quit you know
 I guess we all have that clear to moment
-yeah so that it's funny that the room no
+so that it's funny that the room no
 go ahead I just say
 
 
@@ -157,7 +156,7 @@ go ahead I just say
 of vague appreciation a Bitcoin but not
 like a significant I never made a
 significant investment to being like wow
-etherium is really groundbreaking and
+ethereum is really groundbreaking and
 exciting at both a technological level
 and that like a world global impact
 level
@@ -167,8 +166,8 @@ level
 
 
 **Christian Seberino:**
- yeah so yeah I say something so
-you know yeah Joel it's kind of
+ yes so I say something so
+you know Joel it's kind of
 interesting because the what you
 described so you started out as a
 programmer and some people style is that
@@ -176,18 +175,18 @@ they like to keep their head down and
 write massive amounts of code but it
 sounds like then you diverged into other
 like thinking about the big picture and
-education and so I I kind of see myself
-kind of similar to that I I like
+education and so I kind of see myself
+kind of similar to that  I like
 programming but then I also like
 thinking of I don't know how you
 describe the education bigger the bigger
-issues at hand here so yeah so I think
+issues at hand here so I think
 we're kindred spirits in a sense there
 
 
 
 **Joel Dietz:**
-yeah yeah in that particular case it was
+yes in that particular case it was
 driven by you know business needs in the
 organization's I was in where we had a
 lot of programmers who were very good at
@@ -211,19 +210,19 @@ say okay cool very good
 
 
 **Carlo Vicari:**
-yeah yeah
+yes
 definitely I mean we we have a chance to
-talk a lot about et Cie while I was over
+talk a lot about ETC while I was over
 in vegas which was pretty awesome so
 that was a pretty
 interesting conversation between me you
-and bellezza was Philip right
+and bellezza was Philip
 
 
 
 
 **Joel Dietz:**
- yeah
+ yes
 Philip pylorus one of my key business
 partners here at the moment
 
@@ -231,7 +230,7 @@ partners here at the moment
 
 
 **Carlo Vicari:**
- yeah yeah
+ yes
 Philip was a cool guy Joel's a great guy
 
 
@@ -245,7 +244,7 @@ picture and thinking about the future
 and that kind of path sometimes I would
 have jobs where they just wanted the
 type of person that keeps his head down
-and bangs out boring code and and
+and bangs out boring code and
 sometimes I would be thinking of my mind
 would be in all these other places and i
 would i would get bored to death with
@@ -259,7 +258,7 @@ things
 
 
 **Joel Dietz:**
-um yes and no you know I you know
+yes and no you know I you know
 I have a couple academic degrees and you
 know good grades and things like that so
 I have known that you know at times
@@ -273,7 +272,7 @@ lot of focus and then there are times
 when you can kind of rewind a little bit
 and look at kind of big picture things
 and in fact a lot of the early
-implementations of etherium like systems
+implementations of ethereum like systems
 that I was involved in I noticed that
 there was no one really rewinding a look
 at the big picture and that they were
@@ -312,22 +311,22 @@ see very clear value that's delivered so
 
 
 **Carlo Vicari:**
-yeah so I guess this is a good time to
+yes so I guess this is a good time to
 add you know you're talking about the
-differences you have between athyrium
+differences you have between ethereum
 and the etherium world and stuff like
-that so in reference to athyrium classic
-you know et Cie um I know you've had you
-know plenty of suggestions for the et
-Cie community and something you're like
+that so in reference to ethereum classic
+you know ETC I know you've had you
+know plenty of suggestions for the ETC
+community and something you're like
 really good at enough you know i'm
 looking at a white paper right now
 that's in reference to liquid democracy
-which is you know hot topic for ET see
+which is you know hot topic for ETC
 these dates as far as what direction the
 community wants to go in or doesn't want
 to go in so what are some of your your
-thoughts or uh some things you have to
+thoughts or some things you have to
 say to the blotching community about
 liquid democracy and governance systems
 and stuff like that
@@ -336,7 +335,7 @@ and stuff like that
 
 
 **Joel Dietz:**
- um I mean I i run a
+ I mean I run a
 group on that and carry a lot so
 ultimately I have a lot to say about
 that topic 
@@ -344,7 +343,7 @@ that topic
 
 
 **Christian Seberino:**
-start said yes yeah let's
+start said yes let's
 start sizable so 
 
 
@@ -353,19 +352,19 @@ start sizable so
 
 **Carlo Vicari:**
 so what are some things
-like let's say let's say you you were
+like let's say let's say you were
 you know all about you know let's say
-you just had a huge chunk of ET c and
+you just had a huge chunk of ETC and
 and you wanted to see it go in a
 particular direction your your your the
-the Emperor vtc I guess which is
+the Emperor ETC I guess which is
 something with nobody wants obviously
 since this is a decentralized community
 and there's so many different people but
 for hypothetical just what are the
 things you in your like expert opinion
 will say that you'd like to see or
-things that you suggest for the et Cie
+things that you suggest for the ETC
 community or any blogging community for
 that matter 
 
@@ -373,7 +372,7 @@ that matter
 
 
 **Joel Dietz:**
-oh well you know like many
+well you know like many
 people who are in the blockchain world I
 you know I like to see things appreciate
 in value I like to see technological
@@ -392,13 +391,13 @@ see large-scale DAP systems that provide
 real value you know and the fact that
 there's been a lot there's been a few
 things you know that are interesting in
-the etherium world and I follow them and
+the ethereum world and I follow them and
 tons of interesting prototypes and
 concepts and stuff like that it come out
 but as far as like working apps that are
 providing a significant service and
 value like we don't even really have the
-Satoshi dice of you know athyrium yet
+Satoshi dice of you know ethereum yet
 and you know that was like maybe not the
 most amazing innovative thing ever in
 the Bitcoin world but it was something
@@ -411,8 +410,8 @@ so that's something that I think is like
 I don't know this was maybe
 temperamentally but I like to have those
 things that have that kind of coherent
-value and so if I was the Emperor of ET
-cie that's probably where I would like
+value and so if I was the Emperor of ETC
+that's probably where I would like
 push things because you know they're
 very foundation and everyone else's is
 doing a great job at buildings like
@@ -422,9 +421,9 @@ these big companies and and I think
 that's very valuable in and of itself
 particularly for the name recognition of
 etherium more broadly which probably
-benefits et Cie as well frankly you know
-I think I think you know that that's
-what that's so that's like as far as the
+benefits ETC as well frankly you know
+I think you know
+what that's like as far as the
 ultimate thing that I that's what i
 would say it really would be the same
 thing for a theorem itself if i had a
@@ -437,7 +436,7 @@ have to encourage entrepreneurs to get
 out there and build something and be
 appropriately vested in the kind of
 result and have you know because it's
-sometimes it's like et Cie the token
+sometimes it's like ETC the token
 will benefit as so long as their
 projects benefit and an individual
 project owners will benefit so those
@@ -451,7 +450,7 @@ with each other so
 so now can I say can
 I see something so I think none of the
 things you say was that we so you want
-the block chain space to keep growing
+the blockchain space to keep growing
 and you said you especially are
 interested in large smart contracts
 those as they're called distributed
@@ -496,7 +495,7 @@ know that are secure on top of it
 whereas if the building blocks
 themselves are in flux and not
 particularly well audited and controlled
-and things like that then like yeah as
+and things like that then like as
 soon as you go out to build something
 with solidity if you're not sure that
 the compiler is working correctly then
@@ -515,7 +514,7 @@ obviously if you can't then you can't
 build large steps you can't even really
 build small gaps that are production I
 deep fried it doesn't matter the size
-you know yeah
+you know 
 
 
 
@@ -545,13 +544,13 @@ auditing and attention to those things I
 don't know if the theory and foundation
 could have done that better you know I
 don't particularly have a strong desire
-to be a critic of the Syrian foundation
+to be a critic of the ethereum foundation
 or any the process they used I wasn't
 intimately involved in that I did offer
 to be in a couple of points and but you
 know I wasn't ultimately involved in any
 of those decisions so um so I know it's
-hard to say but yeah yeah give it given
+hard to say but give it given
 the whole way that the ecosystem worked
 and the heap cycles and everything else
 yes it was inevitable that a bunch of
@@ -566,7 +565,7 @@ know kind of system
 
 
 **Christian Seberino:**
-yeah yeah so in
+yes so in
 argument is your how does your liquid
 democracy a project how does that help
 with making better and more
@@ -591,8 +590,8 @@ right
 
 
 **Joel Dietz:**
- yeah I mean the two are related in
-the sense fear iam basically chose a
+ yes I mean the two are related in
+the sense ethereum basically chose a
 non-profit foundation in Switzerland as
 its governance structure and if I
 remember correctly there were nine board
@@ -634,7 +633,7 @@ desires are and expectations were so
 that you know they're generally
 fulfilled with the structures with the
 governing structure so that in the boxer
-yeah the thing like liquor go ahead
+the thing like liquor go ahead
 liquid let me just finish this thought
 so liquid democracy potentially at least
 you know allow some kind of
@@ -661,7 +660,7 @@ of just some coins today that you plan
 to sell tomorrow but that to have those
 people have the long-term stake actually
 be those who are participating directly
-in the decision making yeah so right and
+in the decision making so right and
 in that sense like you don't have to
 necessarily know you know pretora like
 think that you know exactly what those
@@ -675,10 +674,10 @@ organization so that's the idea behind
 
 
 **Christian Seberino:**
-it here's here's what I was here's what
+I was here's what
 I want to really wanted to ask you I
 think I know a way to make more concrete
-okay in addition to bad technology
+in addition to bad technology
 blowing up a blockchain I think you
 would agree that the people the
 organizational structure could blow up a
@@ -722,10 +721,10 @@ particularly innovative potentially ever
 as far as i can tell but at least the
 technological level besides maybe like
 figuring out how to like make money
-disappear um but particularly I opinion
+disappear but particularly I opinion
 of those people and they never gave me
 any money for the work I did for them
-either so I don't um but but the
+either so I don't but but the
 ultimate kind of effect you know that
 they could have done something like that
 you know they could have said hey look
@@ -745,8 +744,8 @@ basically try and decide based on their
 you know wisdom of their CEO or whatever
 other grounds you know that this is the
 way Bitcoin should go and i think i
-think it's um yeah all right i think the
-whole thing is is that i'm actually bury
+think it's all right i think the
+whole thing is that i'm actually bury
 i'm watching these debates very
 carefully myself because I think it's
 illustrative a lot of things but you
@@ -759,24 +758,24 @@ theorem right if the Internet has a
 foundation already finally they can just
 the foundation can necessarily just
 disappear and that's one reason why I
-got excited about a theorem classic is
+got excited about a ethereum classic is
 that it just sort of exists it came out
 of existence out of nowhere without
 actually any clear way
 deciding how it was going to evolve so
 it's sort of like well there's actually
 less that's already been established in
-the case of etherium classic than in
+the case of ethereum classic than in
 many other places
 
 
 
 
 **Carlo Vicari:**
- where um where where
+ where
 would you like to see ideally crypto
 governance in say like 20 years what's
-your your fairy tale for for crypto
+your fairy tale for crypto
 governance is it an amalgamation of
 something that you've got going and some
 other stuff you've heard about or you
@@ -788,7 +787,7 @@ crypto governance in the distant future
 
 
 **Joel Dietz:**
-um well I personally don't like voting
+well I personally don't like voting
 interesting let off even on building
 voting systems because it takes time and
 I have a lot of time there's other
@@ -824,7 +823,7 @@ good job of that at the moment
 
 **Carlo Vicari:**
 well I
-also saw in your your paper um you
+also saw in your paper you
 talked a lot about you know delegated it
 is kind of what you're talking about as
 far as having someone that is trusted to
@@ -851,7 +850,7 @@ type of things even driving is a good
 example to some degree there's a
 governance issue in my car every time I
 Drive because it's like which way am I
-gonna turn and how fast am I gonna go
+gonna turn and how fast I gonna go
 those are decisions that could be made
 and i would i would gladly give that
 away you know to someone else it was
@@ -887,12 +886,12 @@ things as
 
 
 **Christian Seberino:**
- well yeah I see you should I
+ well yes I see you should I
 think you would agree that or maybe or
 do would you agree that so to solve the
 direct democracy problem which which you
 mentioned is that everybody has to
-become familiar with every every bill
+become familiar with every bill
 that we have the vote on that so right
 the way that governments solve that have
 solved it for centuries right is
@@ -925,7 +924,7 @@ someone who has like one Satoshi
 
 **Christian Seberino:**
 yes but
-the obvious question that yeah the
+the obvious question that the
 obvious question that the audience wants
 to ask or I want to ask is well so
 what's to stop somebody some wealthy
@@ -936,7 +935,7 @@ gonna dominate all the voting
 
 
 **Joel Dietz:**
- um yeah I
+ yes I
 mean it 
 
 
@@ -947,7 +946,7 @@ go ahead y'all sorry
 
 
 **Joel Dietz:**
- um yes your
+ yes your
 are you're right and actually that's
 what happens already you just maybe
 aren't aware of it but at least in the
@@ -970,8 +969,8 @@ exactly
 
 
 **Carlo Vicari:**
-I think the I think another big
-point I think ok so in reference to the
+I think another big
+point so in reference to the
 viewers wondering or the listeners
 wondering about oligarchies and stuff
 like that I think a lot of the oligarchy
@@ -1003,7 +1002,7 @@ government as software you know
 obviously I'm programmer so it's natural
 for me to do that but you know and
 software like you know internet explorer
-or something like that five point oh you
+or something like that five point you
 know has exploits people are designing
 exploits for it they're gonna figure out
 how they can install their spyware on
@@ -1014,8 +1013,8 @@ think it's basically what we have today
 and what your scribing is like this
 exploit that exists on central banks
 that like i can have swagga have an
-excellent it's just yeah I mean it's
-basically what it is it's like oh well
+excellent it's just I mean it's
+basically what it's like oh well
 I'm gonna go this is what happen 2008 it
 and it'll probably happen again in my
 opinion in many places oh my goodness
@@ -1049,7 +1048,7 @@ question about
 
 
 **Christian Seberino:**
- so um I'm seeing I've
+ so I'm seeing I've
 seen parallels in just a regular away
 from keyboard democracies here so about
 the oligarchy problem so my sense is
@@ -1057,7 +1056,7 @@ that the the rich and powerful don't
 have complete control right I'm thinking
 like a brexit and the populist movements
 all over the world not now in France and
-so if if ATC had somebody that was
+so if if ETC had somebody that was
 wealthy that was doing crazy things
 presumably all US little plebeians would
 all get together and say hey we gotta we
@@ -1072,7 +1071,7 @@ in cryptocurrency space right
 
 
 **Joel Dietz:**
- yeah
+ yes
 absolutely and you know you have
 factions that build and it's natural to
 have that over different interests even
@@ -1082,7 +1081,7 @@ like for instance a Peter tegel put
 money into our network democracy stack
 and Elon Musk put it in and they each
 genus I put in I don't know 50 million
-dollars and then you know but um us
+dollars and then you know but us
 thinks that we should prioritize going
 to Mars first and Peter Thiel thinks we
 should like prioritize building like an
@@ -1092,7 +1091,7 @@ island you know like okay like these are
 just priority in none of them is wrong
 per se personally I support both
 initiatives I think they're both really
-interesting things and you know but yeah
+interesting things and you know but
 there the prioritization and then people
 can kind of create factions around
 everythings and if Elon Musk computer
@@ -1129,16 +1128,16 @@ a utopia that's really all
 
 
 **Joel Dietz:**
-um yeah I
+yes I
 mean I personally think conflict is a
 part of life and generally speaking a
 kind of positive thing in the sense that
 you know sometimes ideas need to be
-tested you know in the in the public
+tested you know in the public
 sphere and had go through a debate
 process and you know maybe having
 I emotional content behind them is not
-always helpful but yeah it's a part of
+always helpful but it's a part of
 life so the fact that the stuff and you
 know frankly I enjoy playing like war
 games and things like that too so like
@@ -1150,15 +1149,15 @@ not that bad either
 
 
 **Carlo Vicari:**
- yeah you again you
+ yes you again you
 got add me on chest of friends I don't
-know okay I'm sorry um what was I say oh
+know okay I'm sorry what was I say
 so I guess now we have the like the
 20-year ten-year picture which was
 pretty funny about your comment that
 inflation is just like a hardware bug or
-a software bug or whatever but um in
-reference to ET see what what Arsenal
+a software bug or whatever but in
+reference to ETC what what Arsenal
 judging 
 
 
@@ -1175,17 +1174,17 @@ will say
 
 
 **Carlo Vicari:**
-yeah that's what I meant to say
+yes that's what I meant to say
 that okay so so the bailout in 2008
 bailout was just a hardware bug which is
 pretty funny cuz yeah I don't mean
 literally inflation since even you know
 Bitcoin all the crypto currencies are we
-inflating I guess you could say Oh even
+inflating I guess you could say even
 though they are capped limit but in in
-reference to ET SI jo like what are some
+reference to ETC jo like what are some
 suggestions or things you'd like to see
-from the ET c network that or
+from the ETC network that or
 suggestions you have for you know
 anybody listening out there that the
 community as a whole 
@@ -1194,12 +1193,12 @@ community as a whole
 
 
 **Joel Dietz:**
-well um i think for
-EDC to be continually relevant you know
+well i think for
+ETC to be continually relevant you know
 it needs to attract projects that are
 doing real things so and providing real
 value i think the stamper reason that
-you guys mentioned is is a great example
+you guys mentioned is a great example
 of that so just to show that it can be
 stable itself and have a good you know
 team behind it doing that I think
@@ -1207,8 +1206,8 @@ there's a great opportunity you know for
 doing something innovative in the realm
 of governance you know I saw the
 proposal that came back from I ohk and
-you know it's kind of like the dash
-model applied to a theorem classic which
+you know it's kind of like the Dash
+model applied to ethereum classic which
 um you know to something Ruiz been done
 before and would be tricky to do and it
 classic thing so I have sort of mixed
@@ -1230,7 +1229,7 @@ you know the positive energy of doing
 something really innovative that's
 providing value to something and then
 there can be a sort of differentiating
-point that etherium classic as opposed
+point that ethereum classic as opposed
 to the you know a theory and foundation
 supported version of it 
 
@@ -1240,9 +1239,9 @@ supported version of it
 **Carlo Vicari:**
 what are some of
 the suggestions you have in reference to
-the I ohk um treasury model that was
+the IOHK treasury model that was
 kind of you know like you said based on
-dash but had some you know improvements
+Dash but had some you know improvements
 to polls that they saw and tweaks and
 tips and stuff like that
 
@@ -1252,18 +1251,18 @@ tips and stuff like that
  well I just
 thought that the whole embedding it in
 the blockchain level is very interesting
-what kind of risky given where ET c is
+what kind of risky given where ETC is
 at the moment in given the fact that
 they said it would take like a year to
 deploy and implement so like i don't
 know exactly what the timeline wasn't i
 made sure there was like a full timeline
-presented for for that but that was my
+presented for that but that was my
 main kind of concern and if you were
 going to do that frankly i think would
-be better to do on a clean athyrium
+be better to do on a clean ethereum
 based chain and do it as a test project
-you know see how it works and then yeah
+you know see how it works and then
 like kind of start from scratch with
 that ties you achievable 
 
@@ -1272,7 +1271,7 @@ that ties you achievable
 
 **Christian Seberino:**
 so the question
-about that I that I'm doing that
+about I'm doing that
 actually ties into another question I
 wanted to ask you which was so
 enforcement of voting so obviously if I
@@ -1301,8 +1300,8 @@ that you everybody ignores right
 
 **Joel Dietz:**
 well
-yeah and i host to meet up on dash i
-have dash and you know i'm i love that
+yes and i host to meet up on Dash i
+have Dash and you know i'm i love that
 model so at that level i totally agree
 it's just a tricky thing to implement
 technically given all the way that the
@@ -1310,12 +1309,12 @@ blockchain exists today for in plastic
 be important to keep in mind there and
 dashes of exams looses as well as you
 know the positive incentive so you know
-view obviously collecting taxes is is
+view obviously collecting taxes is
 difficult and and particularly across
 the whole block channel existing stake
 but you know if you can create some
 positive incentive and this is sort of
-the liquid democracy dao stuff with
+the liquid democracy DAO stuff with
 steak way to sort of it meant to
 encourage this is like hey you're buying
 a stake in the network but that steak
@@ -1323,7 +1322,7 @@ you know can appreciate in value you
 know if their stuff that's being created
 that part of that Network that then you
 know augments the value of the whole
-network so in that sense um it's a sort
+network so in that sense it's a sort
 of second layer you know it would be
 like if you have something that is
 governing the protocol / you know lower
@@ -1335,7 +1334,7 @@ incentivizing people to kind of build in
 that application layer so that's how I
 saw kind of what we're doing and you
 know I haven't been super spending a lot
-of time in pushing it on the etherium
+of time in pushing it on the ethereum
 classic community I did talk with Barry
 Silbert briefly and I don't know if he
 totally understood what we were trying
@@ -1386,13 +1385,13 @@ Alaska and you know citizens
 you rather
 than make a long and yet the law that
 says there's a certain quota that has to
-move to alaska every year right
+move to alaska every
 
 
 
 
 **Joel Dietz:**
- yeah
+ yes
 exactly have you just forced everyone to
 go laughs at the 
 
@@ -1413,7 +1412,7 @@ oh it's kind of what that would be
 
 
 **Joel Dietz:**
- yeah
+ yes
 that's how I think about it too and in
 fact making it sort of steak weighted
 makes a lot of sense and say well
@@ -1423,13 +1422,13 @@ personal investment you put into making
 Alaska work is right with the commerce
 patch then as knowing proportional
 effect on the amount that you get back
-when you know you know
+when you know
 
 
 
 
 **Carlo Vicari:**
- yeah I was over
+ yes I was over
 that actually brings up another good
 point that I wanted to talk about from
 your white paper ah now I read some
@@ -1446,8 +1445,8 @@ this anna still under wraps
 
 
 **Joel Dietz:**
- yeah
-absolutely and yeah like I can even
+ yes
+absolutely and like I can even
 publish the latest version on github so
 that you have
 an easy okay great 
@@ -1456,8 +1455,8 @@ an easy okay great
 
 
 **Carlo Vicari:**
-cool cool that would
-be great um 
+cool that would
+be great 
 
 
 
@@ -1471,7 +1470,7 @@ that hasn't been solved yet
 
 
 **Carlo Vicari:**
-sorry yeah
+sorry yes
 so it was in reference to UM the real
 assets was right
 
@@ -1479,7 +1478,7 @@ assets was right
 
 
 **Joel Dietz:**
- yeah yeah yeah yeah
+ yes
 actually answer the second question
 first is like the tall look really
 inspired me when I was organizing the
@@ -1585,7 +1584,7 @@ know basically creating it for me so do
 you need to try to be your whether you
 who are conscious of it or not you're
 part of by virtue of your human biology
-system etc you're part of a larger
+system ETC you're part of a larger
 ecosystem and so you can you know
 potentially create this whole virtuous
 cycle around that so thank you
@@ -1596,14 +1595,14 @@ interesting
 
 
 **Carlo Vicari:**
-yeah definitely down 
+yes definitely down 
 
 
 
 
 **Christian Seberino:**
 I'm
-kind of the question yes sir um so we
+kind of the question yes sir so we
 started one of the things we said way
 back at the start of our conversation
 was technological blow-ups so I'm you
@@ -1615,7 +1614,7 @@ system thinking of ways to subvert it
 
 
 **Joel Dietz:**
-yeah um it's definitely a concern I have
+yes it's definitely a concern I have
 both you know at the lower level code
 level and the other thing and I think
 the way that we've evolved is to you
@@ -1676,8 +1675,8 @@ want to do so
 
 
 **Carlo Vicari:**
-yeah like you said it's um
-you know it's it's training wheels which
+yes like you said it's
+you know it's training wheels which
 is a good stepping stone to actually
 doing something you know even more
 innovative in the future 
@@ -1709,7 +1708,7 @@ much wallah
 
 
 **Joel Dietz:**
-well yeah you would mention
+well yes you would mention
 out that you maybe we'll talk about the
 end of the white paper which I sort of
 comparisons to the Dow I don't know if
@@ -1735,7 +1734,7 @@ inside the liquid democracy
 
 
 **Joel Dietz:**
-um well
+well
 
 
 
@@ -1804,9 +1803,9 @@ a good place to put your money so soon
 
 
 **Carlo Vicari:**
-cool cool um that is that is pretty like
-um big dynamic that I think everybody is
-expecting to be huge like in block chain
+cool that is pretty like
+big dynamic that I think everybody is
+expecting to be huge like in blockchain
 as far as like credit and reputation and
 tying people to a whole bunch of value
 in inside the system that they're not
@@ -1823,7 +1822,7 @@ tied together they get like a fur a
 person's full if they wanted to a
 person's full like investment history
 and credit and everything would all be
-tied together is that right um in sunset
+tied together is that right in sunset
 in some sense or are not really 
 
 
@@ -1833,7 +1832,7 @@ in some sense or are not really
 well you
 know yes I mean in the sense that angel
 list you know ties these things together
-so right right it doesn't have to be
+so right it doesn't have to be
 it's not going to be the only platform
 for everything and you know right i
 personally am sort of have a crypto and
@@ -1847,13 +1846,13 @@ recommending which rare Pepe is to buy
 you know I might do that under a
 different avatar then you know some
 other without doing real estate
-recommendation so I think I think I'm
+recommendation so I think I'm
 funny 
 
 
 
 **Carlo Vicari:**
-yeah you might want to keep those
+yes you might want to keep those
 pseudonyms separate that would be a good
 idea right your buddies
 
@@ -1865,7 +1864,7 @@ the reason that you brought up the Dow
 Carlo and Joel because you were
 concerned that there would or joel that
 that people would they would compare
-what you're doing to the to the dow and
+what you're doing to the dow and
 so that's why you had to dress that
 
 
@@ -1873,9 +1872,9 @@ so that's why you had to dress that
 
 
 **Joel Dietz:**
-um yeah it happened in the first time I
-circulated these concepts okay people
-said oh that's so the Dow two point O
+yes it happened in the first time I
+circulated these concepts people
+said that's so the Dow two point O
 with better governance and everything
 else and then I you know realized that
 it was worth explaining the ways in
@@ -1885,7 +1884,7 @@ which it was and wasn't like the dow
 
 
 **Christian Seberino:**
-okay yeah yeah I think I think it's a
+okay yes I think it's a
 shame that now every complex contract is
 going to remind people of the Dow but I
 think even people that maybe haven't
@@ -1894,7 +1893,7 @@ you're acknowledging that that that
 misunderstanding exists in your ear you
 have arguments I think you know people
 know that you're here doing something
-about it it's not gonna be like the
+about it's not gonna be like the
 doubt
 
 
@@ -1905,15 +1904,15 @@ doubt
 beginning of the show I want to ask you
 a little bit more about agenda it's
 called right agenda the sustainability
-alliance between the UN and and block
-chain and stuff like that 
+alliance between the UN and and blockchain
+and stuff like that 
 
 
 
 
 
 **Joel Dietz:**
-yeah um a
+yes a
 gentle group is doing great stuff right
 now and really building you know a kind
 of portfolio over you know high level
@@ -1944,7 +1943,7 @@ little mildly maybe but
 
 
 **Carlo Vicari:**
-yeah I was gonna
+yes I was gonna
 say you're doing some understatement
 those are like really your
 you're getting really good politics man
@@ -1954,14 +1953,14 @@ this is it was top-notch
 
 
 **Joel Dietz:**
-yeah um well I
+yes well I
 guess I'm gonna need to do a lot of that
-as I as I travel weather but yeah that
+as I as I travel weather but that
 the sort of transparent systems are
-potentially and much much better way of
+potentially and much better way of
 managing some of these processes and a
 lot of young energy that can it came
-together people who are like yeah we're
+together people who are like we're
 ready to kind of rise to the challenge
 of building something too that's better
 and actually deploying it in Brazil
@@ -1976,7 +1975,7 @@ all these people were coming together
 with a really positive vision but also
 extremely capable and knowledgeable in
 their various sort of subdomain so great
-um so I'm very I'm very committed you
+so I'm very committed you
 know to kind of taking these things to
 the next level and and really you know
 facilitating this this process so 
@@ -1985,7 +1984,7 @@ facilitating this this process so
 
 **Carlo Vicari:**
 sounds
-cool yeah and 
+cool yes and 
 
 
 
@@ -1993,7 +1992,7 @@ cool yeah and
 **Joel Dietz:**
 when we agenting people
 all other people involved with that are
-really really top-notch and great and
+really top-notch and great and
 you know we're actively open to other
 kind of sponsors to for these events who
 are sort of committed to the idea of
@@ -2004,8 +2003,8 @@ that's
 
 
 **Carlo Vicari:**
-cool um so I don't know if
-there's uh we're now into a little bit
+cool so I don't know if
+there's we're now into a little bit
 past an hour I don't know if there's
 anything else you wanted to talk about
 joelle or anything you want to ask
@@ -2015,7 +2014,7 @@ christian
 
 
 **Christian Seberino:**
- no I think oh the
+ no I think the
 conversations been pretty thorough I've
 asked all the questions and address the
 concerns i had and i think i have a lot
@@ -2026,8 +2025,8 @@ thank you
 
 
 **Joel Dietz:**
- um yeah thank you guys then
-yeah go ahead us welcome people that you
+ yes thank you guys then
+go ahead us welcome people that you
 know pertain any of these initiatives
 you know even if it's just a you know
 creating a github issue or
@@ -2058,9 +2057,9 @@ and good to be back after my Japan
 Shanghai malta trip and i'll see you
 guys next week thank you for I ohk for
 helping us make the show possible and
-ATC community and all the TC dozen
+ATC community and all the ETC dozen
 everyone out there listening appreciate
-you guys take care hey bye bye but
+you guys take care hey bye but
 
 
 
