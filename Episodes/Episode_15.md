@@ -1,7 +1,7 @@
 # Let's Talk ETC: Dr. Duncan Coutts - Provably Secure Smart Contracts.
 **Carlo Vicari:**
 hi everyone and thank you for tuning in
-you're listening to let's talk et Cie
+you're listening to let's talk ETC
 I'm your host karlovy along with my
 co-host dr. Christian Shepherd suberino
 I want to thank the et Cie does
