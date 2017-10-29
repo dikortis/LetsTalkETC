@@ -68,20 +68,20 @@ computer computing programming
 okay I've got I've got to do some maths
 and some physics to sort of fill out the
 edges yeah so I was one of those people
-who knew that that's what I wanted to do
+who knew that's what I wanted to do
 so I did computing at a-level in the UK
 and then I applied at university to a
 university that takes a very math
 magical approach to to computer science
 and this kind of like an engineering
 approach and the mathematical approach
-and I I wanted to go to is from my point
+and I wanted to go to is from my point
 of view then that was like this is the
 hard core way of doing it let's go the
 hard core way let's do the mathematical
 way and that was what I applied to the
 University that took took that approach
-and actually it was it was at least as
+and actually it was at least as
 good as I was expecting and it was just
 mind-blowing nice at the beginning just
 discovering discovering all these new
@@ -104,11 +104,11 @@ got into
 
 
 **Carlo Vicari:**
-it and and that's yes that's
+it and that's
 proving things and in formal
 verification are gonna be a pretty hot
 topic especially in crypto and
-blockchain with stuff like the the dow
+blockchain with stuff like the dow
 hack and smart contracts and all that
 bad stuff I'm guessing right
 
@@ -132,13 +132,13 @@ it was presented to me right not not all
 of my knowledge my classmates agreed I
 think probably only a small fraction of
 us caught the functional programming bug
-but but those of us who do that was this
-like this this is like obviously the
+but those of us who do that was this
+like this is like obviously the
 right way to do things
 
 
 **Carlo Vicari:**
-yeah I don't know if you've seen I'm
+yes I don't know if you've seen I'm
 sorry go ahead Christian 
 
 
@@ -153,8 +153,8 @@ industry you want to share or any
 
 
 **Dr.Duncan Coutts:**
- yeah
-so so I was one of those people who
+ yes
+so I was one of those people who
 basically stayed you know far too long
 and academia just which was you know
 brilliant and fantastic and interesting
@@ -169,18 +169,18 @@ school is actually taking off
 commercially just look at these numbers
 like various kind of statistics on
 mailing lists and other kinds of metrics
-then saying look this is this is going
+then saying look this is going
 up exponentially now we could actually
-uh we could actually go and start a
+we could actually go and start a
 company doing this 
 
 
 
 **Carlo Vicari:**
-right now for for
+right now for
 everyone listening who's maybe not as I
 guess not as much development experience
-as you know you and Christian um so for
+as you know you and Christian so for
 all of us you know newbies out there
 what are some of the like applications
 of of Haskell and functional programming
@@ -209,7 +209,7 @@ that to write I need to know that right
 
 
 **Dr.Duncan Coutts:**
-yeah well let me start with with with
+yes well let me start with
 the person so in some sense it's a
 slightly hard question to answer because
 it's not a programming language that's
@@ -227,7 +227,7 @@ specialized like say you know MATLAB
 especially for doing mathematical
 simulations and uz+ passes for system
 software and python is but you know it's
-not quite like that it's it's a
+not quite like that it's a
 general-purpose jump on this thing that
 said the the kinds of places where it
 has the greatest sort of comparative
@@ -241,8 +241,8 @@ of money at stake or or safety at stake
 
 **Carlo Vicari:**
 that would have been good present down
-so um so a lot of money and stake a lot
-of things at stake what are what are
+so a lot of money and stake a lot
+of things at stake what are
 sermons
 
 
@@ -259,9 +259,9 @@ develop correct software that deals with
 a lot of money and they're trying to do
 it very quickly and continuously and be
 able to reuse that software again and
-again again so they were some of the
+so they were some of the
 early adopters commercially but actually
-I mean our customers oh I run a house
+I mean our customers I run a house
 called consulting company these days and
 our customers come from all kinds of
 industries there's not like one main
@@ -281,10 +281,10 @@ is somebody adopts a new technology
 before most other people and so they're
 that much more productive they could
 provide that much more value and that's
-how they become successful so it's it
+how they become successful so it
 correct to say that there's lots of
 companies either openly or secretly
-using Haskell to to great effect can you
+using Haskell to great effect
 can you name some of those or they will
 not want to reveal that
 
@@ -296,13 +296,13 @@ many there are you know as a fraction of
 the entire industry well it's still I
 guess relatively small but there are
 still there are certainly companies that
-are using it to great effect and there's
+are using it to great effect and
 there's lots that have given talks and
 talked about it publicly it and for
 example the CFP actually uses functional
 programming conference so a lot of the
 financial institutions bar cap so you
-saw some some big banks then you've got
+saw some big banks then you've got
 a Facebook is using it about these days
 okay as group Google use it a very
 little bit they tend to be very
@@ -332,24 +332,24 @@ languages
 
 
 **Dr.Duncan Coutts:**
- yeah so then then they would
+ yes so then they would
 actually have a serious problem which is
-that they have laws in the world's world
+that they have laws in the world
 to buy of they would need many more than
-the world's five hospital programmers so
-so Haskell is taught and other and other
+the world's five hospital programmers
+so Haskell is taught and other
 functional languages are taught as a
-number of universities but it's not it's
+number of universities but it's
 not taught in the same scale as say Java
-okay and so this this comes down to one
+okay and so this comes down to one
 of the reasons why people choose
 mainstream languages even though there
-may be advantages to using using less
+may be advantages to using less
 commonly used ones which is that you can
 hire lots of people you know if you're a
 manager thinking of starting a new
-project you go oh hookah who can I hire
-oh there's lots of Java programmers so
+project you go hookah who can I hire
+there's lots of Java programmers so
 I'll use Java and run so that's a reason
 to use our languages completely
 unrelated to how good it is what kind of
@@ -369,7 +369,7 @@ function of the market I guess
 **Dr.Duncan Coutts:**
  right
 it's a self-reinforcing
-thing so yeah because you know what what
+thing so yes because you know what
 are people going to learn they're going
 to learn languages that will give them a
 job
@@ -379,7 +379,7 @@ job
 **Carlo Vicari:**
  now I want to ask both you guys this
 as developers and programmers you know
-really uh you know um so I've seen like
+really you know so I've seen like
 a it's like a cartoon comic that shows
 different programming languages and like
 if they were people or representations
@@ -396,12 +396,12 @@ that is Java like the big joke
 
 
 **Dr.Duncan Coutts:**
-um from
+from
 the point of view of the functional
 programmers I'm afraid it is yes and
 there's actually some good reasons that
 it's not just fanboy is a loan you get
-you get that in the programming language
+that in the programming language
 world as well and then when there are
 action a lot
 
@@ -439,7 +439,7 @@ quick and dirty programs much faster and
 if I just have something I'm throwing
 together it's not very mission critical
 but would it be fair to tell somebody
-okay yeah go ahead and throw it together
+go ahead and throw it together
 in PHP even though we both agree Haskell
 is awesome
 
@@ -447,12 +447,12 @@ is awesome
 
 
 **Dr.Duncan Coutts:**
-it's why I think that the the thing
+it's why I think that the thing
 there is to realize that you've
 basically got two major classes of
 language you've got the imperative
 languages which is what all the
-mainstream ones are Java C++ etc Python
+mainstream ones are Java C++ ETC Python
 PHP they're all they're all imperative
 languages and then you've got this other
 class which is these functional
@@ -469,7 +469,7 @@ and way of writing programs is is common
 across them all and so it's quite easy
 to switch and so whereas switching to a
 functional language you do actually have
-to re learn a bunch of things so so the
+to re learn a bunch of things so the
 point is that you know it could be a lot
 quicker to just use a language that you
 know already in the short term in the
@@ -486,14 +486,14 @@ difficult so there's
 
 
 **Christian Seberino:**
-so there's there is
+so there is
 another occasion there is
 
 
 
 **Dr.Duncan Coutts:**
  definitely
-yeah so there's a big there's a
+yes so there's a big there's a
 relatively big front learning cost 
 
 
@@ -518,7 +518,7 @@ yes exactly
 
 
 **Dr.Duncan Coutts:**
-so people people have done it
+so people have done it
 parents at University where you teach
 the functional ones first they're no
 harder to learn in fact in many ways
@@ -544,9 +544,9 @@ functional program
 
 **Dr.Duncan Coutts:**
  that is entirely
-historical historical reasons and so
+historical reasons and so
 this goes back to why do we program
-computers in the way we do with with in
+computers in the way we do with in
 this imperative style the language and
 that's basically because so that these
 two styles of programming imperative and
@@ -557,7 +557,7 @@ and Alonzo Church and one is based on
 the lambda calculus and one is based on
 Turing machines and the people then
 programming real machines in the 1940s
-50s 60s etc they wrote they programmed
+50s 60s ETC they wrote they programmed
 computers in the way that they actually
 work because that's the obvious thing to
 do and that's kind of what you have to
@@ -565,11 +565,11 @@ do when the computers were so primitive
 and so slow you really have to get every
 little bit of performance out of them so
 all of those languages sort of trace
-their lineage in that in that style
+their lineage in that style
 whereas it wasn't really until the kind
 of 70s 80s 90s that this alternative
 style which has the same history started
-from the same point in the in the 1930s
+from the same point in the 1930s
 it wasn't until then that they became
 kind of practical so that means you've
 got already established this massive
@@ -586,7 +586,7 @@ thing to do it was to was to mimic the
 hardware in your gate language at youth
 so but now that computers are faster
 than we can now you enjoy functional
-programming but now that that begs the
+programming but now that begs the
 question so is 
 
 
@@ -630,7 +630,7 @@ and and that's a whole lot easier
 now I
 don't know if Haskell errs do this but
 when I used to evangelize Python that
-was my favorite language it still is um
+was my favorite language it still is
 so one technique I would suggest people
 do is they're typically you'd profile
 your code and there would be some piece
@@ -655,7 +655,7 @@ okay so could you do something like that
 
 
 **Dr.Duncan Coutts:**
-if you can you can and and that is still
+if you can and that is still
 a reasonable thing to do especially when
 it comes to things like you know binding
 some existing crypto library
@@ -689,7 +689,7 @@ something stupid and and whereas going
 doing that cross language to language
 thing introduces a lot of difficulties
 it's a lot harder to do that I see it's
-a lot more effort yeah so I I would say
+a lot more effort so I would say
 that you know and if let's say you know
 10 times out of a hundred a Python
 programmer has to go and do that drop
@@ -708,7 +708,7 @@ nice
 
 
 **Carlo Vicari:**
-so um now that's some a pretty
+so now that's some a pretty
 pretty nice history of Haskell and the
 how we ended up where we are now for the
 past and stuff like that so in reference
@@ -717,10 +717,10 @@ current things just introduce everybody
 to kind of some stuff you're working on
 currently I'm afraid it you know I
 didn't do such a good job of introducing
-you earlier in the show but uh you're
-also part of the well um well typed a
+you earlier in the show but you're
+also part of the well typed a
 happy it's a Haskell consulting company
-and you guys are looking with IO HK
+and you guys are looking with IOHK
 directly on a few different things as I
 correct 
 
@@ -735,8 +735,8 @@ helping them with the Cardno project
 
 **Carlo Vicari:**
 and
-just so just so I got this correct so it
-looks like um according to the I wish K
+just so I got this correct so it
+looks like according to the I wish K
 bio you're the interim director of
 engineering for a team well-typed
 correct 
@@ -747,7 +747,7 @@ correct
 **Dr.Duncan Coutts:**
 well I suppose the team name
 there is not it's not particularly
-significant it's it's entran director of
+significant it's entran director of
 engineering for the the kadhai no
 settlement layer 
 
@@ -755,30 +755,30 @@ settlement layer
 
 
 **Carlo Vicari:**
-right right yeah okay
-gotcha gotcha so um so this is something
+right yes okay
+gotcha so this is something
 you're currently working on is Cardno
-through IO HK for anybody listening out
-there um which they're they're handling
+through IOHK for anybody listening out
+there which they're handling
 a lot of stuff and in just Haskell which
 is pretty cool
 
 
 
 **Dr.Duncan Coutts:**
-yes the whole the whole code on O
+yes the whole code on O
 project the software is all the
-englishman Haskell ohk are also working
-on a theory on classic client which is
+englishman Haskell IOHK are also working
+on ethereum classic client which is
 being implemented in scarlet which is
 another 
 
 
 
 **Carlo Vicari:**
-functional I functional
-programming yeah just so anybody
-listening they're from the UTC community
+I functional
+programming yes just so anybody
+listening they're from the ETC community
 you guys can kind of tie this all
 together we have the Skylar client which
 is functional programming and then also
@@ -800,18 +800,18 @@ the Cardinal SL lair which is written in
 Haskell which is another functional
 programming language so there's a whole
 bunch of functional programming stuff
-going on ohk right now 
+going on IOHK right now 
 
 
 
 **Christian Seberino:**
-yeah now I have
-another question I just thought of so um
+yes now I have
+another question I just thought of so
 Duncan's so that's this very strong
 argument to use functional programming
 if the only reason we're doing it is
 because of history people just want to
-get the the best results as fast as they
+get the best results as fast as they
 can and so history shouldn't play a part
 well it maybe it should in some cases
 but you made me a believer
@@ -832,7 +832,7 @@ okay so
 but the question I wanted to ask you so
 suppose somebody's listening and they
 say okay fine functional programming
-let's let's try it now there's multiple
+let's try it now there's multiple
 choices now you love Haskell is that is
 there a reason that's the best
 functional I know I've heard of like
@@ -847,7 +847,7 @@ different choices
 sure so there's kind of two main sort of
 properties that distinguish the various
 different functional languages one is
-this this technical thing called side
+this technical thing called side
 effects is it a pure functional language
 or is it a language that allows side
 effects to pure means no side effects
@@ -860,7 +860,7 @@ mutable variables because that's one of
 the things about a pure functional
 language doesn't have mutable variables
 not in there not in the same sense that
-that you have just everywhere in
+you have just everywhere in
 imperative programs so that's one
 important sting ssin and we can go into
 more detail if you like on on what does
@@ -871,13 +871,13 @@ why is purity a good thing
 
 **Christian Seberino:**
 yes would you
-yeah if you please 
+if you please 
 
 
 
 
 **Dr.Duncan Coutts:**
-yeah I I will and
+yes I will and
 then the other but the other axis is
 like kind of what platform does it does
 it work with so you've got sort of
@@ -900,7 +900,7 @@ missing so scholars like everything all
 dumped in together running on the JVM so
 sharp is f sharp is kind of like ml
 which is a impure
-input functional language but it's it's
+input functional language but it's
 really in some ways F sharp is nicer it
 than the scarlet cuz it's trying to be
 just straightforwardly a functional
@@ -926,12 +926,12 @@ is that it's much easier to work with
 existing imperative languages if you use
 a functional language that allows
 side-effects everywhere because this is
-it so this is this is I in some sense
+it so this is I in some sense
 the really big thing that still
 distinguishes Haskell from everything
 else as far as I mean there's other
 there's other languages like Haskell but
-they are much much more niche but
+they are much more niche but
 Haskell is like the most is the biggest
 representative of that part of the
 design space which is purely functional
@@ -952,8 +952,8 @@ it's kind of like you know you can get
 so far with making imperative languages
 more functional or attacking functional
 program on to imperative platforms but
-to get to get the last
-you know awesome goodness from from
+to get the last
+you know awesome goodness from
 functional programming you've got to
 finally get rid of your side effects
 okay and then that means that it's very
@@ -963,8 +963,8 @@ your dotnet libraries or whatever
 
 
 **Christian Seberino:**
-so so
-what you're saying then is is libraries
+so
+what you're saying then is libraries
 is what would be what would make
 somebody decide to use Scala versus
 going all the weight it has 
@@ -973,8 +973,7 @@ going all the weight it has
 
 
 **Dr.Duncan Coutts:**
-exactly
-exactly yeah so in in in Schuyler knife
+exactly yes so in Schuyler knife
 sharp it's without too much pain you can
 import your imperative dotnet libraries
 and JVM libraries through which written
@@ -984,7 +983,7 @@ in sorry other languages
 
 **Carlo Vicari:**
 sorry guys for
-someone who is a complete noob um it
+someone who is a complete noob it
 kind of sounds like what you're saying
 is that the Haskell App Store is not as
 big as the whatever a App Store app
@@ -994,17 +993,17 @@ store is that correct
 
 
 **Dr.Duncan Coutts:**
-yeah that's true
+yes that's true
 so it's no hackage has I don't know in
 those days about 5,000 maybe libraries
 on it which is you know if you compare
 that with the node.js you know
 equivalent it's obviously a tiny
 fraction but on the other hand there's
-still a lot of a lot of stuff people
+still a lot of stuff people
 there's lot of off-the-shelf
 functionality you can get that right but
-it but that's true that is that is in
+it but that's true that is in
 some sense a trade-off and that's
 because we're a smaller community 
 
@@ -1013,30 +1012,30 @@ because we're a smaller community
 
 **Christian Seberino:**
 okay
-yeah now before we get into because I
+yes now before we get into because I
 also wanted to switch gears eventually
 and talk about provably correct programs
 but before we do that can you make can
 you address what you touched on before
-about so why would you want the the
+about so why would you want the
 purity of haskell of having come no side
 effects I survived 
 
 
 
 **Dr.Duncan Coutts:**
-right right so okay
+right okay
 so purely functional languages so get
 get that okay there's two ways to look
-at it one is that it's it's a nicer
+at it one is that it's a nicer
 model that's closer to mathematics and
 the in closer to mathematics gets you a
 whole lot of stuff so a if you think
 about a mathematical function you know
-it it is pure in the sense that if you
+it is pure in the sense that if you
 give it the same input the same outputs
 every time you know you it doesn't like
-you know one one day give you this
+you know one day give you this
 output and then another day give you
 that other output it's always the same
 and so that right that kind of
@@ -1073,8 +1072,8 @@ spectrum is that right
 
 
 **Dr.Duncan Coutts:**
- yeah I guess sure
-oh you can't review mathematically you
+ yes I guess sure
+you can't review mathematically you
 can reason mathematically about
 imperative programs but it's a whole lot
 harder and it's much more easy to
@@ -1106,8 +1105,8 @@ and pure functions which you simply
 can't enforce properly you can only
 enforce them by convention whereas you
 can enforce them properly but the
-compiler will tell you you can't do that
-if you can it you can enforce it if
+compiler will tell you can't do that
+it you can enforce it if
 you've got pure functions do you think
 that the strong type system these two
 things are 
@@ -1133,7 +1132,7 @@ the right development approach right
 which means which means thinking about
 specifications it means thinking about
 trying to think how would I prove what
-what is the property that I want what is
+is the property that I want what is
 the security property that I want how
 would I prove it even if you don't
 actually prove it thinking about how
@@ -1144,7 +1143,7 @@ thing is secure you know you have to you
 have to take a development approach was
 asked that starts with those kinds of
 questions to be able to even possibly
-come out with an outcome that will that
+come out with an outcome that
 will be secure or that will have the
 behavior that you that has some kind of
 assurance that it has the behavior that
@@ -1155,7 +1154,7 @@ you want
 
 
 **Christian Seberino:**
-yeah what do you I had one last
+yes what do you I had one last
 question about different languages so
 the 800-pound gorilla of the there from
 history in this space is Lisp and when
@@ -1165,18 +1164,18 @@ first saw scheme and Lisp I just thought
 it was so unspeakably beautiful just how
 elegant and how powerful you could make
 a language with such simple syntax and
-there um I was just curious how does
-what do you you want to make a comment
+there I was just curious how does
+what do you want to make a comment
 about list because job would be and by
 the way for people listening if here iam
 actually has already something that is
-like list there's it's called lll so
+like list there's it's called l so
 like the serpent language compiles down
-the abstract syntax tree is is basically
+the abstract syntax tree is basically
 a lisp and then that gets converted to
 machine code so if people wanted to they
 could use that today but I always
-thought list was really cool and I I got
+thought list was really cool and I got
 that was what kept me from jumping into
 Haskell was well but Lisp is already so
 cool 
@@ -1186,7 +1185,7 @@ cool
 
 
 **Dr.Duncan Coutts:**
-so so so Lisp is like the first
+so Lisp is like the first
 mainstream functional language so in
 many ways that makes it awesome
 but the interesting thing is that there
@@ -1194,8 +1193,8 @@ was you know another 30 years of
 research after this and that is also has
 a lot of value and there are things we
 learned in that 30 years a lot of things
-I mean to use so yeah let's discrete and
-and it's it has a lot of the elements of
+I mean to use so let's discrete and
+and it has a lot of the elements of
 functional programming then many of the
 core elements of functional programming
 and it's perfectly fairly good but you
@@ -1205,7 +1204,7 @@ starting with list I'm not going to
 criticize you if you're already starting
 with Lisp you're already like in there
 80% of the way there
-yeah my point of view you can see the
+my point of view you can see the
 nature the major advancements after Lisp
 I guess all the distinctions between
 Lisp and Haskell is the type system and
@@ -1222,7 +1221,7 @@ inconsistent you know the compiler says
 well you said this over here but over
 here you're saying that and these two
 things not consistent with each other
-sort it out and that is a really really
+sort it out and that is a
 really powerful technique
 
 
@@ -1237,17 +1236,17 @@ C++ complex
 
 
 **Dr.Duncan Coutts:**
-oh it's it yeah it's a lot
+ it yes it's a lot
 simpler that goes pass it in sometimes
 it's not as simple as Lisp but a lot of
 people think it's more attractive
 because there aren't quite so many
-parentheses all over the place yeah so
+parentheses all over the place so
 if you were ever put off by the left
 syntax if you love this syntax brilliant
 but if you were ever put off by you know
 parentheses all over the place brackets
-brackets brackets then Haskell is a
+brackets then Haskell is a
 function language that doesn't have that
 kind of forest of parentheses 
 
@@ -1263,7 +1262,7 @@ all
 
 
 **Dr.Duncan Coutts:**
-that that is what I'm saying a list
+that is what I'm saying a list
 person would say little around but do it
 but there's a bit warmer
 
@@ -1276,7 +1275,7 @@ don't we now why don't we switch now I
 mean talk about what a lot of people
 care about is which is how to you know
 save them money and so apparently
-there's there's decades of research
+there's decades of research
 about making programs provably secure or
 there's evidence more evidence than you
 would normally have that may be can you
@@ -1288,10 +1287,10 @@ exposing them to this whole field
 
 
 **Carlo Vicari:**
- yeah
-because I guess I guess we did a nice
+ yes
+because I guess we did a nice
 kind of gone through the whole thing we
-did some some about the past then we
+did some about the past then we
 started talking about some stuff with
 the current but I guess now we can
 transition into
@@ -1307,20 +1306,20 @@ stuff like that
 
 
 **Christian Seberino:**
-well well put 
+well put 
 
 
 
 
 **Carlo Vicari:**
-yeah I'm
+yes I'm
 thinking to tackle but 
 
 
 
 
 **Dr.Duncan Coutts:**
-uh idea about
+idea about
 assurance and formal stuff and reading
 things and so it starts from the premise
 that programs are in principle
@@ -1331,13 +1330,13 @@ basically impossible to reason about a C
 program
 I mean it's technically possible it's
 just insanely difficult right you
-wouldn't you wouldn't pick C if you were
+wouldn't pick C if you were
 trying to reason about things in a
-mathematical way so yeah you have you
+mathematical way so you
 have programming languages which are
 constructed in a mathematical style they
 have a formal mathematical semantics
-that means that means that they mean
+that means that they mean
 something in a mathematical sense they
 have a they have an explanation as to
 what do they mean what value do they
@@ -1387,7 +1386,7 @@ equal and that's a very powerful thing
 
 
 **Christian Seberino:**
-okay now which is is it is this true
+okay now which is this true
 today like let's say I was the
 programmer for the Nasdaq and I wanted I
 was going to write a program that
@@ -1396,7 +1395,7 @@ billions of dollars worth of
 transactions every day is this happening
 today that people will write software
 and Haskell or something similar and
-they they really prove it and so they
+they really prove it and so they
 they know it's going to work and there's
 no chance at all of any issues
 
@@ -1412,10 +1411,10 @@ languages which come from this
 mathematical addition where you can in
 principle explain everything in terms of
 mathematics but then you know in
-practice people add in lots and lots and
+practice people add in  and
 lots of extra features which they don't
 really bother explaining fully
-mathematically hmm so you end up with
+mathematically so you end up with
 the real languages that people actually
 use for programming and this includes
 Haskell is the right there so at the
@@ -1423,7 +1422,7 @@ surface language is actually big and
 complicated in the end even though like
 kind of the pure core of Haskell is
 completely explicable in the
-mathematical formalism okay so the sort
+mathematical formalism so the sort
 of the slightly dirty truth is that we
 have we still have kind of programming
 languages constructed in a nice
@@ -1434,7 +1433,7 @@ Haskell programs or you can write some
 tools that do it there's still kind of
 gaps where you like is that do we have
 we really nailed down everything whereas
-on the other hand we have system which
+on the other hand we have system
 which are specifically designed for
 specification and proof
 these are theorem provers or proof
@@ -1489,22 +1488,22 @@ much stronger properties in the hospital
 type system that you prove and that lets
 you automatically prove a lot of things
 the system will do a lot of the proofs
-for you when they're when they're boring
+for you when they're boring
 and easy large and boring and easy and
 let you prove really tricky complicated
 things when you have to do that so that
 reasons about actual Haskell programs
 not about you know something idealized
-something else that that's that works
+something else that works
 with real hospitals 
 
 
 
 **Carlo Vicari:**
-so I have a I have a
+so I have a
 question that I think all the non
 developers would like to know these
-these are the types of questions that we
+are the types of questions that we
 want to know about it's the year you
 know 20xx you've got no red lights or
 green lights no lights whatever there's
@@ -1513,7 +1512,7 @@ you know self-driving cars and they just
 kind of go through traffic because they
 all sense GP you know all that types of
 stuff whether it's drones or cars
-whatever um is it functional programming
+whatever is it functional programming
 that's going to determine this type of
 stuff that you know all these cars are
 weaving in and out of each other
@@ -1526,7 +1525,7 @@ functional programming you know 50 or
 
 **Dr.Duncan Coutts:**
 we're gonna ingest
-those you certainly could could use
+those you certainly could use
 functional programming for that sort of
 thing along with appropriate reasoning
 systems and items and because you want
@@ -1535,14 +1534,14 @@ properties you want to prove there
 although that said I mean cars are a
 very difficult situation because you've
 got all these sensors with all this
-noise it's hard to yeah there's only
+noise it's hard to there's only
 certain bits that you can really reason
 about mathematically there I mean this
-um bit you have to just make
+bit you have to just make
 approximations right let's assume that
 the input processing system does
 recognize that thing as a another car
-and that that's a very that part is a
+and that's a very that part is a
 very hard thing to right really specify
 and reason about mathematically but you
 know if you there's that there's
@@ -1563,45 +1562,45 @@ the crazy people driving on the road now
 
 
 **Dr.Duncan Coutts:**
-yeah yeah what you don't have yeah
+yes what you don't have
 action to make to make it better than
 that
 
 
 
 **Carlo Vicari:**
- yeah I mean people talk about that
+ yes I mean people talk about that
 they're worried about the you know they
 heard about a self-driving car having an
 accident I'm like this after like two
 million miles I know people they can't
 get 10,000 miles without an accident
-yeah I'll take I think that huh yeah
-yeah so I'll definitely I'll definitely
+yes I'll take I think that
+so I'll definitely I'll definitely
 take the car starting to derail the dev
-talk but I was the yeah 
+talk but I was the
 
 
 
 **Christian Seberino:**
 okay so wait
-wait so so just to be clear so we're not
+wait so just to be clear so we're not
 at the stage where people listening
-could could make a smart contract for a
-blockchain and and then they can go find
+could make a smart contract for a
+blockchain and then they can go find
 somebody to guarantee that it's gonna
 work exactly as intended so what 
 
 
 
 **Dr.Duncan Coutts:**
-oh no
+no
 one actually no that is a lot easier
-interestingly yeah it turns out so to
+interestingly it turns out so to
 what I was saying was about like cars
-programming languages programming
+programming
 languages for building big complicated
-systems and Haskell is is a thing that
+systems and Haskell is a thing that
 you can do for that
 whereas a contract language is a much
 smaller thing so a contract language can
@@ -1621,7 +1620,7 @@ construct contract languages in the
 right way nice we can either this one of
 two approaches one is to design the
 language so that it is less expressive
-and and at the and that means that you
+and at the and that means that you
 can't do absolutely everything in that
 contract language but it's a hell of a
 lot easier to reason about what you are
@@ -1680,7 +1679,7 @@ especially after what happened
 
 
 **Christian Seberino:**
-ah it
+it
 sounds like what you're saying is as
 this as smart contracts get more and
 more complex that they will run into
@@ -1712,7 +1711,7 @@ and those are really nice and simple but
 you can't express you know crazy weird
 scripted protocols with them okay and
 then and then for the 20% that are you
-know exotic or really exotic I mean I I
+know exotic or really exotic I mean I
 say exotic because people can do like
 you know exotic financial contracts and
 those are easy to express actually you
@@ -1734,7 +1733,7 @@ don't now which is me
 
 
 **Dr.Duncan Coutts:**
-um well it is to
+well it is to
 do with what kinds of things you can
 express it's like if you have to have
 communication through lots of people or
@@ -1747,7 +1746,7 @@ owes who what when
 
 
 **Carlo Vicari:**
- right okay so so in
+ right okay so in
 sound
 
 
@@ -1774,7 +1773,7 @@ are what we call cheering complete
 program languages which means every
 possible thing that you can ever compute
 can be computed in all of those
-languages Turing complete is is is the
+languages Turing complete is the
 class of all things that can be computed
 or a language and range and compute all
 computable things whereas there are
@@ -1792,9 +1791,9 @@ you can express you can express
 succinctly and you can reason about them
 which means you can optimize them that
 that's a kind of trade-off so here see
-with SQL SQL is not Turing complete you
+with SQL is not Turing complete you
 can analyze it
-you can optimize it C is Turing complete
+you can optimize ETC is Turing complete
 it's hard to reason about it's hard to
 compile but you can do everything with
 it
@@ -1813,7 +1812,7 @@ turing-complete so there's
 Haskell's general-purpose ensuring
 complete so there's still differences
 within turing-complete languages is it
-you can't just say oh because it turned
+you can't just say because it turned
 complete you could everything I mean PHP
 is during complete but you know you
 would want to use it for anything
@@ -1836,8 +1835,8 @@ anything's downright complex
 
 **Dr.Duncan Coutts:**
 with that
-but all your patient yeah yeah that's a
-that's pretty decent Katrina right right
+but all your patient that's a
+that's pretty decent Katrina
 it expressed in that kind of who knows
 what when a
 
@@ -1845,10 +1844,10 @@ what when a
 
 
 **Carlo Vicari:**
-nd something noses and and
+something noses and
 when you said exotic it would be beyond
 who owes who what when it's more like
-who owes who what when but but but with
+who owes who what when but with
 like a lot of different exceptions
 
 
@@ -1858,7 +1857,7 @@ like a lot of different exceptions
 if you wanted to in code playing chess
 as a smaller contract that requires
 general-purpose computation because you
-have to express all of the the rules of
+have to express all of the rules of
 chess I'm Jane check the rules of chess
 in that language and you can't you know
 you you wouldn't imagine be able to do
@@ -1866,14 +1865,14 @@ that in SQL and similarly you wouldn't
 imagine be able to do that in one of
 these simple contract languages which
 just describe you know under what
-conditions do you gain assets hmm
+conditions do you gain assets
 
 
 
 **Carlo Vicari:**
 who
 knows who won and then there's who owes
-who what when but but but but but
+who what when but
 and the more butts there are the more
 complexities in the more exotic it is
 
@@ -1882,18 +1881,18 @@ complexities in the more exotic it is
 
 
 **Dr.Duncan Coutts:**
-that's right yeah if you need if you
+that's right yes if you need if you
 need to write complicated functions to
 be able to tell
-we know when when something is true or
+we know when something is true or
 not you need you know general-purpose
-computation in those situations hmm 
+computation in those situations 
 
 
 
 **Christian Seberino:**
 so
-bringing it but but
+bringing it but
 
 
 
@@ -1910,11 +1909,11 @@ that's why it's a kind of 80/20 thing
 got you now how what Duncan what would
 you say to somebody listening that let's
 say they want to make a blockchain based
-Bank that's their startup dream and so
-okay so you convinced them to do
+Bank that's their startup dream and
+so you convinced them to do
 functional programming and they also
 want to do as much of this program
-correctness the you know evidence get
+correctness the you know evidence
 get as much evidence as they can how
 would you recommend they get started
 practically specific steps not theory
@@ -1926,7 +1925,7 @@ to jump into this whole field
 
 
 **Dr.Duncan Coutts:**
-okay so there's there's two things one
+okay so there's two things one
 is the languages that use and the other
 is the techniques you use okay and so
 there's a lot of training you've got to
@@ -1938,7 +1937,7 @@ people are already happy they like doing
 this stuff it's actually really
 fascinating and rewarding in the in
 evolve itself so you need to start you
-need to start with learning learning a
+need to start with learning a
 functional language and there's some
 really good resources out there
 I mean I'm particularly familiar with
@@ -1951,17 +1950,17 @@ you want to look into programming from
 the specifications how do you what sort
 of there are books out there on
 mathematical styles of specification and
-so it's a good a good starting point
+so it's a good starting point
 might be if you're interested in there's
 this dear improving stuff which I
 mentioned earlier like Isabel is it is a
 really good one there's another one
 which has a name that the French made up
 just to tease the English it's spelt coq
-so it's pronounced in English cock ah
-and so they obviously they they made
+so it's pronounced in English cock
+and so they obviously they made
 that just to make us you know say that
-yeah the French laugh at us about that
+the French laugh at us about that
 which is nice
 that's another fair improving system so
 if you can read you know introduction
@@ -1987,13 +1986,13 @@ introductory book the one I tend to
 recommend people start with if they've
 never done any functional programming
 before but are otherwise familiar with
-programming is is a book called
+programming is a book called
 programming in Haskell second edition is
 out Graham Hutton it's a very short book
 which is nice it's you know really
-really comparatively very short and it
+comparatively very short and it
 will teach you the essence of functional
-programming using Haskell it's not it's
+programming using Haskell it's
 not about the tools and the practical
 stuff you can get to that later and
 there's other books that cover that but
@@ -2005,15 +2004,15 @@ started with
 
 **Carlo Vicari:**
  okay very nice
-okay so I got I got one for you on
+okay so I got one for you on
 something I also like to talk about with
-some of the guests on the show is uh you
+some of the guests on the show is you
 know just technology in general what do
-you what do you see on the horizon you
+you see on the horizon you
 know 20 30 years down the road what's
-your uh
+your
 utopia or conversely doomsday scenario
-you know what what kind of crazy stuff
+you know what kind of crazy stuff
 do you see as far as technology you know
 and that in the distant future but not
 too distant future 
@@ -2032,8 +2031,8 @@ works too
 
 
 **Dr.Duncan Coutts:**
-I mean I I think functional programming
-has becoming more and more and more
+I mean I think functional programming
+has becoming more and more
 mainstream you can see it in the new
 languages that are around and the
 functional stuff that's being
@@ -2054,7 +2053,7 @@ what's good
 
 
 **Dr.Duncan Coutts:**
-uh okay well I think there's
+okay well I think there's
 a long way that you could push things a
 long way with this formal stuff and when
 the tool when the tools are right
@@ -2083,7 +2082,7 @@ programs
 
 
 **Carlo Vicari:**
-um in 30 years are you visiting
+in 30 years are you visiting
 us in the United States travel
 by Hyperloop with using Haskell or high
 assurance software as is happening on
@@ -2093,11 +2092,11 @@ the Elon Musk Hyperloop
 
 
 **Dr.Duncan Coutts:**
-yeah I don't
-know it yeah there is still there's
+yes I don't
+know it there is still there's
 still this difficulty I think in getting
 people to switch I think it may well be
-that that they end up converging a lot
+that they end up converging a lot
 closer but I it may it may never be that
 the mainstream switches to pure
 functional programming I suspect that
@@ -2106,16 +2105,16 @@ of hybrid you know imperative functional
 and then win right because there aren't
 there are various practical reasons for
 that it and it you can get there
-incrementally whereas this this switch
+incrementally whereas this switch
 to purity although it gains you so much
-it is a it is a there is a big switching
-cost there and so I'm not I'm not
+it is a there is a big switching
+cost there and so I'm not
 convinced that people that will ever
 become mainstream but it could be good
 for the you know like the dominant
-language like like Java is now um well I
+language like Java is now well I
 think inviting pretty good it's good for
-yeah right but it could for higher and
+but it could for higher and
 stuff I think 
 
 
@@ -2133,7 +2132,7 @@ Haskell functional
 
 
 **Dr.Duncan Coutts:**
-well this this is
+well this is
 really a social problem so the reason
 that the reason that we're not all using
 high assurance software is not because
@@ -2141,17 +2140,17 @@ of the technology it's not because we
 don't know how to do it or because the
 tools aren't there the tools would be
 there if we were doing it if there was
-it's because um people who make software
+it's because people who make software
 unfortunately are not held accountable
 for the consequently their software so
 you know people go for a quick just good
 enough quick time-to-market so people
 use Haskell in that sort of circumstance
-as well without without doing any kind
+as well without doing any kind
 of a harsher and stuff and that's the
 main way the Haskell still is used is
 just doing things quicker and you know a
-bit better um but you know that you
+bit better but you know that you
 they're not using the trade-off to
 obtain vastly higher quality or really
 high assurance and allows really and
@@ -2160,7 +2159,7 @@ so I
 I think unfortunately unfortunately it
 will require the Hyperloop crashing
 killing people before before people will
-switch will will will say no actually
+switch will say no actually
 software developers really have to be
 held accountable for this stuff like
 engineers are so the example I like to
@@ -2175,17 +2174,17 @@ profession anyone can call themselves an
 engineer you didn't have to show any
 calculations when you made your steam
 boiler but if one blows up
-it's like a bomb I mean it will it will
+it's like a bomb I mean it will
 kill people and destroy buildings and I
 think with salt with software we're kind
 of in that pre regulation environment
-yeah you're right anyone anyone can just
-and and what happened with the engineers
+you're right anyone can just
+and what happened with the engineers
 was that after enough boilers blew up
 and killed enough people the government
 stepped in and said look this isn't we
-can't do we can't carry on like this
-this is crazy we need to we need to
+can't do we can't carry on like
+this is crazy we need to
 regulate the engineering profession so
 they're not so beholden to commercial
 pressures we need to say well you know
@@ -2196,17 +2195,17 @@ reputation that this steam boiler
 whatever it or this bridge or you know
 is is up to scratch and you can't they
 can't be overruled by my son middle
-manager who says look look the ridge is
+manager who says look the ridge is
 done it doesn't matter we're moving up
 the engineer has to have the sign-off
-and the engineer has to say yeah no
+and the engineer has to say no
 really this and then the plans are
 lodged you know somewhere and and
 they're held accountable and future if
 they got it wrong okay and we're not in
 an environment yet and if we ever get to
 that you hire assurance software will be
-everywhere everywhere and then and then
+everywhere and then
 the tools will be great because they'll
 be in it all the money will be in 
 
@@ -2226,7 +2225,7 @@ years
 
 **Dr.Duncan Coutts:**
 well you have a few problems about
-you know undersea volcanoes and yeah
+you know undersea volcanoes and
 with Atlantic Ridge work
 
 
@@ -2249,21 +2248,21 @@ rail from London to Birmingham
 
 **Carlo Vicari:**
 so we'll
-go with and now and now
+go with and now
 
 
 
 
 **Dr.Duncan Coutts:**
  I think I didn't
-find it like do it before before we do
+find it like do it before we do
 
 
 
 **Carlo Vicari:**
-ah there you go
+there you go
 I can't sure that's true how about so we
-got the Jetsons Jetson stuff from you oh
+got the Jetsons Jetson stuff from you
 well I actually have I haven't drawn
 today flying around in 30 years where
 you think
@@ -2273,9 +2272,9 @@ you think
 
 **Dr.Duncan Coutts:**
  I have no particular insight I
-imagine I imagined so yeah and hopefully
+imagine I imagined so yes and hopefully
 they're not crashing into each other
-because yeah because yeah using the
+because using the
 right algorithms and autonomously
 sensing each other and 
 
@@ -2283,15 +2282,15 @@ sensing each other and
 
 
 **Carlo Vicari:**
-yeah yeah well
+yes well
 after if you blow up then some
 regulation will come in and then they'll
-fly properly hopefully um 
+fly properly hopefully
 
 
 
 **Dr.Duncan Coutts:**
-yeah a
+yes a
 certified or something you're
 
 
@@ -2330,7 +2329,7 @@ so DSL is a domains
 domain specific
 language so when we were talking earlier
 about like contract DSL or SQL being a
-DSL these are all yeah special languages
+DSL these are all special languages
 for a particular problem domain 
 
 
@@ -2350,7 +2349,7 @@ them saying
 
 **Dr.Duncan Coutts:**
 you don't do it by crippling
-you do it by encoding but but yes you
+you do it by encoding but yes you
 can ask all is a really good language
 for encoding yourselves for writing
 conventions and languages that are
@@ -2361,11 +2360,10 @@ all over the place with others
 
 
 **Carlo Vicari:**
- we get we
-get some jets and stuff from you now how
+we get some jets and stuff from you now how
 about a more a little bit less
 technology specific with some non or
-personal stuff your your reading or
+personal stuff your reading or
 stuff you're interested in shows what
 what's going on and I know you're pretty
 busy
@@ -2378,7 +2376,6 @@ read in the past fiction nonfiction
 
 
 **Christian Seberino:**
- oh
 how do you feel about brexit let's throw
 that 
 
@@ -2388,31 +2385,31 @@ that
 
 
 **Dr.Duncan Coutts:**
-uh-oh I think it's terrible but
+I think it's terrible but
 then I'm in the you know the the liberal
-London elite 20 rest of the country okay
+London elite 20 rest of the country
 so they I would I would think that
 wouldn't 
 
 
 
 **Carlo Vicari:**
-I oh I'll say this to anybody
+I'll say this to anybody
 listening I had a pretty long I was in
 in Malta with Duncan we had a great time
 and I had a pretty long discussion with
 him which I totally disagreed with him
 for like two hours
-hahaha about this is about certain like
+about this is about certain like
 aspects of inflation versus deflation
 and then I had like oh well the Tribuna
 you know credit where credit's due I had
 like a Eureka moment like four hours
 later when I was back at my hotel room I
-said oh god he's so smart he's right um
+said god he's so smart he's right
 so we'll get into that another day but I
 had a table I had to crawl back to
-doctor dr. Koontz the next baby like uh
+doctor dr. Koontz the next baby like
 yes you remember the argument we had
 last night
 you were right so there was some
@@ -2432,8 +2429,8 @@ as a you know it's another is another
 little community in a similar way but
 they have interesting different views
 and there's the politically there's a
-lot you know the libertarianism is is
-really big within the the crypto
+lot you know the libertarianism is
+really big within the crypto
 cryptocurrency world which is to me you
 know fascinating and so you know going
 going to Malta and going to this crypto
@@ -2441,19 +2438,18 @@ finance conference and meeting all these
 people was actually really interesting
 to sort of talk about all that stuff and
 I was doing a little bit of basing I
-suppose you know being being contrary
+suppose you know being contrary
 and putting opposite view just 
 
 
 
 **Carlo Vicari:**
-no no it
-was good it was good it was good but 
+no it
+was good it was good but 
 
 
 **Dr.Duncan Coutts:**
-it
-was really it was really interesting and
+it was really interesting and
 to just sort of pull out some of the
 interesting arguments there
 
@@ -2463,7 +2459,7 @@ interesting arguments there
 **Carlo Vicari:**
  I definitely
 like to have you on again so we could
-talk more about um the one discussion we
+talk more about the one discussion we
 had about inflation and deflation versus
 GDP and setting the currency to a
 certain rate
@@ -2478,14 +2474,14 @@ you know I should point out
 **Dr.Duncan Coutts:**
 I'm only
 like an armchair
-macroeconomist I mean you you talked to
+macroeconomist I mean you talked to
 a real macroeconomist that 
 
 
 
 **Carlo Vicari:**
 was some good
-arm cheering oh that was really good
+arm cheering that was really good
 there's better arm caring than I've ever
 done so 
 
@@ -2493,9 +2489,9 @@ done so
 
 
 **Christian Seberino:**
-so have you um have we covered
+so have you have we covered
 most of what people do you think need to
-hear that are that are new to functional
+hear that are new to functional
 programming and secure smart contracts
 did I miss anything or anything else you
 want to say Duncan 
@@ -2507,40 +2503,40 @@ want to say Duncan
 
 
 **Dr.Duncan Coutts:**
-um that comes quite a
+that comes quite a
 lot I mean we could talk a little bit
-about what IO HK is doing with this
-stuff okay okay yeah you know I have to
+about what IOHK is doing with this
+stuff you know I have to
 be a little bit careful to not
 preemptive you know public announcements
 and things cuz I'm you know I'm not the
-marketing department I'm just ah I can
+marketing department I'm just I can
 just attack one of the tech guys you
 think 
 
 
 
 **Carlo Vicari:**
-let's uh let's let's be careful
-and not do that we'll just say that IO
-HK is doing some awesome stuff with
+let's be careful
+and not do that we'll just say that IOHK
+is doing some awesome stuff with
 functional programming Haskell and Scala
 and they've got you know Cardno doing
 some great stuff and also the grow deep
-team using Scala uh but let's do that
+team using Scala but let's do that
 rather than not again trouble you know
 
 
 
 **Dr.Duncan Coutts:**
-okay sure sure
+okay sure
 
 
 
 
 **Christian Seberino:**
-yeah good so so if I could let me see if
-I could summarize just for the the
+yes good so if I could let me see if
+I could summarize just for the
 listener so the reason we didn't all use
 functional programming from beginning
 was we initially historically they mimic
@@ -2550,7 +2546,7 @@ the hardware and
 
 
 **Dr.Duncan Coutts:**
-yeah we programmed
+yes we programmed
 computers like engineers do that all the
 rather than like computer scientists
 
@@ -2558,18 +2554,18 @@ rather than like computer scientists
 
 
 **Christian Seberino:**
-that's right and then also so it's it to
+that's right and then also so it to
 remove one of the barriers it's not that
 it's intrinsically harder like you said
 it's just the historical way turned out
 historically that's why people don't use
-functional but if you're if you're smart
+functional but if you're smart
 and you want to give your company an
 edge then there's no reason why you
 might not want to jump into that and
 then you also said that libraries is one
 reason why they might not go 100% pure
-functional that that was a concern and
+functional that was a concern and
 why people might use a hybrid language
 like skaila and then you said as far as
 secure provably secure we can't quite
@@ -2581,10 +2577,10 @@ there or we could prove everything
 
 **Dr.Duncan Coutts:**
  yes
-although i think i think we didn't want
+although i think we didn't want
 a really how far you can get already
 which is actually pretty far
-okay which which maybe is worth talking
+okay which maybe is worth talking
 about I was sort of talking about the
 remaining gaps but actually you can get
 a long way by using a combination of
@@ -2593,17 +2589,16 @@ tools at the moment what I do with you
 
 
 **Carlo Vicari:**
- I
-actually um I think you were being a
+ I actually I think you were being a
 little bit modest in reference to what
-you can and can't talk about for I ohk
+you can and can't talk about for IOHK
 because you're like you know hyper
 knowledgeable about all this stuff so I
 I don't think the marketing departments
 gonna freak out too much why don't you
-tell everybody kind of what your you're
+tell everybody kind of what you're
 working on the stuff that's going on
-with IOH case specifically with
+with IOHK case specifically with
 functional programming 
 
 
@@ -2611,8 +2606,8 @@ functional programming
 **Dr.Duncan Coutts:**
 sure so the
 interesting the thing that's really
-interesting to me is I go to yeah coming
-in coming in to help I ohk is that they
+interesting to me is I go to coming
+in coming in to help IOHK is that they
 have the ambition to do high assurance
 software which actually is very rare
 when I said you know people typically
@@ -2624,8 +2619,8 @@ actually most of my customers have never
 asked us to do that kind of thing and so
 this is what's really nice actually that
 working with our educator they have this
-ambition to and so we're starting on the
-on the on the on the road to to
+ambition to and so we're starting
+on the road to
 producing higher assurance software I
 should be clear that you know we're not
 going to achieve the kind of pinnacle of
@@ -2633,14 +2628,14 @@ absolute proofs of everything but it
 should or it ought to be if we're going
 the direction we're going a hell of a
 lot higher assurance than anything else
-out there in the in the cryptocurrency
+out there in the cryptocurrency
 space at the moment so 
 
 
 
 
 **Carlo Vicari:**
-so - - for people
+so for people
 like me the non developers of the world
 it kind of sounds like everybody else
 are the engineers blowing up the what
@@ -2649,13 +2644,13 @@ was it in the basements the
 
 **Dr.Duncan Coutts:**
 steam
-boilers yeah
+boilers
 
 
 **Carlo Vicari:**
- everyone else is like the
+ everyone else is like
 the engineers blowing up the steam
-boilers in the basements and IOH gays
+boilers in the basements and IOHK gays
 doing the more modern engineering
 techniques with people signing off on
 all sorts of important stuff right
@@ -2663,7 +2658,7 @@ all sorts of important stuff right
 
 
 **Dr.Duncan Coutts:**
- yeah
+ yes
 in some sense we're doing both we're
 doing something that is out quickly but
 also going and doing it properly but
@@ -2679,7 +2674,7 @@ okay very nice all
 
 
 **Carlo Vicari:**
-right um
+right
 well I mean it's been a pleasure to have
 you on here it's great to speak to you
 again especially after having a great
@@ -2687,29 +2682,29 @@ time with you in Malta the financial
 cryptography conference and I'd love to
 have you on again and we can maybe get
 into some more of your macroeconomics
-arm-chair stuff cool and uh you know
+arm-chair stuff cool and you know
 great to be able to be doing the show on
 a regular basis again Christian uh you
 know 
 
 
 **Christian Seberino:**
-yeah thanks
+yes thanks
 
 
 **Carlo Vicari:**
  thanks for having all
 the the good questions the stuff that I
-don't know yeah 
+don't know 
 
 
 **Dr.Duncan Coutts:**
-yeah very much did good
+yes very much did good
 
 
 
 **Carlo Vicari:**
-yeah absolutely so a great speak to you
+yes absolutely so a great speak to you
 guys again for everybody listening out
 there thanks for joining us and we'll
 look forward to tuning in next week take
