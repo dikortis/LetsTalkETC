@@ -69,7 +69,7 @@ bomb and now parody are the earth core
 team has accepted our treat but the same
 changes for the parody client and right
 now parody is the most popular client in
-84 ETS so bi our january hard fork
+84 ETС so bi our january hard fork
 everyone should have the update client
 with the bomb delay and it's great that
 math core has been so supportive of our
@@ -160,7 +160,7 @@ answer dumb questions
 **Carlo Vicari:**
  yes
 I've definitely had my fair share of
-those kind of being uh in the non tech
+those kind of being in the non tech
 side of these things but you know
 everybody even from day one has
 just been so supportive throughout the
@@ -180,10 +180,10 @@ article which was kind of just like a
 little bit of a rumor mill but then he
 came out and confirmed on Twitter I
 don't know if you guys saw this he said
-it quote uh it's something we plan to do
+it quote it's something we plan to do
 no time frame yet and
 so the Twittersphere is going nuts with
-that one it's it's pretty awesome what
+that one it's pretty awesome what
 do you guys think Lane I guess you can
 give us your thoughts on that
 
