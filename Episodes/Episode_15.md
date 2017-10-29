@@ -4,16 +4,16 @@ hi everyone and thank you for tuning in
 you're listening to let's talk ETC
 I'm your host karlovy along with my
 co-host dr. Christian Shepherd suberino
-I want to thank the et Cie does
+I want to thank the ETC does
 investors miners users and other
 community members for another great week
 those of you who are watching on youtube
-or listening on the podcast the e.t.c
+or listening on the podcast the ETC
 newsletter will be in the description
 below on the YouTube channel which is
 dr. Christian submarino's youtube
 channel so the main focus for tonight
-for today's show is the et Cie
+for today's show is the ETC
 development and specification formal
 verification community we've got a
 really great guest with us tonight he is
@@ -26,7 +26,7 @@ a well-known member of the Haskell
 community and he helps maintain several
 popular libraries and tools including
 cable and how do I say this Duncan by
-capacity Kabbalah Kabalah quite a high
+capacity Kabalah quite a high
 string and he has several years
 experience in packaging the Haskell tool
 chain and took a leading role in
@@ -42,8 +42,8 @@ correctly Duncan Koontz
 
 
 **Carlo Vicari:**
-okay so great to have you on here and uh
-yeah so I just want to give you a little
+okay so great to have you on here and
+yes so I just want to give you a little
 bit of info and also anyone that's kind
 of listening to the show for the first
 time what we like to do is kind of get a
