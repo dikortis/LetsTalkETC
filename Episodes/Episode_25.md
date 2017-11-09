@@ -1,4 +1,4 @@
-#Let's Talk ETC: 25 Anthony (Pyskell) - What's New In ETC.
+# Let's Talk ETC: 25 Anthony (Pyskell) - What's New In ETC.
 Christian Seberino:
 all right welcome to another episode of
 let's talk et Cie I have a previous
